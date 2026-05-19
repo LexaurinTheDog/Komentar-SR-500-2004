@@ -6,6 +6,18 @@
 
 ### § 39 — Určení lhůty k provedení úkonu
 
+
+<!-- AUTOCITACE:§39 -->
+
+> **§ 39**
+>
+> *##### Určení lhůty k provedení úkonu*
+>
+> *(1) Správní orgán účastníkovi určí přiměřenou lhůtu k provedení úkonu, pokud ji nestanoví zákon a je-li toho zapotřebí. Určením lhůty nesmí být ohrožen účel řízení ani porušena rovnost účastníků. Usnesení o určení lhůty se oznamuje pouze tomu, komu je určena, popřípadě i tomu, jehož se jinak přímo dotýká.*
+>
+> *(2) Lhůtu určenou správním orgánem může na žádost účastníka správní orgán za podmínek stanovených v odstavci 1 usnesením přiměřeně prodloužit.*
+
+
 > *(1) Správní orgán účastníkovi určí přiměřenou lhůtu k provedení úkonu, pokud ji nestanoví zákon a je-li toho zapotřebí. Určením lhůty nesmí být ohrožen účel řízení ani porušena rovnost účastníků. Usnesení o určení lhůty se oznamuje pouze tomu, komu je určena, popřípadě i tomu, jehož se jinak přímo dotýká.*
 >
 > *(2) Lhůtu určenou správním orgánem může na žádost účastníka správní orgán za podmínek stanovených v odstavci 1 usnesením přiměřeně prodloužit.*
@@ -33,6 +45,26 @@
 - Usnesením.
 
 ### § 40 — POČÍTÁNÍ ČASU
+
+
+<!-- AUTOCITACE:§40 -->
+
+> **§ 40**
+>
+> *##### Počítání času*
+>
+> *(1) Pokud je provedení určitého úkonu v řízení vázáno na lhůtu,*
+>
+> *- a) nezapočítává se do běhu lhůty den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin; v pochybnostech se za počátek lhůty považuje den následující po dni, o němž je jisto, že skutečnost rozhodující pro počátek běhu lhůty již nastala,*
+>
+> *- b) končí lhůty určené podle týdnů, měsíců nebo let uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty; není-li v měsíci takový den, končí lhůta posledním dnem měsíce,*
+>
+> *- c) připadne-li konec lhůty na sobotu, neděli nebo svátek,25) je posledním dnem lhůty nejbližší příští pracovní den; to neplatí, jde-li o lhůtu určenou podle hodin,*
+>
+> *- d) je lhůta zachována, je-li posledního dne lhůty učiněno podání u věcně a místně příslušného správního orgánu anebo je-li v tento den podána poštovní zásilka adresovaná tomuto správnímu orgánu, která obsahuje podání, držiteli poštovní licence nebo zvláštní poštovní licence anebo osobě, která má obdobné postavení v jiném státě; nemůže-li účastník z vážných důvodů učinit podání u věcně a místně příslušného správního orgánu, je lhůta zachována, jestliže je posledního dne lhůty učiněno podání u správního orgánu vyššího stupně; tento správní orgán podání bezodkladně postoupí věcně a místně příslušnému správnímu orgánu.*
+>
+> *(2) V pochybnostech se lhůta považuje za zachovanou, dokud se neprokáže opak.*
+
 
 > *(1) Pokud je provedení určitého úkonu v řízení vázáno na lhůtu,*
 > *a) nezapočítává se do běhu lhůty den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin; v pochybnostech se za počátek lhůty považuje den následující po dni, o němž je jisto, že skutečnost rozhodující pro počátek běhu lhůty již nastala,*
@@ -88,6 +120,30 @@ Lhůta je zachována, je-li **posledního dne lhůty**:
 Důležitá záruka pro účastníka — **důkazní břemeno** je na orgánu, který tvrdí, že lhůta zachována nebyla.
 
 ### § 41 — NAVRÁCENÍ V PŘEDEŠLÝ STAV (prominutí zmeškání úkonu)
+
+
+<!-- AUTOCITACE:§41 -->
+
+> **§ 41**
+>
+> *##### Navrácení v předešlý stav*
+>
+> *(1) Navrácením v předešlý stav se rozumí prominutí zmeškání úkonu, který je třeba provést nejpozději při ústním jednání nebo v určité lhůtě, nebo povolení zpětvzetí nebo změny obsahu podání, kterou by jinak nebylo možno učinit.*
+>
+> *(2) Požádat o prominutí zmeškání úkonu účastník může do 15 dnů ode dne, kdy pominula překážka, která podateli bránila úkon učinit. S požádáním je třeba spojit zmeškaný úkon, jinak se jím správní orgán nezabývá. Zmeškání úkonu nelze prominout, jestliže ode dne, kdy měl být úkon učiněn, uplynul jeden rok.*
+>
+> *(3) Správní orgán může požádání o prominutí zmeškání úkonu přiznat odkladný účinek, pokud podateli hrozí vážná újma a nevznikne-li přiznáním odkladného účinku újma způsobená dotčením práv nabytých v dobré víře nebo dotčením veřejného zájmu převyšující újmu hrozící podateli.*
+>
+> *(4) Správní orgán promine zmeškání úkonu, prokáže-li podatel, že překážkou byly závažné důvody, které nastaly bez jeho zavinění.*
+>
+> *(5) Správní orgán zmeškání úkonu nepromine, je-li zjevné, že by újma, která by byla způsobena dotčením práv nabytých v dobré víře nebo dotčením veřejného zájmu, převýšila újmu hrozící podateli.*
+>
+> *(6) O prominutí zmeškání úkonu rozhoduje usnesením správní orgán, který v době požádání o prominutí zmeškání úkonu vede řízení. V případě, že správní orgán promine zmeškaný úkon, doplní řízení ve smyslu úkonu, jehož zmeškání bylo prominuto.*
+>
+> *(7) Usnesení, kterým správní orgán zmeškání úkonu nepromine, se oznamuje pouze podateli.*
+>
+> *(8) Požádat o povolení změny obsahu podání účastník může pouze do vydání rozhodnutí (§ 71). Správní orgán může povolit zpětvzetí nebo změnu obsahu podání jen v případě, že podateli hrozí vážná újma; tím není dotčeno ustanovení § 45 odst. 4. Ustanovení odstavců 2 až 4, 6 a 7 platí obdobně.*
+
 
 > *(1) Navrácením v předešlý stav se rozumí prominutí zmeškání úkonu, který je třeba provést nejpozději při ústním jednání nebo v určité lhůtě, nebo povolení zpětvzetí nebo změny obsahu podání, kterou by jinak nebylo možno učinit.*
 
@@ -147,6 +203,16 @@ Usnesení **oznamuje pouze podateli** (ne ostatním účastníkům — pro ně �
 
 ### § 42 — Přijímání podnětů k zahájení řízení
 
+
+<!-- AUTOCITACE:§42 -->
+
+> **§ 42**
+>
+> *##### Přijímání podnětů k zahájení řízení*
+>
+> *Správní orgán je povinen přijímat podněty, aby bylo zahájeno řízení z moci úřední. Pokud o to ten, kdo podal podnět, požádá, je správní orgán povinen sdělit mu ve lhůtě 30 dnů ode dne, kdy podnět obdržel, že řízení zahájil, nebo že neshledal důvody k zahájení řízení z moci úřední, popřípadě že podnět postoupil příslušnému správnímu orgánu. Sdělení správní orgán nezasílá, postupuje-li vůči tomu, kdo podal podnět, podle § 46 odst. 1 nebo § 47 odst. 1.*
+
+
 > *Správní orgán je povinen přijímat podněty, aby bylo zahájeno řízení z moci úřední. Pokud o to ten, kdo podal podnět, požádá, je správní orgán povinen sdělit mu ve lhůtě 30 dnů ode dne, kdy podnět obdržel, že řízení zahájil, nebo že neshledal důvody k zahájení řízení z moci úřední, popřípadě že podnět postoupil příslušnému správnímu orgánu. (...)*
 
 **Výklad:**
@@ -185,6 +251,22 @@ Pokud orgán **vůči podateli** současně postupuje podle:
 (Tj. v případě, kdy je podatel zároveň účastníkem budoucího řízení.)
 
 ### § 43 — Odložení věci
+
+
+<!-- AUTOCITACE:§43 -->
+
+> **§ 43**
+>
+> *##### Odložení věci*
+>
+> *(1) Řízení o žádosti (§ 44) není zahájeno a správní orgán věc usnesením odloží v případě, že*
+>
+> *- a) vůči němu byl učiněn úkon, který zjevně není žádostí, nebo z něj nelze zjistit, kdo jej učinil, nebo*
+>
+> *- b) bylo učiněno podání, k jehož vyřízení není věcně příslušný žádný správní orgán.*
+>
+> *(2) Usnesení o odložení věci se vždy oznamuje osobě, které se týká, je-li známa, a podateli.*
+
 
 > *(1) Řízení o žádosti (§ 44) není zahájeno a správní orgán věc usnesením odloží v případě, že*
 > *a) vůči němu byl učiněn úkon, který zjevně není žádostí, nebo z něj nelze zjistit, kdo jej učinil, nebo*

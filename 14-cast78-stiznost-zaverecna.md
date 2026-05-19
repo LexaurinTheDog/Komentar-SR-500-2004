@@ -6,6 +6,28 @@
 
 ### § 175 — STÍŽNOST (klíčový institut občanské kontroly)
 
+
+<!-- AUTOCITACE:§175 -->
+
+> **§ 175**
+>
+> *##### Stížnosti*
+>
+> *(1) Dotčené osoby mají právo obracet se na správní orgány se stížnostmi proti nevhodnému chování úředních osob nebo proti postupu správního orgánu, neposkytuje-li tento zákon jiný prostředek ochrany.*
+>
+> *(2) Podání stížnosti nesmí být stěžovateli na újmu; odpovědnost za trestný čin nebo správní delikt není tímto ustanovením dotčena.*
+>
+> *(3) Stížnost lze podat písemně nebo ústně; je-li podána ústně stížnost, kterou nelze ihned vyřídit, sepíše o ní správní orgán písemný záznam.*
+>
+> *(4) Stížnost se podává u toho správního orgánu, který vede řízení. Tento správní orgán je povinen prošetřit skutečnosti ve stížnosti uvedené. Považuje-li to za vhodné, vyslechne stěžovatele, osoby, proti nimž stížnost směřuje, popřípadě další osoby, které mohou přispět k objasnění věci.*
+>
+> *(5) Stížnost musí být vyřízena do 60 dnů ode dne jejího doručení správnímu orgánu příslušnému k jejímu vyřízení. O vyřízení stížnosti musí být stěžovatel v této lhůtě vyrozuměn. Stanovenou lhůtu lze překročit jen tehdy, nelze-li v jejím průběhu zajistit podklady potřebné pro vyřízení stížnosti.*
+>
+> *(6) Byla-li stížnost shledána důvodnou nebo částečně důvodnou, je správní orgán povinen bezodkladně učinit nezbytná opatření k nápravě. O výsledku šetření a opatřeních přijatých k nápravě se učiní záznam do spisu; stěžovatel bude vyrozuměn jen tehdy, jestliže o to požádal.*
+>
+> *(7) Má-li stěžovatel za to, že stížnost, kterou podal u příslušného správního orgánu, nebyla řádně vyřízena, může požádat nadřízený správní orgán, aby přešetřil způsob vyřízení stížnosti.*
+
+
 > Stížnost je **nepostupový opravný prostředek** — slouží proti **nevhodnému CHOVÁNÍ úředních osob** nebo proti **POSTUPU** orgánu (na rozdíl od formálního odvolání proti obsahu rozhodnutí).
 
 #### Účel a aktivní legitimace (odst. 1)
@@ -77,6 +99,14 @@
 
 ### § 176 — Zmocnění k vyhlášce
 
+
+<!-- AUTOCITACE:§176 -->
+
+> **§ 176**
+>
+> *Ministerstvo vnitra vydá právní předpis k provedení § 79 odst. 4 a 5.*
+
+
 > *Ministerstvo vnitra vydá právní předpis k provedení § 79 odst. 4 a 5.*
 
 Zmocnění pro **MV** vydat prováděcí vyhlášku k:
@@ -88,6 +118,16 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 ---
 
 ### § 177 — UNIVERZÁLNÍ použití zásad činnosti
+
+
+<!-- AUTOCITACE:§177 -->
+
+> **§ 177**
+>
+> *(1) Základní zásady činnosti správních orgánů uvedené v § 2 až 8 se použijí při výkonu veřejné správy i v případech, kdy zvláštní zákon stanoví, že se správní řád nepoužije, ale sám úpravu odpovídající těmto zásadám neobsahuje.*
+>
+> *(2) V případech, kdy správní orgán provádí úkony, na které se nevztahují části druhá a třetí tohoto zákona, postupuje obdobně podle části čtvrté.*
+
 
 > *(1) Základní zásady činnosti správních orgánů uvedené v § 2 až 8 se použijí při výkonu veřejné správy i v případech, kdy zvláštní zákon stanoví, že se správní řád nepoužije, ale sám úpravu odpovídající těmto zásadám neobsahuje.*
 
@@ -109,6 +149,16 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 ---
 
 ### § 178 — Kdo je NADŘÍZENÝ orgán
+
+
+<!-- AUTOCITACE:§178 -->
+
+> **§ 178**
+>
+> *(1) Nadřízeným správním orgánem je ten správní orgán, o kterém to stanoví zvláštní zákon. Neurčuje-li jej zvláštní zákon, je jím správní orgán, který podle zákona rozhoduje o odvolání, popřípadě vykonává dozor.*
+>
+> *(2) Nelze-li nadřízený správní orgán určit podle odstavce 1, určí se podle tohoto odstavce. Nadřízeným správním orgánem orgánu obce se rozumí krajský úřad. Nadřízeným správním orgánem orgánu kraje se rozumí v řízení vedeném v samostatné působnosti Ministerstvo vnitra, v řízení vedeném v přenesené působnosti věcně příslušný ústřední správní úřad, popřípadě ústřední správní úřad, jehož obor působnosti je rozhodované věci nejbližší. Nadřízeným správním orgánem jiné veřejnoprávní korporace se rozumí správní orgán pověřený výkonem dozoru a nadřízeným správním orgánem právnické nebo fyzické osoby pověřené výkonem veřejné správy se rozumí orgán, který podle zvláštního zákona rozhoduje o odvolání; není-li takový orgán stanoven, je tímto orgánem orgán, který tyto osoby výkonem veřejné správy na základě zákona pověřil. Nadřízeným správním orgánem ústředního správního úřadu se rozumí ministr, nebo vedoucí jiného ústředního správního úřadu. Nadřízeným správním orgánem ministra nebo vedoucího jiného ústředního správního úřadu se rozumí vedoucí příslušného ústředního správního úřadu.*
+
 
 > Klíčové **definiční ustanovení** pro stovky případů v SŘ, kde se zmiňuje "nadřízený orgán".
 
@@ -141,6 +191,18 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 
 ### § 179 — Přechodná pravidla (časový rozsah)
 
+
+<!-- AUTOCITACE:§179 -->
+
+> **§ 179**
+>
+> *(1) Řízení, která nebyla pravomocně skončena před účinností tohoto zákona, se dokončí podle dosavadních předpisů. Bylo-li rozhodnutí před účinností tohoto zákona zrušeno a vráceno k novému projednání správnímu orgánu, postupuje se podle dosavadních předpisů.*
+>
+> *(2) Bylo-li řízení pravomocně skončeno před účinností tohoto zákona, postupuje se při přezkumném řízení, obnově řízení nebo vydávání nového rozhodnutí podle tohoto zákona, včetně lhůt, v nichž lze takové řízení zahájit.*
+>
+> *(3) Výkon rozhodnutí, který byl zahájen před účinností tohoto zákona, se dokončí podle dosavadních předpisů.*
+
+
 #### (1) Nedokončená řízení
 
 > *Řízení, která nebyla pravomocně skončena před účinností tohoto zákona, se dokončí podle dosavadních předpisů. Bylo-li rozhodnutí před účinností tohoto zákona zrušeno a vráceno k novému projednání správnímu orgánu, postupuje se podle dosavadních předpisů.*
@@ -165,6 +227,16 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 
 ### § 180 — Aplikace SŘ tam, kde starší předpisy nepokrývají
 
+
+<!-- AUTOCITACE:§180 -->
+
+> **§ 180**
+>
+> *(1) Tam, kde se podle dosavadních právních předpisů postupuje ve správním řízení tak, že správní orgány vydávají rozhodnutí, aniž tyto předpisy řízení v celém rozsahu upravují, postupují v otázkách, jejichž řešení je nezbytné, podle tohoto zákona včetně části druhé.*
+>
+> *(2) Pro případ, že podle dosavadních právních předpisů postupují správní orgány v řízení, jehož cílem není vydání rozhodnutí, aniž tyto předpisy řízení v celém rozsahu upravují, postupují v otázkách, jejichž řešení je nezbytné a které nelze podle těchto předpisů řešit, podle části čtvrté tohoto zákona.*
+
+
 #### (1) Pro řízení s rozhodnutím
 
 > *Tam, kde se podle dosavadních právních předpisů postupuje ve správním řízení tak, že správní orgány vydávají rozhodnutí, aniž tyto předpisy řízení v celém rozsahu upravují, postupují v otázkách, jejichž řešení je nezbytné, podle tohoto zákona včetně části druhé.*
@@ -179,6 +251,14 @@ Pokud orgán **nevydává rozhodnutí**, ale úkony jsou jen částečně uprave
 
 ### § 181 — Obrácená klasifikace usnesení
 
+
+<!-- AUTOCITACE:§181 -->
+
+> **§ 181**
+>
+> *Stanoví-li dosavadní právní předpisy, že se v případech, v nichž správní orgány rozhodují podle tohoto zákona usnesením, vydává rozhodnutí, vydávají správní orgány usnesení podle tohoto zákona.*
+
+
 > *Stanoví-li dosavadní právní předpisy, že se v případech, v nichž správní orgány rozhodují podle tohoto zákona usnesením, vydává rozhodnutí, vydávají správní orgány usnesení podle tohoto zákona.*
 
 Pokud **dosavadní předpisy** říkají "vydat rozhodnutí" ve věci, která je podle nového SŘ řešena **usnesením** → orgán vydá **USNESENÍ** (podle nového SŘ).
@@ -186,6 +266,16 @@ Pokud **dosavadní předpisy** říkají "vydat rozhodnutí" ve věci, která je
 > Pokud starý předpis stanoví např. "rozhoduje se o námitce podjatosti", nový SŘ to řeší usnesením (§ 14/3) → orgán vydá usnesení.
 
 ### § 182 — Nicotnost + VPS (retroaktivita)
+
+
+<!-- AUTOCITACE:§182 -->
+
+> **§ 182**
+>
+> *(1) Ustanovení tohoto zákona o nicotnosti se použijí jen pro úkony správních orgánů učiněné po účinnosti tohoto zákona.*
+>
+> *(2) Ustanoveními tohoto zákona se řídí i veřejnoprávní smlouvy vzniklé přede dnem nabytí účinnosti tohoto zákona; vznik těchto smluv, jakož i nároky z nich vzniklé přede dnem nabytí účinnosti tohoto zákona se však posuzují podle dosavadních právních předpisů.*
+
 
 #### (1) Nicotnost POUZE pro úkony po účinnosti
 
@@ -202,6 +292,14 @@ Institut **NICOTNOSTI § 77** se použije jen pro úkony **OD 1. 1. 2006**. Star
 - **OSTATNÍ** (typicky výpověď, zrušení, spory) → nové SŘ.
 
 ### § 183 — Zrušení starého správního řádu
+
+
+<!-- AUTOCITACE:§183 -->
+
+> **§ 183**
+>
+> *Zrušuje se zákon č. 71/1967 Sb., o správním řízení (správní řád).*
+
 
 > *Zrušuje se zákon č. 71/1967 Sb., o správním řízení (správní řád).*
 
@@ -221,6 +319,14 @@ Starý SŘ platil **40 let** (1. 1. 1968 – 31. 12. 2005) a byl výrazně **str
 ## Část osmá — Účinnost (§ 184)
 
 ### § 184 — Účinnost
+
+
+<!-- AUTOCITACE:§184 -->
+
+> **§ 184**
+>
+> *Tento zákon nabývá účinnosti dnem 1. ledna 2006. Zaorálek v. r. Klaus v. r. Špidla v. r. 1) Zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů. Zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů. Zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů. 2) § 2 odst. 3 obchodního zákoníku. 3) Zákon č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů. 4) Zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů. Zákon č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, (zákon o azylu), ve znění pozdějších předpisů. 5) § 7 odst. 1 a 2 obchodního zákoníku. 6) § 1 zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění pozdějších předpisů. 7) Například zákon č. 191/2004 Sb., o mezinárodní pomoci při vymáhání některých finančních pohledávek. 9) Například § 61 odst. 1 písm. v) služebního zákona. 10) Čl. 37 odst. 4 Listiny základních práv a svobod. 11) Zákon č. 325/1999 Sb. 12) Zákon č. 273/2001 Sb., o právech příslušníků národnostních menšin a o změně některých zákonů, ve znění zákona č. 320/2002 Sb. 13) Zákon č. 155/1998 Sb., o znakové řeči a o změně dalších zákonů, ve znění zákona č. 384/2008 Sb. 13a) Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů. 14) Zákon č. 131/2000 Sb., ve znění pozdějších předpisů. Zákon č. 128/2000 Sb., ve znění pozdějších předpisů. 15) Zákon č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění pozdějších předpisů. 17) § 16 zákona č. 29/2000 Sb. 17a) § 10b odst. 1 zákona č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění zákona č. 7/2009 Sb. 18) § 65 zákona č. 128/2000 Sb., ve znění zákona č. 313/2002 Sb. 19) § 30 a násl. občanského zákoníku. 20) § 55 a násl. občanského zákoníku. 21) § 1126 a násl. občanského zákoníku. 22) § 21 občanského soudního řádu. 23) Například § 26 zákona č. 85/1996 Sb., o advokacii, ve znění zákona č. 210/1999 Sb. 25) § 1 a 2 zákona č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu. 26) § 116 občanského zákoníku. 28) § 118 až 121 občanského zákoníku. 30) § 80 odst. 2 zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění zákona č. 590/1992 Sb. 31) Zákon č. 41/1993 Sb., o ověřování shody opisů nebo kopie s listinou a o ověřování pravosti podpisu okresními a obecními úřady a o vydávání potvrzení orgány obcí a okresními úřady, ve znění pozdějších předpisů. Zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů. 32) § 135 občanského zákoníku. 33) § 96 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 83/1998 Sb. 35) Občanský soudní řád. Zákon č. 26/2000 Sb., o veřejných dražbách, ve znění zákona č. 120/2001 Sb. 37) § 20 odst. 1 občanského zákoníku. 38) § 97 odst. 1 písm. c) zákona č. 150/2002 Sb., soudní řád správní. 39) Například zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů. 40) Zákon č. 151/1997 Sb., o oceňování majetku a o změně některých zákonů (zákon o oceňování majetku), ve znění zákona č. 121/2000 Sb. 41) Zákon č. 219/2000 Sb., ve znění pozdějších předpisů. 42) Například zákon č. 128/2000 Sb., ve znění pozdějších předpisů, zákon č. 129/2000 Sb., ve znění pozdějších předpisů, a zákon č. 131/2000 Sb., ve znění pozdějších předpisů. 43) § 38 a násl. občanského zákoníku. 43) § 8a zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů. 44) § 45 a násl. občanského zákoníku.*
+
 
 > *Tento zákon nabývá účinnosti dnem 1. ledna 2006.*
 

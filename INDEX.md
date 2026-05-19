@@ -8,6 +8,10 @@ Aktuální znění k **18. 5. 2026** (zdroj: lokální výtah z e-Sbírky, soubo
 - **CODEXIS nebyl k dispozici** (uživatel požadoval výhradně lokální soubory). Komentář tedy nevyhledává živé judikatury ani historické verze; vychází z aktuálního textu, doktríny a lokálních zdrojů.
 - **Pozor:** komentář není autoritativní právní názor. Před aplikací konkrétního ustanovení v praxi vždy ověřte aktuální znění a judikaturu k danému dni.
 
+## Plné znění paragrafů
+
+Doslovná citace všech 183 paragrafů (§ 78 v zákoně neexistuje) je v samostatném souboru **[PLNE-ZNENI-PARAGRAFU.md](PLNE-ZNENI-PARAGRAFU.md)**. V jednotlivých kapitolách je navíc plné znění každého komentovaného § vloženo přímo nad jeho výklad (blok označený komentářem `<!-- AUTOCITACE:§N -->`).
+
 ## Struktura zákona — 8 částí, 184 paragrafů (§ 1 – § 184)
 
 | Soubor | Část | Hlava | Paragrafy | Hotovo |

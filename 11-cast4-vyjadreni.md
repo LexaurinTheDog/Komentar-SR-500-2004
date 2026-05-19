@@ -25,6 +25,14 @@
 
 ## § 154 — Aplikované pravidlo
 
+
+<!-- AUTOCITACE:§154 -->
+
+> **§ 154**
+>
+> *Jestliže správní orgán vydává vyjádření, osvědčení, provádí ověření nebo činí sdělení, která se týkají dotčených osob, postupuje podle ustanovení této části, podle ustanovení části první, obdobně podle těchto ustanovení části druhé: § 10 až § 16, § 19 až § 26, § 29 až § 31, § 33 až § 35, § 37, § 40, § 62, § 63, a obdobně podle těchto ustanovení části třetí: § 134, § 137 a § 142 odst. 1 a 2; přiměřeně použije i další ustanovení tohoto zákona, pokud jsou přitom potřebná.*
+
+
 > *Jestliže správní orgán vydává vyjádření, osvědčení, provádí ověření nebo činí sdělení, která se týkají dotčených osob, postupuje podle ustanovení této části, podle ustanovení části první, obdobně podle těchto ustanovení části druhé: § 10 až § 16, § 19 až § 26, § 29 až § 31, § 33 až § 35, § 37, § 40, § 62, § 63, a obdobně podle těchto ustanovení části třetí: § 134, § 137 a § 142 odst. 1 a 2; přiměřeně použije i další ustanovení tohoto zákona, pokud jsou přitom potřebná.*
 
 **Výklad:**
@@ -53,6 +61,18 @@ Klíčové ustanovení. Subsidiárně se použijí **VYBRANÁ ustanovení** SŘ:
 - **Opravné prostředky §§ 81–102** — proti úkonům Části IV nejsou.
 
 ## § 155 — Příslušnost a postup
+
+
+<!-- AUTOCITACE:§155 -->
+
+> **§ 155**
+>
+> *(1) Jestliže to nevylučuje povaha vyjádření, osvědčení nebo sdělení, zejména není-li zapotřebí zkoumat skutkový stav nebo čerpat z evidence vedené určitým správním orgánem, může je vydat nebo učinit kterýkoli věcně příslušný správní orgán.*
+>
+> *(2) Je-li správní orgán požádán o vydání osvědčení nebo ověření a jsou-li splněny předpoklady k provedení požadovaného úkonu, správní orgán tento úkon bez dalšího provede.*
+>
+> *(3) Pokud správní orgán shledá, že nelze vydat vyjádření nebo osvědčení, provést ověření nebo učinit sdělení, je povinen o tom na požádání písemně uvědomit dotčenou osobu a sdělit důvody, které k tomuto závěru vedly.*
+
 
 #### Široká příslušnost (odst. 1)
 
@@ -89,6 +109,16 @@ Pokud orgán **NEMŮŽE** úkon provést:
 
 ## § 156 — Opravy a ZRUŠENÍ vadného úkonu
 
+
+<!-- AUTOCITACE:§156 -->
+
+> **§ 156**
+>
+> *(1) Jestliže vyjádření, osvědčení nebo sdělení správního orgánu trpí vadami, které lze opravit, aniž tím bude způsobena újma některé z dotčených osob, správní orgán je opraví usnesením, které se pouze poznamená do spisu.*
+>
+> *(2) Vyjádření, osvědčení nebo sdělení správního orgánu, které je v rozporu s právními předpisy a které nelze opravit podle odstavce 1, zruší usnesením správní orgán, který je vydal nebo učinil, a to s účinky ode dne, kdy bylo zrušované vyjádření nebo osvědčení vydáno anebo sdělení učiněno, nestanoví-li zákon jiný postup; takové usnesení lze vydat po dobu, po kterou trvají účinky vyjádření, osvědčení nebo sdělení. Na tento postup se přiměřeně použijí ustanovení hlavy IX části druhé o přezkumném řízení.*
+
+
 ### (1) Opravy „menších" vad
 
 > *Jestliže vyjádření, osvědčení nebo sdělení správního orgánu trpí vadami, které lze opravit, aniž tím bude způsobena újma některé z dotčených osob, správní orgán je opraví usnesením, které se pouze poznamená do spisu.*
@@ -119,6 +149,14 @@ Klasické: oprava chyby v psaní, datu, číselné chybě.
 
 ## § 157 — Záměna úkonu (sanační institut)
 
+
+<!-- AUTOCITACE:§157 -->
+
+> **§ 157**
+>
+> *Nebude-li tím způsobena újma žádné z dotčených osob, může správní orgán usnesením prohlásit, že vyjádření, osvědčení nebo sdělení anebo nicotné rozhodnutí, které má náležitosti jiného úkonu, je tím úkonem, jehož náležitosti splňuje, pokud byl příslušný oba předmětné úkony vydat nebo uskutečnit.*
+
+
 > *Nebude-li tím způsobena újma žádné z dotčených osob, může správní orgán usnesením prohlásit, že vyjádření, osvědčení nebo sdělení anebo nicotné rozhodnutí, které má náležitosti jiného úkonu, je tím úkonem, jehož náležitosti splňuje, pokud byl příslušný oba předmětné úkony vydat nebo uskutečnit.*
 
 **Sanační institut:** orgán může **PROHLÁSIT, že vadný úkon je jiným úkonem**, jehož náležitosti splňuje.
@@ -133,6 +171,16 @@ Klasické: oprava chyby v psaní, datu, číselné chybě.
 **Obrácený případ:** vydal-li orgán „rozhodnutí", které je ve skutečnosti **NICOTNÉ** (§ 77), ale jeho obsah odpovídá vyjádření / osvědčení → lze ho překlasifikovat.
 
 ## § 158 — Subsidiarita pro JINÉ úkony
+
+
+<!-- AUTOCITACE:§158 -->
+
+> **§ 158**
+>
+> *(1) Ustanovení této části se obdobně použijí i v případě, provádí-li správní orgán jiné úkony, které nejsou upraveny v části první, třetí, páté nebo šesté anebo v této části.*
+>
+> *(2) Ustanovení § 156 odst. 2 se přiměřeně použije i na úkony správního orgánu prováděné při postupu podle části druhé, třetí, páté nebo šesté, jejichž zrušení není zvlášť upraveno.*
+
 
 ### (1) Obdobné použití pro neupravené úkony
 

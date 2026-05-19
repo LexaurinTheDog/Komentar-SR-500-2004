@@ -8,6 +8,32 @@
 
 ### § 80 — Opatření proti nečinnosti
 
+
+<!-- AUTOCITACE:§80 -->
+
+> **§ 80**
+>
+> *(1) Nevydá-li správní orgán rozhodnutí ve věci v zákonné lhůtě, nadřízený správní orgán učiní z moci úřední opatření proti nečinnosti, jakmile se o tom dozví.*
+>
+> *(2) Opatření proti nečinnosti učiní nadřízený správní orgán i tehdy, nezahájí-li příslušný správní orgán řízení ve lhůtě 30 dnů ode dne, kdy se dozvěděl o skutečnostech odůvodňujících zahájení řízení z moci úřední.*
+>
+> *(3) Opatření proti nečinnosti může nadřízený správní orgán učinit i v případě, kdy je z okolností zjevné, že věcně a místně příslušný správní orgán nedodrží lhůtu stanovenou pro vydání rozhodnutí o žádosti nebo zahájit řízení z moci úřední anebo v řízení řádně pokračovat. Po uplynutí lhůt pro vydání rozhodnutí může žádost o uplatnění opatření proti nečinnosti podat účastník.*
+>
+> *(4) Nadřízený správní orgán může*
+>
+> *- a) přikázat nečinnému správnímu orgánu, aby ve stanovené lhůtě učinil potřebná opatření ke zjednání nápravy nebo vydal rozhodnutí,*
+>
+> *- b) usnesením převzít věc a rozhodnout namísto nečinného správního orgánu,*
+>
+> *- c) usnesením pověřit jiný správní orgán ve svém správním obvodu vedením řízení, nebo*
+>
+> *- d) usnesením přiměřeně prodloužit zákonnou lhůtu pro vydání rozhodnutí, lze-li důvodně předpokládat, že správní orgán v prodloužené lhůtě vydá rozhodnutí ve věci, a je-li takový postup pro účastníky výhodnější; přitom přihlíží ke lhůtám uvedeným v § 71 odst. 3.*
+>
+> *(5) Postup uvedený v odstavci 4 písm. b) a c) nelze použít vůči orgánům územních samosprávných celků při výkonu samostatné působnosti.*
+>
+> *(6) Usnesení podle odstavce 4 se oznamuje správním orgánům uvedeným v odstavci 4 písm. b) až d) a účastníkům uvedeným v § 27 odst. 1; ostatní účastníci se o něm vyrozumí veřejnou vyhláškou. Usnesení nadřízený správní orgán vydá i v případě, že žádosti účastníka podle odstavce 3 věty druhé nevyhoví; toto usnesení se oznamuje pouze tomuto účastníkovi; proti tomuto usnesení se nelze odvolat.*
+
+
 #### Z moci úřední (odst. 1)
 
 > *Nevydá-li správní orgán rozhodnutí ve věci v zákonné lhůtě, nadřízený správní orgán učiní z moci úřední opatření proti nečinnosti, jakmile se o tom dozví.*
@@ -58,6 +84,20 @@ Pokud nadřízený nezasáhne, účastník má:
 
 ### § 81 — Přípustnost odvolání
 
+
+<!-- AUTOCITACE:§81 -->
+
+> **§ 81**
+>
+> *(1) Účastník může proti rozhodnutí podat odvolání, pokud zákon nestanoví jinak.*
+>
+> *(2) Právo podat odvolání nepřísluší účastníkovi, který se po oznámení rozhodnutí tohoto práva písemně nebo ústně do protokolu vzdal.*
+>
+> *(3) Jestliže odvolatel vzal podané odvolání zpět, nemůže je podat znovu.*
+>
+> *(4) Statutární orgán právnické osoby má právo podat odvolání proti rozhodnutí, jímž má být omezena způsobilost právnické osoby samostatně jednat před správním orgánem, i když je toto rozhodnutí předběžně vykonatelné.*
+
+
 #### Obecné právo (odst. 1)
 
 > *Účastník může proti rozhodnutí podat odvolání, pokud zákon nestanoví jinak.*
@@ -82,6 +122,22 @@ Pokud odvolatel **vzal odvolání zpět** → **nemůže ho podat znovu** (i kdy
 Pokud má být rozhodnutím **omezena způsobilost PO samostatně jednat** před správním orgánem (typicky uložení opatrovníka PO podle § 32 odst. 2 písm. c) → **statutární orgán** má **právo odvolání i v případě**, že je rozhodnutí **PŘEDBĚŽNĚ VYKONATELNÉ**. (Záruka, aby PO mohla bránit svou způsobilost.)
 
 ### § 82 — Náležitosti odvolání
+
+
+<!-- AUTOCITACE:§82 -->
+
+> **§ 82**
+>
+> *(1) Odvoláním lze napadnout výrokovou část rozhodnutí, jednotlivý výrok nebo jeho vedlejší ustanovení. Odvolání jen proti odůvodnění rozhodnutí je nepřípustné.*
+>
+> *(2) Odvolání musí mít náležitosti uvedené v § 37 odst. 2 a musí obsahovat údaje o tom, proti kterému rozhodnutí směřuje, v jakém rozsahu ho napadá a v čem je spatřován rozpor s právními předpisy nebo nesprávnost rozhodnutí nebo řízení, jež mu předcházelo. Není-li v odvolání uvedeno, v jakém rozsahu odvolatel rozhodnutí napadá, platí, že se domáhá zrušení celého rozhodnutí. Odvolání se podává s potřebným počtem stejnopisů tak, aby jeden stejnopis zůstal správnímu orgánu a aby každý účastník dostal jeden stejnopis. Nepodá-li účastník potřebný počet stejnopisů, vyhotoví je správní orgán na náklady účastníka.*
+>
+> *(3) Pokud odvolání směřuje jen proti některému výroku rozhodnutí nebo proti vedlejšímu ustanovení výroku, které netvoří nedílný celek s ostatními, a pokud tím nemůže být způsobena újma některému z účastníků, nabývá zbytek výrokové části právní moci, umožňuje-li to povaha věci.*
+>
+> *(4) K novým skutečnostem a k návrhům na provedení nových důkazů, uvedeným v odvolání nebo v průběhu odvolacího řízení, se přihlédne jen tehdy, jde-li o takové skutečnosti nebo důkazy, které účastník nemohl uplatnit dříve. Namítá-li účastník, že mu nebylo umožněno učinit v řízení v prvním stupni určitý úkon, musí být tento úkon učiněn spolu s odvoláním.*
+>
+> *#### Odvolací lhůta*
+
 
 #### Předmět odvolání (odst. 1)
 
@@ -118,6 +174,16 @@ Praktický význam: u rozhodnutí o pokutě + uložení nápravných opatření 
 
 ### § 83 — ODVOLACÍ LHŮTA
 
+
+<!-- AUTOCITACE:§83 -->
+
+> **§ 83**
+>
+> *(1) Odvolací lhůta činí 15 dnů ode dne oznámení rozhodnutí, pokud zvláštní zákon nestanoví jinak. Odvolání lze podat teprve poté, co bylo rozhodnutí vydáno. Bylo-li odvolání podáno před oznámením rozhodnutí odvolateli, platí, že bylo podáno v první den odvolací lhůty.*
+>
+> *(2) V případě chybějícího, neúplného nebo nesprávného poučení podle § 68 odst. 5 lze odvolání podat do 15 dnů ode dne oznámení opravného usnesení podle § 70 věty první, bylo-li vydáno, nejpozději však do 90 dnů ode dne oznámení rozhodnutí.*
+
+
 > *(1) Odvolací lhůta činí 15 dnů ode dne oznámení rozhodnutí, pokud zvláštní zákon nestanoví jinak. Odvolání lze podat teprve poté, co bylo rozhodnutí vydáno. Bylo-li odvolání podáno před oznámením rozhodnutí odvolateli, platí, že bylo podáno v první den odvolací lhůty.*
 
 **Lhůta: 15 DNŮ od oznámení.**
@@ -139,6 +205,22 @@ Praktický význam: u rozhodnutí o pokutě + uložení nápravných opatření 
 Tato lhůta je absolutní — nelze ji dále prodloužit, ale **prominutí zmeškání § 41** je možné.
 
 ### § 84 — Odvolací lhůta při neoznámení rozhodnutí
+
+
+<!-- AUTOCITACE:§84 -->
+
+> **§ 84**
+>
+> *##### Odvolací lhůta při neoznámení rozhodnutí*
+>
+> *(1) Osoba, která byla účastníkem, ale rozhodnutí jí nebylo správním orgánem oznámeno, může podat odvolání do 30 dnů ode dne, kdy se o vydání rozhodnutí a řešení otázky, jež byla předmětem rozhodování, dozvěděla, nejpozději však do 1 roku ode dne, kdy bylo rozhodnutí oznámeno poslednímu z účastníků, kterým ho správní orgán byl oznámil; zmeškání úkonu nelze prominout. Ustanovení tohoto odstavce neplatí pro účastníky uvedené v § 27 odst. 1.*
+>
+> *(2) Neoznámení rozhodnutí se nemůže dovolávat ten, kdo se s ním prokazatelně seznámil. Na takového účastníka se hledí, jako by mu správní orgán doručil rozhodnutí s chybějícím poučením podle § 83 odst. 2.*
+>
+> *(3) Při vedení řízení po podání odvolání podle odstavce 1 je třeba zvlášť dbát oprávněných zájmů účastníků, kteří byli v dobré víře. Odkladný účinek odvolání lze z vážných důvodů vyloučit (§ 85 odst. 2) i dodatečně.*
+>
+> *#### Účinky odvolání*
+
 
 #### Pomineutý účastník (odst. 1)
 
@@ -162,6 +244,28 @@ Pokud se účastník **prokazatelně seznámil** s rozhodnutím → nemůže se 
 Při řízení po podaném odvolání pomineutého účastníka **MUSÍ být zvlášť zachována práva účastníků v DOBRÉ VÍŘE**. Odkladný účinek lze **i dodatečně vyloučit** z vážných důvodů (§ 85/2).
 
 ### § 85 — Účinky odvolání (ODKLADNÝ ÚČINEK)
+
+
+<!-- AUTOCITACE:§85 -->
+
+> **§ 85**
+>
+> *(1) Nestanoví-li zákon jinak, má včas podané a přípustné odvolání odkladný účinek. V důsledku odkladného účinku odvolání nenastává právní moc, vykonatelnost, ani jiné právní účinky rozhodnutí.*
+>
+> *(2) Správní orgán může odkladný účinek odvolání vyloučit,*
+>
+> *- a) jestliže to naléhavě vyžaduje veřejný zájem,*
+>
+> *- b) hrozí-li vážná újma některému z účastníků, nebo*
+>
+> *- c) požádá-li o to účastník; to neplatí, pokud by tím vznikla újma jiným účastníkům nebo to není ve veřejném zájmu.*
+>
+> *(3) Z důvodu ochrany práv nabytých v dobré víře, oprávněných zájmů účastníků nebo veřejného zájmu lze vyloučit odkladný účinek odvolání, jehož zmeškání správní orgán promíjí.*
+>
+> *(4) Vyloučení odkladného účinku odvolání musí být odůvodněno. Výrok o vyloučení odkladného účinku odvolání je součástí rozhodnutí ve věci; proti tomuto výroku se nelze odvolat.*
+>
+> *#### Podání odvolání a postup správního orgánu, který napadené rozhodnutí vydal*
+
 
 #### Hlavní pravidlo (odst. 1) — SUSPENZIVNOST
 
@@ -187,6 +291,18 @@ Vyloučení **musí být odůvodněno** (odst. 4) a jeho výrok **je součástí
 Pokud orgán **promíjí zmeškání odvolání podle § 41** → může z důvodů ochrany **práv dobré víry**, **oprávněných zájmů účastníků** nebo **veřejného zájmu** vyloučit odkladný účinek **i u tohoto prominutého odvolání**. Předchází se „šíleným" obnovám účinků již vykonaných rozhodnutí.
 
 ### § 86 — Postup orgánu 1. stupně po podání odvolání
+
+
+<!-- AUTOCITACE:§86 -->
+
+> **§ 86**
+>
+> *(1) Odvolání se podává u správního orgánu, který napadené rozhodnutí vydal.*
+>
+> *(2) Správní orgán, který napadené rozhodnutí vydal, zašle stejnopis podaného odvolání všem účastníkům, kteří se mohli proti rozhodnutí odvolat, a vyzve je, aby se k němu v přiměřené lhůtě, která nesmí být kratší než 5 dnů, vyjádřili. Podle okolností dále doplní řízení. Ustanovení tohoto odstavce se nepoužije, bylo-li odvolání podáno opožděně nebo bylo-li nepřípustné.*
+>
+> *(3) Ustanovení § 82 odst. 4 věty první platí pro vyjádření účastníků k podanému odvolání obdobně. Vyjádření účastníků k podanému odvolání jsou součástí spisu. K vyjádřením podaným po lhůtě se nemusí přihlížet.*
+
 
 #### Místo podání (odst. 1)
 
@@ -215,6 +331,14 @@ Pro vyjádření platí **obdobně § 82/4** o nových skutečnostech a důkazec
 
 ### § 87 — AUTOREMEDURA
 
+
+<!-- AUTOCITACE:§87 -->
+
+> **§ 87**
+>
+> *Správní orgán, který napadené rozhodnutí vydal, je může zrušit nebo změnit, pokud tím plně vyhoví odvolání a jestliže tím nemůže být způsobena újma žádnému z účastníků, ledaže s tím všichni, kterých se to týká, vyslovili souhlas. Proti tomuto rozhodnutí lze podat odvolání.*
+
+
 > *Správní orgán, který napadené rozhodnutí vydal, je může zrušit nebo změnit, pokud tím plně vyhoví odvolání a jestliže tím nemůže být způsobena újma žádnému z účastníků, ledaže s tím všichni, kterých se to týká, vyslovili souhlas. Proti tomuto rozhodnutí lze podat odvolání.*
 
 **Autoremedura** = orgán 1. stupně **sám opraví** své rozhodnutí, pokud:
@@ -227,6 +351,20 @@ Pro vyjádření platí **obdobně § 82/4** o nových skutečnostech a důkazec
 Praktický význam: rychlá náprava jednoduchých vad bez nutnosti čekat na odvolací orgán.
 
 ### § 88 — Předání spisu odvolacímu orgánu
+
+
+<!-- AUTOCITACE:§88 -->
+
+> **§ 88**
+>
+> *##### Předání spisu odvolacímu správnímu orgánu*
+>
+> *(1) Neshledá-li správní orgán, který napadené rozhodnutí vydal, podmínky pro postup podle § 87, předá spis se svým stanoviskem odvolacímu správnímu orgánu do 30 dnů ode dne doručení odvolání. Jestliže byl odvoláním napaden jen některý výrok rozhodnutí podle § 82 odst. 3 a lze-li příslušnou část spisu oddělit, předá správní orgán pouze tu část spisu, která se týká otázky, o níž bylo rozhodnuto v napadeném výroku rozhodnutí. V případě nepřípustného nebo opožděného odvolání předá spis odvolacímu správnímu orgánu do 10 dnů; ve stanovisku se omezí na uvedení důvodů rozhodných pro posouzení opožděnosti nebo nepřípustnosti odvolání.*
+>
+> *(2) Pokud před předáním spisu odvolacímu správnímu orgánu nastal některý z důvodů zastavení řízení uvedený v § 66 odst. 1 písm. a), e), f) nebo g) nebo v § 66 odst. 2, správní orgán, který napadené rozhodnutí vydal, řízení zastaví, ledaže by rozhodnutí o odvolání mohlo mít význam pro náhradu škody.*
+>
+> *#### Postup odvolacího správního orgánu*
+
 
 #### Standardní postup (odst. 1)
 
@@ -243,6 +381,16 @@ Pokud neproběhne autoremedura → orgán 1. stupně **PŘEDÁ SPIS** odvolacím
 Pokud před předáním nastane některý důvod zastavení podle § 66 (zpětvzetí, litispendence, zánik subjektu/věci/práva, bezpředmětnost) NEBO § 66/2 → orgán 1. stupně **řízení ZASTAVÍ**, **LEDAŽE** by odvolací rozhodnutí mohlo mít význam **pro náhradu škody**.
 
 ### § 89 — Postup odvolacího orgánu (rozsah přezkumu)
+
+
+<!-- AUTOCITACE:§89 -->
+
+> **§ 89**
+>
+> *(1) Nestanoví-li zákon jinak, je odvolacím správním orgánem nejblíže nadřízený správní orgán.*
+>
+> *(2) Odvolací správní orgán přezkoumává soulad napadeného rozhodnutí a řízení, které vydání rozhodnutí předcházelo, s právními předpisy. Správnost napadeného rozhodnutí přezkoumává jen v rozsahu námitek uvedených v odvolání, jinak jen tehdy, vyžaduje-li to veřejný zájem. K vadám řízení, o nichž nelze mít důvodně za to, že mohly mít vliv na soulad napadeného rozhodnutí s právními předpisy, popřípadě na jeho správnost, se nepřihlíží; tímto ustanovením není dotčeno právo na náhradu škody způsobené nesprávným úředním postupem.*
+
 
 #### Příslušnost (odst. 1)
 
@@ -264,6 +412,32 @@ Pokud před předáním nastane některý důvod zastavení podle § 66 (zpětvz
 **Garance náhrady škody:** zanedbání vady **nezbavuje** poškozeného práva na náhradu škody podle zák. č. 82/1998 Sb.
 
 ### § 90 — Rozhodnutí odvolacího orgánu (5 možností)
+
+
+<!-- AUTOCITACE:§90 -->
+
+> **§ 90**
+>
+> *##### Rozhodnutí odvolacího správního orgánu*
+>
+> *(1) Jestliže odvolací správní orgán dojde k závěru, že napadené rozhodnutí je v rozporu s právními předpisy nebo že je nesprávné,*
+>
+> *- a) napadené rozhodnutí nebo jeho část zruší a řízení zastaví,*
+>
+> *- b) napadené rozhodnutí nebo jeho část zruší a věc vrátí k novému projednání správnímu orgánu, který rozhodnutí vydal; v odůvodnění tohoto rozhodnutí vysloví odvolací správní orgán právní názor, jímž je správní orgán, který napadené rozhodnutí vydal, při novém projednání věci vázán; proti novému rozhodnutí lze podat odvolání, anebo*
+>
+> *- c) napadené rozhodnutí nebo jeho část změní; změnu nelze provést, pokud by tím některému z účastníků, jemuž je ukládána povinnost, hrozila újma z důvodu ztráty možnosti odvolat se; podle § 36 odst. 3 se postupuje, pouze pokud jde o podklady rozhodnutí nově pořízené odvolacím správním orgánem; je-li to zapotřebí k odstranění vad odůvodnění, změní odvolací správní orgán rozhodnutí v části odůvodnění; odvolací správní orgán nemůže svým rozhodnutím změnit rozhodnutí orgánu územního samosprávného celku vydané v samostatné působnosti.*
+>
+> *(2) Podle odstavce 1 písm. a) postupuje odvolací správní orgán též tehdy, jde-li o odvolání proti rozhodnutí o předběžném opatření a nabylo-li již rozhodnutí ve věci právní moci, ledaže by rozhodnutí o tomto odvolání mohlo mít význam pro náhradu škody.*
+>
+> *(3) Odvolací správní orgán nemůže změnit napadené rozhodnutí v neprospěch odvolatele, ledaže odvolání podal také jiný účastník, jehož zájmy nejsou shodné, anebo je napadené rozhodnutí v rozporu s právními předpisy nebo jiným veřejným zájmem.*
+>
+> *(4) Jestliže odvolací správní orgán zjistí, že nastala skutečnost, která odůvodňuje zastavení řízení, bez dalšího zruší napadené rozhodnutí a řízení zastaví, ledaže jiné rozhodnutí o odvolání může mít význam pro náhradu škody nebo pro právní nástupce účastníků.*
+>
+> *(5) Neshledá-li odvolací správní orgán důvod pro postup podle odstavců 1 až 4, odvolání zamítne a napadené rozhodnutí potvrdí. Jestliže odvolací správní orgán změní nebo zruší napadené rozhodnutí jen zčásti, ve zbytku je potvrdí.*
+>
+> *(6) Rozhodnutí v odvolacím řízení vydá odvolací správní orgán ve lhůtách stanovených v § 71. Lhůta počíná běžet dnem předání spisu odvolacímu správnímu orgánu k rozhodnutí (§ 88).*
+
 
 #### Při zjištění vady (odst. 1)
 
@@ -320,6 +494,20 @@ Stejné lhůty jako pro 1. stupeň (§ 71 — 30 + 30 dnů). Lhůta běží **od
 
 ### § 91 — Právní moc + zpětvzetí + vzdání práva
 
+
+<!-- AUTOCITACE:§91 -->
+
+> **§ 91**
+>
+> *(1) Proti rozhodnutí odvolacího správního orgánu se nelze dále odvolat. Rozhodnutí odvolacího správního orgánu je v právní moci, jestliže bylo oznámeno všem odvolatelům a účastníkům uvedeným v § 27 odst. 1.*
+>
+> *(2) Pokud je napadené rozhodnutí předběžně vykonatelné, platí pro účinky jeho zrušení ustanovení § 99 obdobně.*
+>
+> *(3) Pokud odvolatel vzal podané odvolání zpět, řízení o odvolání je zastaveno dnem zpětvzetí odvolání. Pokud všichni odvolatelé vzali podané odvolání zpět, odvolací řízení je zastaveno dnem zpětvzetí odvolání posledního z odvolatelů. Dnem následujícím po zastavení řízení nabývá napadené rozhodnutí právní moci. O skutečnosti, že řízení bylo zastaveno, správní orgán vydá usnesení, které se pouze poznamená do spisu a vyrozumí se o něm odvolatelé, jakož i jiní účastníci, pokud byli o podaném odvolání uvědoměni podle § 86 odst. 2. Odvolání lze vzít zpět nejpozději do vydání rozhodnutí odvolacího správního orgánu.*
+>
+> *(4) Je-li v řízení více účastníků a všichni se vzdali práva podat odvolání, nabývá rozhodnutí právní moci dnem následujícím po dni, kdy tak učinil poslední z nich.*
+
+
 #### Žádné další odvolání (odst. 1)
 
 > *Proti rozhodnutí odvolacího správního orgánu se nelze dále odvolat. Rozhodnutí odvolacího správního orgánu je v právní moci, jestliže bylo oznámeno všem odvolatelům a účastníkům uvedeným v § 27 odst. 1.*
@@ -345,6 +533,18 @@ Pokud **VŠICHNI účastníci** vzdali práva odvolání → rozhodnutí v práv
 
 ### § 92 — Opožděné / nepřípustné odvolání
 
+
+<!-- AUTOCITACE:§92 -->
+
+> **§ 92**
+>
+> *(1) Opožděné nebo nepřípustné odvolání odvolací správní orgán zamítne. Jestliže rozhodnutí již nabylo právní moci, následně zkoumá, zda nejsou dány předpoklady pro přezkoumání rozhodnutí v přezkumném řízení, pro obnovu řízení nebo pro vydání nového rozhodnutí. Shledá-li předpoklady pro zahájení přezkumného řízení, pro obnovu řízení nebo pro vydání nového rozhodnutí, posuzuje se opožděné nebo nepřípustné odvolání jako podnět k přezkumnému řízení nebo žádost o obnovu řízení nebo žádost o vydání nového rozhodnutí.*
+>
+> *(2) Dojde-li odvolací správní orgán k závěru, že odvolání bylo podáno včas a že je přípustné, vrátí věc správnímu orgánu, který rozhodl v prvním stupni.*
+>
+> *#### Použití obecných ustanovení*
+
+
 #### Zamítnutí (odst. 1)
 
 Odvolací orgán **ZAMÍTNE** opožděné nebo nepřípustné odvolání.
@@ -361,6 +561,16 @@ Odvolací orgán **ZAMÍTNE** opožděné nebo nepřípustné odvolání.
 Pokud odvolací orgán dojde k závěru, že odvolání bylo včas a přípustné (zatímco orgán 1. stupně to tak nehodnotil) → **VRÁTÍ věc** orgánu 1. stupně. Ten pak musí pokračovat podle § 86 (vyrozumění ostatních účastníků, vyjádření, doplnění řízení).
 
 ### § 93 — Subsidiární použití ostatních ustanovení
+
+
+<!-- AUTOCITACE:§93 -->
+
+> **§ 93**
+>
+> *(1) Jestliže v této hlavě není stanoveno jinak, pro řízení o odvolání se obdobně použijí ustanovení hlav I až IV, VI a VII této části.*
+>
+> *(2) Kde se v hlavách I až VII této části hovoří o nadřízeném správním orgánu, rozumí se tím při postupu podle této hlavy správní orgán nejblíže nadřízený odvolacímu správnímu orgánu; jinak platí ustanovení § 178.*
+
 
 (1) Pro odvolací řízení se obdobně použijí ustanovení Hlav I–IV, VI a VII Části druhé.
 

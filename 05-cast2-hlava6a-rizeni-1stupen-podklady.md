@@ -6,6 +6,18 @@
 
 ### § 44 — Zahájení řízení o žádosti
 
+
+<!-- AUTOCITACE:§44 -->
+
+> **§ 44**
+>
+> *###### Zahájení řízení o žádosti*
+>
+> *(1) Řízení o žádosti je zahájeno dnem, kdy žádost nebo jiný návrh, kterým se zahajuje řízení (dále jen „žádost“), došel věcně a místně příslušnému správnímu orgánu.*
+>
+> *(2) Pokud ze zákona nebo z povahy věci vyplývá, že žádost může podat jen více žadatelů společně, není třeba, aby podání byla učiněna současně. Pro zahájení řízení je rozhodné, kdy tak učinil poslední z nich; správní orgán o zahájení řízení ostatní žadatele vyrozumí.*
+
+
 > *(1) Řízení o žádosti je zahájeno dnem, kdy žádost nebo jiný návrh, kterým se zahajuje řízení (dále jen „žádost"), došel věcně a místně příslušnému správnímu orgánu.*
 >
 > *(2) Pokud ze zákona nebo z povahy věci vyplývá, že žádost může podat jen více žadatelů společně, není třeba, aby podání byla učiněna současně. Pro zahájení řízení je rozhodné, kdy tak učinil poslední z nich; správní orgán o zahájení řízení ostatní žadatele vyrozumí.*
@@ -28,6 +40,22 @@
 Tam, kde zákon (např. společný úkon manželů) nebo povaha věci vyžaduje **více žadatelů společně**, žádosti **nemusí** přijít současně. Rozhodný **DEN POSLEDNÍ žádosti**. Orgán o zahájení vyrozumí ostatní žadatele.
 
 ### § 45 — Žádost (náležitosti, vady, zúžení a zpětvzetí)
+
+
+<!-- AUTOCITACE:§45 -->
+
+> **§ 45**
+>
+> *###### Žádost*
+>
+> *(1) Žádost musí mít náležitosti uvedené v § 37 odst. 2 a musí z ní být patrné, co žadatel žádá nebo čeho se domáhá. Žadatel je dále povinen označit další jemu známé účastníky.*
+>
+> *(2) Nemá-li žádost předepsané náležitosti nebo trpí-li jinými vadami, pomůže správní orgán žadateli nedostatky odstranit na místě nebo jej vyzve k jejich odstranění, poskytne mu k tomu přiměřenou lhůtu a poučí jej o následcích neodstranění nedostatků v této lhůtě; současně může řízení přerušit (§ 64).*
+>
+> *(3) Žádost nesmí být zjevně právně nepřípustná. Takovou žádost správní orgán neprojednává a řízení zastaví (§ 66). Usnesení se oznamuje účastníkům, kteří byli o zahájení řízení uvědoměni.*
+>
+> *(4) Žadatel může zúžit předmět své žádosti nebo vzít žádost zpět; toto právo nelze uplatnit v době od vydání rozhodnutí správního orgánu prvního stupně do zahájení odvolacího řízení.*
+
 
 #### Náležitosti (odst. 1)
 
@@ -56,6 +84,20 @@ Orgán:
 
 ### § 46 — Zahájení řízení Z MOCI ÚŘEDNÍ (ex officio)
 
+
+<!-- AUTOCITACE:§46 -->
+
+> **§ 46**
+>
+> *###### Zahájení řízení z moci úřední*
+>
+> *(1) Řízení z moci úřední je zahájeno dnem, kdy správní orgán oznámil zahájení řízení účastníkovi uvedenému v § 27 odst. 1 doručením oznámení nebo ústním prohlášením, a není-li správnímu orgánu tento účastník znám, pak kterémukoliv jinému účastníkovi. Oznámení musí obsahovat označení správního orgánu, předmět řízení, jméno, příjmení, funkci nebo služební číslo a podpis oprávněné úřední osoby.*
+>
+> *(2) Jestliže je v řízení z moci úřední více účastníků uvedených v § 27 odst. 1, má pro zahájení řízení význam oznámení o zahájení řízení prvnímu z nich. Těm, kterým se nepodařilo zahájení řízení oznámit, ustanoví správní orgán opatrovníka; usnesení o ustanovení opatrovníka se doručuje veřejnou vyhláškou.*
+>
+> *(3) Oznámení o zahájení řízení může být spojeno s jiným úkonem v řízení.*
+
+
 #### Okamžik zahájení (odst. 1)
 
 > *Řízení z moci úřední je zahájeno dnem, kdy správní orgán oznámil zahájení řízení účastníkovi uvedenému v § 27 odst. 1 doručením oznámení nebo ústním prohlášením, a není-li správnímu orgánu tento účastník znám, pak kterémukoliv jinému účastníkovi.*
@@ -77,6 +119,18 @@ Oznámení o zahájení **lze spojit** s jiným úkonem v řízení (typicky př
 
 ### § 47 — Uvědomění ostatních účastníků
 
+
+<!-- AUTOCITACE:§47 -->
+
+> **§ 47**
+>
+> *(1) O zahájení řízení je správní orgán povinen uvědomit bez zbytečného odkladu všechny jemu známé účastníky.*
+>
+> *(2) O tom, že probíhá řízení, je správní orgán povinen bezodkladně poté, co se o něm dozví, uvědomit i toho, kdo se stal účastníkem až po zahájení řízení, nejde-li o osobu, která se sama jako účastník do řízení přihlásila.*
+>
+> *(3) Oznámení o zahájení řízení lze vedle postupu podle odstavců 1 a 2 zveřejnit též na úřední desce správního orgánu.*
+
+
 (1) Orgán **bez zbytečného odkladu** uvědomí **všechny jemu známé účastníky**.
 
 (2) Po informaci o nově přibyvším účastníkovi (typicky vedlejším — § 27 odst. 2) → **bezodkladně uvědomit**.
@@ -84,6 +138,18 @@ Oznámení o zahájení **lze spojit** s jiným úkonem v řízení (typicky př
 (3) Lze zveřejnit i na **úřední desce**.
 
 ### § 48 — Překážky řízení (litispendence + ne bis in idem)
+
+
+<!-- AUTOCITACE:§48 -->
+
+> **§ 48**
+>
+> *###### Překážky řízení*
+>
+> *(1) Zahájení řízení u některého správního orgánu brání tomu, aby o téže věci z téhož důvodu bylo zahájeno řízení u jiného správního orgánu.*
+>
+> *(2) Přiznat totéž právo nebo uložit tutéž povinnost lze z téhož důvodu téže osobě pouze jednou.*
+
 
 > *(1) Zahájení řízení u některého správního orgánu brání tomu, aby o téže věci z téhož důvodu bylo zahájeno řízení u jiného správního orgánu.*
 >
@@ -147,6 +213,22 @@ I neveřejného jednání se může účastnit **podpůrce účastníka** (§ 45
 
 ### § 50 — Podklady (klíčové vymezení)
 
+
+<!-- AUTOCITACE:§50 -->
+
+> **§ 50**
+>
+> *(1) Podklady pro vydání rozhodnutí mohou být zejména návrhy účastníků, důkazy, skutečnosti známé správnímu orgánu z úřední činnosti, podklady od jiných správních orgánů nebo orgánů veřejné moci, jakož i skutečnosti obecně známé.*
+>
+> *(2) Podklady pro vydání rozhodnutí opatřuje správní orgán. Jestliže to nemůže ohrozit účel řízení, může na požádání účastníka správní orgán připustit, aby za něj podklady pro vydání rozhodnutí opatřil tento účastník. Nestanoví-li zvláštní zákon jinak, jsou účastníci povinni při opatřování podkladů pro vydání rozhodnutí poskytovat správnímu orgánu veškerou potřebnou součinnost.*
+>
+> *(3) Správní orgán je povinen zjistit všechny okolnosti důležité pro ochranu veřejného zájmu. V řízení, v němž má být z moci úřední uložena povinnost, je správní orgán povinen i bez návrhu zjistit všechny rozhodné okolnosti svědčící ve prospěch i v neprospěch toho, komu má být povinnost uložena.*
+>
+> *(4) Pokud zákon nestanoví, že některý podklad je pro správní orgán závazný, hodnotí správní orgán podklady, zejména důkazy, podle své úvahy; přitom pečlivě přihlíží ke všemu, co vyšlo v řízení najevo, včetně toho, co uvedli účastníci.*
+>
+> *##### Dokazování*
+
+
 #### Co jsou podklady (odst. 1)
 
 - **Návrhy účastníků**.
@@ -191,6 +273,20 @@ Hodnocení se promítne v **odůvodnění rozhodnutí § 68 odst. 3**.
 
 ### § 51 — Dokazování (obecná pravidla)
 
+
+<!-- AUTOCITACE:§51 -->
+
+> **§ 51**
+>
+> *(1) K provedení důkazů lze užít všech důkazních prostředků, které jsou vhodné ke zjištění stavu věci a které nejsou získány nebo provedeny v rozporu s právními předpisy. Jde zejména o listiny, ohledání, svědeckou výpověď a znalecký posudek.*
+>
+> *(2) O provádění důkazů mimo ústní jednání musí být účastníci včas vyrozuměni, nehrozí-li nebezpečí z prodlení. Tuto povinnost nemá správní orgán vůči účastníkovi, který se vzdal práva účasti při dokazování.*
+>
+> *(3) Je-li v souladu s požadavky § 3 zjištěna skutečnost, která znemožňuje žádosti vyhovět, neprovádí správní orgán další dokazování a žádost zamítne.*
+>
+> *(4) V řízení navazujícím na výkon kontroly, ve kterém je účastníkem řízení kontrolovaná osoba, není třeba provádět protokolem o kontrole, který je podkladem rozhodnutí o přestupku, dokazování.*
+
+
 #### Otevřený katalog důkazních prostředků (odst. 1)
 
 > *K provedení důkazů lze užít všech důkazních prostředků, které jsou vhodné ke zjištění stavu věci a které nejsou získány nebo provedeny v rozporu s právními předpisy.*
@@ -219,6 +315,14 @@ V přestupkovém řízení **navazujícím na kontrolu**, je-li kontrolovaná os
 
 ### § 52 — Důkazní povinnost účastníků
 
+
+<!-- AUTOCITACE:§52 -->
+
+> **§ 52**
+>
+> *Účastníci jsou povinni označit důkazy na podporu svých tvrzení. Správní orgán není návrhy účastníků vázán, vždy však provede důkazy, které jsou potřebné ke zjištění stavu věci.*
+
+
 > *Účastníci jsou povinni označit důkazy na podporu svých tvrzení. Správní orgán není návrhy účastníků vázán, vždy však provede důkazy, které jsou potřebné ke zjištění stavu věci.*
 
 #### Důkazní povinnost účastníka
@@ -234,6 +338,26 @@ V přestupkovém řízení **navazujícím na kontrolu**, je-li kontrolovaná os
 Praxe: účastník navrhne 5 svědků. Orgán vyslechne 2, ostatní 3 odmítne jako **nadbytečné** → musí to **odůvodnit v § 68 odst. 3 rozhodnutí**. Klíčový bod častých odvolání: „**neprovedl jste můj důkaz, tím jste porušil moje právo**".
 
 ### § 53 — Důkaz LISTINOU
+
+
+<!-- AUTOCITACE:§53 -->
+
+> **§ 53**
+>
+> *###### Důkaz listinou*
+>
+> *(1) Správní orgán může usnesením uložit tomu, kdo má listinu potřebnou k provedení důkazu, aby ji předložil. Usnesení se oznamuje pouze osobě, které je povinnost ukládána.*
+>
+> *(2) Předložení listiny nelze žádat nebo může být odepřeno z důvodů, pro které nesmí být svědek vyslechnut nebo pro které je svědek oprávněn výpověď odepřít (§ 55 odst. 2 až 4).*
+>
+> *(3) Listiny vydané soudy České republiky nebo jinými státními orgány nebo orgány územních samosprávných celků v mezích jejich pravomoci, jakož i listiny, které jsou zvláštními zákony prohlášeny za veřejné, potvrzují, že jde o prohlášení orgánu, který listinu vydal, a není-li dokázán opak, potvrzují i pravdivost toho, co je v nich osvědčeno nebo potvrzeno.*
+>
+> *(4) Pokud mezinárodní smlouva, která je součástí právního řádu, nestanoví jinak, musí být pravost úředních razítek a podpisů na veřejných listinách vydaných orgány cizích států ověřena orgány k tomu příslušnými.*
+>
+> *(5) Předložení listiny je v případech a za podmínek stanovených zvláštním zákonem možné nahradit čestným prohlášením účastníka nebo svědeckou výpovědí.*
+>
+> *(6) O provedení důkazu listinou se učiní záznam do spisu. Za přítomnosti účastníků nebo zúčastněných osob, anebo účastní-li se úkonu veřejnost, se důkaz listinou provede tak, že se listina přečte nebo sdělí její obsah.*
+
 
 #### Předložení listiny (odst. 1)
 
@@ -267,6 +391,22 @@ V případech stanovených zvláštním zákonem lze listinu **nahradit čestný
 
 ### § 54 — Důkaz OHLEDÁNÍM
 
+
+<!-- AUTOCITACE:§54 -->
+
+> **§ 54**
+>
+> *###### Důkaz ohledáním*
+>
+> *(1) Vlastník nebo uživatel věci nebo ten, kdo má věc u sebe, je povinen předložit ji správnímu orgánu nebo strpět ohledání věci na místě. Správní orgán o tom vydá usnesení, jež se oznamuje pouze osobě uvedené ve větě první. Hrozí-li nebezpečí z prodlení, postupuje se podle § 138.*
+>
+> *(2) Ohledání nelze provést nebo může být osobou uvedenou v odstavci 1 odepřeno z důvodů, pro které nesmí být svědek vyslechnut nebo pro které je svědek oprávněn výpověď odepřít (§ 55 odst. 2 až 4).*
+>
+> *(3) O ohledání na místě správní orgán vyrozumí též toho, kdo je oprávněn s předmětem ohledání nakládat, nejedná-li se o osobu, které se usnesení oznamuje podle odstavce 1.*
+>
+> *(4) Správní orgán může k účasti na ohledání přizvat nestranné osoby, aby zajistil jejich přítomnost při provádění důkazu. Tyto osoby nemají práva ani povinnosti účastníků.*
+
+
 #### Povinnost strpění (odst. 1)
 
 > *Vlastník nebo uživatel věci nebo ten, kdo má věc u sebe, je povinen předložit ji správnímu orgánu nebo strpět ohledání věci na místě. Správní orgán o tom vydá usnesení (...). Hrozí-li nebezpečí z prodlení, postupuje se podle § 138.*
@@ -288,6 +428,24 @@ Orgán vyrozumí i toho, kdo je **oprávněn s předmětem nakládat**, pokud to
 Orgán může přizvat **nestranné osoby** (typicky sousedé, dva zaměstnanci orgánu) k zajištění objektivity. **Nemají práva ani povinnosti účastníků**.
 
 ### § 55 — Důkaz SVĚDECKOU VÝPOVĚDÍ
+
+
+<!-- AUTOCITACE:§55 -->
+
+> **§ 55**
+>
+> *###### Důkaz svědeckou výpovědí*
+>
+> *(1) Každý, kdo není účastníkem, je povinen vypovídat jako svědek; musí vypovídat pravdivě a nesmí nic zamlčet.*
+>
+> *(2) Svědek nesmí být vyslýchán o utajovaných informacích chráněných zvláštním zákonem, které je povinen zachovat v tajnosti, ledaže byl této povinnosti příslušným orgánem zproštěn.*
+>
+> *(3) Svědek nesmí být vyslýchán též tehdy, jestliže by svou výpovědí porušil státem uloženou nebo uznanou povinnost mlčenlivosti, ledaže byl této povinnosti příslušným orgánem nebo tím, v jehož zájmu tuto povinnost má, zproštěn.*
+>
+> *(4) Výpověď může odepřít ten, kdo by jí způsobil sobě nebo osobě blízké26) nebezpečí stíhání pro trestný čin nebo správní delikt.*
+>
+> *(5) Správní orgán svědka před výslechem poučí o důvodech, pro které nesmí být vyslýchán, o právu odepřít výpověď, o jeho povinnosti vypovídat pravdivě a nic nezamlčet a o právních následcích nepravdivé nebo neúplné výpovědi.*
+
 
 #### Obecná povinnost (odst. 1)
 
@@ -316,6 +474,18 @@ Před výslechem orgán svědka POUČÍ:
 
 ### § 56 — Důkaz ZNALECKÝM POSUDKEM
 
+
+<!-- AUTOCITACE:§56 -->
+
+> **§ 56**
+>
+> *###### Důkaz znaleckým posudkem*
+>
+> *Závisí-li rozhodnutí na posouzení skutečností, k nimž je třeba odborných znalostí, které úřední osoby nemají, a jestliže odborné posouzení skutečností nelze opatřit od jiného správního orgánu, správní orgán usnesením ustanoví znalce. Usnesení se oznamuje pouze znalci. O zamýšleném ustanovení znalce, popřípadě o ustanovení znalce správní orgán vhodným způsobem účastníky vyrozumí. Správní orgán znalci uloží, aby posudek vypracoval písemně a předložil mu jej ve lhůtě, kterou současně určí. Může znalce také vyslechnout.*
+>
+> *##### Předběžná otázka*
+
+
 > *Závisí-li rozhodnutí na posouzení skutečností, k nimž je třeba odborných znalostí, které úřední osoby nemají, a jestliže odborné posouzení skutečností nelze opatřit od jiného správního orgánu, správní orgán usnesením ustanoví znalce. (...)*
 
 #### Hierarchie odborného posouzení
@@ -336,6 +506,26 @@ Orgán postupuje **kaskádově**:
 > ⚠ SŘ neupravuje **soukromý znalecký posudek** explicitně (na rozdíl od OSŘ § 127a, který ho připustil v r. 2012 se stejnou důkazní silou jako oficiální posudek). Ve správním řízení se posudek předložený účastníkem hodnotí jako **listinný důkaz** + případně jako **odborné vyjádření**, ale **bez procesních záruk** oficiálního ustanovení. Orgán z něj může čerpat orientaci, ale nemůže ho použít jako exkluzivní podklad.
 
 ### § 57 — Předběžná otázka
+
+
+<!-- AUTOCITACE:§57 -->
+
+> **§ 57**
+>
+> *(1) Jestliže vydání rozhodnutí závisí na řešení otázky, již nepřísluší správnímu orgánu rozhodnout a o které nebylo dosud pravomocně rozhodnuto, správní orgán*
+>
+> *- a) může dát podnět k zahájení řízení před příslušným správním orgánem nebo jiným orgánem veřejné moci; v případech stanovených zákonem je správní orgán povinen takový podnět dát, nebo*
+>
+> *- b) může vyzvat účastníka, popřípadě jinou osobu, aby podala žádost o zahájení řízení před příslušným správním orgánem nebo jiným orgánem veřejné moci ve lhůtě, kterou správní orgán určí, nebo*
+>
+> *- c) si o ní může učinit úsudek; správní orgán si však nemůže učinit úsudek o tom, zda byl spáchán trestný čin, přestupek nebo jiný správní delikt a kdo za něj odpovídá, ani o otázkách osobního stavu.*
+>
+> *(2) Probíhá-li před příslušným správním orgánem nebo před jiným příslušným orgánem veřejné moci řízení o předběžné otázce nebo jestliže dal správní orgán k takovému řízení podnět podle odstavce 1 písm. a) či učinil výzvu podle odstavce 1 písm. b), postupuje správní orgán podle § 64. Pokud řízení na podnět správního orgánu nebylo zahájeno nebo nebyla podána žádost o zahájení řízení v určené lhůtě, lze v řízení pokračovat.*
+>
+> *(3) Rozhodnutím příslušného orgánu o předběžné otázce, které je pravomocné, popřípadě předběžně vykonatelné, je správní orgán vázán.*
+>
+> *(4) Jestliže vydání rozhodnutí závisí na řešení otázky, k jejímuž řešení je správní orgán příslušný, o níž však nelze rozhodnout ve společném řízení, provede správní orgán nejprve řízení o této předběžné otázce, je-li oprávněn zahájit řízení z moci úřední, popřípadě vyzve toho, kdo je oprávněn podat žádost, aby tak učinil.*
+
 
 #### Tři možnosti orgánu (odst. 1)
 
@@ -373,6 +563,16 @@ Pokud orgán **je sám příslušný** k rozhodnutí předběžné otázky, ale 
 
 ### § 58 — Úvodní pravidlo proporcionality
 
+
+<!-- AUTOCITACE:§58 -->
+
+> **§ 58**
+>
+> *###### Úvodní ustanovení*
+>
+> *Správní orgán užije zajišťovací prostředky (§ 59 až 63 a § 147) pouze v případech, kdy to vyžaduje, a v rozsahu, v jakém to vyžaduje zajištění průběhu a účelu řízení.*
+
+
 > *Správní orgán užije zajišťovací prostředky (§ 59 až 63 a § 147) pouze v případech, kdy to vyžaduje, a v rozsahu, v jakém to vyžaduje zajištění průběhu a účelu řízení.*
 
 **Zásada proporcionality** specificky pro zajišťovací prostředky. Klíčový důsledek: orgán musí v rozhodnutí o uložení zajišťovacího prostředku **odůvodnit nutnost a rozsah**. Bez toho jde o porušení § 58 + § 2 odst. 3.
@@ -385,6 +585,16 @@ Pokud orgán **je sám příslušný** k rozhodnutí předběžné otázky, ale 
 - § 63 — vykázání
 
 ### § 59 — Předvolání
+
+
+<!-- AUTOCITACE:§59 -->
+
+> **§ 59**
+>
+> *###### Předvolání*
+>
+> *Správní orgán předvolá osobu, jejíž osobní účast při úkonu v řízení je k provedení úkonu nutná. Předvolání musí být písemné a doručuje se do vlastních rukou s dostatečným, zpravidla nejméně pětidenním předstihem. V předvolání musí být uvedeno, kdo, kdy, kam, v jaké věci a z jakého důvodu se má dostavit a jaké jsou právní následky v případě, že se nedostaví. Předvolaný je povinen dostavit se včas na určené místo; nemůže-li tak ze závažných důvodů učinit, je povinen bezodkladně se s uvedením důvodů správnímu orgánu omluvit.*
+
 
 > *Správní orgán předvolá osobu, jejíž osobní účast při úkonu v řízení je k provedení úkonu nutná. Předvolání musí být písemné a doručuje se do vlastních rukou s dostatečným, zpravidla nejméně pětidenním předstihem.*
 
@@ -404,6 +614,18 @@ Povinnost předvolaného:
 
 ### § 60 — Předvedení
 
+
+<!-- AUTOCITACE:§60 -->
+
+> **§ 60**
+>
+> *###### Předvedení*
+>
+> *(1) Jestliže se účastník nebo svědek bez náležité omluvy nebo bez dostatečných důvodů na předvolání nedostaví, může správní orgán vydat usnesení, na jehož základě bude účastník nebo svědek předveden. Písemné vyhotovení usnesení se doručuje orgánům, které mají předvedení provést; úřední osoby, které plní úkoly těchto orgánů, doručí usnesení předváděnému.*
+>
+> *(2) Předvedení na požádání správního orgánu zajišťuje Policie České republiky nebo jiný ozbrojený sbor, o němž to stanoví zvláštní zákon. V řízení před orgány obcí zajišťuje předvedení též obecní policie.*
+
+
 #### Podmínky (odst. 1)
 
 Pokud se účastník / svědek bez náležité omluvy / dostatečných důvodů **nedostaví** → orgán může vydat **usnesení o předvedení**.
@@ -414,6 +636,22 @@ Pokud se účastník / svědek bez náležité omluvy / dostatečných důvodů 
 - **Obecní policie** — v řízení před orgány obcí.
 
 ### § 61 — PŘEDBĚŽNÉ OPATŘENÍ
+
+
+<!-- AUTOCITACE:§61 -->
+
+> **§ 61**
+>
+> *###### Předběžné opatření*
+>
+> *(1) Správní orgán může z moci úřední nebo na požádání účastníka před skončením řízení rozhodnutím nařídit předběžné opatření, je-li třeba, aby byly zatímně upraveny poměry účastníků, nebo je-li obava, že by bylo ohroženo provedení exekuce. Předběžným opatřením lze účastníkovi nebo jiné osobě přikázat, aby něco vykonal, něčeho se zdržel nebo něco strpěl, anebo zajistit věc, která může sloužit jako důkazní prostředek, nebo věc, která může být předmětem exekuce.*
+>
+> *(2) O požádání účastníka o předběžné opatření musí být rozhodnuto do 10 dnů. Rozhodnutí se oznamuje jen tomu, koho se týká, popřípadě též jinému účastníkovi, který o jeho vydání požádal. Odvolání proti rozhodnutí o nařízení předběžného opatření nemá odkladný účinek; může je podat pouze účastník, kterému se rozhodnutí oznamuje.*
+>
+> *(3) Správní orgán předběžné opatření zruší rozhodnutím bezodkladně poté, co pomine důvod, pro který bylo nařízeno. Neučiní-li tak, pozbývá předběžné opatření účinnosti dnem, kdy se rozhodnutí ve věci stalo vykonatelným nebo nabylo jiných právních účinků.*
+>
+> *(4) Osoba, které bylo oznámeno rozhodnutí o zajištění věci, je povinna tuto věc správnímu orgánu vydat. Není-li věc v určené lhůtě správnímu orgánu vydána, může být tomu, kdo ji má u sebe, odňata. O vydání nebo odnětí zajištěné věci se sepíše protokol, v němž se uvede též popis zajištěné věci. Osobě, která věc vydala nebo jíž byla věc odňata, správní orgán nebo úřední osoba provádějící odnětí věci vystaví potvrzení. Pozbylo-li předběžné opatření účinnosti, vrátí se věc osobě, které byla zajištěna, nemůže-li být předmětem exekuce.*
+
 
 #### Podmínky (odst. 1)
 
@@ -445,6 +683,32 @@ Orgán **z moci úřední nebo na požádání účastníka před skončením ř
 Osoba, jíž bylo oznámeno → **POVINNOST VYDAT věc**. Není-li vydána → **odnětí**. Protokol s popisem věci, potvrzení. Po zániku PO → vrácení (krom exekučního předmětu).
 
 ### § 62 — POŘÁDKOVÁ POKUTA
+
+
+<!-- AUTOCITACE:§62 -->
+
+> **§ 62**
+>
+> *###### Pořádková pokuta*
+>
+> *(1) Správní orgán může rozhodnutím uložit pořádkovou pokutu až do výše 50 000 Kč tomu, kdo v řízení závažně ztěžuje jeho postup tím, že*
+>
+> *- a) se bez náležité omluvy nedostaví na předvolání ke správnímu orgánu,*
+>
+> *- b) navzdory předchozímu napomenutí ruší pořádek, nebo*
+>
+> *- c) neuposlechne pokynu úřední osoby.*
+>
+> *(2) Pořádkovou pokutu podle odstavce 1 lze uložit i tomu, kdo učiní hrubě urážlivé podání.*
+>
+> *(3) Při stanovení výše pořádkové pokuty dbá správní orgán, aby nebyla v hrubém nepoměru k závažnosti následku a k významu předmětu řízení; pokutu lze ukládat i opakovaně.*
+>
+> *(4) Příjem z pořádkových pokut je příjmem rozpočtu, ze kterého je hrazena činnost správního orgánu, který pokutu uložil.*
+>
+> *(5) Účastníkem řízení o uložení pořádkové pokuty je pouze osoba, které má být pořádková pokuta uložena. Prvním úkonem v řízení ve věci uložení pořádkové pokuty je vydání rozhodnutí. Odvolání proti rozhodnutí o uložení pořádkové pokuty má vždy odkladný účinek.*
+>
+> *(6) Pravomocně uloženou pořádkovou pokutu může správní orgán, který ji uložil, novým rozhodnutím prominout nebo snížit. Přitom správní orgán přihlédne zejména k tomu, jak osoba, které byla pořádková pokuta uložena, plní svoje procesní povinnosti v dalším průběhu řízení.*
+
 
 #### Výše a důvody (odst. 1)
 
@@ -485,6 +749,18 @@ Orgán, který pokutu uložil, ji může **PROMINOUT NEBO SNÍŽIT** novým rozh
 
 ### § 63 — Vykázání z místa konání úkonu
 
+
+<!-- AUTOCITACE:§63 -->
+
+> **§ 63**
+>
+> *###### Vykázání z místa konání úkonu*
+>
+> *(1) Toho, kdo nepřístojným chováním ruší pořádek při ústním jednání nebo ohledání na místě, popřípadě při jiném úkonu, může správní orgán po předchozím upozornění vykázat z místa, kde se úkon koná. Usnesení se vyhlašuje ústně. Správní orgán poučí vykazovanou osobu o následcích neuposlechnutí. Vykázání vynucují tytéž orgány, které provádějí předvedení podle § 60.*
+>
+> *(2) Jestliže úkon není uskutečňován v úředních místnostech správního orgánu, nelze z místa úkonu vykázat osobu, která má vlastnické či užívací právo k prostoru, kde se úkon koná.*
+
+
 > *(1) Toho, kdo nepřístojným chováním ruší pořádek při ústním jednání nebo ohledání na místě, popřípadě při jiném úkonu, může správní orgán po předchozím upozornění vykázat z místa, kde se úkon koná. Usnesení se vyhlašuje ústně. (...)*
 
 - Po **předchozím upozornění**.
@@ -499,6 +775,38 @@ Orgán, který pokutu uložil, ji může **PROMINOUT NEBO SNÍŽIT** novým rozh
 ## Díl 5 — Přerušení a zastavení řízení (§§ 64–66)
 
 ### § 64 — PŘERUŠENÍ řízení
+
+
+<!-- AUTOCITACE:§64 -->
+
+> **§ 64**
+>
+> *(1) Správní orgán může řízení usnesením přerušit*
+>
+> *- a) současně s výzvou k odstranění nedostatků žádosti podle § 45 odst. 2,*
+>
+> *- b) současně s výzvou k zaplacení správního poplatku, který je spojen s určitým úkonem v řízení, a s určením lhůty k jeho zaplacení; v řízení pokračuje, jakmile mu byl předložen doklad o zaplacení správního poplatku,*
+>
+> *- c) probíhá-li řízení o předběžné otázce nebo správní orgán*
+>
+> *- 1. dal k takovému řízení podnět podle § 57 odst. 1 písm. a),*
+>
+> *- 2. učinil výzvu podle § 57 odst. 1 písm. b), anebo*
+>
+> *- 3. učinil úkon podle § 57 odst. 4;*
+>
+> *za úkon správního orgánu se považuje i předání písemnosti k doručení podle § 19 a vyvěšení písemnosti na úřední desce,*
+>
+> *- d) do doby ustanovení opatrovníka procesně nezpůsobilému účastníkovi,*
+>
+> *- e) z dalších důvodů stanovených zákonem.*
+>
+> *(2) V řízení o žádosti přeruší správní orgán řízení na požádání žadatele; jestliže je žadatelů více, může tak učinit jen za podmínky, že s přerušením souhlasí všichni.*
+>
+> *(3) V řízení z moci úřední může správní orgán, není-li to v rozporu s veřejným zájmem, na požádání účastníka, pokud s tím všichni účastníci uvedení v § 27 odst. 1 písm. b) souhlasí, z důležitých důvodů přerušit řízení.*
+>
+> *(4) Řízení lze přerušit na dobu nezbytně nutnou. Při postupu podle odstavců 2 a 3 správní orgán při určení doby přerušení přihlíží k návrhu účastníka.*
+
 
 #### Důvody přerušení (odst. 1)
 
@@ -520,6 +828,18 @@ e) **Z dalších důvodů** stanovených zákonem.
 
 ### § 65 — Účinky přerušení a pokračování
 
+
+<!-- AUTOCITACE:§65 -->
+
+> **§ 65**
+>
+> *(1) Po dobu přerušení řízení činí správní orgán a účastníci úkony, kterých je zapotřebí k odstranění důvodů přerušení. Správní orgán může rovněž činit úkony podle § 137 odst. 1 a § 138. Lhůty týkající se provádění úkonů v řízení neběží. Lhůta pro vydání rozhodnutí ve věci přestává běžet již dnem, kdy nastal některý z důvodů uvedených v § 64 odst. 1, a neskončí dříve než 15 dnů ode dne, kdy přerušení řízení skončilo.*
+>
+> *(2) Správní orgán pokračuje v řízení, jakmile odpadne překážka, pro niž bylo řízení přerušeno, nebo uplyne lhůta určená správním orgánem podle § 64 odst. 2 nebo 3. Bylo-li řízení přerušeno podle § 64 odst. 2 nebo 3, může v řízení správní orgán pokračovat též na požádání účastníka, který požádal o jeho přerušení. O tom, že v řízení pokračuje, vyrozumí správní orgán účastníky a provede o tom záznam do spisu.*
+>
+> *##### Zastavení řízení*
+
+
 #### Co se děje během přerušení (odst. 1)
 
 - Orgán a účastníci činí **úkony k odstranění důvodů**.
@@ -534,6 +854,32 @@ e) **Z dalších důvodů** stanovených zákonem.
 - Orgán **vyrozumí účastníky** + záznam do spisu.
 
 ### § 66 — ZASTAVENÍ řízení
+
+
+<!-- AUTOCITACE:§66 -->
+
+> **§ 66**
+>
+> *(1) Řízení o žádosti správní orgán usnesením zastaví, jestliže*
+>
+> *- a) žadatel vzal svou žádost zpět; jestliže je žadatelů více, musí se zpětvzetím souhlasit všichni žadatelé; ve sporném řízení správní orgán řízení nezastaví, pokud se zpětvzetím odpůrce z vážných důvodů nesouhlasí,*
+>
+> *- b) byla podána žádost zjevně právně nepřípustná,*
+>
+> *- c) žadatel v určené lhůtě neodstranil podstatné vady žádosti, které brání pokračování v řízení,*
+>
+> *- d) žadatel ve stanovené lhůtě nezaplatil správní poplatek, k jehož zaplacení byl v řízení povinen,*
+>
+> *- e) zjistí překážku řízení podle § 48 odst. 1,*
+>
+> *- f) žadatel zemřel nebo zanikl, pokud v řízení nepokračují právní nástupci nebo pokud není více žadatelů, anebo zanikla-li věc nebo právo, kterého se řízení týká; řízení je zastaveno dnem, kdy se správní orgán o úmrtí nebo zániku žadatele nebo o zániku věci nebo práva dozvěděl,*
+>
+> *- g) žádost se stala zjevně bezpředmětnou,*
+>
+> *- h) z dalších důvodů stanovených zákonem.*
+>
+> *(2) Řízení vedené z moci úřední správní orgán usnesením zastaví, jestliže zjistí, že u některého správního orgánu již před zahájením tohoto řízení bylo zahájeno řízení v téže věci, nebo jestliže v řízení, ve kterém nemohou pokračovat právní nástupci, odpadl jeho důvod, zejména jestliže účastník zemřel nebo zanikl, anebo zanikla věc nebo právo, jehož se řízení týká. Toto usnesení se pouze poznamená do spisu.*
+
 
 #### Zastavení řízení o žádosti (odst. 1) — 8 důvodů
 

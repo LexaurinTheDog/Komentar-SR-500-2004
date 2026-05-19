@@ -6,6 +6,18 @@
 
 ### § 1 — Předmět úpravy (subsidiarita SŘ)
 
+
+<!-- AUTOCITACE:§1 -->
+
+> **§ 1**
+>
+> *(1) Tento zákon upravuje postup orgánů moci výkonné, orgánů územních samosprávných celků1) a jiných orgánů, právnických a fyzických osob, pokud vykonávají působnost v oblasti veřejné správy (dále jen „správní orgán“).*
+>
+> *(2) Tento zákon nebo jeho jednotlivá ustanovení se použijí, nestanoví-li zvláštní zákon jiný postup.*
+>
+> *(3) Tento zákon se nevztahuje na právní jednání prováděná správními orgány a na vztahy mezi orgány téhož územního samosprávného celku při výkonu samostatné působnosti.*
+
+
 > *(1) Tento zákon upravuje postup orgánů moci výkonné, orgánů územních samosprávných celků a jiných orgánů, právnických a fyzických osob, pokud vykonávají působnost v oblasti veřejné správy (dále jen „správní orgán").*
 >
 > *(2) Tento zákon nebo jeho jednotlivá ustanovení se použijí, nestanoví-li zvláštní zákon jiný postup.*
@@ -58,6 +70,20 @@ SŘ **se NEVZTAHUJE** na:
 
 ### § 2 — Zásada legality + zákazu zneužití pravomoci + ochrany dobré víry + souladu s veřejným zájmem
 
+
+<!-- AUTOCITACE:§2 -->
+
+> **§ 2**
+>
+> *(1) Správní orgán postupuje v souladu se zákony a ostatními právními předpisy, jakož i mezinárodními smlouvami, které jsou součástí právního řádu (dále jen „právní předpisy“). Kde se v tomto zákoně mluví o zákoně, rozumí se tím též mezinárodní smlouva, která je součástí právního řádu.*
+>
+> *(2) Správní orgán uplatňuje svou pravomoc pouze k těm účelům, k nimž mu byla zákonem nebo na základě zákona svěřena, a v rozsahu, v jakém mu byla svěřena.*
+>
+> *(3) Správní orgán šetří práva nabytá v dobré víře, jakož i oprávněné zájmy osob, jichž se činnost správního orgánu v jednotlivém případě dotýká (dále jen „dotčené osoby“), a může zasahovat do těchto práv jen za podmínek stanovených zákonem a v nezbytném rozsahu.*
+>
+> *(4) Správní orgán dbá, aby přijaté řešení bylo v souladu s veřejným zájmem a aby odpovídalo okolnostem daného případu, jakož i na to, aby při rozhodování skutkově shodných nebo podobných případů nevznikaly nedůvodné rozdíly.*
+
+
 > *(1) Správní orgán postupuje v souladu se zákony a ostatními právními předpisy, jakož i mezinárodními smlouvami, které jsou součástí právního řádu (dále jen „právní předpisy"). Kde se v tomto zákoně mluví o zákoně, rozumí se tím též mezinárodní smlouva, která je součástí právního řádu.*
 >
 > *(2) Správní orgán uplatňuje svou pravomoc pouze k těm účelům, k nimž mu byla zákonem nebo na základě zákona svěřena, a v rozsahu, v jakém mu byla svěřena.*
@@ -104,6 +130,14 @@ Dvě věci v jednom ustanovení:
 
 ### § 3 — Zásada MATERIÁLNÍ PRAVDY (zjištění skutkového stavu)
 
+
+<!-- AUTOCITACE:§3 -->
+
+> **§ 3**
+>
+> *Nevyplývá-li ze zákona něco jiného, postupuje správní orgán tak, aby byl zjištěn stav věci, o němž nejsou důvodné pochybnosti, a to v rozsahu, který je nezbytný pro soulad jeho úkonu s požadavky uvedenými v § 2.*
+
+
 > *Nevyplývá-li ze zákona něco jiného, postupuje správní orgán tak, aby byl zjištěn stav věci, o němž nejsou důvodné pochybnosti, a to v rozsahu, který je nezbytný pro soulad jeho úkonu s požadavky uvedenými v § 2.*
 
 **Výklad:**
@@ -120,6 +154,20 @@ Klíčový rozdíl od **OSŘ § 120** (zásada projednací — strany označují
 ---
 
 ### § 4 — Zásada SLUŽBY VEŘEJNOSTI + POUČOVACÍ POVINNOSTI
+
+
+<!-- AUTOCITACE:§4 -->
+
+> **§ 4**
+>
+> *(1) Veřejná správa je službou veřejnosti. Každý, kdo plní úkoly vyplývající z působnosti správního orgánu, má povinnost se k dotčeným osobám chovat zdvořile a podle možností jim vycházet vstříc.*
+>
+> *(2) Správní orgán v souvislosti se svým úkonem poskytne dotčené osobě přiměřené poučení o jejích právech a povinnostech, je-li to vzhledem k povaze úkonu a osobním poměrům dotčené osoby potřebné.*
+>
+> *(3) Správní orgán s dostatečným předstihem uvědomí dotčené osoby o úkonu, který učiní, je-li to potřebné k hájení jejich práv a neohrozí-li to účel úkonu.*
+>
+> *(4) Správní orgán umožní dotčeným osobám uplatňovat jejich práva a oprávněné zájmy.*
+
 
 > *(1) Veřejná správa je službou veřejnosti. Každý, kdo plní úkoly vyplývající z působnosti správního orgánu, má povinnost se k dotčeným osobám chovat zdvořile a podle možností jim vycházet vstříc.*
 >
@@ -171,6 +219,14 @@ Záruka procesní akcesority. Konkrétně: účast u úkonů (§ 49 odst. 2), na
 
 ### § 5 — Zásada SMÍRNÉHO ŘEŠENÍ ROZPORŮ
 
+
+<!-- AUTOCITACE:§5 -->
+
+> **§ 5**
+>
+> *Pokud to povaha projednávané věci umožňuje, pokusí se správní orgán o smírné odstranění rozporů, které brání řádnému projednání a rozhodnutí dané věci.*
+
+
 > *Pokud to povaha projednávané věci umožňuje, pokusí se správní orgán o smírné odstranění rozporů, které brání řádnému projednání a rozhodnutí dané věci.*
 
 **Výklad:**
@@ -192,6 +248,16 @@ Smír vs. veřejnoprávní smlouva — viz [kap. 12](12-cast5-verejnopravni-smlo
 ---
 
 ### § 6 — Zásada RYCHLOSTI + HOSPODÁRNOSTI
+
+
+<!-- AUTOCITACE:§6 -->
+
+> **§ 6**
+>
+> *(1) Správní orgán vyřizuje věci bez zbytečných průtahů. Nečiní-li správní orgán úkony v zákonem stanovené lhůtě nebo ve lhůtě přiměřené, není-li zákonná lhůta stanovena, použije se ke zjednání nápravy ustanovení o ochraně před nečinností (§ 80).*
+>
+> *(2) Správní orgán postupuje tak, aby nikomu nevznikaly zbytečné náklady, a dotčené osoby co možná nejméně zatěžuje. Správní orgán opatřuje podklady přednostně s využitím úřední evidence, do níž má přístup. Podklady od dotčené osoby vyžaduje jen tehdy, stanoví-li tak právní předpis.*
+
 
 > *(1) Správní orgán vyřizuje věci bez zbytečných průtahů. Nečiní-li správní orgán úkony v zákonem stanovené lhůtě nebo ve lhůtě přiměřené, není-li zákonná lhůta stanovena, použije se ke zjednání nápravy ustanovení o ochraně před nečinností (§ 80).*
 >
@@ -226,6 +292,16 @@ Trojí požadavek:
 
 ### § 7 — Zásada ROVNOSTI účastníků a NESTRANNOSTI
 
+
+<!-- AUTOCITACE:§7 -->
+
+> **§ 7**
+>
+> *(1) Dotčené osoby mají při uplatňování svých procesních práv rovné postavení. Správní orgán postupuje vůči dotčeným osobám nestranně a vyžaduje od všech dotčených osob plnění jejich procesních povinností rovnou měrou.*
+>
+> *(2) Tam, kde by rovnost dotčených osob mohla být ohrožena, správní orgán učiní opatření potřebná k jejímu zajištění.*
+
+
 > *(1) Dotčené osoby mají při uplatňování svých procesních práv rovné postavení. Správní orgán postupuje vůči dotčeným osobám nestranně a vyžaduje od všech dotčených osob plnění jejich procesních povinností rovnou měrou.*
 >
 > *(2) Tam, kde by rovnost dotčených osob mohla být ohrožena, správní orgán učiní opatření potřebná k jejímu zajištění.*
@@ -252,6 +328,16 @@ Pozitivní povinnost orgánu **vyrovnávat strukturální nerovnosti**:
 ---
 
 ### § 8 — Zásada SOULADU postupů (vzájemné koordinace) + DOBRÉ SPRÁVY
+
+
+<!-- AUTOCITACE:§8 -->
+
+> **§ 8**
+>
+> *(1) Správní orgány dbají vzájemného souladu všech postupů, které probíhají současně a souvisejí s týmiž právy nebo povinnostmi dotčené osoby. Na to, že současně probíhá více takových postupů u různých správních orgánů nebo u jiných orgánů veřejné moci, je dotčená osoba povinna správní orgány bezodkladně upozornit.*
+>
+> *(2) Správní orgány vzájemně spolupracují v zájmu dobré správy.*
+
 
 > *(1) Správní orgány dbají vzájemného souladu všech postupů, které probíhají současně a souvisejí s týmiž právy nebo povinnostmi dotčené osoby. Na to, že současně probíhá více takových postupů u různých správních orgánů nebo u jiných orgánů veřejné moci, je dotčená osoba povinna správní orgány bezodkladně upozornit.*
 >

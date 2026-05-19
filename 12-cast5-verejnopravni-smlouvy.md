@@ -18,6 +18,22 @@ VPS je institut moderní veřejné správy, který přesahuje klasické dichotom
 
 ## § 159 — Definice a obecná pravidla
 
+
+<!-- AUTOCITACE:§159 -->
+
+> **§ 159**
+>
+> *(1) Veřejnoprávní smlouva je dvoustranný nebo vícestranný úkon, který zakládá, mění nebo ruší práva a povinnosti v oblasti veřejného práva.*
+>
+> *(2) Veřejnoprávní smlouva nesmí být v rozporu s právními předpisy, nesmí je obcházet a musí být v souladu s veřejným zájmem.*
+>
+> *(3) Uzavření veřejnoprávní smlouvy, jejíž stranou je správní orgán, nesmí snižovat důvěryhodnost veřejné správy, musí být účelné a správní orgán musí mít při jejím uzavírání za cíl plnění úkolů veřejné správy.*
+>
+> *(4) Veřejnoprávní smlouva se vždy posuzuje podle svého skutečného obsahu.*
+>
+> *### Druhy veřejnoprávních smluv*
+
+
 ### (1) Definice
 
 > *Veřejnoprávní smlouva je dvoustranný nebo vícestranný úkon, který zakládá, mění nebo ruší práva a povinnosti v oblasti veřejného práva.*
@@ -52,6 +68,24 @@ Pokud je stranou **orgán**:
 **Princip materiálního posouzení obsahu** — orgán nehledí na nadepsání. Pokud strany pojmenovaly úkon „smlouva o financování projektu" a fakticky obsahuje uložení povinnosti, posuzuje se jako VPS.
 
 ## § 160 — KOORDINAČNÍ VPS (mezi orgány)
+
+
+<!-- AUTOCITACE:§160 -->
+
+> **§ 160**
+>
+> *(1) Stát, veřejnoprávní korporace, jiné právnické osoby zřízené zákonem a právnické a fyzické osoby, pokud vykonávají zákonem nebo na základě zákona svěřenou působnost v oblasti veřejné správy, mohou za účelem plnění svých úkolů vzájemně uzavírat veřejnoprávní smlouvy.*
+>
+> *(2) Jednání za stát upravují zvláštní zákony.41)*
+>
+> *(3) Správní orgány, které jsou organizačními složkami státu, mohou ve vzájemných vztazích nebo ve vztazích s jinými orgány veřejné moci, popřípadě s jinými organizačními složkami státu použít ustanovení této části obdobně.*
+>
+> *(4) Spory z dohod uzavřených podle odstavce 3 řeší správní orgán nejblíže společně nadřízený správním orgánům, jež jsou smluvními stranami. Není-li takového správního orgánu, řeší spor v dohodě ústřední správní úřady nadřízené těmto správním orgánům.*
+>
+> *(5) Veřejnoprávní smlouvy, jejichž předmětem je výkon státní správy, mohou osoby uvedené v odstavci 1 vzájemně uzavírat, jen stanoví-li tak zvláštní zákon a jen se souhlasem nadřízeného správního orgánu; ten posuzuje veřejnoprávní smlouvu a její obsah z hlediska souladu s právními předpisy a veřejným zájmem.*
+>
+> *(6) Územní samosprávné celky mohou vzájemně uzavírat veřejnoprávní smlouvy týkající se plnění úkolů vyplývajících z jejich samostatné působnosti při výkonu veřejné moci, jen stanoví-li tak zvláštní zákon.*
+
 
 ### (1) Aktivní subjekty
 
@@ -91,6 +125,16 @@ V samosprávných věcech (mimo přenesenou působnost) mohou ÚSC vzájemně uz
 
 ## § 161 — SUBORDINAČNÍ VPS (orgán + soukromá osoba MÍSTO rozhodnutí)
 
+
+<!-- AUTOCITACE:§161 -->
+
+> **§ 161**
+>
+> *(1) Stanoví-li tak zvláštní zákon, může správní orgán uzavřít veřejnoprávní smlouvu s osobou, která by byla účastníkem podle § 27 odst. 1, kdyby probíhalo řízení podle části druhé, a to i namísto vydání rozhodnutí. Podmínkou účinnosti veřejnoprávní smlouvy je souhlas ostatních osob, které by byly účastníky podle § 27 odst. 2 nebo 3. Správní orgán přitom postupuje podle ustanovení o souhlasu třetích osob (§ 168).*
+>
+> *(2) Veřejnoprávní smlouvu lze uzavřít i po zahájení řízení podle části druhé. Poté, co veřejnoprávní smlouva byla uzavřena, správní orgán usnesením řízení zastaví.*
+
+
 ### (1) Princip
 
 > *Stanoví-li tak zvláštní zákon, může správní orgán uzavřít veřejnoprávní smlouvu s osobou, která by byla účastníkem podle § 27 odst. 1, kdyby probíhalo řízení podle části druhé, a to i namísto vydání rozhodnutí.*
@@ -113,6 +157,18 @@ VPS lze uzavřít **i po zahájení** standardního správního řízení podle 
 
 ## § 162 — VPS MEZI ÚČASTNÍKY (vícestranná dohoda navzájem)
 
+
+<!-- AUTOCITACE:§162 -->
+
+> **§ 162**
+>
+> *(1) Ti, kdo by byli účastníky podle § 27 odst. 1, kdyby probíhalo řízení podle části druhé, popřípadě ti, kdož účastníky takového řízení jsou, mohou uzavřít veřejnoprávní smlouvu týkající se převodu nebo způsobu výkonu jejich práv nebo povinností, nevylučuje-li to povaha věci nebo nestanoví-li zvláštní zákon jinak. K uzavření takové veřejnoprávní smlouvy je třeba souhlasu správního orgánu; ten posuzuje veřejnoprávní smlouvu a její obsah z hlediska souladu s právními předpisy a veřejným zájmem.*
+>
+> *(2) Pokud k veřejnoprávní smlouvě mezi účastníky přistoupí i správní orgán, pak platí, že k uzavření veřejnoprávní smlouvy udělil souhlas.*
+>
+> *### Uzavírání veřejnoprávní smlouvy*
+
+
 ### (1) Princip
 
 > *Ti, kdo by byli účastníky podle § 27 odst. 1, kdyby probíhalo řízení podle části druhé, popřípadě ti, kdož účastníky takového řízení jsou, mohou uzavřít veřejnoprávní smlouvu týkající se převodu nebo způsobu výkonu jejich práv nebo povinností, nevylučuje-li to povaha věci nebo nestanoví-li zvláštní zákon jinak. K uzavření takové veřejnoprávní smlouvy je třeba souhlasu správního orgánu; (...)*
@@ -132,6 +188,26 @@ VPS lze uzavřít **i po zahájení** standardního správního řízení podle 
 **Fikce souhlasu** — orgán svým přistoupením k VPS implicitně uděluje souhlas.
 
 ## § 163 — Návrh VPS (uzavírání)
+
+
+<!-- AUTOCITACE:§163 -->
+
+> **§ 163**
+>
+> *(1) Projev vůle učiněný v písemné formě, směřující k uzavření veřejnoprávní smlouvy, který je určen jedné nebo více určitým osobám, je návrhem na uzavření veřejnoprávní smlouvy (dále jen „návrh smlouvy“), jestliže je dostatečně určitý a vyplývá z něj vůle toho, kdo návrh činí (dále jen „navrhovatel smlouvy“), být jím v případě jeho přijetí vázán.*
+>
+> *(2) Návrh smlouvy působí od doby, kdy dojde osobě, které je určen. Návrh smlouvy může navrhovatel smlouvy zrušit, dojde-li projev o zrušení osobě, které je určen, dříve nebo alespoň současně s návrhem smlouvy; to platí, i když je návrh smlouvy neodvolatelný.*
+>
+> *(3) Návrh smlouvy zaniká*
+>
+> *- a) uplynutím lhůty, která v něm byla pro přijetí určena, pokud v ní návrh smlouvy nebyl přijat,*
+>
+> *- b) pokud nebyla určena lhůta pro přijetí, uplynutím přiměřené doby s přihlédnutím k povaze navrhované veřejnoprávní smlouvy a k rychlosti prostředků, které navrhovatel smlouvy použil pro zaslání návrhu smlouvy, nebo*
+>
+> *- c) okamžikem, kdy projev o odmítnutí návrhu smlouvy dojde navrhovateli smlouvy.*
+>
+> *(4) Zájemci mohou být k předložení návrhu smlouvy nebo k přijetí návrhu smlouvy vyzváni způsobem uvedeným v § 146 odst. 2. Ustanovení části třetí o řízení formou výběru platí obdobně.*
+
 
 ### (1) Návrh
 
@@ -160,6 +236,22 @@ Zájemci mohou být vyzváni k podání návrhu / přijetí návrhu podle **§ 1
 
 ## § 164 — Uzavření VPS
 
+
+<!-- AUTOCITACE:§164 -->
+
+> **§ 164**
+>
+> *(1) Veřejnoprávní smlouva musí být uzavřena písemně a projevy vůle všech smluvních stran musí být na téže listině.*
+>
+> *(2) Jsou-li smluvní strany přítomny současně, je veřejnoprávní smlouva uzavřena okamžikem připojení podpisu poslední smluvní strany. Nejsou-li smluvní strany přítomny současně, je veřejnoprávní smlouva uzavřena okamžikem, kdy návrh veřejnoprávní smlouvy opatřený podpisy ostatních osob, jimž byl určen, dojde navrhovateli smlouvy.*
+>
+> *(3) Jestliže zákon stanoví, že k uzavření veřejnoprávní smlouvy je třeba souhlasu správního orgánu, je veřejnoprávní smlouva uzavřena dnem, kdy tento souhlas nabude právní moci. Správní orgán, který dal souhlas k uzavření veřejnoprávní smlouvy, zveřejní veřejnoprávní smlouvu na své úřední desce.*
+>
+> *(4) Vyžaduje-li správní orgán překlad veřejnoprávní smlouvy týkající se záležitosti národnostních menšin a vyhotovené v jazyce příslušníků národnostní menšiny, náklady na překlad uhradí při splnění podmínek § 16 odst. 4 správní orgán.*
+>
+> *### Přezkoumání souladu veřejnoprávní smlouvy s právními předpisy*
+
+
 ### (1) Forma
 
 > *Veřejnoprávní smlouva musí být uzavřena písemně a projevy vůle všech smluvních stran musí být na téže listině.*
@@ -183,6 +275,28 @@ Zájemci mohou být vyzváni k podání návrhu / přijetí návrhu podle **§ 1
 Překlad VPS pro menšiny — náklady **hradí orgán** (analogie § 16/4).
 
 ## § 165 — PŘEZKUM souladu VPS s předpisy
+
+
+<!-- AUTOCITACE:§165 -->
+
+> **§ 165**
+>
+> *(1) Soulad veřejnoprávní smlouvy s právními předpisy lze přezkoumat z moci úřední. Strana veřejnoprávní smlouvy, která není správním orgánem, může dát podnět k provedení přezkumného řízení do 30 dnů ode dne, kdy se o důvodu zahájení přezkumného řízení dozvěděla.*
+>
+> *(2) Veřejnoprávní smlouvu, která byla uzavřena v rozporu s právními předpisy, správní orgán zruší.*
+>
+> *(3) Jestliže jsou v rozporu s právními předpisy jen některá ustanovení veřejnoprávní smlouvy, zruší se jen tato ustanovení, pokud z povahy veřejnoprávní smlouvy nebo z jejího obsahu anebo z okolností, za nichž byla uzavřena, nevyplývá, že je nelze oddělit od ostatních.*
+>
+> *(4) Zrušení veřejnoprávních smluv uzavřených podle § 160 nebo § 161 anebo zrušení jejich ustanovení se nedotýká úkonů učiněných vůči třetím osobám smluvní stranou při výkonu působnosti převzaté od jiné smluvní strany na základě této veřejnoprávní smlouvy. Po právní moci nebo předběžné vykonatelnosti rozhodnutí vydaného podle odstavce 2 nebo 3 přechází působnost v těchto věcech na správní orgány, které byly příslušné tyto úkony činit před uzavřením zrušené veřejnoprávní smlouvy, popřípadě na správní orgány, na něž příslušnost mezitím přešla v důsledku změny okolností rozhodných pro její určení. To platí obdobně i v případě zrušení souhlasu k uzavření veřejnoprávní smlouvy podle § 160.*
+>
+> *(5) U veřejnoprávních smluv uzavřených podle § 160 nebo § 161 je k přezkoumání souladu veřejnoprávní smlouvy s právními předpisy příslušný správní orgán oprávněný řešit spor z veřejnoprávní smlouvy (§ 169 odst. 1) a u veřejnoprávních smluv podle § 162 správní orgán nadřízený správnímu orgánu, jehož souhlasu je třeba k uzavření veřejnoprávní smlouvy.*
+>
+> *(6) Účastníky řízení podle odstavců 1 až 5 jsou smluvní strany a u veřejnoprávních smluv podle § 162 též správní orgán, jehož souhlasu je třeba k uzavření veřejnoprávní smlouvy.*
+>
+> *(7) Není-li v odstavcích 1 až 6 stanoveno jinak, platí pro přezkoumání souladu veřejnoprávní smlouvy s právními předpisy obdobně ustanovení o přezkumném řízení s tím, že správní orgán není vázán lhůtami uvedenými v § 96 odst. 1 a § 97 odst. 2; při určení účinků rozhodnutí se přiměřeně použije ustanovení § 99.*
+>
+> *### Změna obsahu veřejnoprávní smlouvy, výpověď a zrušení veřejnoprávní smlouvy*
+
 
 ### (1) Iniciace
 
@@ -222,6 +336,16 @@ Obdobně Hl. IX Části II (§§ 94–99), s tím že **orgán NENÍ VÁZÁN LH�
 
 ## § 166 — Změna a výpověď VPS
 
+
+<!-- AUTOCITACE:§166 -->
+
+> **§ 166**
+>
+> *(1) Změnit obsah veřejnoprávní smlouvy lze jen písemnou dohodou smluvních stran; bylo-li k uzavření smlouvy třeba souhlasu správního orgánu nebo třetí osoby, je tohoto souhlasu třeba i k uzavření této dohody; ustanovení § 164 odst. 3 platí obdobně.*
+>
+> *(2) Veřejnoprávní smlouvu lze vypovědět jen písemnou formou a jen tehdy, jestliže to bylo ve veřejnoprávní smlouvě smluvními stranami dohodnuto a jestliže byla dohodnuta výpovědní lhůta.*
+
+
 ### (1) Změna
 
 > *Změnit obsah veřejnoprávní smlouvy lze jen písemnou dohodou smluvních stran; bylo-li k uzavření smlouvy třeba souhlasu správního orgánu nebo třetí osoby, je tohoto souhlasu třeba i k uzavření této dohody; (...)*
@@ -241,6 +365,30 @@ Obdobně Hl. IX Části II (§§ 94–99), s tím že **orgán NENÍ VÁZÁN LH�
 Bez výslovného ujednání **NELZE vypovědět** — VPS váže až do splnění.
 
 ## § 167 — Zrušení VPS (návrh smluvní strany)
+
+
+<!-- AUTOCITACE:§167 -->
+
+> **§ 167**
+>
+> *(1) Smluvní strana může podat písemný návrh na zrušení veřejnoprávní smlouvy*
+>
+> *- a) bylo-li to ve veřejnoprávní smlouvě dohodnuto,*
+>
+> *- b) změní-li se podstatně poměry, které byly rozhodující pro stanovení obsahu veřejnoprávní smlouvy, a plnění této smlouvy nelze na smluvní straně z tohoto důvodu spravedlivě požadovat,*
+>
+> *- c) jestliže se veřejnoprávní smlouva dostala do rozporu s právními předpisy,*
+>
+> *- d) z důvodu ochrany veřejného zájmu, nebo*
+>
+> *- e) jestliže vyšly najevo skutečnosti, které existovaly v době uzavírání veřejnoprávní smlouvy a nebyly smluvní straně bez jejího zavinění známy, pokud tato strana prokáže, že by s jejich znalostí veřejnoprávní smlouvu neuzavřela.*
+>
+> *(2) Podá-li smluvní strana ze zákonem stanovených důvodů návrh na zrušení veřejnoprávní smlouvy a ostatní strany s ním vysloví souhlas, veřejnoprávní smlouva zaniká dnem, kdy písemný souhlas poslední ze smluvních stran došel smluvní straně, která návrh podala. Pokud bylo k uzavření veřejnoprávní smlouvy třeba souhlasu správního orgánu, vyžaduje se jeho souhlas i ke zrušení veřejnoprávní smlouvy.*
+>
+> *(3) Pokud některá ze stran se zrušením veřejnoprávní smlouvy nesouhlasí, může o zrušení veřejnoprávní smlouvy na žádost smluvní strany, která podala návrh podle odstavce 1, rozhodnout správní orgán příslušný podle § 169 odst. 1.*
+>
+> *### Souhlas třetích osob*
+
 
 ### (1) Důvody pro návrh na zrušení
 
@@ -262,6 +410,16 @@ Při nesouhlasu → **rozhoduje orgán příslušný podle § 169/1** (řeší j
 
 ## § 168 — Souhlas třetích osob
 
+
+<!-- AUTOCITACE:§168 -->
+
+> **§ 168**
+>
+> *Veřejnoprávní smlouva, nejde-li o veřejnoprávní smlouvu podle § 160, která se přímo dotýká práv nebo povinností třetí osoby, nabývá účinnosti teprve v okamžiku, kdy s ní tato osoba vysloví písemný souhlas. Není-li tento souhlas získán, může správní orgán místo uzavření veřejnoprávní smlouvy vydat rozhodnutí ve správním řízení, v němž využije podkladů získaných při přípravě veřejnoprávní smlouvy.*
+>
+> *### Závazky z veřejnoprávních smluv*
+
+
 > *Veřejnoprávní smlouva, nejde-li o veřejnoprávní smlouvu podle § 160, která se přímo dotýká práv nebo povinností třetí osoby, nabývá účinnosti teprve v okamžiku, kdy s ní tato osoba vysloví písemný souhlas. Není-li tento souhlas získán, může správní orgán místo uzavření veřejnoprávní smlouvy vydat rozhodnutí ve správním řízení, v němž využije podkladů získaných při přípravě veřejnoprávní smlouvy.*
 
 **Pravidlo:** VPS přímo dotýkající práv třetí osoby **nabývá účinnosti** jen s **PÍSEMNÝM SOUHLASEM** této osoby.
@@ -273,6 +431,28 @@ Při nesouhlasu → **rozhoduje orgán příslušný podle § 169/1** (řeší j
 **Výjimka:** VPS § 160 (mezi orgány) — souhlas třetích osob se nevyžaduje, neboť tyto VPS standardně neimpactují přímo soukromé osoby (jen rozdělují kompetence mezi orgány).
 
 ## § 169 — SPORY z VPS (kdo rozhoduje)
+
+
+<!-- AUTOCITACE:§169 -->
+
+> **§ 169**
+>
+> *(1) Spory z veřejnoprávní smlouvy rozhoduje*
+>
+> *- a) Ministerstvo vnitra, jde-li o veřejnoprávní smlouvu podle § 160 a je-li alespoň jednou ze smluvních stran kraj nebo jsou smluvními stranami obce s rozšířenou působností; Ministerstvo vnitra věc projedná s věcně příslušným ministerstvem nebo jiným věcně příslušným ústředním správním úřadem,*
+>
+> *- b) příslušný krajský úřad, jde-li o veřejnoprávní smlouvu podle § 160 a jsou-li smluvními stranami obce, které nejsou obcemi s rozšířenou působností, nepřevezme-li věc Ministerstvo vnitra,*
+>
+> *- c) správní orgán, který je společně nadřízený smluvním stranám, jde-li o jinou veřejnoprávní smlouvu podle § 160; není-li takového správního orgánu, řeší spor v dohodě ústřední správní úřady nadřízené správním orgánům, které jsou nadřízeny smluvním stranám,*
+>
+> *- d) správní orgán nadřízený správnímu orgánu, který je stranou veřejnoprávní smlouvy, jde-li o veřejnoprávní smlouvu podle § 161, nebo*
+>
+> *- e) správní orgán, který k jejímu uzavření udělil souhlas, jde-li o veřejnoprávní smlouvu podle § 162.*
+>
+> *(2) Proti rozhodnutí vydanému podle odstavce 1 nelze podat odvolání ani rozklad.*
+>
+> *### Obecné ustanovení*
+
 
 ### (1) Kompetence k řešení sporů
 
@@ -291,6 +471,14 @@ Při nesouhlasu → **rozhoduje orgán příslušný podle § 169/1** (řeší j
 **Definitivnost:** rozhodnutí o sporu **bez odvolání ani rozkladu**. Lze ale **přezkumné řízení** podle § 156/2 a žaloba ke správnímu soudu.
 
 ## § 170 — Subsidiární právo
+
+
+<!-- AUTOCITACE:§170 -->
+
+> **§ 170**
+>
+> *Při postupu podle této části se obdobně použijí ustanovení části první a přiměřeně ustanovení části druhé tohoto zákona; nevylučuje-li to povaha a účel veřejnoprávních smluv, použijí se přiměřeně ustanovení občanského zákoníku, s výjimkou ustanovení o neplatnosti právních jednání a relativní neúčinnosti, ustanovení o odstoupení od smlouvy a odstupném, ustanovení o změně v osobě dlužníka nebo věřitele, nejde-li o právní nástupnictví, ustanovení o postoupení smlouvy a o poukázce a ustanovení o započtení.*
+
 
 > *Při postupu podle této části se obdobně použijí ustanovení části první a přiměřeně ustanovení části druhé tohoto zákona; nevylučuje-li to povaha a účel veřejnoprávních smluv, použijí se přiměřeně ustanovení občanského zákoníku, s výjimkou ustanovení o neplatnosti právních jednání a relativní neúčinnosti, ustanovení o odstoupení od smlouvy a odstupném, ustanovení o změně v osobě dlužníka nebo věřitele, nejde-li o právní nástupnictví, ustanovení o postoupení smlouvy a o poukázce a ustanovení o započtení.*
 
