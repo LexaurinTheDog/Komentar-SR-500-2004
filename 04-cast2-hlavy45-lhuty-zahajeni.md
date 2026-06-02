@@ -51,8 +51,6 @@
 
 > **§ 40**
 >
-> *##### Počítání času*
->
 > *(1) Pokud je provedení určitého úkonu v řízení vázáno na lhůtu,*
 >
 > *- a) nezapočítává se do běhu lhůty den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin; v pochybnostech se za počátek lhůty považuje den následující po dni, o němž je jisto, že skutečnost rozhodující pro počátek běhu lhůty již nastala,*
@@ -64,13 +62,6 @@
 > *- d) je lhůta zachována, je-li posledního dne lhůty učiněno podání u věcně a místně příslušného správního orgánu anebo je-li v tento den podána poštovní zásilka adresovaná tomuto správnímu orgánu, která obsahuje podání, držiteli poštovní licence nebo zvláštní poštovní licence anebo osobě, která má obdobné postavení v jiném státě; nemůže-li účastník z vážných důvodů učinit podání u věcně a místně příslušného správního orgánu, je lhůta zachována, jestliže je posledního dne lhůty učiněno podání u správního orgánu vyššího stupně; tento správní orgán podání bezodkladně postoupí věcně a místně příslušnému správnímu orgánu.*
 >
 > *(2) V pochybnostech se lhůta považuje za zachovanou, dokud se neprokáže opak.*
-
-
-> *(1) Pokud je provedení určitého úkonu v řízení vázáno na lhůtu,*
-> *a) nezapočítává se do běhu lhůty den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin; v pochybnostech se za počátek lhůty považuje den následující po dni, o němž je jisto, že skutečnost rozhodující pro počátek běhu lhůty již nastala,*
-> *b) končí lhůty určené podle týdnů, měsíců nebo let uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty; není-li v měsíci takový den, končí lhůta posledním dnem měsíce,*
-> *c) připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší příští pracovní den; to neplatí, jde-li o lhůtu určenou podle hodin,*
-> *d) je lhůta zachována, je-li posledního dne lhůty učiněno podání u věcně a místně příslušného správního orgánu anebo je-li v tento den podána poštovní zásilka adresovaná tomuto správnímu orgánu, která obsahuje podání, držiteli poštovní licence (...); nemůže-li účastník z vážných důvodů učinit podání u věcně a místně příslušného správního orgánu, je lhůta zachována, jestliže je posledního dne lhůty učiněno podání u správního orgánu vyššího stupně; tento správní orgán podání bezodkladně postoupí věcně a místně příslušnému správnímu orgánu.*
 
 **Výklad:**
 
@@ -208,12 +199,7 @@ Usnesení **oznamuje pouze podateli** (ne ostatním účastníkům — pro ně �
 
 > **§ 42**
 >
-> *##### Přijímání podnětů k zahájení řízení*
->
 > *Správní orgán je povinen přijímat podněty, aby bylo zahájeno řízení z moci úřední. Pokud o to ten, kdo podal podnět, požádá, je správní orgán povinen sdělit mu ve lhůtě 30 dnů ode dne, kdy podnět obdržel, že řízení zahájil, nebo že neshledal důvody k zahájení řízení z moci úřední, popřípadě že podnět postoupil příslušnému správnímu orgánu. Sdělení správní orgán nezasílá, postupuje-li vůči tomu, kdo podal podnět, podle § 46 odst. 1 nebo § 47 odst. 1.*
-
-
-> *Správní orgán je povinen přijímat podněty, aby bylo zahájeno řízení z moci úřední. Pokud o to ten, kdo podal podnět, požádá, je správní orgán povinen sdělit mu ve lhůtě 30 dnů ode dne, kdy podnět obdržel, že řízení zahájil, nebo že neshledal důvody k zahájení řízení z moci úřední, popřípadě že podnět postoupil příslušnému správnímu orgánu. (...)*
 
 **Výklad:**
 

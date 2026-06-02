@@ -13,8 +13,6 @@
 
 > **§ 19**
 >
-> *###### Společné ustanovení o doručování*
->
 > *(1) Písemnost doručuje správní orgán, který ji vyhotovil. Správní orgán doručí písemnost prostřednictvím veřejné datové sítě do datové schránky13a). Nelze-li písemnost takto doručit, může ji doručit správní orgán sám; v zákonem stanovených případech může písemnost doručit prostřednictvím obecního úřadu, jemu naroveň postaveného správního orgánu14) (dále jen „obecní úřad“) nebo prostřednictvím policejního orgánu příslušného podle místa doručení; je-li k řízení příslušný orgán obce, může písemnost doručit prostřednictvím obecní policie.*
 >
 > *(2) Není-li možné písemnost doručit prostřednictvím veřejné datové sítě do datové schránky13a), lze ji doručit také prostřednictvím provozovatele poštovních služeb. Správní orgán zvolí takovou poštovní službu, aby z uzavřené poštovní smlouvy15) vyplývala povinnost dodat poštovní zásilku obsahující písemnost způsobem, který je v souladu s požadavky tohoto zákona na doručení písemnosti.*
@@ -34,9 +32,6 @@
 > *(9) Písemnosti uvedené v odstavci 5 se na požádání adresáta doručují jiným způsobem podle tohoto zákona; v takovém případě platí, že písemnost je doručena třetím dnem ode dne, kdy byla odeslána. V případě doručování na elektronickou adresu platí, že písemnost je doručena v okamžiku, kdy převzetí doručované písemnosti potvrdí adresát datovou zprávou podepsanou adresátem. Nepotvrdí-li adresát převzetí písemnosti nejpozději následující pracovní den po odeslání zprávy, která se nevrátila jako nedoručitelná (odstavec 10), doručí správní orgán písemnost, jako by adresát o doručení na elektronickou adresu nepožádal.*
 >
 > *(10) Pokud nebylo možno doručit písemnost doručovanou na elektronickou adresu adresáta podle odstavce 4 nebo 9, protože se datová zpráva vrátila jako nedoručitelná, učiní správní orgán neprodleně další pokus o její doručení; bude-li další pokus o doručení neúspěšný, doručí písemnost, jako by adresát o doručení na elektronickou adresu nepožádal.*
-
-
-> *(1) Písemnost doručuje správní orgán, který ji vyhotovil. Správní orgán doručí písemnost prostřednictvím veřejné datové sítě do datové schránky. Nelze-li písemnost takto doručit, může ji doručit správní orgán sám; v zákonem stanovených případech může písemnost doručit prostřednictvím obecního úřadu (...) nebo prostřednictvím policejního orgánu příslušného podle místa doručení; je-li k řízení příslušný orgán obce, může písemnost doručit prostřednictvím obecní policie.*
 
 **Výklad:**
 
@@ -338,15 +333,6 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 > *(2) Účastníky jsou též další dotčené osoby, pokud mohou být rozhodnutím přímo dotčeny ve svých právech nebo povinnostech.*
 >
 > *(3) Účastníky jsou rovněž osoby, o kterých to stanoví zvláštní zákon. Nestanoví-li zvláštní zákon jinak, mají postavení účastníků podle odstavce 2, ledaže jim má rozhodnutí založit, změnit nebo zrušit právo anebo povinnost nebo prohlásit, že právo nebo povinnost mají anebo nemají; v tom případě mají postavení účastníků podle odstavce 1.*
-
-
-> *(1) Účastníky řízení (dále jen „účastník") jsou*
-> *a) v řízení o žádosti žadatel a další dotčené osoby, na které se pro společenství práv nebo povinností s žadatelem musí vztahovat rozhodnutí správního orgánu;*
-> *b) v řízení z moci úřední dotčené osoby, jimž má rozhodnutí založit, změnit nebo zrušit právo anebo povinnost nebo prohlásit, že právo nebo povinnost mají anebo nemají.*
->
-> *(2) Účastníky jsou též další dotčené osoby, pokud mohou být rozhodnutím přímo dotčeny ve svých právech nebo povinnostech.*
->
-> *(3) Účastníky jsou rovněž osoby, o kterých to stanoví zvláštní zákon. (...)*
 
 #### Tři kategorie účastníků
 

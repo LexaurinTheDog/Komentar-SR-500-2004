@@ -359,16 +359,11 @@ Pravidla **obdobně** i pro jiné účinky rozhodnutí (nabývání práva, omez
 
 > **§ 75**
 >
-> *###### Doložka právní moci nebo vykonatelnosti*
->
 > *(1) Správní orgán, který rozhodl v posledním stupni, vyznačí na písemném vyhotovení rozhodnutí, které zůstává součástí spisu, právní moc nebo vykonatelnost rozhodnutí. Zároveň vyznačí den vyhlášení tohoto rozhodnutí nebo den, kdy byla písemnost předána k doručení.*
 >
 > *(2) Na požádání účastníka opatří správní orgán prvního stupně doložkou právní moci nebo vykonatelnosti stejnopis rozhodnutí, který byl účastníkovi doručen. Na požádání účastníka se vyhotoví stejnopis výroku spolu s vyznačením doložky právní moci nebo vykonatelnosti.*
 >
 > *(3) Jestliže dojde k chybnému vyznačení nebo pozbude-li rozhodnutí právní moci nebo vykonatelnosti, správní orgán to sdělí těm osobám, jimž údaje uvedené v odstavci 1 vyznačil, a učiní o tom oznámení veřejnou vyhláškou.*
-
-
-> *(1) Správní orgán, který rozhodl v posledním stupni, vyznačí na písemném vyhotovení rozhodnutí, které zůstává součástí spisu, právní moc nebo vykonatelnost rozhodnutí. (...)*
 
 #### Vyznačení na originále (odst. 1)
 

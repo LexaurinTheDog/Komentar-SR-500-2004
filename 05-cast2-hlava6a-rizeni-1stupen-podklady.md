@@ -171,7 +171,7 @@ Pravomocné rozhodnutí přiznávající právo nebo ukládající povinnost z t
 
 ## Díl 2 — Ústní jednání (§ 49)
 
-> *(1) Ústní jednání správní orgán nařídí v případech, kdy to stanoví zákon, a dále tehdy, jestliže je to ke splnění účelu řízení a uplatnění práv účastníků nezbytné. Nehrozí-li nebezpečí z prodlení, uvědomí správní orgán o ústním jednání účastníky nejméně s pětidenním předstihem. (...)*
+> *(1) Zahájení řízení u některého správního orgánu brání tomu, aby o téže věci z téhož důvodu bylo zahájeno řízení u jiného správního orgánu.*
 
 **Výklad:**
 
@@ -479,14 +479,9 @@ Před výslechem orgán svědka POUČÍ:
 
 > **§ 56**
 >
-> *###### Důkaz znaleckým posudkem*
->
 > *Závisí-li rozhodnutí na posouzení skutečností, k nimž je třeba odborných znalostí, které úřední osoby nemají, a jestliže odborné posouzení skutečností nelze opatřit od jiného správního orgánu, správní orgán usnesením ustanoví znalce. Usnesení se oznamuje pouze znalci. O zamýšleném ustanovení znalce, popřípadě o ustanovení znalce správní orgán vhodným způsobem účastníky vyrozumí. Správní orgán znalci uloží, aby posudek vypracoval písemně a předložil mu jej ve lhůtě, kterou současně určí. Může znalce také vyslechnout.*
 >
-> *##### Předběžná otázka*
-
-
-> *Závisí-li rozhodnutí na posouzení skutečností, k nimž je třeba odborných znalostí, které úřední osoby nemají, a jestliže odborné posouzení skutečností nelze opatřit od jiného správního orgánu, správní orgán usnesením ustanoví znalce. (...)*
+> *Předběžná otázka*
 
 #### Hierarchie odborného posouzení
 
@@ -754,14 +749,9 @@ Orgán, který pokutu uložil, ji může **PROMINOUT NEBO SNÍŽIT** novým rozh
 
 > **§ 63**
 >
-> *###### Vykázání z místa konání úkonu*
->
 > *(1) Toho, kdo nepřístojným chováním ruší pořádek při ústním jednání nebo ohledání na místě, popřípadě při jiném úkonu, může správní orgán po předchozím upozornění vykázat z místa, kde se úkon koná. Usnesení se vyhlašuje ústně. Správní orgán poučí vykazovanou osobu o následcích neuposlechnutí. Vykázání vynucují tytéž orgány, které provádějí předvedení podle § 60.*
 >
 > *(2) Jestliže úkon není uskutečňován v úředních místnostech správního orgánu, nelze z místa úkonu vykázat osobu, která má vlastnické či užívací právo k prostoru, kde se úkon koná.*
-
-
-> *(1) Toho, kdo nepřístojným chováním ruší pořádek při ústním jednání nebo ohledání na místě, popřípadě při jiném úkonu, může správní orgán po předchozím upozornění vykázat z místa, kde se úkon koná. Usnesení se vyhlašuje ústně. (...)*
 
 - Po **předchozím upozornění**.
 - **Ústně vyhlášené usnesení**.

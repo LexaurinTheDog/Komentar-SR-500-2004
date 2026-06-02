@@ -172,9 +172,6 @@ Klíčové **pravidlo proti shazování odpovědnosti**:
 >
 > *(6) Dožádání do ciziny upravují zvláštní právní předpisy.7)*
 
-
-> *(1) Příslušný správní orgán může usnesením dožádat podřízený nebo nadřízený správní orgán anebo jiný věcně příslušný správní orgán (dále jen „dožádaný správní orgán") o provedení úkonu, který by sám mohl provést jen s obtížemi nebo s neúčelnými náklady anebo který by nemohl provést vůbec. (...)*
-
 **Výklad:**
 
 Procesní paralela ke **soudnímu dožádání** v civilním řízení (§ 39 OSŘ). Použití:

@@ -63,7 +63,7 @@
 
 ### (1) Vyvěšení návrhu
 
-> *(1) Návrh opatření obecné povahy s odůvodněním správní orgán po projednání s dotčenými orgány uvedenými v § 136 doručí veřejnou vyhláškou podle § 25, kterou vyvěsí na své úřední desce a na úředních deskách obecních úřadů v obcích, jejichž správních obvodů se má opatření obecné povahy týkat, a vyzve dotčené osoby, aby k návrhu opatření podávaly připomínky nebo námitky. (...) Návrh opatření obecné povahy musí být zveřejněn nejméně po dobu 15 dnů.*
+> *(1) Návrh opatření obecné povahy s odůvodněním správní orgán po projednání s dotčenými orgány uvedenými v § 136 doručí veřejnou vyhláškou podle § 25, kterou vyvěsí na své úřední desce a na úředních deskách obecních úřadů v obcích, jejichž správních obvodů se má opatření obecné povahy týkat, a vyzve dotčené osoby, aby k návrhu opatření podávaly připomínky nebo námitky. V případě potřeby se návrh zveřejní i jiným způsobem, v místě obvyklým. Návrh opatření obecné povahy musí být zveřejněn nejméně po dobu 15 dnů.*
 
 **Postup:**
 1. **Projednání s dotčenými orgány** (§ 136 — analogie k řízení o rozhodnutí).
