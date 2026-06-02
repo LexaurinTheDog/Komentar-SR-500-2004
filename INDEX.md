@@ -101,3 +101,12 @@ SŘ je v ČR univerzální procesní kodex veřejné správy. Použije se vždy,
 - **Iterace 3 (kap. 02, § 9–18):** Hl. I—II Díly 1—3. § 9 definice správního řízení (postup → rozhodnutí → JMENOVITĚ určená osoba — rozhraní od OOP). Hl. II Díl 1: § 10 věcná příslušnost (mimo SŘ — zvláštní zákony), § 11 MÍSTNÍ PŘÍSLUŠNOST 5-ti kritérií KASKÁDA (činnost > nemovitost > podnikání FO > TP FO > sídlo PO + cizí PO sídlo OS; konflikt = nadřízený určí), § 12 postoupení (1. volné, další se souhlasem nadřízeného), § 13 dožádání (usnesení, lhůta 30 dnů). Díl 2: § 14 PODJATOST — poměr k věci/účastníkům/zástupcům, ALE služební poměr ke státu/ÚSC NENÍ důvod; rozhoduje představený; vyloučení i pro účast v téže věci v jiném stupni; výjimka pro vedoucí ústředních úřadů; obdobně znalec/tlumočník. Díl 3: § 15 vedení řízení (písemnost > ústní), § 16 JAZYK (čeština + slovenština bez překladu; národnostní menšiny + sluch. postižení = náklady ORGÁN; cizinec sám), § 17 spis (utajené info ODDĚLENĚ), § 18 protokol (povinný pro ústní jednání + výslechy + úkony se stykem; audio/video navíc; stížnost § 175 proti obsahu).
 
 > Tento soubor (INDEX.md) je živý — aktualizuje se s každou iterací.
+
+
+## Licence
+
+Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
+
+Výkladový text komentáře (© 2026 Vojtěch Říha) lze volně užívat, šířit a upravovat za podmínek uvedené licence. Doslovná znění právních předpisů citovaná v komentáři jsou úředními díly vyloučenými z ochrany podle § 3 písm. a) zákona č. 121/2000 Sb. (autorský zákon) a nejsou předmětem autorského práva.
+
+Komentář **není autoritativním právním stanoviskem** a poskytuje se „tak jak je", bez jakýchkoli záruk ve smyslu čl. 7–8 licence.
