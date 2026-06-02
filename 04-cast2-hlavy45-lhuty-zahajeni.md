@@ -6,7 +6,6 @@
 
 ### § 39 — Určení lhůty k provedení úkonu
 
-
 <!-- AUTOCITACE:§39 -->
 
 > **§ 39**
@@ -16,7 +15,6 @@
 > *(1) Správní orgán účastníkovi určí přiměřenou lhůtu k provedení úkonu, pokud ji nestanoví zákon a je-li toho zapotřebí. Určením lhůty nesmí být ohrožen účel řízení ani porušena rovnost účastníků. Usnesení o určení lhůty se oznamuje pouze tomu, komu je určena, popřípadě i tomu, jehož se jinak přímo dotýká.*
 >
 > *(2) Lhůtu určenou správním orgánem může na žádost účastníka správní orgán za podmínek stanovených v odstavci 1 usnesením přiměřeně prodloužit.*
-
 
 > *(1) Správní orgán účastníkovi určí přiměřenou lhůtu k provedení úkonu, pokud ji nestanoví zákon a je-li toho zapotřebí. Určením lhůty nesmí být ohrožen účel řízení ani porušena rovnost účastníků. Usnesení o určení lhůty se oznamuje pouze tomu, komu je určena, popřípadě i tomu, jehož se jinak přímo dotýká.*
 >
@@ -46,7 +44,6 @@
 
 ### § 40 — POČÍTÁNÍ ČASU
 
-
 <!-- AUTOCITACE:§40 -->
 
 > **§ 40**
@@ -64,6 +61,11 @@
 > *(2) V pochybnostech se lhůta považuje za zachovanou, dokud se neprokáže opak.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
 
 #### Čtyři pravidla počítání času (a–d)
 
@@ -112,7 +114,6 @@ Důležitá záruka pro účastníka — **důkazní břemeno** je na orgánu, k
 
 ### § 41 — NAVRÁCENÍ V PŘEDEŠLÝ STAV (prominutí zmeškání úkonu)
 
-
 <!-- AUTOCITACE:§41 -->
 
 > **§ 41**
@@ -134,7 +135,6 @@ Důležitá záruka pro účastníka — **důkazní břemeno** je na orgánu, k
 > *(7) Usnesení, kterým správní orgán zmeškání úkonu nepromine, se oznamuje pouze podateli.*
 >
 > *(8) Požádat o povolení změny obsahu podání účastník může pouze do vydání rozhodnutí (§ 71). Správní orgán může povolit zpětvzetí nebo změnu obsahu podání jen v případě, že podateli hrozí vážná újma; tím není dotčeno ustanovení § 45 odst. 4. Ustanovení odstavců 2 až 4, 6 a 7 platí obdobně.*
-
 
 > *(1) Navrácením v předešlý stav se rozumí prominutí zmeškání úkonu, který je třeba provést nejpozději při ústním jednání nebo v určité lhůtě, nebo povolení zpětvzetí nebo změny obsahu podání, kterou by jinak nebylo možno učinit.*
 
@@ -194,7 +194,6 @@ Usnesení **oznamuje pouze podateli** (ne ostatním účastníkům — pro ně �
 
 ### § 42 — Přijímání podnětů k zahájení řízení
 
-
 <!-- AUTOCITACE:§42 -->
 
 > **§ 42**
@@ -238,7 +237,6 @@ Pokud orgán **vůči podateli** současně postupuje podle:
 
 ### § 43 — Odložení věci
 
-
 <!-- AUTOCITACE:§43 -->
 
 > **§ 43**
@@ -252,7 +250,6 @@ Pokud orgán **vůči podateli** současně postupuje podle:
 > *- b) bylo učiněno podání, k jehož vyřízení není věcně příslušný žádný správní orgán.*
 >
 > *(2) Usnesení o odložení věci se vždy oznamuje osobě, které se týká, je-li známa, a podateli.*
-
 
 > *(1) Řízení o žádosti (§ 44) není zahájeno a správní orgán věc usnesením odloží v případě, že*
 > *a) vůči němu byl učiněn úkon, který zjevně není žádostí, nebo z něj nelze zjistit, kdo jej učinil, nebo*

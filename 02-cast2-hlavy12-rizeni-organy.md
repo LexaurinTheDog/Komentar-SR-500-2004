@@ -6,13 +6,11 @@
 
 ### § 9 — Definice správního řízení
 
-
 <!-- AUTOCITACE:§9 -->
 
 > **§ 9**
 >
 > *Správní řízení je postup správního orgánu, jehož účelem je vydání rozhodnutí, jímž se v určité věci zakládají, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo jímž se v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá.*
-
 
 > *Správní řízení je postup správního orgánu, jehož účelem je vydání rozhodnutí, jímž se v určité věci zakládají, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo jímž se v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá.*
 
@@ -43,7 +41,6 @@ Definiční ustanovení, které **konstituuje** klasický pojem správního ří
 
 ### § 10 — Věcná příslušnost
 
-
 <!-- AUTOCITACE:§10 -->
 
 > **§ 10**
@@ -51,7 +48,6 @@ Definiční ustanovení, které **konstituuje** klasický pojem správního ří
 > *###### Věcná příslušnost*
 >
 > *Správní orgány jsou věcně příslušné jednat a rozhodovat ve věcech, které jim byly svěřeny zákonem nebo na základě zákona.*
-
 
 > *Správní orgány jsou věcně příslušné jednat a rozhodovat ve věcech, které jim byly svěřeny zákonem nebo na základě zákona.*
 
@@ -65,7 +61,6 @@ Klasická formulace **pozitivní legality**. SŘ sám věcnou příslušnost **n
 - Postup orgánu, který si není věcně příslušný, je **postoupení** věci podle § 12.
 
 ### § 11 — Místní příslušnost (5 kritérií)
-
 
 <!-- AUTOCITACE:§11 -->
 
@@ -86,7 +81,6 @@ Klasická formulace **pozitivní legality**. SŘ sám věcnou příslušnost **n
 > *- e) v ostatních řízeních týkajících se právnické osoby místem jejího sídla nebo místem sídla její organizační složky;5) u zahraniční právnické osoby je místní příslušnost správního orgánu určena sídlem její organizační složky zřízené v České republice; po zrušení organizační složky je místní příslušnost určena posledním sídlem této organizační složky na území České republiky.*
 >
 > *(2) Je-li místně příslušných více správních orgánů a nedohodnou-li se jinak, provede řízení ten z nich, u něhož jako prvního byla podána žádost nebo který z moci úřední učinil úkon jako první. V ostatních případech nebo nelze-li podmínky místní příslušnosti určit, určí místní příslušnost usnesením nejblíže společně nadřízený správní orgán. Není-li takového orgánu, určí místní příslušnost usnesením ústřední správní úřad,6) do jehož působnosti rozhodovaná věc náleží.*
-
 
 > *(1) Místní příslušnost správního orgánu je určena*
 > *a) v řízeních týkajících se činnosti účastníka řízení (§ 27) místem činnosti,*
@@ -127,7 +121,6 @@ Pravidla pro **lis pendens** v administrativním řízení:
 
 ### § 12 — Postoupení pro nepříslušnost
 
-
 <!-- AUTOCITACE:§12 -->
 
 > **§ 12**
@@ -137,7 +130,6 @@ Pravidla pro **lis pendens** v administrativním řízení:
 > *Dojde-li podání (§ 37) správnímu orgánu, který není věcně nebo místně příslušný, bezodkladně je usnesením postoupí příslušnému správnímu orgánu a současně o tom uvědomí toho, kdo podání učinil (dále jen „podatel“). Má-li správní orgán, jemuž bylo podání postoupeno, za to, že není věcně nebo místně příslušný, může je usnesením postoupit dalšímu správnímu orgánu nebo vrátit jen se souhlasem svého nadřízeného správního orgánu. Usnesení vydaná podle tohoto ustanovení se pouze poznamenají do spisu.*
 >
 > *##### Dožádání*
-
 
 > *Dojde-li podání (§ 37) správnímu orgánu, který není věcně nebo místně příslušný, bezodkladně je usnesením postoupí příslušnému správnímu orgánu a současně o tom uvědomí toho, kdo podání učinil (dále jen „podatel"). Má-li správní orgán, jemuž bylo podání postoupeno, za to, že není věcně nebo místně příslušný, může je usnesením postoupit dalšímu správnímu orgánu nebo vrátit jen se souhlasem svého nadřízeného správního orgánu. Usnesení vydaná podle tohoto ustanovení se pouze poznamenají do spisu.*
 
@@ -153,8 +145,12 @@ Klíčové **pravidlo proti shazování odpovědnosti**:
 - Den podání u nepříslušného orgánu se **zachovává** pro zachování lhůty (§ 37 odst. 5 v souvislosti s § 40 odst. 1 písm. d) — pravidlo „**doručeno orgánu vyššího stupně**").
 - Řízení **běží** od původního podání — ne od dojití k příslušnému orgánu.
 
-### § 13 — Dožádání
+**Judikatura (z místních zdrojů):**
 
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
+
+### § 13 — Dožádání
 
 <!-- AUTOCITACE:§13 -->
 
@@ -193,7 +189,6 @@ Procesní paralela ke **soudnímu dožádání** v civilním řízení (§ 39 OS
 
 ### § 14 — Podjatost (klíčové ustanovení o nestrannosti)
 
-
 <!-- AUTOCITACE:§14 -->
 
 > **§ 14**
@@ -213,7 +208,6 @@ Procesní paralela ke **soudnímu dožádání** v civilním řízení (§ 39 OS
 > *(7) Ustanovení předchozích odstavců se nepoužijí pro vedoucí ústředních správních úřadů.*
 >
 > *(8) Ustanovení odstavců 1 až 5 se obdobně užijí pro znalce a tlumočníky.*
-
 
 > *(1) Každá osoba bezprostředně se podílející na výkonu pravomoci správního orgánu (dále jen „úřední osoba"), o níž lze důvodně předpokládat, že má s ohledem na svůj poměr k věci, k účastníkům řízení nebo jejich zástupcům takový zájem na výsledku řízení, pro nějž lze pochybovat o její nepodjatosti, je vyloučena ze všech úkonů v řízení, při jejichž provádění by mohla výsledek řízení ovlivnit.*
 >
@@ -278,7 +272,6 @@ Ustanovení o vyloučení se **obdobně** vztahují i na znalce a tlumočníky �
 
 ### § 15 — Vedení řízení (úkony, oprávněné úřední osoby, mlčenlivost)
 
-
 <!-- AUTOCITACE:§15 -->
 
 > **§ 15**
@@ -292,7 +285,6 @@ Ustanovení o vyloučení se **obdobně** vztahují i na znalce a tlumočníky �
 > *(3) Oprávněné úřední osoby jsou povinny zachovávat mlčenlivost o skutečnostech, o kterých se dozvěděly v souvislosti s řízením a které v zájmu zajištění řádného výkonu veřejné správy nebo v zájmu jiných osob vyžadují, aby zůstaly utajeny, nestanoví-li zákon jinak. Této povinnosti jsou oprávněné úřední osoby zproštěny jen z důvodů stanovených zvláštním zákonem nebo vysloví-li souhlas osoba, jíž se předmětná skutečnost dotýká. Ustanovení zvláštních zákonů o zproštění povinnosti mlčenlivosti tím nejsou dotčena.*
 >
 > *(4) O tom, kdo je v dané věci oprávněnou úřední osobou, se provede záznam do spisu a správní orgán o tom účastníka řízení na požádání informuje. Oprávněná úřední osoba na požádání účastníka řízení sdělí své jméno, příjmení, služební nebo obdobné označení a ve kterém organizačním útvaru správního orgánu je zařazena.9)*
-
 
 > *(1) Jednotlivé úkony v řízení se činí písemně, pokud zákon nestanoví jinak nebo pokud to nevylučuje povaha věci. Jednotlivé sdělení v průběhu řízení lze vůči přítomnému účastníku řízení učinit ústně, pokud ten na písemné formě netrvá. Obsah úkonů prováděných jinou než písemnou formou se poznamená do spisu, nestanoví-li zákon jinak.*
 
@@ -324,7 +316,6 @@ Porušení mlčenlivosti → **kárná odpovědnost** úředníka + případně 
 
 ### § 16 — Jednací jazyk
 
-
 <!-- AUTOCITACE:§16 -->
 
 > **§ 16**
@@ -342,7 +333,6 @@ Porušení mlčenlivosti → **kárná odpovědnost** úředníka + případně 
 > *(5) Neslyšícím uživatelům českého znakového jazyka správní orgán ustanoví tlumočníka českého znakového jazyka podle zvláštního zákona13). Neslyšící osobě preferující český jazyk ustanoví prostředníka, který je schopen se s ní dorozumět pomocí komunikačních systémů vycházejících z českého jazyka dle její vlastní volby.*
 >
 > *Osobě hluchoslepé bude ustanoven prostředník, který je schopen se s ní dorozumět pomocí komunikačních systémů neslyšících a hluchoslepých osob dle její vlastní volby. Prostředník je ustanovován za stejných podmínek, za jakých je ustanovován tlumočník českého znakového jazyka13). O ustanovení tlumočníka nebo prostředníka vydává správní orgán usnesení, které se oznamuje pouze osobám, jichž se dotýká.*
-
 
 > *(1) V řízení se jedná a písemnosti se vyhotovují v českém jazyce. Účastníci řízení mohou jednat a písemnosti mohou být předkládány i v jazyce slovenském.*
 
@@ -373,7 +363,6 @@ Pro **neslyšící uživatele českého znakového jazyka** — tlumočník znak
 
 ### § 17 — Spis
 
-
 <!-- AUTOCITACE:§17 -->
 
 > **§ 17**
@@ -387,7 +376,6 @@ Pro **neslyšící uživatele českého znakového jazyka** — tlumočník znak
 > *(3) Z důvodu ochrany utajovaných informací a z důvodu ochrany jiných informací, na něž se vztahuje zákonem uložená nebo uznaná povinnost mlčenlivosti, se v případech stanovených zákonem část písemností nebo záznamů uchovává odděleně mimo spis. Odděleně mimo spis se uchovávají písemnosti nebo záznamy obsahující utajované informace, které byly správnímu orgánu poskytnuty Policií České republiky nebo zpravodajskými službami. Na písemnosti nebo záznamy uchovávané odděleně mimo spis se ustanovení tohoto nebo jiného zákona o nahlížení do spisu nepoužijí.*
 >
 > *(4) Nevykonává-li příslušný správní orgán spisovou službu, předá spis po právní moci rozhodnutí správnímu orgánu, který pro něj spisovou službu vykonává.*
-
 
 > *(1) V každé věci se zakládá spis. Každý spis musí být označen spisovou značkou. Spis tvoří zejména podání, protokoly, záznamy, písemná vyhotovení rozhodnutí a další písemnosti, které se vztahují k dané věci. Přílohou, která je součástí spisu, jsou zejména důkazní prostředky, obrazové a zvukové záznamy a záznamy na elektronických médiích. Spis musí obsahovat soupis všech svých součástí, včetně příloh, s určením data, kdy byly do spisu vloženy.*
 
@@ -409,7 +397,6 @@ KLÍČOVÉ pro praxi v citlivých řízeních:
 
 ### § 18 — Protokol
 
-
 <!-- AUTOCITACE:§18 -->
 
 > **§ 18**
@@ -427,7 +414,6 @@ KLÍČOVÉ pro praxi v citlivých řízeních:
 > *(5) Opravy zřejmých nesprávností, kterými jsou zejména chyby v psaní a počtech, v protokolu provádí oprávněná úřední osoba, která je stvrdí svým podpisem. Každá oprava musí být provedena tak, aby původní zápis zůstal čitelný. Může-li mít oprava právní význam, účastníci řízení se o ní vyrozumí.*
 >
 > *(6) V případě jiných oprav, než které jsou uvedeny v odstavci 5, se o provedení opravy rozhodne usnesením, které se pouze poznamená do spisu.*
-
 
 > *(1) O ústním jednání (§ 49) a o ústním podání, výslechu svědka, výslechu znalce, provedení důkazu listinou a ohledání, pokud jsou prováděny mimo ústní jednání, jakož i o jiných úkonech souvisejících s řízením v dané věci, při nichž dochází ke styku s účastníky řízení, se sepisuje protokol. Kromě protokolu lze též pořídit obrazový nebo zvukový záznam.*
 

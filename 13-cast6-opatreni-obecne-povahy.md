@@ -28,13 +28,11 @@
 
 ## § 171 — Předmět úpravy
 
-
 <!-- AUTOCITACE:§171 -->
 
 > **§ 171**
 >
 > *Podle této části postupují správní orgány v případech, kdy jim zvláštní zákon ukládá vydat závazné opatření obecné povahy, které není právním předpisem ani rozhodnutím.*
-
 
 > *Podle této části postupují správní orgány v případech, kdy jim zvláštní zákon ukládá vydat závazné opatření obecné povahy, které není právním předpisem ani rozhodnutím.*
 
@@ -44,7 +42,6 @@
 - **Není ani předpis, ani rozhodnutí** — třetí kategorie.
 
 ## § 172 — NÁVRH OOP (procedura veřejného projednání)
-
 
 <!-- AUTOCITACE:§172 -->
 
@@ -59,7 +56,6 @@
 > *(4) K návrhu opatření obecné povahy může kdokoli, jehož práva, povinnosti nebo zájmy mohou být opatřením obecné povahy přímo dotčeny, uplatnit u správního orgánu písemné připomínky nebo na veřejném projednání ústní připomínky. Správní orgán je povinen se připomínkami zabývat jako podkladem pro opatření obecné povahy a vypořádat se s nimi v jeho odůvodnění.*
 >
 > *(5) Vlastníci nemovitostí, jejichž práva, povinnosti nebo zájmy související s výkonem vlastnického práva mohou být opatřením obecné povahy přímo dotčeny, nebo, určí-li tak správní orgán, i jiné osoby, jejichž oprávněné zájmy mohou být opatřením obecné povahy přímo dotčeny, mohou podat proti návrhu opatření obecné povahy písemné odůvodněné námitky ke správnímu orgánu ve lhůtě 30 dnů ode dne jeho zveřejnění. Zmeškání úkonu nelze prominout. O námitkách rozhoduje správní orgán, který opatření obecné povahy vydává. Jestliže by vyřízení námitky vedlo k řešení, které přímo ovlivní oprávněné zájmy některé osoby jiným způsobem než návrh opatření obecné povahy, a není-li změna zjevně též v její prospěch, zjistí správní orgán její stanovisko. Rozhodnutí o námitkách, které musí obsahovat vlastní odůvodnění, se uvede jako součást odůvodnění opatření obecné povahy (§ 173 odst. 1). Proti rozhodnutí se nelze odvolat ani podat rozklad. Změna nebo zrušení pravomocného rozhodnutí o námitkách může být důvodem změny opatření obecné povahy.*
-
 
 ### (1) Vyvěšení návrhu
 
@@ -129,7 +125,6 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 
 ## § 173 — Vydání OOP a opravné prostředky
 
-
 <!-- AUTOCITACE:§173 -->
 
 > **§ 173**
@@ -139,7 +134,6 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 > *(2) Proti opatření obecné povahy nelze podat opravný prostředek.*
 >
 > *(3) Povinnost, která je stanovena zákonem a jejíž rozsah je v mezích zákona určen opatřením obecné povahy, lze exekučně vymáhat jedině tehdy, jestliže bylo vydáno rozhodnutí, které existenci této povinnosti prohlásilo a v němž byla osoba, jež tuto povinnost má, jmenovitě uvedena.*
-
 
 ### (1) Oznámení a účinnost
 
@@ -180,7 +174,6 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 
 ## § 174 — Subsidiární právo a přezkum
 
-
 <!-- AUTOCITACE:§174 -->
 
 > **§ 174**
@@ -188,7 +181,6 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 > *(1) Pro řízení podle této části platí obdobně ustanovení části první a přiměřeně ustanovení části druhé.*
 >
 > *(2) Soulad opatření obecné povahy s právními předpisy lze posoudit v přezkumném řízení. Usnesení o zahájení přezkumného řízení lze vydat do 1 roku od účinnosti opatření. Účinky rozhodnutí v přezkumném řízení nastávají ode dne jeho právní moci.*
-
 
 ### (1) Subsidiarita
 

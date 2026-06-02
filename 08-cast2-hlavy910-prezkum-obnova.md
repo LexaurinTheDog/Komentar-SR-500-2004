@@ -8,7 +8,6 @@
 
 ### § 94 — Předmět přezkumného řízení
 
-
 <!-- AUTOCITACE:§94 -->
 
 > **§ 94**
@@ -22,7 +21,6 @@
 > *(4) Jestliže po zahájení přezkumného řízení správní orgán dojde k závěru, že ačkoli rozhodnutí bylo vydáno v rozporu s právním předpisem, byla by újma, která by jeho zrušením nebo změnou vznikla některému účastníkovi, který nabyl práva z rozhodnutí v dobré víře, ve zjevném nepoměru k újmě, která vznikla jinému účastníkovi nebo veřejnému zájmu, řízení zastaví.*
 >
 > *(5) Při rozhodování v přezkumném řízení je správní orgán povinen šetřit práva nabytá v dobré víře, zejména mění-li rozhodnutí, které bylo vydáno v rozporu s právními předpisy (§ 97 odst. 3) nebo určuje-li, od kdy nastávají účinky rozhodnutí vydaného v přezkumném řízení (§ 99).*
-
 
 #### Předpoklady (odst. 1)
 
@@ -80,7 +78,6 @@ Orgán při rozhodování v přezkumném řízení **šetří práva nabytá v d
 
 ### § 95 — Zahájení přezkumného řízení
 
-
 <!-- AUTOCITACE:§95 -->
 
 > **§ 95**
@@ -96,7 +93,6 @@ Orgán při rozhodování v přezkumném řízení **šetří práva nabytá v d
 > *(5) Hrozí-li vážná újma některému z účastníků nebo veřejnému zájmu, může příslušný správní orgán při zahájení nebo v průběhu přezkumného řízení usnesením pozastavit vykonatelnost nebo jiné právní účinky přezkoumávaného rozhodnutí.*
 >
 > *(6) Jde-li o rozhodnutí ústředního správního úřadu, rozhoduje v přezkumném řízení ministr nebo vedoucí jiného ústředního správního úřadu; ustanovení § 152 odst. 3 platí obdobně.*
-
 
 #### Standardní zahájení (odst. 1)
 
@@ -136,7 +132,6 @@ Jde-li o rozhodnutí **ústředního správního úřadu** → rozhoduje **minis
 
 ### § 96 — LHŮTY pro zahájení a vedení přezkumného řízení
 
-
 <!-- AUTOCITACE:§96 -->
 
 > **§ 96**
@@ -146,7 +141,6 @@ Jde-li o rozhodnutí **ústředního správního úřadu** → rozhoduje **minis
 > *(2) Soulad rozhodnutí s právními předpisy se posuzuje podle právního stavu a skutkových okolností v době jeho vydání. K vadám řízení, o nichž nelze mít důvodně za to, že mohly mít vliv na soulad napadeného rozhodnutí s právními předpisy, popřípadě na jeho správnost, se nepřihlíží. Příslušný správní orgán posoudí spisový materiál a podle potřeby zajistí vyjádření účastníků a správních orgánů, které řízení prováděly.*
 >
 > *(3) Přezkumné řízení týkající se předběžného opatření nelze konat poté, co se rozhodnutí ve věci stalo vykonatelným nebo nabylo jiných právních účinků anebo co bylo toto rozhodnutí zrušeno, ledaže by posouzení mělo význam pro náhradu škody.*
-
 
 #### Klíčové lhůty (odst. 1)
 
@@ -175,7 +169,6 @@ Přezkumné řízení **týkající se předběžného opatření NELZE** vést 
 
 ### § 97 — Rozhodnutí v přezkumném řízení
 
-
 <!-- AUTOCITACE:§97 -->
 
 > **§ 97**
@@ -187,7 +180,6 @@ Přezkumné řízení **týkající se předběžného opatření NELZE** vést 
 > *(2) Rozhodnutí ve věci v přezkumném řízení v prvním stupni nelze vydat po uplynutí 15 měsíců ode dne právní moci rozhodnutí ve věci. Probíhá-li přezkumné řízení, správní orgán je usnesením zastaví. Usnesení se pouze poznamená do spisu.*
 >
 > *(3) Rozhodnutí, které bylo vydáno v rozporu s právními předpisy, příslušný správní orgán zruší nebo změní, popřípadě zruší a věc vrátí odvolacímu správnímu orgánu nebo správnímu orgánu prvního stupně; tyto správní orgány jsou vázány právním názorem příslušného správního orgánu.*
-
 
 #### Zastavení při zjištění souladu (odst. 1)
 
@@ -218,7 +210,6 @@ Závazný právní názor je **VÁZANÝ** pro orgán 1. stupně / odvolací org�
 
 ### § 98 — Zkrácené přezkumné řízení
 
-
 <!-- AUTOCITACE:§98 -->
 
 > **§ 98**
@@ -226,7 +217,6 @@ Závazný právní názor je **VÁZANÝ** pro orgán 1. stupně / odvolací org�
 > *##### Zkrácené přezkumné řízení*
 >
 > *Jestliže je porušení právního předpisu zjevné ze spisového materiálu, jsou splněny ostatní podmínky pro přezkumné řízení a není zapotřebí vysvětlení účastníků, může příslušný správní orgán provést zkrácené přezkumné řízení. Dokazování se neprovádí. Prvním úkonem správního orgánu při zkráceném přezkumném řízení je vydání rozhodnutí podle § 97 odst. 3.*
-
 
 > *Jestliže je porušení právního předpisu zjevné ze spisového materiálu, jsou splněny ostatní podmínky pro přezkumné řízení a není zapotřebí vysvětlení účastníků, může příslušný správní orgán provést zkrácené přezkumné řízení. Dokazování se neprovádí. Prvním úkonem správního orgánu při zkráceném přezkumném řízení je vydání rozhodnutí podle § 97 odst. 3.*
 
@@ -243,7 +233,6 @@ Praktický význam: rychlá náprava jednoduchých vad bez procesního zatěžov
 
 ### § 99 — Účinky rozhodnutí v přezkumném řízení (EX TUNC vs. EX NUNC)
 
-
 <!-- AUTOCITACE:§99 -->
 
 > **§ 99**
@@ -255,7 +244,6 @@ Praktický význam: rychlá náprava jednoduchých vad bez procesního zatěžov
 > *(2) Pokud se ruší nebo mění rozhodnutí, jímž byla uložena povinnost, a neodůvodňují-li okolnosti případu jiné řešení, určí správní orgán, že účinky rozhodnutí v přezkumném řízení nastávají ode dne právní moci nebo předběžné vykonatelnosti přezkoumávaného rozhodnutí.*
 >
 > *(3) Pokud se ruší nebo mění rozhodnutí, jímž bylo přiznáno právo, a neodůvodňují-li okolnosti případu jiné řešení, určí správní orgán, že účinky rozhodnutí v přezkumném řízení nastávají ode dne jeho právní moci nebo předběžné vykonatelnosti; bylo-li však přezkoumávané rozhodnutí vydáno na základě nesprávných či neúplných údajů uvedených žadatelem, určí správní orgán, že účinky rozhodnutí v přezkumném řízení nastávají ode dne právní moci nebo předběžné vykonatelnosti přezkoumávaného rozhodnutí.*
-
 
 Klíčové ustanovení o **TEMPORALITĚ** přezkumu.
 
@@ -294,7 +282,6 @@ Orgán určí, **odkdy nastávají účinky**. Možnosti:
 
 ### § 100 — Obnova řízení
 
-
 <!-- AUTOCITACE:§100 -->
 
 > **§ 100**
@@ -318,7 +305,6 @@ Orgán určí, **odkdy nastávají účinky**. Možnosti:
 > *(5) Na obnovu řízení se obdobně užije ustanovení § 94 odst. 4 a 5.*
 >
 > *(6) Žádosti o obnovu řízení se přizná odkladný účinek, jestliže hrozí vážná újma účastníkovi nebo veřejnému zájmu. Rozhodnutí, jímž bylo řízení obnoveno, má odkladný účinek, pokud napadené rozhodnutí nebylo dosud vykonáno, ledaže správní orgán v rozhodnutí odkladný účinek vyloučil z důvodů uvedených v § 85 odst. 2 nebo ledaže vykonatelnost nebo jiné účinky rozhodnutí již zanikly podle zvláštního zákona. Rozhodnutí, jímž se žádost o obnovu řízení zamítá, se oznamuje pouze žadateli; ten proti němu může podat odvolání.*
-
 
 #### Důvody (odst. 1) — DVA OKRUHY
 
@@ -380,7 +366,6 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 
 ### § 101 — NOVÉ ROZHODNUTÍ (5 důvodů)
 
-
 <!-- AUTOCITACE:§101 -->
 
 > **§ 101**
@@ -398,7 +383,6 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 > *- d) rozhodnutí ve věci bylo zrušeno jiným orgánem veřejné moci podle zvláštního zákona, nebo*
 >
 > *- e) tak stanoví zvláštní zákon.*
-
 
 > *Provést nové řízení a vydat nové rozhodnutí ve věci lze tehdy, jestliže*
 > *a) je to nezbytné při postupu podle § 41 odst. 6 věty druhé,*
@@ -428,7 +412,6 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 
 ### § 102 — Společná ustanovení (obnova + nové rozhodnutí)
 
-
 <!-- AUTOCITACE:§102 -->
 
 > **§ 102**
@@ -452,7 +435,6 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 > *(8) Není-li v odstavcích 1 až 7 stanoveno jinak, postupuje se v novém řízení podle ustanovení platných pro řízení v prvním stupni.*
 >
 > *(9) Novým rozhodnutím vydaným podle § 100 nebo § 101 písm. a) se původní rozhodnutí ruší; o tomto následku budou účastníci poučeni v písemném vyhotovení rozhodnutí; ustanovení § 99 platí obdobně. V ostatních případech nové rozhodnutí brání vykonatelnosti nebo jiným právním účinkům původního rozhodnutí; nejsou-li účinky nového rozhodnutí zřejmé z jeho obsahu, určí vliv na vykonatelnost nebo jiné právní účinky původního rozhodnutí správní orgán.*
-
 
 #### Příslušnost (odst. 1)
 

@@ -97,6 +97,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 >
 > *##### Dožádání*
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
+
 ## § 13
 
 > *(1) Příslušný správní orgán může usnesením dožádat podřízený nebo nadřízený správní orgán anebo jiný věcně příslušný správní orgán (dále jen „dožádaný správní orgán“) o provedení úkonu, který by sám mohl provést jen s obtížemi nebo s neúčelnými náklady anebo který by nemohl provést vůbec. Toto usnesení se doručuje pouze dožádanému správnímu orgánu a nelze se proti němu odvolat.*
@@ -303,6 +308,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 >
 > *(4) Nedojde-li k uzavření veřejnoprávní smlouvy podle odstavce 3, postupuje se v případě obecního úřadu podle zvláštního zákona.18) V případě jiného správního orgánu rozhodne nadřízený správní orgán, že pro něj bude tuto povinnost vykonávat sám nebo že jejím vykonáváním pověří jiný podřízený věcně příslušný správní orgán ve svém správním obvodu. Rozhodnutí nadřízeného správního orgánu se zveřejní nejméně po dobu 15 dnů na úřední desce správního orgánu, který povinnost neplnil.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2373/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/95EE13A674EEE564C1257A91005041F1?openDocument) — 26. 9. 2012, kat. A
+  > „Smlouva o převodu zemědělského pozemku ve vlastnictví státu je podle § 39 obč. zák. neplatná, nebyl-li obsah úřední desky o zahájení prodeje tohoto pozemku ve smyslu § 7 odst. 2 zákona č. 95/1999 Sb. zveřejněn příslušným obecním úřadem i způsobem umožňujícím dálkový přístup"
+
 ## § 27
 
 > *(1) Účastníky řízení (dále jen „účastník“) jsou*
@@ -315,11 +325,21 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 >
 > *(3) Účastníky jsou rovněž osoby, o kterých to stanoví zvláštní zákon. Nestanoví-li zvláštní zákon jinak, mají postavení účastníků podle odstavce 2, ledaže jim má rozhodnutí založit, změnit nebo zrušit právo anebo povinnost nebo prohlásit, že právo nebo povinnost mají anebo nemají; v tom případě mají postavení účastníků podle odstavce 1.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2017%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2017&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-28_Cdo_2044_2015.txt) — 26. 10. 2016, kat. A
+  > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
+
 ## § 28
 
 > *(1) Za účastníka bude v pochybnostech považován i ten, kdo tvrdí, že je účastníkem, dokud se neprokáže opak. O tom, zda osoba je či není účastníkem, vydá správní orgán usnesení, jež se oznamuje pouze tomu, o jehož účasti v řízení bylo rozhodováno, a ostatní účastníci se o něm vyrozumí. Postup podle předchozí věty nebrání dalšímu projednávání a rozhodnutí věci.*
 >
 > *(2) Jestliže osoba, o níž bylo usnesením rozhodnuto, že není účastníkem, podala proti tomuto usnesení odvolání, jemuž bylo vyhověno, a mezitím zmeškala úkon, který by jako účastník mohla učinit, je oprávněna tento úkon učinit do 15 dnů od oznámení rozhodnutí o odvolání; ustanovení § 41 odst. 6 věty druhé platí obdobně.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2017%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2017&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-28_Cdo_2044_2015.txt) — 26. 10. 2016, kat. A
+  > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
 
 ## § 29
 
@@ -504,6 +524,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *- d) je lhůta zachována, je-li posledního dne lhůty učiněno podání u věcně a místně příslušného správního orgánu anebo je-li v tento den podána poštovní zásilka adresovaná tomuto správnímu orgánu, která obsahuje podání, držiteli poštovní licence nebo zvláštní poštovní licence anebo osobě, která má obdobné postavení v jiném státě; nemůže-li účastník z vážných důvodů učinit podání u věcně a místně příslušného správního orgánu, je lhůta zachována, jestliže je posledního dne lhůty učiněno podání u správního orgánu vyššího stupně; tento správní orgán podání bezodkladně postoupí věcně a místně příslušnému správnímu orgánu.*
 >
 > *(2) V pochybnostech se lhůta považuje za zachovanou, dokud se neprokáže opak.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
 
 ## § 41
 
@@ -783,6 +808,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 >
 > *(4) Řízení lze přerušit na dobu nezbytně nutnou. Při postupu podle odstavců 2 a 3 správní orgán při určení doby přerušení přihlíží k návrhu účastníka.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3945/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A15B826590B8CA6C1257B2400510578?openDocument) — 14. 11. 2012, kat. A
+  > „Včasné podání mimořádného opravného prostředku proti rozhodnutí soudu vydanému v řízení podle části třetí občanského soudního řádu, ve znění účinném do 31. 12. 2012, jehož předmětem je určení neplatnosti právního úkonu, podle něhož byl navržen vklad práva do katastru nemovitostí, je důvodem pro přerušení řízení o návrhu na vklad práva do katastru nemovitostí před katastrálním úřadem a pro přerušení řízení o žalobě podané ve věci vkladu práva do katastru nemovitostí podle části páté občanského soudního řádu přerušení řízení trvá až do rozhodnutí o tomto mimořádném opravném prostředku a, bylo-li mimořádnému opravnému prostředku vyhověno, až do právní moci nového rozhodnutí ve věci určení neplatnosti právního úkonu"
+
 ## § 65
 
 > *(1) Po dobu přerušení řízení činí správní orgán a účastníci úkony, kterých je zapotřebí k odstranění důvodů přerušení. Správní orgán může rovněž činit úkony podle § 137 odst. 1 a § 138. Lhůty týkající se provádění úkonů v řízení neběží. Lhůta pro vydání rozhodnutí ve věci přestává běžet již dnem, kdy nastal některý z důvodů uvedených v § 64 odst. 1, a neskončí dříve než 15 dnů ode dne, kdy přerušení řízení skončilo.*
@@ -838,6 +868,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *(5) V poučení se uvede, zda je možné proti rozhodnutí podat odvolání, v jaké lhůtě je možno tak učinit, od kterého dne se tato lhůta počítá, který správní orgán o odvolání rozhoduje a u kterého správního orgánu se odvolání podává.*
 >
 > *(6) Pokud odvolání nemá odkladný účinek, musí být tato skutečnost v poučení uvedena.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
 
 ## § 69
 
@@ -1007,6 +1042,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 >
 > *(2) V případě chybějícího, neúplného nebo nesprávného poučení podle § 68 odst. 5 lze odvolání podat do 15 dnů ode dne oznámení opravného usnesení podle § 70 věty první, bylo-li vydáno, nejpozději však do 90 dnů ode dne oznámení rozhodnutí.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
+
 ## § 84
 
 > *##### Odvolací lhůta při neoznámení rozhodnutí*
@@ -1044,6 +1084,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *(2) Správní orgán, který napadené rozhodnutí vydal, zašle stejnopis podaného odvolání všem účastníkům, kteří se mohli proti rozhodnutí odvolat, a vyzve je, aby se k němu v přiměřené lhůtě, která nesmí být kratší než 5 dnů, vyjádřili. Podle okolností dále doplní řízení. Ustanovení tohoto odstavce se nepoužije, bylo-li odvolání podáno opožděně nebo bylo-li nepřípustné.*
 >
 > *(3) Ustanovení § 82 odst. 4 věty první platí pro vyjádření účastníků k podanému odvolání obdobně. Vyjádření účastníků k podanému odvolání jsou součástí spisu. K vyjádřením podaným po lhůtě se nemusí přihlížet.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
 
 ## § 87
 
@@ -1948,6 +1993,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *(4) Veřejnoprávní smlouva se vždy posuzuje podle svého skutečného obsahu.*
 >
 > *### Druhy veřejnoprávních smluv*
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 4180/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A406B9F4CEDA62DC1257F6200419615?openDocument) — 10. 12. 2015, kat. A
+  > „K projednání a rozhodnutí sporu o nahrazení projevu vůle školského zařízení pro výkon ústavní výchovy uzavřít smlouvu o prodlouženém pobytu nezaopatřené osoby podle § 2 odst. 6 zákona č. 109/2002 Sb., ve znění účinném do 31. 10. 2012, není dána pravomoc soudu"
 
 ## § 160
 

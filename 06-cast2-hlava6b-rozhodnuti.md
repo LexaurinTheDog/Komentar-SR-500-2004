@@ -6,7 +6,6 @@
 
 ### § 67 — Obsah a forma rozhodnutí
 
-
 <!-- AUTOCITACE:§67 -->
 
 > **§ 67**
@@ -20,7 +19,6 @@
 > *(3) Ústně vyhlášené rozhodnutí správní orgán potvrdí písemně, pokud účastník písemné potvrzení požaduje. Písemné potvrzení obsahuje pouze výrokovou část rozhodnutí (§ 68 odst. 2) a další náležitosti uvedené v § 69.*
 >
 > *##### Náležitosti rozhodnutí*
-
 
 #### Co je rozhodnutí (odst. 1)
 
@@ -53,7 +51,6 @@ Konkretizace § 9 (definice správního řízení). Rozhodnutí je:
 
 ### § 68 — NÁLEŽITOSTI ROZHODNUTÍ (klíčové ustanovení)
 
-
 <!-- AUTOCITACE:§68 -->
 
 > **§ 68**
@@ -70,10 +67,14 @@ Konkretizace § 9 (definice správního řízení). Rozhodnutí je:
 >
 > *(6) Pokud odvolání nemá odkladný účinek, musí být tato skutečnost v poučení uvedena.*
 
-
 > *(1) Rozhodnutí obsahuje výrokovou část, odůvodnění a poučení účastníků.*
 
 **Tří povinné části** rozhodnutí — porušení **kterékoli** = vada zakládající zrušení rozhodnutí v odvolání. Klasická konstrukce všech moderních správních kodexů.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_1167_2009.txt) — 26. 10. 2010, kat. A
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
 
 #### Výroková část (odst. 2) — JÁDRO ROZHODNUTÍ
 
@@ -129,7 +130,6 @@ Pokud odvolání **nemá odkladný účinek** (§ 85 odst. 2) — **musí to bý
 
 ### § 69 — Vyhotovení rozhodnutí
 
-
 <!-- AUTOCITACE:§69 -->
 
 > **§ 69**
@@ -141,7 +141,6 @@ Pokud odvolání **nemá odkladný účinek** (§ 85 odst. 2) — **musí to bý
 > *(3) Pokud se má rozhodnutí doručit elektronicky, vyhotoví úřední osoba, která za písemné vyhotovení rozhodnutí odpovídá, jeho elektronickou verzi.*
 >
 > *(4) Na požádání účastníka správní orgán vydá stejnopis písemného vyhotovení rozhodnutí. Na požádání účastníka lze též vydat pouze stejnopis výroku.*
-
 
 #### Náležitosti písemného vyhotovení (odst. 1)
 
@@ -171,13 +170,11 @@ Na požádání účastníka orgán vydá:
 
 ### § 70 — OPRAVY ZŘEJMÝCH NESPRÁVNOSTÍ
 
-
 <!-- AUTOCITACE:§70 -->
 
 > **§ 70**
 >
 > *Opravu zřejmých nesprávností v písemném vyhotovení rozhodnutí na požádání účastníka nebo z moci úřední usnesením provede správní orgán, který rozhodnutí vydal. Týká-li se oprava výroku rozhodnutí, vydá o tom správní orgán opravné rozhodnutí. Prvním úkonem správního orgánu ve věci opravy je vydání tohoto rozhodnutí. Právo podat odvolání proti opravnému usnesení anebo opravnému rozhodnutí má pouze účastník, který jím může být přímo dotčen.*
-
 
 > *Opravu zřejmých nesprávností v písemném vyhotovení rozhodnutí na požádání účastníka nebo z moci úřední usnesením provede správní orgán, který rozhodnutí vydal. Týká-li se oprava výroku rozhodnutí, vydá o tom správní orgán opravné rozhodnutí. Prvním úkonem správního orgánu ve věci opravy je vydání tohoto rozhodnutí. Právo podat odvolání proti opravnému usnesení anebo opravnému rozhodnutí má pouze účastník, který jím může být přímo dotčen.*
 
@@ -196,7 +193,6 @@ Na požádání účastníka orgán vydá:
 První úkon = vydání opravy (žádné předchozí řízení).
 
 ### § 71 — LHŮTY pro vydání rozhodnutí
-
 
 <!-- AUTOCITACE:§71 -->
 
@@ -225,7 +221,6 @@ První úkon = vydání opravy (žádné předchozí řízení).
 > *- b) nutná k provedení dožádání podle § 13 odst. 3, ke zpracování znaleckého posudku nebo k doručení písemnosti do ciziny.*
 >
 > *(4) Nedodržení lhůt se nemůže dovolávat ten účastník, který je způsobil.*
-
 
 > *(1) Správní orgán je povinen vydat rozhodnutí bez zbytečného odkladu.*
 
@@ -258,7 +253,6 @@ První úkon = vydání opravy (žádné předchozí řízení).
 
 ### § 72 — OZNAMOVÁNÍ rozhodnutí
 
-
 <!-- AUTOCITACE:§72 -->
 
 > **§ 72**
@@ -272,7 +266,6 @@ První úkon = vydání opravy (žádné předchozí řízení).
 > *(3) Účastník se může vzdát práva na oznamování všech rozhodnutí vydaných v řízení, s výjimkou rozhodnutí, jímž se řízení končí, a rozhodnutí, jímž se mu v průběhu řízení ukládá povinnost, a práva na vyrozumívání o usneseních poznamenaných do spisu. Pokud se všichni účastníci vzdali práva na oznamování všech usnesení v řízení, usnesení se pouze poznamená do spisu.*
 >
 > *##### Právní moc, vykonatelnost a jiné právní účinky rozhodnutí*
-
 
 #### Dvě formy oznámení (odst. 1)
 
@@ -293,7 +286,6 @@ Pokud se **VŠICHNI** vzdají oznamování usnesení → usnesení se **POUZE po
 
 ### § 73 — PRÁVNÍ MOC (klíčový institut)
 
-
 <!-- AUTOCITACE:§73 -->
 
 > **§ 73**
@@ -301,7 +293,6 @@ Pokud se **VŠICHNI** vzdají oznamování usnesení → usnesení se **POUZE po
 > *(1) Nestanoví-li tento zákon jinak, je v právní moci rozhodnutí, které bylo oznámeno a proti kterému nelze podat odvolání.*
 >
 > *(2) Pravomocné rozhodnutí je závazné pro účastníky a pro všechny správní orgány; ustanovení § 76 odst. 3 věty poslední tím není dotčeno. Pro jiné osoby je pravomocné rozhodnutí závazné v případech stanovených zákonem v rozsahu v něm uvedeném. Pravomocné rozhodnutí o osobním stavu je závazné pro každého. Jestliže je pro práva a povinnosti účastníků určující právo k movité nebo nemovité věci,28) je pravomocné rozhodnutí závazné i pro právní nástupce účastníků.*
-
 
 > *(1) Nestanoví-li tento zákon jinak, je v právní moci rozhodnutí, které bylo oznámeno a proti kterému nelze podat odvolání.*
 
@@ -325,7 +316,6 @@ Nástupnictví: pravomocné rozhodnutí o **právu k movité/nemovité věci** j
 
 ### § 74 — VYKONATELNOST
 
-
 <!-- AUTOCITACE:§74 -->
 
 > **§ 74**
@@ -335,7 +325,6 @@ Nástupnictví: pravomocné rozhodnutí o **právu k movité/nemovité věci** j
 > *(2) Rozhodnutí ukládající povinnost k plnění je vykonatelné, je-li v právní moci a jestliže uplynula lhůta ke splnění povinnosti. Rozhodnutí ukládající povinnost k plnění je předběžně vykonatelné, pokud odvolání nemá odkladný účinek, a byla-li stanovena lhůta ke splnění povinnosti, jejím uplynutím.*
 >
 > *(3) Ustanovení o vykonatelnosti platí obdobně i pro jiné právní účinky rozhodnutí.*
-
 
 > *(1) Rozhodnutí je vykonatelné nabytím právní moci nebo pozdějším dnem, který je v jeho výrokové části uveden. Rozhodnutí je předběžně vykonatelné, pokud odvolání nemá odkladný účinek.*
 
@@ -353,7 +342,6 @@ Nástupnictví: pravomocné rozhodnutí o **právu k movité/nemovité věci** j
 Pravidla **obdobně** i pro jiné účinky rozhodnutí (nabývání práva, omezení činnosti).
 
 ### § 75 — DOLOŽKA právní moci / vykonatelnosti
-
 
 <!-- AUTOCITACE:§75 -->
 
@@ -383,7 +371,6 @@ Pokud orgán doložku **chybně vyznačil** nebo rozhodnutí **pozbude** právn�
 
 ### § 76 — USNESENÍ
 
-
 <!-- AUTOCITACE:§76 -->
 
 > **§ 76**
@@ -399,7 +386,6 @@ Pokud orgán doložku **chybně vyznačil** nebo rozhodnutí **pozbude** právn�
 > *(4) Usnesení, která se týkají příslušnosti správních orgánů, se oznamují též všem správním orgánům, kterých se dotýkají.*
 >
 > *(5) Proti usnesení se může odvolat účastník, jemuž se usnesení oznamuje. Odvolání proti usnesení nemá odkladný účinek. Proti usnesení, které se pouze poznamená do spisu, a proti usnesení, o němž to stanoví zákon, se nelze odvolat.*
-
 
 Rozhodnutí o **procesních otázkách** v rámci řízení.
 

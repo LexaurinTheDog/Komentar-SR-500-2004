@@ -6,7 +6,6 @@
 
 ### § 130 — Příslušnost orgánu PRÁVNICKÉ OSOBY (subsidiární určení)
 
-
 <!-- AUTOCITACE:§130 -->
 
 > **§ 130**
@@ -21,7 +20,6 @@
 >
 > *#### Změny příslušnosti*
 
-
 Pokud zákon **stanoví, že řízení provádí ÚSC / veřejnoprávní korporace / PO**, aniž by určil konkrétní orgán → SŘ určuje:
 - **Obec** → **obecní úřad**.
 - **Kraj** → **krajský úřad**.
@@ -30,7 +28,6 @@ Pokud zákon **stanoví, že řízení provádí ÚSC / veřejnoprávní korpora
 - **Podnikající FO** — přiměřeně.
 
 ### § 131 — ZMĚNY PŘÍSLUŠNOSTI (ATRAKCE, DELEGACE, POSTOUPENÍ)
-
 
 <!-- AUTOCITACE:§131 -->
 
@@ -59,7 +56,6 @@ Pokud zákon **stanoví, že řízení provádí ÚSC / veřejnoprávní korpora
 > *(6) Při změnách příslušnosti správní orgány dbají na to, aby k nim docházelo jen v důvodných případech a aby řízení pokud možno nezatěžovalo účastníky více, než kdyby ke změnám příslušnosti nedošlo.*
 >
 > *(7) Změny příslušnosti podle odstavce 1 a odstavce 2 písm. a) se oznamují veřejnou vyhláškou a účastníci se o nich vhodným způsobem vyrozumí. V ostatních případech lze změny příslušnosti oznámit veřejnou vyhláškou, považuje-li to správní orgán za účelné. V případě, že došlo k podnětu nebo k požádání o změnu příslušnosti podle odstavce 1 nebo 2, ale ke změně příslušnosti nedojde, bude o tom vyrozuměn ten, kdo dal ke změně příslušnosti podnět nebo o ni požádal.*
-
 
 #### ATRAKCE — nadřízený PŘEVEZME věc (odst. 1)
 
@@ -108,7 +104,6 @@ Změny příslušnosti **jen v důvodných případech** + bez nadbytečného za
 
 ### § 132 — *Perpetuatio fori* (zachování příslušnosti)
 
-
 <!-- AUTOCITACE:§132 -->
 
 > **§ 132**
@@ -117,13 +112,11 @@ Změny příslušnosti **jen v důvodných případech** + bez nadbytečného za
 >
 > *#### Spory o věcnou příslušnost*
 
-
 > *Změní-li se v průběhu řízení okolnosti rozhodné pro určení místní příslušnosti nebo věcné příslušnosti co do stupně a nestanoví-li zákon jinak, dokončí řízení správní orgán původně příslušný; o tom informuje správní orgán, na který by jinak příslušnost přešla.*
 
 **Klasický princip:** orgán, který řízení **zahájil**, ho i **dokončí**, i kdyby v průběhu řízení změnily se okolnosti (typicky účastník přestěhuje TP).
 
 ### § 133 — Spory o příslušnost (kompetenční spory)
-
 
 <!-- AUTOCITACE:§133 -->
 
@@ -142,7 +135,6 @@ Změny příslušnosti **jen v důvodných případech** + bez nadbytečného za
 > *(6) Po dobu určování příslušnosti podle odstavce 1 nebo trvání sporu podle odstavců 2 až 4 neběží lhůty týkající se provádění úkonů v řízení.*
 >
 > *#### Řízení před kolegiálním orgánem*
-
 
 #### Reziduální klauzule (odst. 1)
 
@@ -168,7 +160,6 @@ Po dobu určování / sporu **NEBĚŽÍ LHŮTY** pro úkony v řízení.
 
 ### § 134 — Řízení před KOLEGIÁLNÍM orgánem
 
-
 <!-- AUTOCITACE:§134 -->
 
 > **§ 134**
@@ -184,7 +175,6 @@ Po dobu určování / sporu **NEBĚŽÍ LHŮTY** pro úkony v řízení.
 > *(5) Kolegiální orgán jedná podle jednacího řádu, v němž stanoví podrobnosti o jednání kolegiálního orgánu.*
 >
 > *#### Součinnost Policie České republiky při provádění úkonů správního orgánu*
-
 
 #### Procesní vedení (odst. 1)
 
@@ -215,13 +205,11 @@ Orgán jedná podle vlastního **jednacího řádu**.
 
 ### § 135 — Součinnost PČR
 
-
 <!-- AUTOCITACE:§135 -->
 
 > **§ 135**
 >
 > *Hrozí-li, že se někdo pokusí ztížit nebo zmařit provedení úkonu správního orgánu, nebo hrozí-li nebezpečí osobám nebo majetku, může správní orgán požádat Policii České republiky o součinnost jejích příslušníků při provádění svého úkonu.*
-
 
 > *Hrozí-li, že se někdo pokusí ztížit nebo zmařit provedení úkonu správního orgánu, nebo hrozí-li nebezpečí osobám nebo majetku, může správní orgán požádat Policii České republiky o součinnost jejích příslušníků při provádění svého úkonu.*
 
@@ -232,7 +220,6 @@ Orgán jedná podle vlastního **jednacího řádu**.
 ## Hlava II — DOTČENÉ ORGÁNY (§ 136)
 
 ### § 136 — Postavení a procesní práva dotčených orgánů
-
 
 <!-- AUTOCITACE:§136 -->
 
@@ -253,7 +240,6 @@ Orgán jedná podle vlastního **jednacího řádu**.
 > *(5) Správní orgán, který vede řízení, a dotčené orgány mohou v mezích své působnosti činit společné úkony, s výjimkou vydání rozhodnutí, popřípadě může být v řízení před správním orgánem využito výsledků úkonu dotčeného orgánu, jestliže s tím správní orgán i dotčený orgán souhlasí a jestliže tím nemůže být účastníkům řízení způsobena újma na jejich právech.*
 >
 > *(6) Při řešení rozporů mezi správním orgánem, který vede řízení, a správními orgány, které jsou dotčenými orgány, jakož i mezi dotčenými orgány navzájem, týkajících se řešení otázky, jež je předmětem rozhodování, se postupuje přiměřeně podle ustanovení o řešení sporů o příslušnost s tím, že v případě bezvýslednosti dohodovacího řízení musí být zpráva o jeho průběhu spolu s návrhy jednotlivých ústředních správních úřadů ústředním správním úřadem, na jehož návrh bylo dohodovací řízení zahájeno, bez zbytečného odkladu předložena k řešení vládě. Ustanovení tohoto odstavce se nepoužije na řešení rozporů s územními samosprávnými celky, jestliže se věc týká práva územního samosprávného celku na samosprávu. Ustanovení § 133 odst. 6 platí obdobně.*
-
 
 > Klíčové pro KOORDINACI veřejné správy — vedle „příslušného" orgánu, který rozhoduje, často existují **DALŠÍ ORGÁNY**, jejichž stanovisko / vyjádření je pro rozhodnutí nutné. Typicky u stavebního řízení: stavební úřad + orgán památkové péče + orgán ochrany ŽP + hygienik + hasiči atd.
 
@@ -299,7 +285,6 @@ Postup obdobně podle § 133 (kompetenční spory):
 
 ### § 137 — VYSVĚTLENÍ
 
-
 <!-- AUTOCITACE:§137 -->
 
 > **§ 137**
@@ -313,7 +298,6 @@ Postup obdobně podle § 133 (kompetenční spory):
 > *(3) O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené v § 18 odst. 2, vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo a podpis oprávněné úřední osoby.*
 >
 > *(4) Záznam o podání vysvětlení nelze použít jako důkazní prostředek.*
-
 
 #### Účel (odst. 1)
 
@@ -340,7 +324,6 @@ Obdobně se použijí pravidla § 59 + § 60.
 
 ### § 138 — ZAJIŠTĚNÍ DŮKAZU PŘED ZAHÁJENÍM
 
-
 <!-- AUTOCITACE:§138 -->
 
 > **§ 138**
@@ -354,7 +337,6 @@ Obdobně se použijí pravidla § 59 + § 60.
 > *(3) Nehrozí-li nebezpečí z prodlení, mají ti, kdo by byli účastníky a jsou správnímu orgánu známi, nebo jejich zástupci či zmocněnci právo být přítomni u zajištění důkazu a vyjádřit se k němu; o tom je správní orgán vyrozumí.*
 >
 > *(4) O zajištění důkazu se sepisuje protokol. Provedení důkazu tímto protokolem se řídí ustanovením § 53 odst. 6. Nelze-li zajistit samotnou listinu, pořídí se její kopie, kterou správní orgán opatří ověřovací doložkou. Má-li být zajištěn důkaz znaleckým posudkem, je postup před zahájením řízení omezen na ustanovení znalce s tím, že znalecký posudek bude čten, popřípadě znalec vyslechnut až v průběhu řízení.*
-
 
 #### Podmínky (odst. 1)
 
@@ -387,7 +369,6 @@ Bez nebezpečí z prodlení → ti, kdo by byli účastníky a jsou orgánu zná
 
 ### § 139 — PŘEDBĚŽNÁ INFORMACE (informativní rozhodnutí)
 
-
 <!-- AUTOCITACE:§139 -->
 
 > **§ 139**
@@ -405,7 +386,6 @@ Bez nebezpečí z prodlení → ti, kdo by byli účastníky a jsou orgánu zná
 > *(3) V téže věci lze předběžnou informaci požadovat jen jednou. Předběžnou informaci lze požadovat i po zahájení řízení.*
 >
 > *(4) Doba platnosti předběžné informace může být správním orgánem omezena. Předběžná informace přestává platit, dostala-li se do rozporu s právním předpisem, který nabyl účinnosti po jejím vydání, nebo došlo-li ke změně okolností rozhodných pro její obsah. Předběžná informace je od počátku neplatná, pokud byla vydána na základě údajů nepravdivých, neúplných, zkreslených nebo žadatelem zatajených.*
-
 
 #### Účel (odst. 1)
 
@@ -435,7 +415,6 @@ V téže věci **jen JEDNOU**. Lze i po zahájení řízení.
 
 ### § 140 — SPOLEČNÉ ŘÍZENÍ
 
-
 <!-- AUTOCITACE:§140 -->
 
 > **§ 140**
@@ -455,7 +434,6 @@ V téže věci **jen JEDNOU**. Lze i po zahájení řízení.
 > *(6) Otázka, kdo je účastníkem, se pro účely uplatnění § 27 odst. 1 ve společném řízení posuzuje tak, jako kdyby řízení probíhala samostatně.*
 >
 > *(7) Ve společném řízení se vydává společné rozhodnutí. Jestliže jsou k přezkoumávání výroků společného rozhodnutí v odvolacím řízení příslušné různé odvolací správní orgány, vydává se více rozhodnutí, z nichž každé zahrnuje výroky, k jejichž přezkoumávání je příslušný jediný odvolací správní orgán. Pokud se výroky takových společných rozhodnutí podmiňují, má odvolání proti rozhodnutí s podmiňujícím výrokem odkladný účinek i vůči rozhodnutí s navazujícím výrokem. Jestliže byla odvoláními napadena obě tato rozhodnutí a nelze-li věc vyřídit podle § 87, správní orgán prvního stupně řízení o odvolání proti rozhodnutí s navazujícím výrokem přeruší až do doby skončení řízení o odvolání proti rozhodnutí s podmiňujícím výrokem; ustanovení § 57 odst. 3 platí obdobně. Jestliže bylo odvoláním napadeno pouze rozhodnutí s podmiňujícím výrokem, nabývá rozhodnutí s navazujícím výrokem právní moci dnem právní moci rozhodnutí o odvolání proti rozhodnutí s podmiňujícím výrokem; zrušení nebo změna rozhodnutí s podmiňujícím výrokem je však důvodem obnovy řízení.*
-
 
 #### Spojení řízení (odst. 1)
 
@@ -504,7 +482,6 @@ Otázka, kdo je účastníkem **§ 27/1**, se posuzuje, jako kdyby řízení pro
 
 ### § 141 — SPORNÉ ŘÍZENÍ (klíčový institut)
 
-
 <!-- AUTOCITACE:§141 -->
 
 > **§ 141**
@@ -532,7 +509,6 @@ Otázka, kdo je účastníkem **§ 27/1**, se posuzuje, jako kdyby řízení pro
 > *(10) Pokud ve sporném řízení bylo předběžné opatření zrušeno nebo pozbylo účinnosti z jiného důvodu než proto, že bylo vyhověno návrhu, nebo proto, že právo účastníka, na jehož požádání bylo předběžné opatření nařízeno, bylo uspokojeno, je účastník, na jehož požádání bylo předběžné opatření nařízeno, povinen nahradit újmy tomu, komu předběžným opatřením vznikly. Rozhodne o tom na žádost správní orgán, který nařídil předběžné opatření.*
 >
 > *(11) Ve sporném řízení přizná správní orgán účastníkovi, který měl ve věci plný úspěch, náhradu nákladů potřebných k účelnému uplatňování nebo bránění práva proti účastníkovi, který ve věci úspěch neměl. Měl-li účastník ve věci úspěch jen částečný, může správní orgán náhradu nákladů poměrně rozdělit, popřípadě rozhodnout, že žádný z účastníků nemá na náhradu nákladů právo. I když měl účastník ve věci úspěch jen částečný, může mu správní orgán přiznat plnou náhradu nákladů řízení, měl-li neúspěch v poměrně nepatrné části nebo záviselo-li rozhodnutí o výši plnění na znaleckém posudku nebo na úvaze správního orgánu.*
-
 
 #### Předmět (odst. 1)
 
@@ -603,7 +579,6 @@ Pokud bylo PO zrušeno / pozbylo účinnosti **jinak než vyhověním návrhu ne
 
 ### § 142 — Řízení o URČENÍ PRÁVNÍHO VZTAHU
 
-
 <!-- AUTOCITACE:§142 -->
 
 > **§ 142**
@@ -615,7 +590,6 @@ Pokud bylo PO zrušeno / pozbylo účinnosti **jinak než vyhověním návrhu ne
 > *(2) Podle odstavce 1 správní orgán nepostupuje, jestliže může o vzniku, trvání nebo zániku určitého právního vztahu vydat osvědčení anebo jestliže může otázku jeho vzniku, trvání nebo zániku řešit v rámci jiného správního řízení.*
 >
 > *(3) Pro dokazování v řízení o určení právního vztahu platí ustanovení § 141 odst. 4 obdobně.*
-
 
 #### Účel (odst. 1)
 
@@ -636,7 +610,6 @@ NEPOUŽIJE se:
 Podle § 141/4 — sporné řízení (projednací zásada).
 
 ### § 143 — Řízení NA MÍSTĚ (přímé ukládání povinnosti v terénu)
-
 
 <!-- AUTOCITACE:§143 -->
 
@@ -661,7 +634,6 @@ Podle § 141/4 — sporné řízení (projednací zásada).
 > *(4) Ustanovení odstavců 1 až 3 se nevztahují na vydání příkazu na místě (§ 150 odst. 5).*
 >
 > *(5) V řízení navazujícím na výkon dozoru prováděný týmž správním orgánem lze na místě, kde je dozor prováděn, učinit oznámení o zahájení řízení z moci úřední.*
-
 
 #### Důvody (odst. 1)
 
@@ -688,7 +660,6 @@ Při dozoru lze **na místě OZNÁMIT ZAHÁJENÍ řízení** ex officio.
 
 ### § 144 — Řízení s VELKÝM POČTEM ÚČASTNÍKŮ
 
-
 <!-- AUTOCITACE:§144 -->
 
 > **§ 144**
@@ -706,7 +677,6 @@ Při dozoru lze **na místě OZNÁMIT ZAHÁJENÍ řízení** ex officio.
 > *(5) V řízení s velkým počtem účastníků správní orgán účastníky uvědomí o podaném odvolání veřejnou vyhláškou, v níž určí lhůtu k podání vyjádření, která nesmí být kratší než 5 dnů. Odvolatel není povinen podávat odvolání s potřebným počtem stejnopisů podle § 82 odst. 2.*
 >
 > *(6) V řízení s velkým počtem účastníků řízení lze doručovat písemnosti, včetně písemností uvedených v § 19 odst. 5, veřejnou vyhláškou. To se netýká účastníků řízení uvedených v § 27 odst. 1, kteří jsou správnímu orgánu známi; těmto účastníkům řízení se doručuje jednotlivě.*
-
 
 #### Definice (odst. 1)
 
@@ -739,7 +709,6 @@ V řízení s velkým počtem účastníků lze doručovat **veřejnou vyhlášk
 
 ### § 145 — Řízení s PŘEDSTIHEM ŽÁDOSTI
 
-
 <!-- AUTOCITACE:§145 -->
 
 > **§ 145**
@@ -749,7 +718,6 @@ V řízení s velkým počtem účastníků lze doručovat **veřejnou vyhlášk
 > *(1) Stanoví-li zákon, že pro vedení řízení má význam předstih žádosti, vyznačí správní orgán časový údaj o jejím doručení též s uvedením hodiny a minuty doručení. Jestliže bylo více žádostí doručeno současně, rozhoduje údaj o tom, kdy byla poštovní zásilka obsahující žádost podána. V pochybnostech mají přednost žádosti předané správnímu orgánu osobně. Nelze-li předstih žádosti určit, určí se losem; o tom se sepíše protokol.*
 >
 > *(2) Řízení se vede o žádosti nebo žádostech s nejlepším pořadím. Řízení o ostatních žádostech správní orgán usnesením přeruší do doby, než rozhodnutí o ní nebo o nich nabude právní moci. Pokud správní orgán této žádosti nebo těmto žádostem vyhoví, řízení o ostatních žádostech usnesením zastaví. Pokud správní orgán některou žádost zamítne, pokračuje v řízení o další žádosti v pořadí; ustanovení předchozích vět platí obdobně.*
-
 
 Pokud zákon stanoví, že **pro vedení řízení má význam předstih žádosti** (typicky koncesní řízení, soutěž o omezené dotace):
 - Orgán vyznačí **hodinu a minutu** doručení.
@@ -765,7 +733,6 @@ Pokud zákon stanoví, že **pro vedení řízení má význam předstih žádos
 - **Zamítnutí** prvního → **pokračování** s další v pořadí.
 
 ### § 146 — Řízení o VÝBĚRU žádosti
-
 
 <!-- AUTOCITACE:§146 -->
 
@@ -784,7 +751,6 @@ Pokud zákon stanoví, že **pro vedení řízení má význam předstih žádos
 > *(5) V řízení o výběru žádosti se ke lhůtě pro vydání rozhodnutí (§ 71) připočítává doba rovnající se lhůtě pro podávání žádostí v řízení prováděném formou výběru uvedené v odstavci 2.*
 >
 > *(6) V řízení prováděném formou výběru podle odstavce 1 rozhodne správní orgán na základě doporučení nejméně tříčlenné komise jmenované vedoucím správního orgánu; komise se usnáší většinou hlasů všech svých členů; ustanovení § 14 platí obdobně.*
-
 
 #### Princip (odst. 1)
 
@@ -821,7 +787,6 @@ Orgán rozhodne na základě **doporučení komise** (≥ 3 členů), jmenované
 
 ### § 147 — ZÁRUKA za splnění povinnosti
 
-
 <!-- AUTOCITACE:§147 -->
 
 > **§ 147**
@@ -839,7 +804,6 @@ Orgán rozhodne na základě **doporučení komise** (≥ 3 členů), jmenované
 > *(5) Záruka se vrací, byla-li uložená povinnost splněna, jakož i v případě, že v řízení povinnost uložena nebyla. Není-li povinnost zajištěná zárukou splněna ve lhůtě, peněžitá záruka propadne ve prospěch toho, kdo by byl oprávněn z exekuce.*
 >
 > *(6) Jde-li o nepeněžitou záruku, rozhodne správní orgán o uspokojení této pohledávky prodejem záruky podle zvláštního zákona.35) Případný přebytek bude po odečtení nákladů ocenění40) a prodeje vrácen tomu, kdo záruku složil.*
-
 
 #### Záruka v ex officio řízení (odst. 1)
 
@@ -875,7 +839,6 @@ V řízení o žádosti — záruka **za splnění povinnosti vzniklé využití
 
 ### § 148 — Mezitímní rozhodnutí a rozhodnutí v části věci
 
-
 <!-- AUTOCITACE:§148 -->
 
 > **§ 148**
@@ -891,7 +854,6 @@ V řízení o žádosti — záruka **za splnění povinnosti vzniklé využití
 > *(2) Po právní moci mezitímního rozhodnutí nebo rozhodnutí v části věci správní orgán vydá rozhodnutí, kterým rozhodne o zbytku věci.*
 >
 > *(3) Účastník se může domáhat vydání mezitímního rozhodnutí nebo rozhodnutí v části věci v rámci ochrany před nečinností správního orgánu (§ 80). Nadřízený správní orgán může přikázat, aby správní orgán vydal mezitímní rozhodnutí nebo rozhodnutí v části věci, popřípadě je sám vydat, a to i současně s jiným opatřením proti nečinnosti.*
-
 
 #### Dva typy speciálních rozhodnutí (odst. 1)
 
@@ -911,7 +873,6 @@ Po právní moci mezitímního / částečného → orgán vydá rozhodnutí, kt
 - **Sám vydat** (i současně s opatřením proti nečinnosti).
 
 ### § 149 — ZÁVAZNÉ STANOVISKO
-
 
 <!-- AUTOCITACE:§149 -->
 
@@ -936,7 +897,6 @@ Po právní moci mezitímního / částečného → orgán vydá rozhodnutí, kt
 > *(8) Nezákonné závazné stanovisko lze zrušit nebo změnit v přezkumném řízení, k němuž je příslušný nadřízený správní orgán správního orgánu, který vydal závazné stanovisko. Přezkumné řízení lze zahájit do 1 roku od právní moci rozhodnutí, které bylo závazným stanoviskem podmíněno; závazné stanovisko nelze v přezkumném řízení zrušit nebo změnit po uplynutí 15 měsíců od právní moci rozhodnutí, které bylo závazným stanoviskem podmíněno. Jestliže správní orgán při své úřední činnosti zjistí, že jiný správní orgán učinil nezákonné závazné stanovisko, dá podnět správnímu orgánu příslušnému k přezkumnému řízení a vyčká jeho rozhodnutí.*
 >
 > *(9) Zrušení nebo změna závazného stanoviska je v případě, že rozhodnutí, které bylo závazným stanoviskem podmíněno, již nabylo právní moci, důvodem obnovy řízení.*
-
 
 > Klíčový institut pro vícestupňovou veřejnou správu. **Závazné stanovisko** = úkon dotčeného orgánu, jehož **obsah je ZÁVAZNÝ pro výrokovou část** rozhodnutí.
 
@@ -998,7 +958,6 @@ Pokud rozhodnutí podmíněné stanoviskem už nabylo právní moci → zrušen�
 
 ### § 150 — PŘÍKAZ (zkrácené řízení)
 
-
 <!-- AUTOCITACE:§150 -->
 
 > **§ 150**
@@ -1014,7 +973,6 @@ Pokud rozhodnutí podmíněné stanoviskem už nabylo právní moci → zrušen�
 > *(4) Příkaz musí obsahovat poučení, v němž správní orgán uvede, že je možné proti příkazu podat odpor, v jaké lhůtě je možno tak učinit, od kterého dne se tato lhůta počítá a u kterého správního orgánu se odpor podává. Jestliže je vydání příkazu prvním úkonem v řízení, nelze v něm uložit povinnost nahradit náklady řízení.*
 >
 > *(5) Je-li účastník přítomen a plně uzná důvody vydání příkazu, považuje se stav věci za prokázaný a příkaz lze vydat na místě, pokud uloží povinnost k peněžitému plnění do výše 10 000 Kč nebo povinnost k nepeněžitému plnění, jež účastník může uskutečnit ihned na místě. Odůvodnění příkazu lze nahradit vlastnoručně podepsaným prohlášením účastníka, že s uložením povinnosti souhlasí. Podepsáním prohlášení se příkaz stává pravomocným a vykonatelným rozhodnutím. O této skutečnosti musí být účastník předem prokazatelně poučen. Proti příkazu vydanému na místě nelze podat odpor.*
-
 
 #### Účel (odst. 1)
 
@@ -1068,7 +1026,6 @@ Předem nutné **prokazatelné poučení** o důsledcích.
 
 ### § 151 — VYDÁNÍ DOKLADU místo rozhodnutí
 
-
 <!-- AUTOCITACE:§151 -->
 
 > **§ 151**
@@ -1082,7 +1039,6 @@ Předem nutné **prokazatelné poučení** o důsledcích.
 > *(3) Dnem převzetí dokladu účastníkem nabývá rozhodnutí právní moci a právních účinků.*
 >
 > *(4) Dojde-li ke zrušení rozhodnutí poté, co nabylo právní moci, pozbývá vydaný doklad platnost.*
-
 
 #### Předpoklady (odst. 1)
 
@@ -1108,7 +1064,6 @@ Zrušení rozhodnutí po nabytí právní moci → **doklad pozbývá platnost**
 
 ### § 152 — ROZKLAD
 
-
 <!-- AUTOCITACE:§152 -->
 
 > **§ 152**
@@ -1130,7 +1085,6 @@ Zrušení rozhodnutí po nabytí právní moci → **doklad pozbývá platnost**
 > *- a) rozhodnutí zrušit nebo změnit, pokud se tím plně vyhoví rozkladu a jestliže tím nemůže být způsobena újma žádnému z účastníků, ledaže s tím všichni, jichž se to týká, vyslovili souhlas, nebo*
 >
 > *- b) rozklad zamítnout.*
-
 
 > Klíčový institut pro vrcholné orgány. **Rozklad** = řádný opravný prostředek proti rozhodnutím ústředních úřadů (kde **není vyššího nadřízeného**).
 
@@ -1183,7 +1137,6 @@ V praxi se proto v rozkladovém řízení rozhoduje konstrukcí: ministr přijme
 
 ### § 153 — Uspokojení účastníka po podání ŽALOBY VE SPRÁVNÍM SOUDNICTVÍ
 
-
 <!-- AUTOCITACE:§153 -->
 
 > **§ 153**
@@ -1199,7 +1152,6 @@ V praxi se proto v rozkladovém řízení rozhoduje konstrukcí: ministr přijme
 > *- c) snížení trestu nebo upuštění od trestu uloženého rozhodnutím správního orgánu, lze jej uspokojit vydáním nového rozhodnutí.*
 >
 > *(2) K řízením podle odstavce 1 je příslušný žalovaný správní orgán. Vydat rozhodnutí může jen se souhlasem nadřízeného správního orgánu; v případě, že je třeba před vydáním rozhodnutí doplnit řízení, je souhlasu nadřízeného orgánu zapotřebí již k zahájení řízení. Rozhodnutí nesmí měnit práva nebo povinnosti ostatních účastníků založené žalobou napadeným rozhodnutím, ledaže s tím vyslovili souhlas. Sdělí-li žalobce soudu, že je uspokojen, platí, že se vzdal práva na odvolání nebo rozklad; právo podat odvolání nebo rozklad nemají ani ostatní účastníci. Právní moci nabývá rozhodnutí žalovaného správního orgánu vydané podle odstavce 1 dnem právní moci rozhodnutí soudu o zastavení řízení o žalobě. Přezkumné řízení proti tomuto rozhodnutí žalovaného správního orgánu není přípustné.*
-
 
 > Specifický institut pro vyřešení sporu **PO podání žaloby k soudu**, ale **PŘED rozhodnutím soudu**. Cíl: orgán napraví své rozhodnutí, žaloba se stane bezpředmětnou, soud řízení zastaví.
 

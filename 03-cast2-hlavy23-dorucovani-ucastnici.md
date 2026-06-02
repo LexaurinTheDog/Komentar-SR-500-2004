@@ -8,7 +8,6 @@
 
 ### § 19 — Společné ustanovení o doručování (KASKÁDA doručovacích kanálů)
 
-
 <!-- AUTOCITACE:§19 -->
 
 > **§ 19**
@@ -75,7 +74,6 @@ Doručení elektronickou adresou (e-mail) **jen na žádost účastníka**. Spec
 
 ### § 20 — Doručování fyzickým osobám
 
-
 <!-- AUTOCITACE:§20 -->
 
 > **§ 20**
@@ -93,7 +91,6 @@ Doručení elektronickou adresou (e-mail) **jen na žádost účastníka**. Spec
 > *(5) Při doručování písemnosti, která souvisí s podnikatelskou činností fyzické osoby a která je doručována na adresu místa podnikání,2) se postupuje obdobně podle § 21.*
 >
 > *(6) Písemnost určenou advokátu, včetně písemnosti doručované do vlastních rukou, mohou přijmout také advokátní koncipienti nebo jiní jeho zaměstnanci. Vykonává-li advokacii společně s jinými advokáty, může být písemnost, včetně písemnosti doručované do vlastních rukou, odevzdána též těmto advokátům, jejich advokátním koncipientům nebo jiným jejich zaměstnancům. Jestliže advokát vykonává advokacii jako společník veřejné obchodní společnosti, mohou písemnost určenou advokátu, včetně písemnosti doručované do vlastních rukou, přijmout rovněž ostatní společníci této společnosti, advokátní koncipienti nebo jiní její zaměstnanci. Pro doručování písemnosti notáři, soudnímu exekutorovi a jiné osobě, která poskytuje právní pomoc podle zvláštních zákonů, platí věta první až třetí přiměřeně. Ustanovení o doručování právnickým osobám (§ 21) platí pro doručování písemnosti advokátovi, notáři, soudnímu exekutorovi a jiné osobě, která poskytuje právní pomoc podle zvláštních zákonů, obdobně.*
-
 
 #### Adresy doručení (odst. 1) — kaskáda
 
@@ -119,7 +116,6 @@ Advokátu lze doručit i **advokátnímu koncipientovi nebo jinému zaměstnanci
 
 ### § 21 — Doručování právnickým osobám
 
-
 <!-- AUTOCITACE:§21 -->
 
 > **§ 21**
@@ -138,7 +134,6 @@ Advokátu lze doručit i **advokátnímu koncipientovi nebo jinému zaměstnanci
 >
 > *(6) Ustanovení odstavců 1 až 5 se přiměřeně vztahují i na doručování správním orgánům a jiným orgánům veřejné moci.*
 
-
 Adresy:
 - Adresa pro doručování.
 - **Sídlo** PO nebo organizační složky, jíž se řízení týká.
@@ -151,7 +146,6 @@ Tj. PO musí mít na adrese sídla zajištěno přijímání pošty. Pokud tam n
 
 ### § 22 — Doručování do ciziny
 
-
 <!-- AUTOCITACE:§22 -->
 
 > **§ 22**
@@ -160,7 +154,6 @@ Tj. PO musí mít na adrese sídla zajištěno přijímání pošty. Pokud tam n
 >
 > *Adresátům, kteří se zdržují v cizině nebo jejichž sídlo nebo pobyt, popřípadě jiná adresa pro doručování podle § 19 odst. 4 je v cizině, lze doručit prostřednictvím provozovatele poštovních služeb nebo prostřednictvím příslušného orgánu státní správy pověřeného k doručování písemností do ciziny. Pokud se tímto způsobem nepodaří písemnost doručit, ustanoví jim správní orgán opatrovníka [§ 32 odst. 2 písm. d)].*
 
-
 Možnosti:
 - **Provozovatel poštovních služeb** — mezinárodní zásilka.
 - **Příslušný orgán státní správy** pověřený k doručování do ciziny (typicky MZV ČR / ZÚ).
@@ -168,7 +161,6 @@ Možnosti:
 **Pokud se nepodaří** → orgán ustanoví **opatrovníka** podle § 32 odst. 2 písm. d). To je v praxi důležité u řízení o cizincích bez datové schránky.
 
 ### § 23 — Uložení (postup při neúspěšném doručení)
-
 
 <!-- AUTOCITACE:§23 -->
 
@@ -190,7 +182,6 @@ Možnosti:
 >
 > *(5) Zároveň s oznámením podle odstavce 4 se adresát písemně poučí o právních důsledcích, které by jeho případné jednání podle § 24 odst. 1, 3 a 4 vyvolalo nebo o možnosti postupu podle § 24 odst. 2. Toto poučení musí obsahovat i označení správního orgánu, který písemnost odesílá, a jeho adresu.*
 
-
 (1)(2) Není-li adresát/PO zastižena a nelze doručit jiným přípustným způsobem → **písemnost se uloží**.
 
 (3) Uložení:
@@ -202,7 +193,6 @@ Možnosti:
 (5) **Písemné poučení** o právních důsledcích podle § 24 odst. 1, 3 a 4 + označení orgánu.
 
 ### § 24 — Překážky při doručování (FIKCE DORUČENÍ)
-
 
 <!-- AUTOCITACE:§24 -->
 
@@ -217,7 +207,6 @@ Možnosti:
 > *(3) Jestliže adresát písemnosti, který je fyzickou osobou, nebo fyzická osoba, které má být předána písemnost adresovaná právnické osobě, pokus o doručení písemnosti znemožní tím, že ji odmítne převzít nebo že neposkytne součinnost nezbytnou k řádnému doručení, předá se jí poučení o právních důsledcích, které z jejího jednání uvedeného v odstavci 4 vyplývají; nového poučení však není zapotřebí, pokud se ho adresátovi dostalo již podle § 23 odst. 5.*
 >
 > *(4) Jestliže osoba uvedená v odstavci 3 předání poučení znemožní nebo jestliže i přes poučení podle § 23 odst. 5 nebo podle odstavce 3 doručení neumožní, písemnost se považuje za doručenou dnem, kdy k neúspěšnému pokusu o doručení došlo.*
-
 
 > *(1) Jestliže si adresát uložené písemnosti písemnost ve lhůtě 10 dnů ode dne, kdy byla k vyzvednutí připravena, nevyzvedne, písemnost se považuje za doručenou posledním dnem této lhůty.*
 
@@ -246,7 +235,6 @@ Jestliže ani **přes poučení** odmítne → písemnost se považuje za **doru
 
 ### § 25 — Doručování VEŘEJNOU VYHLÁŠKOU
 
-
 <!-- AUTOCITACE:§25 -->
 
 > **§ 25**
@@ -262,7 +250,6 @@ Jestliže ani **přes poučení** odmítne → písemnost se považuje za **doru
 > *(4) Týká-li se veřejná vyhláška záležitosti práv příslušníků národnostních menšin a je-li ve správním obvodu správního orgánu zřízen výbor pro národnostní menšiny nebo jiný orgán pro záležitosti národnostních menšin, veřejnou vyhlášku správní orgán uveřejní též v jazyce příslušné národnostní menšiny.*
 >
 > *(5) Fyzické osoby, které vykonávají působnost v oblasti veřejné správy, doručují veřejnou vyhláškou prostřednictvím úřední desky obecního úřadu v místě výkonu jejich působnosti.*
-
 
 > *(2) Doručení veřejnou vyhláškou se provede tak, že se písemnost, popřípadě oznámení o možnosti převzít písemnost, vyvěsí na úřední desce správního orgánu, který písemnost doručuje; na písemnosti se vyznačí den vyvěšení. Písemnost nebo oznámení se zveřejní též způsobem umožňujícím dálkový přístup. Patnáctým dnem po vyvěšení se písemnost považuje za doručenou, byla-li v této lhůtě splněna i povinnost podle věty druhé.*
 
@@ -291,7 +278,6 @@ Týká-li se vyhláška **práv příslušníků národnostních menšin** a v o
 
 ### § 26 — Úřední deska
 
-
 <!-- AUTOCITACE:§26 -->
 
 > **§ 26**
@@ -306,10 +292,14 @@ Týká-li se vyhláška **práv příslušníků národnostních menšin** a v o
 >
 > *(4) Nedojde-li k uzavření veřejnoprávní smlouvy podle odstavce 3, postupuje se v případě obecního úřadu podle zvláštního zákona.18) V případě jiného správního orgánu rozhodne nadřízený správní orgán, že pro něj bude tuto povinnost vykonávat sám nebo že jejím vykonáváním pověří jiný podřízený věcně příslušný správní orgán ve svém správním obvodu. Rozhodnutí nadřízeného správního orgánu se zveřejní nejméně po dobu 15 dnů na úřední desce správního orgánu, který povinnost neplnil.*
 
-
 Každý správní orgán má **úřední desku** + dálkový přístup. Pro orgány ÚSC = **jedna deska**.
 
 Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou působností** (§ 160) o zveřejňování. Pokud nedojde k VPS → nadřízený orgán rozhodne, kdo to bude vykonávat.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2373/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/95EE13A674EEE564C1257A91005041F1?openDocument) — 26. 9. 2012, kat. A
+  > „Smlouva o převodu zemědělského pozemku ve vlastnictví státu je podle § 39 obč. zák. neplatná, nebyl-li obsah úřední desky o zahájení prodeje tohoto pozemku ve smyslu § 7 odst. 2 zákona č. 95/1999 Sb. zveřejněn příslušným obecním úřadem i způsobem umožňujícím dálkový přístup"
 
 ---
 
@@ -318,7 +308,6 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 ### Díl 1 — Účastníci řízení (§§ 27–35)
 
 ### § 27 — Tři typy účastníků (KLÍČOVÉ ustanovení)
-
 
 <!-- AUTOCITACE:§27 -->
 
@@ -333,6 +322,11 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 > *(2) Účastníky jsou též další dotčené osoby, pokud mohou být rozhodnutím přímo dotčeny ve svých právech nebo povinnostech.*
 >
 > *(3) Účastníky jsou rovněž osoby, o kterých to stanoví zvláštní zákon. Nestanoví-li zvláštní zákon jinak, mají postavení účastníků podle odstavce 2, ledaže jim má rozhodnutí založit, změnit nebo zrušit právo anebo povinnost nebo prohlásit, že právo nebo povinnost mají anebo nemají; v tom případě mají postavení účastníků podle odstavce 1.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2017%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2017&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-28_Cdo_2044_2015.txt) — 26. 10. 2016, kat. A
+  > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
 
 #### Tři kategorie účastníků
 
@@ -355,7 +349,6 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 
 ### § 28 — Sporné účastenství
 
-
 <!-- AUTOCITACE:§28 -->
 
 > **§ 28**
@@ -364,6 +357,10 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 >
 > *(2) Jestliže osoba, o níž bylo usnesením rozhodnuto, že není účastníkem, podala proti tomuto usnesení odvolání, jemuž bylo vyhověno, a mezitím zmeškala úkon, který by jako účastník mohla učinit, je oprávněna tento úkon učinit do 15 dnů od oznámení rozhodnutí o odvolání; ustanovení § 41 odst. 6 věty druhé platí obdobně.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2017%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2017&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-28_Cdo_2044_2015.txt) — 26. 10. 2016, kat. A
+  > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
 
 #### „V pochybnostech účastníkem" (odst. 1)
 
@@ -376,7 +373,6 @@ O sporném účastenství orgán rozhodne **usnesením** — oznamuje se jen tom
 Pokud osoba podá odvolání proti usnesení o nevyhovění a odvolání bude vyhověno → **má 15 dnů od oznámení rozhodnutí o odvolání na úkony**, které jako účastník mohla učinit.
 
 ### § 29 — Procesní způsobilost
-
 
 <!-- AUTOCITACE:§29 -->
 
@@ -393,7 +389,6 @@ Pokud osoba podá odvolání proti usnesení o nevyhovění a odvolání bude vy
 > *(4) V řízení, jehož účastníkem je nezletilé dítě, které je schopno formulovat své názory, postupuje správní orgán tak, aby byl zjištěn názor nezletilého dítěte ve věci. Za tím účelem správní orgán poskytne dítěti možnost, aby bylo vyslyšeno buď přímo, nebo prostřednictvím zástupce nebo příslušného orgánu sociálně-právní ochrany dětí. Vyžaduje-li to zájem dítěte, lze jeho názor zjistit i bez přítomnosti rodičů nebo jiných osob zodpovědných za výchovu dítěte. V takovém případě správní orgán k úkonu přibere jinou vhodnou dospělou osobu. K názoru dítěte správní orgán přihlíží s přihlédnutím k jeho věku a rozumové vyspělosti.*
 >
 > *(5) Úkony týkající se společných věcí nebo práv činí účastníci společně, pokud ze zvláštního zákona21) nevyplývá něco jiného.*
-
 
 > *(1) Každý je způsobilý činit v řízení úkony samostatně (dále jen „procesní způsobilost") v tom rozsahu, v jakém mu zákon přiznává svéprávnost.*
 
@@ -417,7 +412,6 @@ Klíčové ustanovení transponující čl. 12 Úmluvy o právech dítěte:
 
 ### § 30 — Úkony právnické osoby a státu
 
-
 <!-- AUTOCITACE:§30 -->
 
 > **§ 30**
@@ -434,7 +428,6 @@ Klíčové ustanovení transponující čl. 12 Úmluvy o právech dítěte:
 >
 > *(5) Každý, kdo činí úkony, musí prokázat své oprávnění.*
 
-
 #### PO (odst. 1, 2)
 
 - Jménem PO činí úkony **ten, kdo je k tomu oprávněn v řízení před soudem** podle zvláštního zákona — typicky **statutární orgán** (jednatel s.r.o., předseda představenstva a.s.) nebo zaměstnanec pověřený organizačním řádem.
@@ -450,7 +443,6 @@ Za obec/kraj jedná osoba **oprávněná zastupovat ÚSC navenek** podle zákona
 
 ### § 31 — Zástupce (definice)
 
-
 <!-- AUTOCITACE:§31 -->
 
 > **§ 31**
@@ -458,7 +450,6 @@ Za obec/kraj jedná osoba **oprávněná zastupovat ÚSC navenek** podle zákona
 > *###### Zástupce*
 >
 > *Zástupcem účastníka je zákonný zástupce, opatrovník nebo zmocněnec; zástupcem účastníků, jejichž zájmy si neodporují, může být i společný zmocněnec nebo společný zástupce.*
-
 
 > *Zástupcem účastníka je zákonný zástupce, opatrovník nebo zmocněnec; zástupcem účastníků, jejichž zájmy si neodporují, může být i společný zmocněnec nebo společný zástupce.*
 
@@ -470,7 +461,6 @@ Za obec/kraj jedná osoba **oprávněná zastupovat ÚSC navenek** podle zákona
 Plus **kolektivní formy**: společný zmocněnec / společný zástupce (§ 35).
 
 ### § 32 — Zákonné zastoupení a OPATROVNICTVÍ
-
 
 <!-- AUTOCITACE:§32 -->
 
@@ -511,7 +501,6 @@ Plus **kolektivní formy**: společný zmocněnec / společný zástupce (§ 35)
 > *(7) Nedbá-li opatrovník o ochranu práv nebo zájmů opatrovance nebo lze-li mít důvodně za to, že opatrovník má takový zájem na výsledku řízení, který odůvodňuje obavu, že nebude řádně hájit zájmy opatrovance, správní orgán usnesením zruší předchozí ustanovení opatrovníka a ustanoví opatrovníkem někoho jiného.*
 >
 > *(8) Funkce opatrovníka zaniká, jakmile zastoupený začal být zastupován zákonným zástupcem nebo nabyl procesní způsobilosti anebo pominuly důvody, pro něž byl opatrovník ustanoven. Tuto skutečnost správní orgán poznamená do spisu, jakmile se o ní dozví; v pochybnosti rozhodne usnesením, které se oznamuje pouze opatrovníkovi a opatrovanci nebo jeho zákonnému zástupci.*
-
 
 #### Zákonný zástupce (odst. 1)
 
@@ -566,7 +555,6 @@ Orgán **poznamená do spisu** (nebo v pochybnosti usnesením).
 
 ### § 33 — Zastoupení na základě plné moci (SMLUVNÍ)
 
-
 <!-- AUTOCITACE:§33 -->
 
 > **§ 33**
@@ -588,7 +576,6 @@ Orgán **poznamená do spisu** (nebo v pochybnosti usnesením).
 > *(3) Zmocněnec může udělit plnou moc jiné osobě, aby místo něho za účastníka jednala, jen je-li v plné moci výslovně dovoleno, že tak může učinit, pokud zvláštní zákon nestanoví jinak.23)*
 >
 > *(4) Jestliže se nedaří doručovat písemnosti zmocněnci, postupuje se podle § 32 odst. 2 písm. d) nebo § 32 odst. 3 a účastník se o tomto postupu, jakož i o obsahu písemnosti vyrozumí.*
-
 
 #### Základ (odst. 1)
 
@@ -615,7 +602,6 @@ Pokud se zmocněnci nedaří doručovat → orgán postupuje podle § 32 odst. 2
 
 ### § 34 — Účinky zastoupení
 
-
 <!-- AUTOCITACE:§34 -->
 
 > **§ 34**
@@ -627,7 +613,6 @@ Pokud se zmocněnci nedaří doručovat → orgán postupuje podle § 32 odst. 2
 > *(3) V pochybnostech o rozsahu zastoupení platí, že zástupce je oprávněn vystupovat jménem zastoupeného v celém řízení.*
 >
 > *(4) Správní orgán může uznat úkony učiněné ve prospěch účastníka jinou osobou než zástupcem za úkony učiněné zástupcem, jestliže o to účastník požádá a nemůže-li vzniknout újma jinému účastníkovi. O uznání úkonů rozhoduje správní orgán usnesením; nevyhoví-li podateli, oznamuje usnesení pouze jemu.*
-
 
 #### Identifikace s úkony (odst. 1)
 
@@ -650,7 +635,6 @@ Pokud úkon ve prospěch účastníka učiní **někdo jiný než zástupce** �
 
 ### § 35 — Společný zmocněnec / společný zástupce
 
-
 <!-- AUTOCITACE:§35 -->
 
 > **§ 35**
@@ -664,7 +648,6 @@ Pokud úkon ve prospěch účastníka učiní **někdo jiný než zástupce** �
 > *(3) V řízení může být zvoleno i několik společných zmocněnců nebo ustanoveno několik společných zástupců, z nichž každý bude jednat jen jménem určité skupiny účastníků.*
 >
 > *(4) Pro společného zmocněnce a společného zástupce platí § 34 obdobně.*
-
 
 #### Společný zmocněnec (odst. 1)
 
@@ -686,7 +669,6 @@ Lze ustanovit i několik společných zmocněnců, každý pro určitou skupinu 
 
 ### § 36 — Úkony účastníků (návrhy, vyjádření, podpůrce)
 
-
 <!-- AUTOCITACE:§36 -->
 
 > **§ 36**
@@ -700,7 +682,6 @@ Lze ustanovit i několik společných zmocněnců, každý pro určitou skupinu 
 > *(4) Účastník má při jednání se správním orgánem právo na konzultace s osobou, která mu podle občanského zákoníku může jako podpůrce44) napomáhat při rozhodování; je-li takových osob více, zvolí si účastník jednu z nich. Namítne-li v průběhu řízení podpůrce účastníka vlastním jménem neplatnost právního jednání učiněného podporovaným účastníkem, správní orgán k této námitce v řízení přihlédne.*
 >
 > *(5) Účastník, jeho zástupce nebo podpůrce44) je povinen předložit na výzvu oprávněné úřední osoby průkaz totožnosti. Průkazem totožnosti se pro účely tohoto zákona rozumí doklad, který je veřejnou listinou, v němž je uvedeno jméno a příjmení, datum narození a místo trvalého pobytu, popřípadě bydliště mimo území České republiky a z něhož je patrná i podoba, popřípadě jiný údaj umožňující správnímu orgánu identifikovat osobu, která doklad předkládá, jako jeho oprávněného držitele.*
-
 
 #### Návrhy důkazů a jiné návrhy (odst. 1)
 
@@ -738,7 +719,6 @@ Speciální režim **u utajovaných informací** uchovávaných odděleně (§ 1
 
 ### § 37 — Podání
 
-
 <!-- AUTOCITACE:§37 -->
 
 > **§ 37**
@@ -758,7 +738,6 @@ Speciální režim **u utajovaných informací** uchovávaných odděleně (§ 1
 > *(6) Není-li správní orgán schopen zajistit přijímání podání v elektronické podobě podle odstavce 4, uzavře osoba uvedená v § 160 odst. 1, jejíž je tento správní orgán součástí, s obcí s rozšířenou působností, v jejímž správním obvodu má sídlo, veřejnoprávní smlouvu (§ 160) o provozování elektronické adresy podatelny.*
 >
 > *(7) Nedojde-li k uzavření veřejnoprávní smlouvy podle odstavce 7, postupuje se v případě obecního úřadu podle zvláštního zákona;18) v případě jiného správního orgánu rozhodne krajský úřad, že pro něj bude tuto povinnost vykonávat obecní úřad obce s rozšířenou působností, do jehož správního obvodu patří. Rozhodnutí vydává krajský úřad v přenesené působnosti. Rozhodnutí krajského úřadu se zveřejní nejméně po dobu 15 dnů na úřední desce správního orgánu, který povinnost neplnil.*
-
 
 #### Materiální posouzení (odst. 1)
 
@@ -798,7 +777,6 @@ Orgán **pomůže** podateli odstranit nedostatky nebo ho **vyzve k odstranění
 
 ### § 38 — NAHLÍŽENÍ DO SPISU
 
-
 <!-- AUTOCITACE:§38 -->
 
 > **§ 38**
@@ -816,7 +794,6 @@ Orgán **pomůže** podateli odstranit nedostatky nebo ho **vyzve k odstranění
 > *(5) Odepřel-li správní orgán osobě nahlížet do spisu nebo jeho části, vydá o tom usnesení, které se oznamuje pouze této osobě.*
 >
 > *(6) Části spisu, které obsahují utajované informace nebo skutečnosti, na něž se vztahuje zákonem uložená nebo uznaná povinnost mlčenlivosti, jsou vyloučeny z nahlížení do spisu; to neplatí o částech spisu, jimiž byl nebo bude prováděn důkaz, do takových částí spisu však může nahlížet pouze účastník řízení nebo jeho zástupce. Ustanovení odstavce 4 se nepoužije. Před nahlédnutím do spisu musí být účastník řízení nebo jeho zástupce poučen o povinnosti mlčenlivosti o utajovaných informacích nebo skutečnostech, na něž se vztahuje zákonem uložená nebo uznaná povinnost mlčenlivosti, a o právních následcích porušení této povinnosti; o poučení se sepíše protokol. Dojde-li při nahlížení do spisu k přístupu k utajované informaci, protokol obsahuje také poučení podle zákona upravujícího ochranu utajovaných informací a bezpečnostní způsobilost. Stejnopis protokolu zašle správní orgán do 30 dnů ode dne jeho vyhotovení Národnímu bezpečnostnímu úřadu. Postup podle věty čtvrté a páté se neuplatní, prokáže-li se účastník řízení nebo jeho zástupce platným osvědčením fyzické osoby pro příslušný stupeň utajení utajované informace a poučením, vydanými podle zákona upravujícího ochranu utajovaných informací a bezpečnostní způsobilost.*
-
 
 > *(1) Účastníci a jejich zástupci mají právo nahlížet do spisu, a to i v případě, že je rozhodnutí ve věci již v právní moci (§ 73). Není-li účastník zastoupen, může spolu s účastníkem nahlížet do spisu i jeho podpůrce.*
 

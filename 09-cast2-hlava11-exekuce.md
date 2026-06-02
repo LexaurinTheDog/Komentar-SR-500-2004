@@ -21,7 +21,6 @@
 
 ### § 103 — Předpoklady správní exekuce
 
-
 <!-- AUTOCITACE:§103 -->
 
 > **§ 103**
@@ -29,7 +28,6 @@
 > *(1) Podle ustanovení této hlavy se postupuje, pokud ten, jemuž byla exekučním titulem uložena povinnost peněžitého nebo nepeněžitého plnění (dále jen „povinný“), v určené lhůtě tuto povinnost dobrovolně nesplní.*
 >
 > *(2) Exekučním správním orgánem je správní orgán, který je podle tohoto nebo zvláštního zákona oprávněn k exekuci.*
-
 
 > *(1) Podle ustanovení této hlavy se postupuje, pokud ten, jemuž byla exekučním titulem uložena povinnost peněžitého nebo nepeněžitého plnění (dále jen „povinný"), v určené lhůtě tuto povinnost dobrovolně nesplní.*
 >
@@ -45,7 +43,6 @@
 
 ### § 104 — EXEKUČNÍ TITUL (TAXATIVNÍ výčet)
 
-
 <!-- AUTOCITACE:§104 -->
 
 > **§ 104**
@@ -55,7 +52,6 @@
 > *- a) vykonatelné rozhodnutí uvedené v § 74, nebo*
 >
 > *- b) vykonatelný smír uvedený v § 141 odst. 8.*
-
 
 > *Exekučním titulem, na jehož základě se vydává exekuční výzva nebo exekuční příkaz, je*
 > *a) vykonatelné rozhodnutí uvedené v § 74, nebo*
@@ -69,7 +65,6 @@
 
 ### § 105 — Kdo uplatňuje titul
 
-
 <!-- AUTOCITACE:§105 -->
 
 > **§ 105**
@@ -81,7 +76,6 @@
 > *- b) osoba oprávněná z exekučního titulu.*
 >
 > *(2) Správní orgán uvedený v odstavci 1 písm. a) nebo osoba oprávněná z exekučního titulu mohou o provedení exekuce požádat též soud nebo soudního exekutora.*
-
 
 #### Aktivní legitimace (odst. 1)
 
@@ -138,7 +132,6 @@ Pokud byla pokuta **uložena příkazem na místě** (typicky dopravní přestup
 
 ### § 107 — Příslušnost exekučního orgánu pro nepeněžité plnění
 
-
 <!-- AUTOCITACE:§107 -->
 
 > **§ 107**
@@ -148,7 +141,6 @@ Pokud byla pokuta **uložena příkazem na místě** (typicky dopravní přestup
 > *(1) Exekučním správním orgánem příslušným k exekuci na nepeněžitá plnění je správní orgán uvedený v § 105 odst. 1 písm. a), je-li orgánem moci výkonné. Obecní úřad nebo krajský úřad je exekučním správním orgánem, je-li současně správním orgánem uvedeným v § 105 odst. 1 písm. a) nebo je-li takovým správním orgánem jiný orgán územního samosprávného celku.*
 >
 > *(2) Na žádost jiného správního orgánu uvedeného v § 105 odst. 1 písm. a) provede exekuci obecní úřad obce s rozšířenou působností, v jehož správním obvodu má správní orgán sídlo.*
-
 
 #### Standardní pravidlo (odst. 1)
 
@@ -160,7 +152,6 @@ Pokud byla pokuta **uložena příkazem na místě** (typicky dopravní přestup
 Na **žádost** jiného správního orgánu (typicky drobné úřady bez vlastní exekuční kapacity) provádí exekuci **obecní úřad obce s rozšířenou působností**, v jehož obvodu má orgán sídlo.
 
 ### § 108 — Přechod / převod povinnosti + lhůty
-
 
 <!-- AUTOCITACE:§108 -->
 
@@ -175,7 +166,6 @@ Na **žádost** jiného správního orgánu (typicky drobné úřady bez vlastn�
 > *(3) Jestliže povinný po nařízení exekuce zemřel nebo zanikl, může exekuční správní orgán v provádění exekuce týkající se majetku patřícího do dědictví pokračovat proti dědici nebo proti jeho zákonnému zástupci nebo správci dědictví, je-li určen. V případě zániku právnické osoby může exekuční správní orgán v exekuci pokračovat proti jejím právním nástupcům.*
 >
 > *(4) Exekuční správní orgán může exekuci nařídit nejpozději do 5 let a provádět ji nejpozději do 10 let poté, co měla být povinnost splněna dobrovolně.*
-
 
 #### Přechod / převod (odst. 1, 2)
 
@@ -205,7 +195,6 @@ Exekuci lze vést proti **jiné osobě než povinnému z titulu** jen tehdy, **p
 
 ### § 109 — EXEKUČNÍ VÝZVA (nepovinná předfáze)
 
-
 <!-- AUTOCITACE:§109 -->
 
 > **§ 109**
@@ -225,7 +214,6 @@ Exekuci lze vést proti **jiné osobě než povinnému z titulu** jen tehdy, **p
 > *- d) upozornění, že pokud nebude nepeněžitá povinnost splněna v určené náhradní lhůtě, exekuční správní orgán po marném uplynutí této lhůty nařídí exekuci.*
 >
 > *(3) Proti exekuční výzvě se nelze odvolat.*
-
 
 > *(1) Nehrozí-li vážné nebezpečí, že účel exekuce bude zmařen, může exekuční správní orgán před nařízením exekuce vyzvat povinného ke splnění nepeněžité povinnosti exekuční výzvou a určit mu náhradní lhůtu, v níž má být splněna.*
 
@@ -249,7 +237,6 @@ Jen procesní úkon — namítat ji lze později námitkami (§ 117).
 
 ### § 110 — Nařízení exekuce (kdo)
 
-
 <!-- AUTOCITACE:§110 -->
 
 > **§ 110**
@@ -264,14 +251,12 @@ Jen procesní úkon — namítat ji lze později námitkami (§ 117).
 >
 > *- c) na žádost správního orgánu podle § 107 odst. 2.*
 
-
 Exekuční orgán nařídí exekuci vydáním **EXEKUČNÍHO PŘÍKAZU**:
 - a) **Z moci úřední**, je-li sám příslušným orgánem; **neplatí 30-denní lhůta § 80/2** (orgán nemusí spěchat se zahájením).
 - b) **Na žádost** osoby oprávněné z titulu.
 - c) **Na žádost orgánu** podle § 107/2 (orgán, který nemá vlastní exekuční kapacitu).
 
 ### § 111 — EXEKUČNÍ PŘÍKAZ
-
 
 <!-- AUTOCITACE:§111 -->
 
@@ -295,7 +280,6 @@ Exekuční orgán nařídí exekuci vydáním **EXEKUČNÍHO PŘÍKAZU**:
 >
 > *(3) Proti exekučnímu příkazu se nelze odvolat.*
 
-
 #### Náležitosti (odst. 1)
 
 Usnesení + náležitosti § 68:
@@ -317,7 +301,6 @@ Lze podat **NÁMITKY** podle § 117.
 
 ### § 112 — Tři způsoby provedení exekuce (TAXATIVNĚ)
 
-
 <!-- AUTOCITACE:§112 -->
 
 > **§ 112**
@@ -332,7 +315,6 @@ Lze podat **NÁMITKY** podle § 117.
 >
 > *- c) ukládáním donucovacích pokut.*
 
-
 > *Exekuce k vymožení nepeněžité povinnosti se řídí povahou uložené povinnosti. Lze ji nařídit a provést těmito způsoby:*
 > *a) náhradním výkonem v případě zastupitelných plnění,*
 > *b) přímým vynucením v případě nezastupitelných plnění, zejména vyklizením, odebráním movité věci a předvedením, nebo*
@@ -346,7 +328,6 @@ Lze podat **NÁMITKY** podle § 117.
 
 ### § 113 — Odložení a přerušení exekuce
 
-
 <!-- AUTOCITACE:§113 -->
 
 > **§ 113**
@@ -356,7 +337,6 @@ Lze podat **NÁMITKY** podle § 117.
 > *(1) Ze závažných důvodů může exekuční správní orgán usnesením odložit nebo přerušit provedení exekuce, zejména požádá-li povinný o posečkání splnění povinnosti a lze-li z jeho chování mít důvodně za to, že splní svoji povinnost nejpozději ve stejné lhůtě, v jaké může být provedena exekuce, a nehrozí-li, že účel exekuce tím bude zmařen, anebo i bez požádání, šetří-li se skutečnosti rozhodné pro zastavení exekuce. Exekuční správní orgán tak učiní rovněž, stanoví-li to zákon. V případě potřeby si správní orgán vyžádá součinnost toho, kdo o odložení nebo přerušení exekuce požádal. Proti usnesení vydanému podle tohoto odstavce se nelze odvolat.*
 >
 > *(2) Pominou-li důvody, které vedly k odložení nebo přerušení exekuce, a nedojde-li k jejímu zastavení, pokračuje exekuční správní orgán v exekuci podle § 65 odst. 2.*
-
 
 #### Důvody (odst. 1)
 
@@ -372,7 +352,6 @@ Pominou-li důvody → orgán **pokračuje** podle § 65/2 (analogie pokračová
 
 ### § 114 — Provádění exekuce v terénu
 
-
 <!-- AUTOCITACE:§114 -->
 
 > **§ 114**
@@ -381,12 +360,10 @@ Pominou-li důvody → orgán **pokračuje** podle § 65/2 (analogie pokračová
 >
 > *(2) Každý je povinen oprávněné úřední osobě uvedené v odstavci 1 umožnit přístup na místa, kde je třeba exekuci provést.*
 
-
 (1) Úřední osoba prokazuje **pověřením** + exekučním příkazem.
 (2) **Každý** je povinen umožnit přístup na místa exekuce.
 
 ### § 115 — Zastavení exekuce (TAXATIVNÍ výčet)
-
 
 <!-- AUTOCITACE:§115 -->
 
@@ -410,7 +387,6 @@ Pominou-li důvody → orgán **pokračuje** podle § 65/2 (analogie pokračová
 >
 > *- g) je provedení exekuce nepřípustné, protože po jejím nařízení nastal jiný důvod vyplývající ze zvláštního zákona nebo stavu věci, pro který nelze exekuci provést.*
 
-
 Orgán **usnesením zastaví** (na žádost / z moci úřední) **— bez odvolání** — pokud:
 
 | Písm. | Důvod |
@@ -427,7 +403,6 @@ Orgán **usnesením zastaví** (na žádost / z moci úřední) **— bez odvol�
 
 ### § 116 — Exekuční náklady
 
-
 <!-- AUTOCITACE:§116 -->
 
 > **§ 116**
@@ -443,7 +418,6 @@ Orgán **usnesením zastaví** (na žádost / z moci úřední) **— bez odvol�
 > *(4) Povinný hradí exekuční náklady za výkon exekuce vždy, jestliže byl vydán exekuční příkaz nebo jestliže při exekuci odebráním movité věci oprávněná úřední osoba přistoupila k odebrání věci nebo při exekuci přímým vynucením přistoupila k vyklizení.*
 >
 > *(5) Jsou-li některé exekuční úkony prováděny společně vůči více povinným, exekuční správní orgán rozvrhne náhradu vzniklých exekučních nákladů poměrně podle rozsahu vymáhaných povinností připadajících na jednotlivé povinné.*
-
 
 #### Pravidlo (odst. 1)
 
@@ -476,7 +450,6 @@ Náklady se **rozvrhnou poměrně** podle rozsahu vymáhaných povinností.
 
 ### § 117 — NÁMITKY (proti úkonům bez odvolání)
 
-
 <!-- AUTOCITACE:§117 -->
 
 > **§ 117**
@@ -500,7 +473,6 @@ Náklady se **rozvrhnou poměrně** podle rozsahu vymáhaných povinností.
 > *- e) rozhodne-li o tom z vážných důvodů exekuční správní orgán.*
 >
 > *(4) O námitkách rozhoduje exekuční správní orgán. Proti rozhodnutí o námitkách se nelze odvolat.*
-
 
 > *(1) Proti usnesením nebo jiným úkonům exekučního správního orgánu, proti kterým se nelze odvolat, může povinný nebo jiná osoba, které z tohoto úkonu vyplývá povinnost, podat námitky.*
 
@@ -527,7 +499,6 @@ O námitkách rozhoduje **EXEKUČNÍ ORGÁN sám**. **Proti rozhodnutí o námit
 
 ### § 118 — Společná ustanovení Dílu 3
 
-
 <!-- AUTOCITACE:§118 -->
 
 > **§ 118**
@@ -539,7 +510,6 @@ O námitkách rozhoduje **EXEKUČNÍ ORGÁN sám**. **Proti rozhodnutí o námit
 > *(2) Účastníkem podle § 27 odst. 1 se při postupu podle tohoto dílu rozumí povinný.*
 >
 > *(3) Při postupu podle tohoto dílu nelze prominout zmeškání úkonu. Nelze ani obnovit řízení nebo vydat nové rozhodnutí.*
-
 
 (1) **Subsidiarita:** Část první + přiměřeně Hlavy I–X Části druhé.
 (2) **„Účastníkem § 27/1" se rozumí POVINNÝ** v exekuci.
@@ -586,7 +556,6 @@ Orgán může uložit **zálohu předem** v určené výši; lhůta **nejméně 
 
 ### § 120 — Způsoby přímého vynucení
 
-
 <!-- AUTOCITACE:§120 -->
 
 > **§ 120**
@@ -595,11 +564,9 @@ Orgán může uložit **zálohu předem** v určené výši; lhůta **nejméně 
 >
 > *###### Vyklizení*
 
-
 > *Přímé vynucení povinnosti se provede zejména vyklizením nemovitosti, stavby, bytu, místnosti nebo jiných prostor (dále jen „objekt"), odebráním movité věci nebo předvedením.*
 
 ### § 121 — VYKLIZENÍ — předpoklady
-
 
 <!-- AUTOCITACE:§121 -->
 
@@ -608,7 +575,6 @@ Orgán může uložit **zálohu předem** v určené výši; lhůta **nejméně 
 > *(1) Ukládá-li exekuční titul, aby povinný vyklidil objekt, exekuční správní orgán vydá exekuční příkaz a exekuci provede. Exekuční správní orgán povinného vyrozumí nejméně 5 dnů předem, kdy bude vyklizení provedeno. Vyrozumí o tom rovněž obec, na jejímž území se vyklízený objekt nachází. Úkon vyklizení se provádí za přítomnosti přizvané osoby (§ 128).*
 >
 > *(2) Ukládá-li exekuční titul vyklizení objektu, který je v takovém stavu, že bezprostředně ohrožuje život nebo zdraví osob,33) může oprávněná úřední osoba, nelze-li z důvodu časové tísně jinak, doručit exekuční příkaz povinnému až při provedení exekuce. Není-li povinný úkonu vyklizení přítomen, doručí se mu exekuční příkaz spolu s protokolem o vyklizení.*
-
 
 #### Procedurální záruky (odst. 1)
 
@@ -624,7 +590,6 @@ Není-li povinný úkonu přítomen → exekuční příkaz + protokol o vyklize
 
 ### § 122 — Zdravotně ohrožené osoby
 
-
 <!-- AUTOCITACE:§122 -->
 
 > **§ 122**
@@ -632,7 +597,6 @@ Není-li povinný úkonu přítomen → exekuční příkaz + protokol o vyklize
 > *(1) Zjistí-li oprávněná úřední osoba při vyklizení objektu, že se vyklizení objektu týká osoby, jejíž zdravotní stav by mohl být provedením vyklizení vážně ohrožen, není provedení exekuce přípustné. Není-li předloženo potvrzení lékaře nebo je-li pochybnost o správnosti takového potvrzení, oprávněná úřední osoba vyžádá vyjádření odborného lékaře.*
 >
 > *(2) Je-li objekt nebo jeho část v takovém stavu, že bezprostředně ohrožuje život nebo zdraví osob, provede exekuční správní orgán jeho vyklizení vždy.*
-
 
 > *(1) Zjistí-li oprávněná úřední osoba při vyklizení objektu, že se vyklizení objektu týká osoby, jejíž zdravotní stav by mohl být provedením vyklizení vážně ohrožen, není provedení exekuce přípustné.*
 
@@ -646,7 +610,6 @@ Není-li povinný úkonu přítomen → exekuční příkaz + protokol o vyklize
 
 ### § 123 — Postup vyklizení
 
-
 <!-- AUTOCITACE:§123 -->
 
 > **§ 123**
@@ -659,7 +622,6 @@ Není-li povinný úkonu přítomen → exekuční příkaz + protokol o vyklize
 >
 > *(2) Movité věci odstraněné z vyklizovaného objektu se odevzdají povinnému nebo některému ze zletilých příslušníků jeho domácnosti.*
 
-
 #### Provedení (odst. 1)
 
 Úřední osoba z objektu:
@@ -671,7 +633,6 @@ Není-li povinný úkonu přítomen → exekuční příkaz + protokol o vyklize
 Movité věci se **odevzdají povinnému** nebo některému zletilému příslušníkovi domácnosti.
 
 ### § 124 — Úschova věcí
-
 
 <!-- AUTOCITACE:§124 -->
 
@@ -686,7 +647,6 @@ Movité věci se **odevzdají povinnému** nebo některému zletilému příslu�
 > *(4) Movité věci, které se nepodaří prodat, připadají státu. Odmítne-li schovatel movité věci převzít, připadají státu; provádí-li exekuci orgán územního samosprávného celku, připadají do vlastnictví tohoto územního samosprávného celku. Případná likvidace se provede na náklady povinného.*
 >
 > *###### Odebrání movité věci*
-
 
 #### Není-li komu odevzdat (odst. 1)
 
@@ -704,7 +664,6 @@ Sepíší se věci + dají se **na náklady povinného do úschovy obci** nebo j
 Věci, které **nelze prodat** → připadají státu (resp. ÚSC). Likvidace na náklady povinného.
 
 ### § 125 — Odebrání MOVITÉ VĚCI
-
 
 <!-- AUTOCITACE:§125 -->
 
@@ -725,7 +684,6 @@ Věci, které **nelze prodat** → připadají státu (resp. ÚSC). Likvidace na
 > *- b) vyjádření povinného o tom, kde se movitá věc nachází, popřípadě že povinný odepřel poskytnout k tomu vysvětlení,*
 >
 > *- c) skutečnost, že povinný nebo osoba, která má movitou věc, není ochotna ji vydat, důvody odepření jejího vydání, popřípadě odepření sdělit důvody.*
-
 
 #### Procedura (odst. 1)
 
@@ -757,7 +715,6 @@ Náležitosti:
 
 ### § 126 — OSOBNÍ PROHLÍDKA + prohlídka bytu
 
-
 <!-- AUTOCITACE:§126 -->
 
 > **§ 126**
@@ -779,7 +736,6 @@ Náležitosti:
 > *(7) Oprávněná úřední osoba učiní při odebrání movité věci opatření potřebná k dosažení účelu exekuce. Osoby, které hrubým způsobem i přes její výzvu k zachování pořádku ruší provedení úkonu, oprávněná úřední osoba může z místa provádění úkonu vykázat.*
 >
 > *###### Předvedení*
-
 
 **Klíčové ustanovení s ústavně-právním rozměrem** (zásah do soukromí, čl. 12 Listiny — nedotknutelnost obydlí; čl. 7 Listiny — osobní nedotknutelnost).
 
@@ -823,7 +779,6 @@ Osoby, které **hrubě ruší** úkon přes výzvu → orgán je **vykáže**.
 
 ### § 127 — Předvedení
 
-
 <!-- AUTOCITACE:§127 -->
 
 > **§ 127**
@@ -832,20 +787,17 @@ Osoby, které **hrubě ruší** úkon přes výzvu → orgán je **vykáže**.
 >
 > *###### Přizvané osoby*
 
-
 > *Při provádění exekuce předvedením se exekuční příkaz doručuje orgánům, které mají předvedení provést; § 60 odst. 1 věta poslední a odst. 2 se použije obdobně.*
 
 Stejné jako předvedení v řízení (§ 60): PČR / obecní policie zajišťuje.
 
 ### § 128 — Přizvané osoby
 
-
 <!-- AUTOCITACE:§128 -->
 
 > **§ 128**
 >
 > *Správní orgán může k účasti na provedení exekuce přímým vynucením přizvat nestranné osoby, aby zajistil jejich přítomnost při provádění určitého úkonu. Tyto osoby nemají práva ani povinnosti účastníků.*
-
 
 > *Správní orgán může k účasti na provedení exekuce přímým vynucením přizvat nestranné osoby, aby zajistil jejich přítomnost při provádění určitého úkonu. Tyto osoby nemají práva ani povinnosti účastníků.*
 
@@ -859,7 +811,6 @@ Stejné jako předvedení v řízení (§ 60): PČR / obecní policie zajišťuj
 
 ### § 129 — DONUCOVACÍ POKUTY
 
-
 <!-- AUTOCITACE:§129 -->
 
 > **§ 129**
@@ -867,7 +818,6 @@ Stejné jako předvedení v řízení (§ 60): PČR / obecní policie zajišťuj
 > *(1) Nelze-li nebo není-li účelné provádět exekuci náhradním výkonem nebo přímým vynucením, vymáhá se splnění povinnosti postupným ukládáním donucovacích pokut do výše nákladů na náhradní výkon, a nelze-li náhradní výkon provést, až do výše 100 000 Kč. Exekuční správní orgán uloží povinnému donucovací pokutu rozhodnutím, v němž mu určí, aby ji zaplatil ve lhůtě nejméně 15 dnů ode dne nabytí právní moci.*
 >
 > *(2) Výši pokuty exekuční správní orgán určí s ohledem na povahu nesplněné povinnosti. Příjem z pokut je příjmem rozpočtu, ze kterého je hrazena činnost exekučního správního orgánu, který pokutu uložil. Zaplacením pokut se povinný nezprošťuje odpovědnosti za škodu.*
-
 
 > *(1) Nelze-li nebo není-li účelné provádět exekuci náhradním výkonem nebo přímým vynucením, vymáhá se splnění povinnosti postupným ukládáním donucovacích pokut do výše nákladů na náhradní výkon, a nelze-li náhradní výkon provést, až do výše 100 000 Kč. Exekuční správní orgán uloží povinnému donucovací pokutu rozhodnutím, v němž mu určí, aby ji zaplatil ve lhůtě nejméně 15 dnů ode dne nabytí právní moci.*
 
