@@ -325,7 +325,7 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2017%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2017&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-28_Cdo_2044_2015.txt) — 26. 10. 2016, kat. A
+- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E5CD21F5D0BCFD9C12580AE00354E96?openDocument) — 26. 10. 2016, kat. A
   > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
 
 #### Tři kategorie účastníků
@@ -359,7 +359,7 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2017%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2017&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-28_Cdo_2044_2015.txt) — 26. 10. 2016, kat. A
+- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E5CD21F5D0BCFD9C12580AE00354E96?openDocument) — 26. 10. 2016, kat. A
   > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
 
 #### „V pochybnostech účastníkem" (odst. 1)
