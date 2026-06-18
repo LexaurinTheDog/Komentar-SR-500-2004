@@ -15,6 +15,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 >
 > *(3) Tento zákon se nevztahuje na právní jednání prováděná správními orgány a na vztahy mezi orgány téhož územního samosprávného celku při výkonu samostatné působnosti.*
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 83/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-83-06_1) — nález, 12. 3. 2008
+  > „Je-li kontrolní činnost prováděná odborovými organizacemi (včetně ukládání závazných pokynů a zákazů práce) výkonem přenesené působnosti státu, pak to znamená, že se na postup odborových organizací podle § 322 odst. 2 bude vztahovat správní řád (viz § 1 odst. 1 zákona č. 500/2004 Sb., správní řád, v platném znění)"
+
 ## § 2
 
 > *(1) Správní orgán postupuje v souladu se zákony a ostatními právními předpisy, jakož i mezinárodními smlouvami, které jsou součástí právního řádu (dále jen „právní předpisy“). Kde se v tomto zákoně mluví o zákoně, rozumí se tím též mezinárodní smlouva, která je součástí právního řádu.*
@@ -64,6 +69,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 ## § 9
 
 > *Správní řízení je postup správního orgánu, jehož účelem je vydání rozhodnutí, jímž se v určité věci zakládají, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo jímž se v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá.*
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3069/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3069-10_2) — nález, 10. 5. 2012
+  > „…v řízení "podle správního řádu" (srov. § 7 odst. 3 tohoto zákona), "jehož účelem je vydání rozhodnutí, jímž se v určité věci zakládají, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo jímž se v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá" (srov. § 9 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů)"
 
 ## § 10
 
@@ -327,8 +337,8 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E5CD21F5D0BCFD9C12580AE00354E96?openDocument) — 26. 10. 2016, kat. A
-  > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
+- *ÚS* [Pl.ÚS 35/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-35-13_1) — nález, 5. 8. 2014
+  > „Zatímco totiž ve správním řízení o udělení výjimky tyto osoby jakožto účastníci takového řízení podle § 27 odst. 2 zákona č. 500/2004 Sb., správní řád, mohou k ochraně svých práv a zájmů mimo jiné tvrdit rozhodné skutečnosti, navrhovat důkazy a vyjadřovat se k podkladům pro rozhodnutí, tato práva jsou jim upřena v případech, kdy je individuální rozhodování o výjimce nahrazeno obecnou výjimkou…"
 
 ## § 28
 
@@ -412,6 +422,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *(7) Nedbá-li opatrovník o ochranu práv nebo zájmů opatrovance nebo lze-li mít důvodně za to, že opatrovník má takový zájem na výsledku řízení, který odůvodňuje obavu, že nebude řádně hájit zájmy opatrovance, správní orgán usnesením zruší předchozí ustanovení opatrovníka a ustanoví opatrovníkem někoho jiného.*
 >
 > *(8) Funkce opatrovníka zaniká, jakmile zastoupený začal být zastupován zákonným zástupcem nebo nabyl procesní způsobilosti anebo pominuly důvody, pro něž byl opatrovník ustanoven. Tuto skutečnost správní orgán poznamená do spisu, jakmile se o ní dozví; v pochybnosti rozhodne usnesením, které se oznamuje pouze opatrovníkovi a opatrovanci nebo jeho zákonnému zástupci.*
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1143/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1143-12_1) — nález, 29. 5. 2012
+  > „S ohledem na to, že právní úprava správního řízení umožňuje správním orgánům ustanovit opatrovníka osobě neznámého pobytu za stejných podmínek jako soudu [§ 32 odst. 2 písm. d) zákona č. 500/2004 Sb., správní řád] a správní orgány přitom disponují stejnou možností zjistit od ostatních orgánů veřejné moci všechny skutečnosti důležité pro řízení a rozhodnutí (§ 128 o. s. ř. a § 50 odst. 2 správního řádu), dopadají v tomto směru právní názory vyslovené ve vztahu k pravomoci soudu ustanovit opatrovníka účastníkovi řízení neznámého pobytu i na pravomoc správního orgánu"
 
 ## § 33
 
@@ -637,6 +652,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *(4) Pokud zákon nestanoví, že některý podklad je pro správní orgán závazný, hodnotí správní orgán podklady, zejména důkazy, podle své úvahy; přitom pečlivě přihlíží ke všemu, co vyšlo v řízení najevo, včetně toho, co uvedli účastníci.*
 >
 > *##### Dokazování*
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 270/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-270-15_1) — nález, 23. 6. 2015
+  > „Vzhledem k tomu, že správní orgány přitom disponují stejnou možností zjistit od ostatních orgánů veřejné moci všechny skutečnosti důležité pro řízení a rozhodnutí (§ 128 o. s. ř. a § 50 odst. 2 zákona č. 500/2004 Sb.), dopadají v tomto směru právní názory vyslovené ve vztahu k pravomoci soudu ustanovit opatrovníka účastníkovi řízení neznámého pobytu i na pravomoc správního orgánu"
 
 ## § 51
 
@@ -976,6 +996,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 >
 > *(5) Proti rozhodnutí, jímž správní orgán prohlásil nicotnost, nelze podat odvolání.*
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 1463/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1463-09_1) — nález, 15. 11. 2010
+  > „Nicotnost správních aktů je právně upravena zejména v § 77 zákona č. 500/2004 Sb., správní řád, podle něhož nicotné je rozhodnutí, k jehož vydání nebyl správní orgán vůbec věcně příslušný (odstavec 1), nicotným je dále rozhodnutí, které trpí vadami, jež je činí zjevně vnitřně rozporným nebo právně či fakticky neuskutečnitelným, anebo jinými vadami, pro něž je nelze vůbec považovat za rozhodnutí správního orgánu. Právní věda považuje za nicotný správní akt, který trpí vadami takové intenzity, že již vůbec nelze o správním aktu hovořit"
+
 ## § 79
 
 > *(1) Náklady řízení jsou zejména hotové výdaje účastníků a jejich zástupců, včetně správního poplatku, ušlý výdělek účastníků a jejich zákonných zástupců, náklady důkazů, tlumočné a odměna za zastupování.*
@@ -1044,7 +1069,7 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — 26. 10. 2010, kat. A
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — kat. A, 26. 10. 2010
   > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
 
 ## § 84
@@ -1131,6 +1156,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *(5) Neshledá-li odvolací správní orgán důvod pro postup podle odstavců 1 až 4, odvolání zamítne a napadené rozhodnutí potvrdí. Jestliže odvolací správní orgán změní nebo zruší napadené rozhodnutí jen zčásti, ve zbytku je potvrdí.*
 >
 > *(6) Rozhodnutí v odvolacím řízení vydá odvolací správní orgán ve lhůtách stanovených v § 71. Lhůta počíná běžet dnem předání spisu odvolacímu správnímu orgánu k rozhodnutí (§ 88).*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [43 A 7/2020 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/672294) — 29. 7. 2021
+  > „Pokud by krajský soud přistoupil na argumentaci žalobce, popřel by smysl a účel pravomoci odvolacího správního orgánu dle § 90 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád (dále jen „s. ř.“), který opravňuje odvolací správní orgán ke změně napadeného rozhodnutí či jeho části"
 
 ## § 91
 
@@ -1893,6 +1923,11 @@ Anchor pro každý § je `#-n` (např. `#-1`, `#-184`).
 > *(8) Nezákonné závazné stanovisko lze zrušit nebo změnit v přezkumném řízení, k němuž je příslušný nadřízený správní orgán správního orgánu, který vydal závazné stanovisko. Přezkumné řízení lze zahájit do 1 roku od právní moci rozhodnutí, které bylo závazným stanoviskem podmíněno; závazné stanovisko nelze v přezkumném řízení zrušit nebo změnit po uplynutí 15 měsíců od právní moci rozhodnutí, které bylo závazným stanoviskem podmíněno. Jestliže správní orgán při své úřední činnosti zjistí, že jiný správní orgán učinil nezákonné závazné stanovisko, dá podnět správnímu orgánu příslušnému k přezkumnému řízení a vyčká jeho rozhodnutí.*
 >
 > *(9) Zrušení nebo změna závazného stanoviska je v případě, že rozhodnutí, které bylo závazným stanoviskem podmíněno, již nabylo právní moci, důvodem obnovy řízení.*
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 9/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-9-14_1) — nález, 16. 12. 2014
+  > „…toto vyjádření je pro orgán nemocenského pojištění závazné, neboť má charakter odborného závazného stanoviska ve smyslu ustanovení § 149 odst. 1 zákona č. 500/2004 Sb., správní řád"
 
 ## § 150
 

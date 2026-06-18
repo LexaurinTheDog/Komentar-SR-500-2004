@@ -77,6 +77,11 @@
 >
 > *(2) Správní orgán uvedený v odstavci 1 písm. a) nebo osoba oprávněná z exekučního titulu mohou o provedení exekuce požádat též soud nebo soudního exekutora.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 239/2017 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/458217) — 12. 6. 2018
+  > „Správní řád umožňuje provádění exekuce nejen pro správní orgány, ale rovněž pro osoby oprávněné z exekučního titulu, přičemž sám exekuční tituly definuje (ust. § 105 odst. 1 a § 104 správního řádu) – i v případě peněžitých plnění tak upravuje definici oprávněného nikoliv pouze jako orgánu, ale rovněž jako osoby oprávněné. Pokud tedy správní řád umožňuje provádění takové exekuce i pro osoby oprávněné z exekučního titulu, pak nelze žalobkyni, která se takového postupu domáhá, odepřít rozhodnout o jejím podání…"
+
 #### Aktivní legitimace (odst. 1)
 
 Exekuční titul uplatňuje **u exekučního orgánu**:
@@ -478,6 +483,11 @@ Náklady se **rozvrhnou poměrně** podle rozsahu vymáhaných povinností.
 
 **Charakter:** speciální opravný prostředek **uvnitř exekuce** (proti exekuční výzvě, exekučnímu příkazu, odložení, zastavení).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 268/2018 - 19](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/648262) — 8. 11. 2018
+  > „Ustanovení § 117 odst. 1 správního řádu dává oprávnění k podání námitek na prvním místě povinnému, jímž se dle § 103 odst. 1 správního řádu rozumí ten, jemuž byla exekučním titulem uložena povinnost peněžitého nebo nepeněžitého plnění. […] Ustanovení § 117 odst. 1 správního řádu dále umožňuje podání námitek osobě (odlišné od povinného), které z tohoto úkonu vyplývá povinnost. […] Možnost podání námitek je tak v daném případě ochranou povinného"
+
 #### Omezení (odst. 2)
 
 Námitky **NELZE** podat, pokud usnesení **bylo již vykonáno** nebo jiný úkon proveden.
@@ -820,6 +830,15 @@ Stejné jako předvedení v řízení (§ 60): PČR / obecní policie zajišťuj
 > *(2) Výši pokuty exekuční správní orgán určí s ohledem na povahu nesplněné povinnosti. Příjem z pokut je příjmem rozpočtu, ze kterého je hrazena činnost exekučního správního orgánu, který pokutu uložil. Zaplacením pokut se povinný nezprošťuje odpovědnosti za škodu.*
 
 > *(1) Nelze-li nebo není-li účelné provádět exekuci náhradním výkonem nebo přímým vynucením, vymáhá se splnění povinnosti postupným ukládáním donucovacích pokut do výše nákladů na náhradní výkon, a nelze-li náhradní výkon provést, až do výše 100 000 Kč. Exekuční správní orgán uloží povinnému donucovací pokutu rozhodnutím, v němž mu určí, aby ji zaplatil ve lhůtě nejméně 15 dnů ode dne nabytí právní moci.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 12/2014 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/520173) — 26. 4. 2017
+  > „Z citovaného ustanovení je zjevné, že základním smyslem ukládání donucovacích pokut je docílit toho, aby povinná osoba splnila vymáhanou povinnost. […] To však předpokládá, že vymáhaná povinnost v době ukládání donucovacích pokut stále trvá. Jen tak lze předpokládat, že ukládání pokut bude mít pozitivní efekt na splnění vymáhané povinnosti, a jen tehdy lze hovořit o vymáhání uložené povinnosti. V opačném případě by se již nejednalo o exekuci, ale o zjevný trest pro povinného"
+- *NSS* [1 As 48/2017 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/642522) — 1. 6. 2017
+  > „Nelze přehlédnout, že správní orgány v rozporu s účelem donucovacích pokut přistoupily k jejich ukládání podle § 129 správního řádu nikoli proto, aby donutily ke splnění povinnosti stěžovatele, ale aby získaly náhradu peněžních prostředků, vynaložených na náhradní splnění povinnosti stěžovatele (tedy provedení dekontaminace třetí osobou). Správní orgány neaplikovaly podle názoru soudu přiléhavější institut, a to exekuci provedením náhradního výkonu dle § 119 správního řádu"
+- *NSS* [16 A 63/2021 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/707412) — 2. 11. 2022
+  > „…k ukládání donucovacích pokut lze přistoupit pouze tehdy, nelze-li nebo není-li účelné provádět exekuci přímým vynucením, což akcentovala i výše citovaná judikatura Nejvyššího správního soudu. Donucovací pokuta je tedy použitelná subsidiárně, kdy přednostně by mělo být zvažováno přímé vynucení…"
 
 #### Subsidiarita (odst. 1)
 

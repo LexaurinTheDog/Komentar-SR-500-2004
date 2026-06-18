@@ -22,6 +22,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 A 20/2021 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670723) — 18. 5. 2021
+  > „Správní orgán má povinnost určit lhůtu tak, aby byla přiměřená k provedení konkrétního úkonu. Určením lhůty nesmí být ohrožen účel řízení (§ 39 odst. 1 zákona č. 500/2004 Sb., správního řádu). Na žádost účastníka ji může správní orgán prodloužit (§ 39 odst. 2 s. ř.). … Otázka přiměřenosti lhůty je věcí volného uvážení správního orgánu limitovaného účelem řízení. Na prodloužení lhůty není právní nárok, lze ji však k žádosti účastníka prodloužit i z důvodů ležících právě na straně účastníka"
+- *NSS* [31 A 60/2023 - 87](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737292) — 20. 11. 2024
+  > „Lhůta pro odstranění nedostatků návrhu byla určena usnesením podle § 39 odst. 1 zákona č. 500/2004 Sb., správní řád. Takto určená lhůta je přitom lhůtou propadnou. Existovaly tak pouze dvě možnosti, jak se vyhnout negativním důsledkům spojeným s jejím uplynutím. První možnost představuje její prodloužení dle § 39 odst. 2 správního řádu, ovšem pouze na žádost podanou před jejím uplynutím. Druhou možnost pak představuje prominutí zmeškání úkonu dle § 41 správního řádu, ovšem opět pouze na žádost a v situaci, kdy učinění úkonu bránily závažné důvody, které nastaly bez zavinění podatele"
+
 #### Dva typy lhůt
 
 | Typ | Stanoví | Lze prominout? | Lze prodloužit? |
@@ -64,8 +71,12 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — 26. 10. 2010, kat. A
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — kat. A, 26. 10. 2010
   > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
+- *ÚS* [II.ÚS 33/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-33-13_1) — nález, 26. 11. 2013
+  > „V našem právním řádu v případech, kdy poslední den lhůty připadne na sobotu, neděli nebo svátek, platí v zásadě (pokud ovšem konkrétní právní norma výslovně nestanoví jinak) stejný režim jak pro lhůty procesní povahy, tak pro lhůty hmotněprávní, platí totiž pravidlo, že posledním dnem lhůty se stává nejblíže následující pracovní den [… § 40 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, a § 57 odst. 2 o. s. ř.]"
+- *ÚS* [IV.ÚS 2026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2026-14_1) — nález, 1. 10. 2014
+  > „Při výkladu a aplikaci právních předpisů nelze opomíjet jejich účel a smysl, který není možné hledat jen ve slovech a větách toho kterého předpisu, ve kterém jsou vždy přítomny i principy uznávané demokratickými právními státy. … v našem právním řádu v případech, kdy poslední den lhůty připadne na sobotu, neděli nebo svátek, platí v zásadě … pravidlo, že posledním dnem lhůty se stává nejblíže následující pracovní den [… § 40 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád …]"
 
 #### Čtyři pravidla počítání času (a–d)
 
@@ -140,6 +151,13 @@ Důležitá záruka pro účastníka — **důkazní břemeno** je na orgánu, k
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 6/2024 - 75](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738569) — 27. 1. 2025
+  > „Závažné důvody, které představují překážku, jež bránila účastníku řízení učinit zmeškaný úkon, musí být objektivní povahy. Závažnost těchto důvodů se posuzuje vždy podle okolností konkrétního případu. … I na samém sklonku lhůty může nastat situace, která by mohla představovat závažný důvod ve smyslu § 41 odst. 2 správního řádu. Spadaly by tam nepochybně jakékoli závažné, život ohrožující změny zdravotního stavu účastníka řízení či jeho zástupce; nikoli však relativně obvyklé „respirační obtíže“. Stejně tak pouze potenciální hrozba hospitalizace zpravidla nebude závažným důvodem pro prominutí zmeškání úkonu"
+- *NSS* [6 As 206/2021 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/675920) — 15. 12. 2021
+  > „Postup podle § 41 odst. 8 správního řádu nemá zpravidla místo tam, kde dochází k obsahové úpravě žádosti na výzvu správního orgánu; bylo by totiž nelogické, pokud by správní orgán nejprve vyzval účastníka řízení k takové úpravě žádosti a poté, co účastník této výzvě vyhoví, ještě následně zvažoval, zda takový postup vůbec připustí. … účelem citovaného usnesení je především zajistit, aby měli všichni účastníci řízení přehled o jeho předmětu a mohli hájit svá práva"
+
 #### Co lze prominout (odst. 1)
 
 Dvě situace:
@@ -202,6 +220,11 @@ Usnesení **oznamuje pouze podateli** (ne ostatním účastníkům — pro ně �
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Afs 37/2011 - 82](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/623253) — 7. 12. 2011
+  > „Osoba podávající podnět … upozorňuje na možné porušení zákona. Pokud pak tato osoba ve smyslu § 42 zákona č. 500/2004 Sb., správního řádu, nepožádá správní orgán o sdělení, zda správní řízení zahájil či nikoli, je její role jako oznamovatele či podatele zásadně ukončena a vyčerpána podáním tohoto podnětu. Z ustanovení § 42 správního řádu vyplývá, že podnět je oprávněn podat kdokoli (fyzická či právnická osoba nebo jiné správní orgány)"
+
 #### „Podnět" — quasi-žaloba veřejné správy
 
 Podnět je **návrh osoby (typicky neúčastníka)**, aby orgán **zahájil řízení z moci úřední**. Klíčový institut zejména v:
@@ -258,6 +281,11 @@ Pokud orgán **vůči podateli** současně postupuje podle:
 > *(2) Usnesení o odložení věci se vždy oznamuje osobě, které se týká, je-li známa, a podateli.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 Ad 13/2021 - 65](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/710479) — 21. 3. 2023
+  > „Odložení věci dle § 43 odst. 1 správního řádu přichází do úvahy pouze tehdy, když řízení o žádosti není vůbec zahájeno"
 
 #### Dva důvody odložení (odst. 1)
 

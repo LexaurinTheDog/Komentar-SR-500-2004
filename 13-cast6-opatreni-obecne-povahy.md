@@ -41,6 +41,13 @@
 - **Závazné** (na rozdíl od vyjádření).
 - **Není ani předpis, ani rozhodnutí** — třetí kategorie.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 14/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-07_1) — nález, 19. 11. 2008
+  > „V některých situacích si však činnost veřejné správy vyžaduje přijímat i takové správní akty, které nejsou výlučně jen akty normativními či individuálními, ale jsou jejich určitou kombinací; jsou tak správními akty smíšené povahy s konkrétně určeným předmětem regulace a obecně vymezeným okruhem adresátů. Ustanovení § 171 nového správního řádu charakterizuje v tomto smyslu opatření obecné povahy jednak materiálními znaky, a to negativním vymezením jako závazný úkon správního orgánu, který není právním předpisem ani rozhodnutím. Zároveň ale stanovuje správním orgánům v případech, kdy jim zvláštní zákon ukládá vydat závazné opatření obecné povahy, postupovat podle části šesté zákona, jež upravuje řízení o návrhu opatření obecné povahy a jeho přezkum (formální znak)"
+- *NSS* [8 Ao 3/2009 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/617021) — 13. 11. 2009
+  > „Ústavní soud se zmíněným nálezem přiklonil k tzv. materiálnímu pojetí institutu opatření obecné povahy a uzavřel, že obecně závazné vyhlášky, jimiž byla vymezena závazná část územního plánu, schválené do účinnosti zákona č. 183/2006 Sb., o územním plánování a stavebním řádu, jsou opatřením obecné povahy ve smyslu § 171 zákona č. 500/2004 Sb., správního řádu, a podléhají tak soudnímu přezkumu v řízení podle § 101a s. ř. s"
+
 ## § 172 — NÁVRH OOP (procedura veřejného projednání)
 
 <!-- AUTOCITACE:§172 -->
@@ -56,6 +63,11 @@
 > *(4) K návrhu opatření obecné povahy může kdokoli, jehož práva, povinnosti nebo zájmy mohou být opatřením obecné povahy přímo dotčeny, uplatnit u správního orgánu písemné připomínky nebo na veřejném projednání ústní připomínky. Správní orgán je povinen se připomínkami zabývat jako podkladem pro opatření obecné povahy a vypořádat se s nimi v jeho odůvodnění.*
 >
 > *(5) Vlastníci nemovitostí, jejichž práva, povinnosti nebo zájmy související s výkonem vlastnického práva mohou být opatřením obecné povahy přímo dotčeny, nebo, určí-li tak správní orgán, i jiné osoby, jejichž oprávněné zájmy mohou být opatřením obecné povahy přímo dotčeny, mohou podat proti návrhu opatření obecné povahy písemné odůvodněné námitky ke správnímu orgánu ve lhůtě 30 dnů ode dne jeho zveřejnění. Zmeškání úkonu nelze prominout. O námitkách rozhoduje správní orgán, který opatření obecné povahy vydává. Jestliže by vyřízení námitky vedlo k řešení, které přímo ovlivní oprávněné zájmy některé osoby jiným způsobem než návrh opatření obecné povahy, a není-li změna zjevně též v její prospěch, zjistí správní orgán její stanovisko. Rozhodnutí o námitkách, které musí obsahovat vlastní odůvodnění, se uvede jako součást odůvodnění opatření obecné povahy (§ 173 odst. 1). Proti rozhodnutí se nelze odvolat ani podat rozklad. Změna nebo zrušení pravomocného rozhodnutí o námitkách může být důvodem změny opatření obecné povahy.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 246/2022 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714581) — 20. 9. 2023
+  > „pro toto rozhodnutí (§ 53 odst. 1 stavebního zákona, § 172 odst. 5 zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů) platí, že na jeho odůvodnění je třeba klást stejné požadavky jako na typická správní rozhodnutí. Musí z něj být seznatelné, z jakého důvodu považuje obec námitky uplatněné oprávněnou osobou za liché, mylné nebo vyvrácené nebo proč považuje předestírané skutečnosti za nerozhodné, nesprávné nebo jinými provedenými důkazy za vyvrácené"
 
 ### (1) Vyvěšení návrhu
 
@@ -135,6 +147,11 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 >
 > *(3) Povinnost, která je stanovena zákonem a jejíž rozsah je v mezích zákona určen opatřením obecné povahy, lze exekučně vymáhat jedině tehdy, jestliže bylo vydáno rozhodnutí, které existenci této povinnosti prohlásilo a v němž byla osoba, jež tuto povinnost má, jmenovitě uvedena.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 11/2025 - 118](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/748636) — 18. 11. 2025
+  > „Při posuzování přezkoumatelnosti opatření obecné povahy (…) je přitom zapotřebí vyjít z toho, že podle § 173 odst. 1 zákona č. 500/2004 Sb., správní řád, musí být opatření obecné povahy odůvodněno. Podle § 174 odst. 1 správní řádu se pak přiměřeně užije též jeho § 68 odst. 3, což znamená, že odůvodnění obecné povahy musí obsahovat základní obsahové náležitosti odůvodnění běžného správního rozhodnutí. Nesmí v něm tedy chybět důvody výroku, podklady pro jeho vydání a úvahy, kterými se daný orgán řídil při jejich hodnocení a při výkladu právních předpisů"
+
 ### (1) Oznámení a účinnost
 
 > *Opatření obecné povahy, které musí obsahovat odůvodnění, správní orgán oznámí veřejnou vyhláškou; opatření obecné povahy zveřejní též na úředních deskách obecních úřadů v obcích, jejichž správních obvodů se opatření obecné povahy týká. (...) Opatření obecné povahy nabývá účinnosti patnáctým dnem po dni vyvěšení veřejné vyhlášky. Hrozí-li vážná újma veřejnému zájmu, může opatření obecné povahy nabýt účinnosti již dnem vyvěšení; stanoví-li tak zvláštní zákon, může se tak stát před postupem podle § 172.*
@@ -181,6 +198,13 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 > *(1) Pro řízení podle této části platí obdobně ustanovení části první a přiměřeně ustanovení části druhé.*
 >
 > *(2) Soulad opatření obecné povahy s právními předpisy lze posoudit v přezkumném řízení. Usnesení o zahájení přezkumného řízení lze vydat do 1 roku od účinnosti opatření. Účinky rozhodnutí v přezkumném řízení nastávají ode dne jeho právní moci.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [73 A 3/2023 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716040) — 29. 8. 2023
+  > „Podle konstantní judikatury Nejvyššího správního soudu je v odůvodnění OOP nutno uvést důvody výroku, podklady pro jeho vydání a úvahy, kterými se správní orgán řídil při jejich hodnocení a při výkladu právních předpisů, jak vyplývá z § 68 odst. 3 a § 174 odst. 1 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Nedostatek rozhodovacích důvodů způsobuje jeho nepřezkoumatelnost"
+- *NSS* [51 A 11/2025 - 118](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/748636) — 18. 11. 2025
+  > „Podle § 174 odst. 1 správní řádu se pak přiměřeně užije též jeho § 68 odst. 3, což znamená, že odůvodnění obecné povahy musí obsahovat základní obsahové náležitosti odůvodnění běžného správního rozhodnutí. Nesmí v něm tedy chybět důvody výroku, podklady pro jeho vydání a úvahy, kterými se daný orgán řídil při jejich hodnocení a při výkladu právních předpisů"
 
 ### (1) Subsidiarita
 

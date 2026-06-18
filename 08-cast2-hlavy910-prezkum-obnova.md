@@ -22,6 +22,13 @@
 >
 > *(5) Při rozhodování v přezkumném řízení je správní orgán povinen šetřit práva nabytá v dobré víře, zejména mění-li rozhodnutí, které bylo vydáno v rozporu s právními předpisy (§ 97 odst. 3) nebo určuje-li, od kdy nastávají účinky rozhodnutí vydaného v přezkumném řízení (§ 99).*
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 550/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-550-07_1) — usnesení, 3. 4. 2007
+  > „Lze snad jen dodat, že podnět k provedení přezkumného řízení ve smyslu § 94 odst. 1 zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů, není opravným prostředkem účastníka správního řízení proti rozhodnutí správního orgánu. Účastník správního řízení pak může stěží očekávat úspěch tam, kde nevyužil opravných prostředků v rámci správního řízení, nebo následně ochrany před správními soudy …"
+- *NSS* [7 Ca 115/2008 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/560931) — 25. 4. 2012
+  > „Smyslem přezkumného řízení podle § 94, i zkráceného přezkumného řízení dle § 98 správního řádu je přezkoumání pravomocných /zpravidla/ rozhodnutí správními orgány z moci úřední v případě, kdy lze důvodně pochybovat o tom, zda rozhodnutí je v souladu s právními předpisy. Svou povahou jde tedy o dozorčí prostředek uplatňovaný především nadřízenými správními orgány vůči rozhodnutím vydaným orgány jim podřízenými"
+
 #### Předpoklady (odst. 1)
 
 > *V přezkumném řízení správní orgány z moci úřední přezkoumávají pravomocná rozhodnutí v případě, kdy lze důvodně pochybovat o tom, že rozhodnutí je v souladu s právními předpisy. (...)*
@@ -231,6 +238,11 @@ Závazný právní názor je **VÁZANÝ** pro orgán 1. stupně / odvolací org�
 
 Praktický význam: rychlá náprava jednoduchých vad bez procesního zatěžování (žádné předvolávání, vyjadřování, výslechy).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 74/2013 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/633192) — 9. 12. 2014
+  > „Rozhodnutí ve zkráceném přezkumném řízení podle § 98 zákona č. 500/2004 Sb., správního řádu (dále jen „správní řád“), je třeba vydat ve lhůtách stanovených v § 96 odst. 1 správního řádu, tedy v dvouměsíční subjektivní a jednoroční objektivní lhůtě, přičemž se ustanovení § 97 odst. 2 správního řádu na zkrácené přezkumné řízení neaplikuje"
+
 ### § 99 — Účinky rozhodnutí v přezkumném řízení (EX TUNC vs. EX NUNC)
 
 <!-- AUTOCITACE:§99 -->
@@ -246,6 +258,11 @@ Praktický význam: rychlá náprava jednoduchých vad bez procesního zatěžov
 > *(3) Pokud se ruší nebo mění rozhodnutí, jímž bylo přiznáno právo, a neodůvodňují-li okolnosti případu jiné řešení, určí správní orgán, že účinky rozhodnutí v přezkumném řízení nastávají ode dne jeho právní moci nebo předběžné vykonatelnosti; bylo-li však přezkoumávané rozhodnutí vydáno na základě nesprávných či neúplných údajů uvedených žadatelem, určí správní orgán, že účinky rozhodnutí v přezkumném řízení nastávají ode dne právní moci nebo předběžné vykonatelnosti přezkoumávaného rozhodnutí.*
 
 Klíčové ustanovení o **TEMPORALITĚ** přezkumu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Ca 115/2008 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/560931) — 25. 4. 2012
+  > „Při rozhodování v přezkumném řízení je správní orgán povinen šetřit v dobré víře nabytá práva z rozhodnutí, která jsou předmětem tohoto přezkumu, podle ustanovení § 94 odst. 5 správního řádu a toto ustanovení je pak promítnutím obecné zásady ochrany práv nabytých v dobré víře dle § 2 odst. 3 správního řádu do přezkumného řízení. Důvod pro zdůraznění této zásady tkví především v tom, že předmětem přezkumného řízení jsou převážně rozhodnutí správních orgánů, která již nabyla právní moci, a tak obvykle zakládají práva osobám, v jejichž prospěch byla vydána"
 
 #### Volba účinků (odst. 1)
 
@@ -305,6 +322,11 @@ Orgán určí, **odkdy nastávají účinky**. Možnosti:
 > *(5) Na obnovu řízení se obdobně užije ustanovení § 94 odst. 4 a 5.*
 >
 > *(6) Žádosti o obnovu řízení se přizná odkladný účinek, jestliže hrozí vážná újma účastníkovi nebo veřejnému zájmu. Rozhodnutí, jímž bylo řízení obnoveno, má odkladný účinek, pokud napadené rozhodnutí nebylo dosud vykonáno, ledaže správní orgán v rozhodnutí odkladný účinek vyloučil z důvodů uvedených v § 85 odst. 2 nebo ledaže vykonatelnost nebo jiné účinky rozhodnutí již zanikly podle zvláštního zákona. Rozhodnutí, jímž se žádost o obnovu řízení zamítá, se oznamuje pouze žadateli; ten proti němu může podat odvolání.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 76/2014 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/633250) — kat. B, 20. 11. 2014
+  > „Nejvyšší správní soud nejprve považuje za vhodné předestřít smysl a účel institutu obnovy řízení dle ustanovení § 100 odst. 1 zákona č. 500/2004 Sb., správního řádu … Jedná se o mimořádný opravný prostředek směřující proti pravomocnému správnímu rozhodnutí, kterým se ve výjimečných případech umožní za splnění zákonných podmínek přezkoumat již pravomocné správní rozhodnutí. … Pojem „dříve neznámá skutečnost“ dle správního řádu nelze totiž chápat subjektivně, tj. jako skutečnost neznámou tomu, kdo obnovu řízení navrhuje, ale v objektivním smyslu jako skutečnost, kterou účastník správního řízení znát nemohl a nemohl ji v původním řízení uplatnit"
 
 #### Důvody (odst. 1) — DVA OKRUHY
 
@@ -399,6 +421,11 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 | d) **Zrušení rozhodnutí jiným orgánem** (typicky soud, ÚS) | provedení soudního výroku |
 | e) **Zvláštní zákon** | otevřená klauzule |
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 92/2023 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/723066) — 13. 6. 2024
+  > „Podstatou vydání nového rozhodnutí podle § 101 správního řádu je nové posouzení již pravomocně rozhodnuté věci, a to buď za stejných, anebo změněných výchozích skutkových či právních podmínek. Nové řízení tvoří s původním řízením v podstatě jeden celek, neboť nové řízení je vedeno na základě původní žádosti. … Účelem nového rozhodnutí není zjednání nápravy nezákonného původního rozhodnutí. Ke změně či zrušení pravomocných rozhodnutí slouží správní žaloba či mimořádné opravné prostředky uvnitř veřejné správy (přezkumné řízení či obnova řízení)"
+
 #### KLÍČOVÉ omezení (c) — KE ŠKODĚ JEN ZÁKON
 
 > *(...) zkrácení doby platnosti nebo účinnosti rozhodnutí anebo lhůty ke splnění povinnosti je možné pouze tehdy, stanoví-li tuto možnost zákon.*
@@ -435,6 +462,11 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 > *(8) Není-li v odstavcích 1 až 7 stanoveno jinak, postupuje se v novém řízení podle ustanovení platných pro řízení v prvním stupni.*
 >
 > *(9) Novým rozhodnutím vydaným podle § 100 nebo § 101 písm. a) se původní rozhodnutí ruší; o tomto následku budou účastníci poučeni v písemném vyhotovení rozhodnutí; ustanovení § 99 platí obdobně. V ostatních případech nové rozhodnutí brání vykonatelnosti nebo jiným právním účinkům původního rozhodnutí; nejsou-li účinky nového rozhodnutí zřejmé z jeho obsahu, určí vliv na vykonatelnost nebo jiné právní účinky původního rozhodnutí správní orgán.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 102/2022 - 88](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712532) — 22. 6. 2023
+  > „… žádost o nové rozhodnutí ze své podstaty není dalším opravným prostředkem, jímž se účastník řízení domáhá přezkoumání dřívějších rozhodnutí"
 
 #### Příslušnost (odst. 1)
 

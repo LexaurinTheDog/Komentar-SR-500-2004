@@ -435,6 +435,11 @@ V téže věci **jen JEDNOU**. Lze i po zahájení řízení.
 >
 > *(7) Ve společném řízení se vydává společné rozhodnutí. Jestliže jsou k přezkoumávání výroků společného rozhodnutí v odvolacím řízení příslušné různé odvolací správní orgány, vydává se více rozhodnutí, z nichž každé zahrnuje výroky, k jejichž přezkoumávání je příslušný jediný odvolací správní orgán. Pokud se výroky takových společných rozhodnutí podmiňují, má odvolání proti rozhodnutí s podmiňujícím výrokem odkladný účinek i vůči rozhodnutí s navazujícím výrokem. Jestliže byla odvoláními napadena obě tato rozhodnutí a nelze-li věc vyřídit podle § 87, správní orgán prvního stupně řízení o odvolání proti rozhodnutí s navazujícím výrokem přeruší až do doby skončení řízení o odvolání proti rozhodnutí s podmiňujícím výrokem; ustanovení § 57 odst. 3 platí obdobně. Jestliže bylo odvoláním napadeno pouze rozhodnutí s podmiňujícím výrokem, nabývá rozhodnutí s navazujícím výrokem právní moci dnem právní moci rozhodnutí o odvolání proti rozhodnutí s podmiňujícím výrokem; zrušení nebo změna rozhodnutí s podmiňujícím výrokem je však důvodem obnovy řízení.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Az 34/2022 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715512) — 26. 9. 2023
+  > „Smyslem institutu společného řízení podle ust. § 140 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen „správní řád“) je především procesní ekonomie, řízení lze spojit, pokud se týkají téhož předmětu řízení nebo spolu jinak věcně souvisejí nebo se týkají týchž účastníků. I za splnění daných podmínek se však nejedná o povinnost, ale možnost správního orgánu spojit různá řízení k řízení společnému"
+
 #### Spojení řízení (odst. 1)
 
 > *Správní orgán může na požádání účastníka nebo z moci úřední usnesením spojit různá řízení, k nimž je příslušný, pokud se týkají téhož předmětu řízení nebo spolu jinak věcně souvisejí anebo se týkají týchž účastníků, nebrání-li tomu povaha věci, účel řízení anebo ochrana práv nebo oprávněných zájmů účastníků.*
@@ -509,6 +514,13 @@ Otázka, kdo je účastníkem **§ 27/1**, se posuzuje, jako kdyby řízení pro
 > *(10) Pokud ve sporném řízení bylo předběžné opatření zrušeno nebo pozbylo účinnosti z jiného důvodu než proto, že bylo vyhověno návrhu, nebo proto, že právo účastníka, na jehož požádání bylo předběžné opatření nařízeno, bylo uspokojeno, je účastník, na jehož požádání bylo předběžné opatření nařízeno, povinen nahradit újmy tomu, komu předběžným opatřením vznikly. Rozhodne o tom na žádost správní orgán, který nařídil předběžné opatření.*
 >
 > *(11) Ve sporném řízení přizná správní orgán účastníkovi, který měl ve věci plný úspěch, náhradu nákladů potřebných k účelnému uplatňování nebo bránění práva proti účastníkovi, který ve věci úspěch neměl. Měl-li účastník ve věci úspěch jen částečný, může správní orgán náhradu nákladů poměrně rozdělit, popřípadě rozhodnout, že žádný z účastníků nemá na náhradu nákladů právo. I když měl účastník ve věci úspěch jen částečný, může mu správní orgán přiznat plnou náhradu nákladů řízení, měl-li neúspěch v poměrně nepatrné části nebo záviselo-li rozhodnutí o výši plnění na znaleckém posudku nebo na úvaze správního orgánu.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 99/2025 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769286) — 5. 2. 2026
+  > „Toto řízení se svojí povahou blíží řízení spornému dle § 141 zákona č. 500/2004 Sb. správní řád (dále jen „správní řád“), v němž se uplatní zásada kontradiktornosti a zásada projednací, jež se vyznačuje zvýšenou procesní odpovědností účastníků za zjištění skutkového stavu (…). Břemeno tvrzení a tomu odpovídající břemeno důkazní (…) tíží zadavatele (…)"
+- *NSS* [2 Afs 226/2024 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743822) — 29. 7. 2025
+  > „Sporné řízení správní je svojí podstatou právě řízením o žádosti (resp. o návrhu), byť s procesními modifikacemi upravenými v § 141 zákona č. 500/2004 Sb., správní řád"
 
 #### Předmět (odst. 1)
 
@@ -590,6 +602,11 @@ Pokud bylo PO zrušeno / pozbylo účinnosti **jinak než vyhověním návrhu ne
 > *(2) Podle odstavce 1 správní orgán nepostupuje, jestliže může o vzniku, trvání nebo zániku určitého právního vztahu vydat osvědčení anebo jestliže může otázku jeho vzniku, trvání nebo zániku řešit v rámci jiného správního řízení.*
 >
 > *(3) Pro dokazování v řízení o určení právního vztahu platí ustanovení § 141 odst. 4 obdobně.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 64/2024 - 103](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740455) — 14. 2. 2025
+  > „Předně nutno připomenout, že v řízení o určení právního vztahu ve smyslu § 142 zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů (dále jen „správní řád“), platí, že pro dokazování v řízení o určení právního vztahu platí ustanovení § 141 odst. 4 obdobně (viz odst. 3)"
 
 #### Účel (odst. 1)
 

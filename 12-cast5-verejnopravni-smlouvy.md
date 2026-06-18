@@ -34,8 +34,8 @@ VPS je institut moderní veřejné správy, který přesahuje klasické dichotom
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 4180/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A406B9F4CEDA62DC1257F6200419615?openDocument) — 10. 12. 2015, kat. A
-  > „K projednání a rozhodnutí sporu o nahrazení projevu vůle školského zařízení pro výkon ústavní výchovy uzavřít smlouvu o prodlouženém pobytu nezaopatřené osoby podle § 2 odst. 6 zákona č. 109/2002 Sb., ve znění účinném do 31. 10. 2012, není dána pravomoc soudu"
+- *NSS* [7 Afs 278/2017 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/644382) — 23. 11. 2017
+  > „…i veřejnoprávní smlouva je však založena na smluvním konsenzu stran a vztahuje se na ni zásada pacta sunt servanda jakožto obecný právní princip (rozsudek Nejvyššího správního soudu ze dne 22. 5. 2008, č. j. 2 Afs 49/2007 - 96). Smlouva obecně, jakož i subordinační veřejnoprávní smlouva (§ 161 správního řádu), jako vícestranný právní úkon přitom zpravidla zavazuje pouze strany této smlouvy"
 
 ### (1) Definice
 
@@ -133,6 +133,11 @@ V samosprávných věcech (mimo přenesenou působnost) mohou ÚSC vzájemně uz
 > *(1) Stanoví-li tak zvláštní zákon, může správní orgán uzavřít veřejnoprávní smlouvu s osobou, která by byla účastníkem podle § 27 odst. 1, kdyby probíhalo řízení podle části druhé, a to i namísto vydání rozhodnutí. Podmínkou účinnosti veřejnoprávní smlouvy je souhlas ostatních osob, které by byly účastníky podle § 27 odst. 2 nebo 3. Správní orgán přitom postupuje podle ustanovení o souhlasu třetích osob (§ 168).*
 >
 > *(2) Veřejnoprávní smlouvu lze uzavřít i po zahájení řízení podle části druhé. Poté, co veřejnoprávní smlouva byla uzavřena, správní orgán usnesením řízení zastaví.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Ads 364/2019 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/654288) — 9. 4. 2020
+  > „Zcela zjevně jde totiž o dvoustranný konsenzuální právní úkon uzavíraný – přesně v intencích posledně citovaného ustanovení správního řádu – mezi vrchnostensky vystupujícím správním orgánem (Úřadem práce) a žadatelem (zaměstnavatelem), jenž ve smyslu § 159 odst. 1 správního řádu zakládá vzájemná práva a povinnosti v oblasti veřejného práva… v situaci, kdy je rozhodnutí nahrazeno veřejnoprávní smlouvou, vůbec nedochází k vydání správního rozhodnutí. Přitom právě vydání rozhodnutí je účelem, k němuž správní řízení dle své legální definice směřuje (§ 9 správního řádu)"
 
 ### (1) Princip
 
@@ -415,6 +420,11 @@ Při nesouhlasu → **rozhoduje orgán příslušný podle § 169/1** (řeší j
 
 **Výjimka:** VPS § 160 (mezi orgány) — souhlas třetích osob se nevyžaduje, neboť tyto VPS standardně neimpactují přímo soukromé osoby (jen rozdělují kompetence mezi orgány).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [77 A 120/2021 - 109](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/703673) — 19. 7. 2022
+  > „…ustanovení § 168 správního řádu činí účinnost veřejnoprávní smlouvy, která se přímo dotýká práv nebo povinností třetí osoby, závislou na písemném souhlasu takové třetí osoby"
+
 ## § 169 — SPORY z VPS (kdo rozhoduje)
 
 <!-- AUTOCITACE:§169 -->
@@ -436,6 +446,11 @@ Při nesouhlasu → **rozhoduje orgán příslušný podle § 169/1** (řeší j
 > *(2) Proti rozhodnutí vydanému podle odstavce 1 nelze podat odvolání ani rozklad.*
 >
 > *### Obecné ustanovení*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 25/2015 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/639099) — 14. 7. 2016
+  > „…sporem z veřejnoprávní smlouvy ve smyslu § 169 zákona č. 500/2004 Sb., správního řádu… „je nutno rozumět podstatně širší okruh nároků svou povahou a podstatou veřejnoprávních, než pouze nároků vyplývajících z konkrétního ujednání o plnění obsaženého v platné veřejnoprávní smlouvě. Právní úprava zakotvující možnost uzavřít v určité věci v oblasti veřejného práva veřejnoprávní smlouvu již sama o sobě tím, že zakládá možnost vzniku právního vztahu mezi jednotlivcem a veřejnoprávní entitou jinak než autoritativním, jednostranným jednáním veřejné moci, předpokládá vznik komplexního ‚souboru' vzájemných a navzájem provázaných práv a povinností…"
 
 ### (1) Kompetence k řešení sporů
 

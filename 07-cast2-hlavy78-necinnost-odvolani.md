@@ -133,6 +133,11 @@ Pokud má být rozhodnutím **omezena způsobilost PO samostatně jednat** před
 >
 > *#### Odvolací lhůta*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 14/2009 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/615298) — 13. 5. 2009
+  > „Ustanovení § 82 odst. 4 správního řádu tedy na řízení o přestupku nedopadá; uplatní se však typicky u řízení zahajovaných na návrh, tedy řízení o žádosti. V nich je koncentrace řízení plně na místě: je totiž v zájmu žadatele, aby shromáždil a správnímu orgánu předložil všechny potřebné doklady. Nemožnost přinášet nová tvrzení a návrhy důkazů v odvolání je tak jen důsledkem žadatelovy nečinnosti a nedostatečného poskytování součinnosti správnímu orgánu I. stupně"
+
 #### Předmět odvolání (odst. 1)
 
 Lze napadnout:
@@ -186,8 +191,8 @@ Praktický význam: u rozhodnutí o pokutě + uložení nápravných opatření 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — 26. 10. 2010, kat. A
-  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — kat. A, 26. 10. 2010
+  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis"
 
 #### Vadné/chybějící poučení (odst. 2) — 90 DENNÍ LHŮTA
 
@@ -216,6 +221,11 @@ Tato lhůta je absolutní — nelze ji dále prodloužit, ale **prominutí zmeš
 > *(3) Při vedení řízení po podání odvolání podle odstavce 1 je třeba zvlášť dbát oprávněných zájmů účastníků, kteří byli v dobré víře. Odkladný účinek odvolání lze z vážných důvodů vyloučit (§ 85 odst. 2) i dodatečně.*
 >
 > *#### Účinky odvolání*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 A 58/2021 - 145](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702445) — 19. 5. 2022
+  > „ustanovení § 84 zákona č. 500/2004 Sb., správní řád, je nutno vztáhnout nejen na případy, kdy se účastník sice účastnil celého správního řízení, avšak konečné rozhodnutí mu nebylo doručeno, ale i na případy, kdy potenciální účastník o probíhajícím správním řízení vůbec nevěděl a neparticipoval na něm, a tudíž mu ani konečné rozhodnutí doručeno nebylo"
 
 #### Pomineutý účastník (odst. 1)
 
@@ -259,6 +269,11 @@ Při řízení po podaném odvolání pomineutého účastníka **MUSÍ být zvl
 > *(4) Vyloučení odkladného účinku odvolání musí být odůvodněno. Výrok o vyloučení odkladného účinku odvolání je součástí rozhodnutí ve věci; proti tomuto výroku se nelze odvolat.*
 >
 > *#### Podání odvolání a postup správního orgánu, který napadené rozhodnutí vydal*
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 145/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-145-09_1) — nález, 21. 2. 2012
+  > „Vyloučení odkladného účinku odvolání proti rozhodnutí prvostupňového orgánu o vyhoštění je proto (za těchto podmínek) rozhodnutím soudně přezkoumatelným, neboť mění časové parametry účinků prvoinstančního rozhodnutí ve věci samé a zjevně dopadá na právní postavení cizince, a to dokonce velmi intenzivně, neboť mu znemožní nadále v České republice fakticky pobývat, ač by jinak - mělo-li by odvolání odkladný účinek - do právní moci rozhodnutí o odvolání zásadně území republiky nemusel opustit"
 
 #### Hlavní pravidlo (odst. 1) — SUSPENZIVNOST
 
@@ -343,6 +358,11 @@ Pro vyjádření platí **obdobně § 82/4** o nových skutečnostech a důkazec
 **Proti autoremedurálnímu rozhodnutí lze podat odvolání** — nejen účastník, který by tím byl dotčen, ale i například původní odvolatel, pokud rozhodnutí nebylo provedeno přesně podle jeho žádosti.
 
 Praktický význam: rychlá náprava jednoduchých vad bez nutnosti čekat na odvolací orgán.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [34 A 17/2024 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740421) — 29. 1. 2025
+  > „Autoremedura je procesním institutem, jež slouží požadavku na rychlost řízení a na procesní ekonomii řízení. Naopak nelze ji vnímat jako samostatný stupeň ochrany práv účastníka správního řízení. K provedení autoremedury bude docházet zejména za situace, kdy účastník řízení v odvolání poukáže na zjevnou chybu prvostupňového rozhodnutí, která by nutně vedla k jeho zrušení, event. správní orgán sám takovou chybu zjistí"
 
 ### § 88 — Předání spisu odvolacímu orgánu
 

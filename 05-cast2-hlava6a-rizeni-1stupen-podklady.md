@@ -22,6 +22,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1324/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1324-15_1) — usnesení, 23. 6. 2015
+  > „…nelze obecně dovozovat, že doručením jakéhokoliv podání správnímu orgánu je zahájeno určité správní řízení, neboť citované ustanovení dopadá pouze na případy, kdy je již s určitým podáním spojeno zahájení řízení, a specifikuje, k jakému okamžiku je řízení považováno za zahájené"
+- *NSS* [18 Ad 3/2024 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721897) — 14. 5. 2024
+  > „…je svou povahou řízením o žádosti ve smyslu § 44 zákona č. 500/2004 Sb., správní řád, a je tedy ovládáno zásadou dispozitivní, která předpokládá jistou aktivní účast žadatele. Tím však není vyloučena zásada materiální pravdy, která je jednou z vůdčích zásad, na nichž je správní řízení postaveno"
+
 #### Okamžik zahájení (odst. 1)
 
 **Den dojití** žádosti **věcně a místně příslušnému** orgánu. Pokud žádost přijde nepříslušnému orgánu:
@@ -145,6 +152,11 @@ Oznámení o zahájení **lze spojit** s jiným úkonem v řízení (typicky př
 >
 > *(2) Přiznat totéž právo nebo uložit tutéž povinnost lze z téhož důvodu téže osobě pouze jednou.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [32 A 64/2019 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/672660) — 14. 7. 2021
+  > „Překážku věci rozhodnuté ve smyslu § 48 odst. 2 zákona č. 500/2004 Sb., správního řádu (dále jen „správní řád“), přitom je nutné vykládat tak, že jestliže bylo již jednou pravomocně přiznáno totéž právo nebo uložena táž povinnost z téhož důvodu téže osobě, nelze o stejném právu nebo povinnosti rozhodovat znovu"
+
 #### Litispendence (odst. 1)
 
 Probíhající řízení **u jednoho orgánu** = překážka **pro zahájení** dalšího u jiného orgánu. Klasická *res lis pendens*.
@@ -216,6 +228,13 @@ I neveřejného jednání se může účastnit **podpůrce účastníka** (§ 45
 > *(4) Pokud zákon nestanoví, že některý podklad je pro správní orgán závazný, hodnotí správní orgán podklady, zejména důkazy, podle své úvahy; přitom pečlivě přihlíží ke všemu, co vyšlo v řízení najevo, včetně toho, co uvedli účastníci.*
 >
 > *##### Dokazování*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [18 A 15/2021 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/711815) — 9. 5. 2023
+  > „Dokazování ve správním řízení ovládá zásada volného hodnocení důkazů. Povinností správního orgánu je zjistit přesně a úplně skutečný stav věci a za tím účelem si opatřit potřebné podklady pro rozhodnutí. Správní orgán je povinen zjistit přesně a úplně skutečný stav věci, avšak pouze ve vztahu k předmětu dokazování, tj. k určitému skutku; skutečnosti, které stojí vně předmětu dokazování, nezjišťuje, neboť nemají pro rozhodnutí věci význam"
+- *NSS* [7 As 24/2022 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712634) — 14. 7. 2023
+  > „…i v disciplinárním řízení je třeba klást zvláštní důraz na podrobné zjištění skutkového stavu orgánem veřejné moci a jeho rozhodnutí důkladně podřídit zásadě materiální pravdy, jakož i zásadě vyšetřovací ve smyslu § 50 odst. 3 zákona č. 500/2004 Sb., správního řádu…"
 
 #### Co jsou podklady (odst. 1)
 
@@ -309,6 +328,11 @@ V přestupkovém řízení **navazujícím na kontrolu**, je-li kontrolovaná os
 
 > *Účastníci jsou povinni označit důkazy na podporu svých tvrzení. Správní orgán není návrhy účastníků vázán, vždy však provede důkazy, které jsou potřebné ke zjištění stavu věci.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 109/2016 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/449908) — 17. 9. 2018
+  > „…je toto řízení ovládáno zásadou dispoziční, jejíž podstatou je svěření iniciativy účastníku řízení, který má povinnost tvrdit rozhodné skutečnosti a navrhovat důkazy k prokázání svých tvrzení (§ 52 zákona č. 500/2004 Sb., správní řád), pokud chce být v řízení úspěšný"
+
 #### Důkazní povinnost účastníka
 
 - Účastník má **uvést tvrzení + označit důkazy** na jejich podporu.
@@ -340,6 +364,11 @@ Praxe: účastník navrhne 5 svědků. Orgán vyslechne 2, ostatní 3 odmítne j
 > *(5) Předložení listiny je v případech a za podmínek stanovených zvláštním zákonem možné nahradit čestným prohlášením účastníka nebo svědeckou výpovědí.*
 >
 > *(6) O provedení důkazu listinou se učiní záznam do spisu. Za přítomnosti účastníků nebo zúčastněných osob, anebo účastní-li se úkonu veřejnost, se důkaz listinou provede tak, že se listina přečte nebo sdělí její obsah.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 50/2021 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702958) — 7. 7. 2022
+  > „…potvrzení o ověření stanoveného měřidla je veřejnou listinou ve smyslu § 53 odst. 3 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, které svědčí tzv. presumpce správnosti… Skutečnost, že určitá listina je listinou veřejnou, však nezbavuje účastníka řízení možnosti vznášet proti tomu, co je v dané listině osvědčeno nebo potvrzeno, konkrétní námitky…"
 
 #### Předložení listiny (odst. 1)
 
@@ -386,6 +415,11 @@ V případech stanovených zvláštním zákonem lze listinu **nahradit čestný
 > *(3) O ohledání na místě správní orgán vyrozumí též toho, kdo je oprávněn s předmětem ohledání nakládat, nejedná-li se o osobu, které se usnesení oznamuje podle odstavce 1.*
 >
 > *(4) Správní orgán může k účasti na ohledání přizvat nestranné osoby, aby zajistil jejich přítomnost při provádění důkazu. Tyto osoby nemají práva ani povinnosti účastníků.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [59 A 45/2020 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/592092) — 12. 1. 2021
+  > „Vlastník pozemku (tím spíše žadatel, který v řízení o dodatečném povolení stavby chce dosáhnout účelu řízení) je totiž dle § 54 odst. 1 zákona č. 500/2004 Sb., správního řádu, povinen strpět ohledání věci na místě. Všichni účastníci mají přitom právo být přítomni provádění dokazování, tedy i ohledání"
 
 #### Povinnost strpění (odst. 1)
 
@@ -460,6 +494,11 @@ Před výslechem orgán svědka POUČÍ:
 >
 > *Předběžná otázka*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 24/2022 - 143](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/723301) — 12. 6. 2024
+  > „Jestliže není možné odstranit tyto rozpory, není správní orgán bez náležitého odůvodnění oprávněn upřednostnit některé odborné stanovisko před jiným a vzhledem k tomu, že se jedná o otázku, k jejímuž vyřešení nejsou úřední osoby náležitě odborně způsobilé, je třeba dát tyto závěry přezkoumat postupem dle § 56 zákona č. 500/2004 Sb., správního řádu…"
+
 #### Hierarchie odborného posouzení
 
 Orgán postupuje **kaskádově**:
@@ -496,6 +535,13 @@ Orgán postupuje **kaskádově**:
 > *(3) Rozhodnutím příslušného orgánu o předběžné otázce, které je pravomocné, popřípadě předběžně vykonatelné, je správní orgán vázán.*
 >
 > *(4) Jestliže vydání rozhodnutí závisí na řešení otázky, k jejímuž řešení je správní orgán příslušný, o níž však nelze rozhodnout ve společném řízení, provede správní orgán nejprve řízení o této předběžné otázce, je-li oprávněn zahájit řízení z moci úřední, popřípadě vyzve toho, kdo je oprávněn podat žádost, aby tak učinil.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ads 89/2013 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/632670) — 22. 10. 2014
+  > „…otázka naplnění znaků trestného činu není předběžnou otázkou podle § 57 odst. 1 písm. c) zákona č. 500/2004 Sb., o níž si služební funkcionář nemůže v řízení o propuštění policisty učinit úsudek, je třeba mít na zřeteli, že zhodnocení, zda jednáním policisty došlo k naplnění veškerých znaků trestného činu (tedy formálních znaků i materiálního znaku), v podstatě odpovídá posouzení otázky, zda se policista konkrétního trestného činu dopustil"
+- *NSS* [5 As 62/2025 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746227) — 21. 10. 2025
+  > „…šlo však o předběžnou otázku, kterou si ve smyslu § 57 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen „správní řád“), Finanční analytický úřad mohl pro účely svého rozhodnutí posoudit sám"
 
 #### Tři možnosti orgánu (odst. 1)
 
@@ -670,6 +716,11 @@ Osoba, jíž bylo oznámeno → **POVINNOST VYDAT věc**. Není-li vydána → *
 >
 > *(6) Pravomocně uloženou pořádkovou pokutu může správní orgán, který ji uložil, novým rozhodnutím prominout nebo snížit. Přitom správní orgán přihlédne zejména k tomu, jak osoba, které byla pořádková pokuta uložena, plní svoje procesní povinnosti v dalším průběhu řízení.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [54 A 91/2023 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722159) — 10. 5. 2024
+  > „Smyslem pořádkové pokuty podle § 62 odst. 2 správního řádu, kterou lze uložit až do výše 50 000 Kč, je chránit vážnost a důstojnost správních orgánů a úředních osob před útoky ve formě hrubých urážek"
+
 #### Výše a důvody (odst. 1)
 
 > *Správní orgán může rozhodnutím uložit pořádkovou pokutu až do výše 50 000 Kč tomu, kdo v řízení závažně ztěžuje jeho postup tím, že*
@@ -762,8 +813,8 @@ Orgán, který pokutu uložil, ji může **PROMINOUT NEBO SNÍŽIT** novým rozh
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3945/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A15B826590B8CA6C1257B2400510578?openDocument) — 14. 11. 2012, kat. A
-  > „Včasné podání mimořádného opravného prostředku proti rozhodnutí soudu vydanému v řízení podle části třetí občanského soudního řádu, ve znění účinném do 31. 12. 2012, jehož předmětem je určení neplatnosti právního úkonu, podle něhož byl navržen vklad práva do katastru nemovitostí, je důvodem pro přerušení řízení o návrhu na vklad práva do katastru nemovitostí před katastrálním úřadem a pro přerušení řízení o žalobě podané ve věci vkladu práva do katastru nemovitostí podle části páté občanského soudního řádu přerušení řízení trvá až do rozhodnutí o tomto mimořádném opravném prostředku a, bylo-li mimořádnému opravnému prostředku vyhověno, až do právní moci nového rozhodnutí ve věci určení neplatnosti právního úkonu"
+- *NS* [21 Cdo 3945/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A15B826590B8CA6C1257B2400510578?openDocument) — kat. A, 14. 11. 2012
+  > „Včasné podání mimořádného opravného prostředku proti rozhodnutí soudu vydanému v řízení podle části třetí občanského soudního řádu, ve znění účinném do 31. 12. 2012, jehož předmětem je určení neplatnosti právního úkonu, podle něhož byl navržen vklad práva do katastru nemovitostí, je důvodem pro přerušení řízení o návrhu na vklad práva do katastru nemovitostí před katastrálním úřadem…; přerušení řízení trvá až do rozhodnutí o tomto mimořádném opravném prostředku…"
 
 #### Důvody přerušení (odst. 1)
 

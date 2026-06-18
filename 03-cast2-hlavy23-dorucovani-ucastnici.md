@@ -298,8 +298,10 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 2373/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/95EE13A674EEE564C1257A91005041F1?openDocument) — 26. 9. 2012, kat. A
+- *NS* [30 Cdo 2373/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/95EE13A674EEE564C1257A91005041F1?openDocument) — kat. A, 26. 9. 2012
   > „Smlouva o převodu zemědělského pozemku ve vlastnictví státu je podle § 39 obč. zák. neplatná, nebyl-li obsah úřední desky o zahájení prodeje tohoto pozemku ve smyslu § 7 odst. 2 zákona č. 95/1999 Sb. zveřejněn příslušným obecním úřadem i způsobem umožňujícím dálkový přístup"
+- *ÚS* [II.ÚS 1704/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1704-12_1) — usnesení, 17. 5. 2012
+  > „Protože úřední deska představuje zákonem stanovený prostředek komunikace úřadů (v širokém slova smyslu tohoto pojmu) navenek (srov. § 26 zákona č. 500/2004 Sb., §§ 12, 128 zákona č. 128/2000 Sb. aj.), musí být každý srozuměn s možnými následky a dopady neseznámení se s jejím obsahem"
 
 ---
 
@@ -325,8 +327,8 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [28 Cdo 2044/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E5CD21F5D0BCFD9C12580AE00354E96?openDocument) — 26. 10. 2016, kat. A
-  > „Okruh účastníků restitučního řízení podle zákona č. 229/1991 Sb., ve znění pozdějších předpisů, je taxativně vymezen v ustanovení § 9 odst. 8 tohoto zákona proto je i v řízení podle části páté občanského soudního řádu vyloučeno použití ustanovení § 27 odst. 2 zákona č. 500/2004 Sb. (§ 250b odst. 2 o. s. ř.)"
+- *NSS* [6 As 87/2020 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/688290) — 9. 3. 2022
+  > „Správní orgán musí posoudit, zda rozhodnutí může mít přímý vliv na výkon práv či povinností určité osoby. Nejvyšší správní soud zdůrazňuje, že postačuje potencialita bezprostředního dotčení práva. K dotčení práva osoby, která se domáhá účastenství v řízení, tedy nemusí reálným zásahem do jejích práv či povinností vůbec dojít. Postačí, že k takovému dotčení rozhodnutím vydaným v konkrétním správním řízení dojít může"
 
 #### Tři kategorie účastníků
 
@@ -502,6 +504,11 @@ Plus **kolektivní formy**: společný zmocněnec / společný zástupce (§ 35)
 >
 > *(8) Funkce opatrovníka zaniká, jakmile zastoupený začal být zastupován zákonným zástupcem nebo nabyl procesní způsobilosti anebo pominuly důvody, pro něž byl opatrovník ustanoven. Tuto skutečnost správní orgán poznamená do spisu, jakmile se o ní dozví; v pochybnosti rozhodne usnesením, které se oznamuje pouze opatrovníkovi a opatrovanci nebo jeho zákonnému zástupci.*
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1143/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1143-12_1) — nález, 29. 5. 2012
+  > „Nepřítomnému účastníkovi soudního řízení musí být zajištěna ochrana jeho zájmů i základních práv; funkce opatrovníka byla vytvořena proto, aby do důsledku hájila zájmy nepřítomného, což představuje mj. studium spisu, podávání vyjádření a vedení celého sporu za nepřítomného tak, jak by takovou povinnost byl nucen plnit smluvní zástupce (srov. sp. zn. I. ÚS 559/2000). Proto ustanovení opatrovníka účastníku řízení, jehož pobyt není znám, musí vždy předcházet šetření, zda jsou dány předpoklady pro tento postup v řízení, a současně je zapotřebí zvažovat, zda není možno použít jiné opatření …"
+
 #### Zákonný zástupce (odst. 1)
 
 V rozsahu, v jakém účastník nemá procesní způsobilost → **MUSÍ být** zastupován zákonným zástupcem. Standard:
@@ -576,6 +583,11 @@ Orgán **poznamená do spisu** (nebo v pochybnosti usnesením).
 > *(3) Zmocněnec může udělit plnou moc jiné osobě, aby místo něho za účastníka jednala, jen je-li v plné moci výslovně dovoleno, že tak může učinit, pokud zvláštní zákon nestanoví jinak.23)*
 >
 > *(4) Jestliže se nedaří doručovat písemnosti zmocněnci, postupuje se podle § 32 odst. 2 písm. d) nebo § 32 odst. 3 a účastník se o tomto postupu, jakož i o obsahu písemnosti vyrozumí.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 60/2017 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/642936) — 13. 7. 2017
+  > „Právo účastníka řízení nechat se na základě plné moci zastoupit zmocněncem je pro účely správního řízení garantováno § 33 zákona č. 500/2004 Sb., správní řád. Jedná se o zastoupení fakultativní, a je tedy plně na vůli účastníka řízení, zda k zastupování zmocní jinou osobu, či zda bude v řízení vystupovat osobně. Rozhodne-li se však účastník řízení využít možnosti zastoupení ve správním řízení, musí tak činit s vědomím všech specifik, která z toho vyplývají"
 
 #### Základ (odst. 1)
 

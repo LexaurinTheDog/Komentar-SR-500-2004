@@ -24,6 +24,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 83/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-83-06_1) — nález, 12. 3. 2008
+  > „Je-li kontrolní činnost prováděná odborovými organizacemi (včetně ukládání závazných pokynů a zákazů práce) výkonem přenesené působnosti státu, pak to znamená, že se na postup odborových organizací podle § 322 odst. 2 bude vztahovat správní řád (viz § 1 odst. 1 zákona č. 500/2004 Sb., správní řád, v platném znění)"
+
 #### Rozsah působnosti (odst. 1) — kdo je „správní orgán"
 
 Klíčová **legislativní zkratka „správní orgán"** zahrnuje **čtyři okruhy subjektů**:
@@ -87,6 +92,11 @@ SŘ **se NEVZTAHUJE** na:
 > *(3) Správní orgán šetří práva nabytá v dobré víře, jakož i oprávněné zájmy osob, jichž se činnost správního orgánu v jednotlivém případě dotýká (dále jen „dotčené osoby"), a může zasahovat do těchto práv jen za podmínek stanovených zákonem a v nezbytném rozsahu.*
 >
 > *(4) Správní orgán dbá, aby přijaté řešení bylo v souladu s veřejným zájmem a aby odpovídalo okolnostem daného případu, jakož i na to, aby při rozhodování skutkově shodných nebo podobných případů nevznikaly nedůvodné rozdíly.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ca 155/2008 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/559736) — 25. 11. 2010
+  > „Magistrát i žalovaný při posuzování souladu rozhodnutí o změně stavby s územním rozhodnutím byli povinni zachovávat zásadu legality a vázanost právními předpisy (§ 2 zákona č. 500/2004 Sb., dále jen „správní řád“), tuto však nelze chápat formalisticky, ale je nutno přihlížet ke smyslu a účelu aplikované normy. Další zásadou je ochrana práv nabytých v dobré víře, která je projevem principu presumpce správnosti správních aktů… S tím souvisí i zásada proporcionality (přiměřenosti) zásahu státu mezi použitými prostředky a sledovanými cíli. Dalším principem je, aby přijaté řešení bylo v souladu s veřejným zájmem…"
 
 #### (1) Zásada LEGALITY — secundum et intra legem
 
@@ -252,6 +262,11 @@ Smír vs. veřejnoprávní smlouva — viz [kap. 12](12-cast5-verejnopravni-smlo
 > *(2) Správní orgán postupuje tak, aby nikomu nevznikaly zbytečné náklady, a dotčené osoby co možná nejméně zatěžuje. Správní orgán opatřuje podklady přednostně s využitím úřední evidence, do níž má přístup. Podklady od dotčené osoby vyžaduje jen tehdy, stanoví-li tak právní předpis.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [54 A 12/2023 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739792) — 30. 1. 2025
+  > „Je proto přípustné [a v zájmu dodržení zásady hospodárnosti řízení ve smyslu § 6 odst. 2 zákona č. 500/2004 Sb., správní řád… zpravidla nezbytné…], aby odvolací orgán doplnil závěry rozhodnutí prvostupňového správního orgánu, pokud dospěje k závěru, že se nevypořádal se všemi námitkami…"
 
 #### (1) Rychlost — bez zbytečných průtahů
 

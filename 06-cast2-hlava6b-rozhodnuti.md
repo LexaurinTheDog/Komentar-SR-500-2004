@@ -20,6 +20,11 @@
 >
 > *##### Náležitosti rozhodnutí*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [18 A 10/2023 - 100](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715075) — 6. 9. 2023
+  > „V předmětném usnesení rozšířený senát k povaze souhlasů uvedl, že ačkoliv tyto nepředstavují rozhodnutí správního orgánu ve smyslu § 67 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, jedná se o „formalizované úkony správního orgánu v rámci jeho zákonem stanovené pravomoci, vztahující se ke konkrétní věci a adresované individuálně určeným jednotlivcům, zakládající, popř. měnící jejich práva a povinnosti za zákonem stanovených podmínek"
+
 #### Co je rozhodnutí (odst. 1)
 
 > *Rozhodnutím správní orgán v určité věci zakládá, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá, nebo v zákonem stanovených případech rozhoduje o procesních otázkách.*
@@ -73,8 +78,12 @@ Konkretizace § 9 (definice správního řízení). Rozhodnutí je:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — 26. 10. 2010, kat. A
-  > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
+- *NSS* [73 A 3/2023 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716040) — 29. 8. 2023
+  > „Podle konstantní judikatury Nejvyššího správního soudu je v odůvodnění OOP nutno uvést důvody výroku, podklady pro jeho vydání a úvahy, kterými se správní orgán řídil při jejich hodnocení a při výkladu právních předpisů, jak vyplývá z § 68 odst. 3 a § 174 odst. 1 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Nedostatek rozhodovacích důvodů způsobuje jeho nepřezkoumatelnost…"
+- *NSS* [4 As 82/2013 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/628416) — 18. 7. 2013
+  > „[V]edlejší ustanovení výroku rozhodnutí o zajištění cizince za účelem jeho vyhoštění, jímž se stanoví doba trvání zajištění (§ 124 odst. 3 zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky), musí být řádně odůvodněno ve smyslu § 68 odst. 3 zákona č. 500/2004 Sb., správní řád, aby bylo možné přezkoumat, zda správní orgán nezneužil správní uvážení či nepřekročil jeho meze"
+- *NSS* [43 A 107/2022 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/710919) — 28. 3. 2023
+  > „Nejvyšší správní soud vyslovil názor, že na rozhodnutí o námitkách je třeba klást stejné požadavky, jako na standardní rozhodnutí ve smyslu § 68 odst. 3 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, a to zejména co do přezkoumatelnosti odůvodnění"
 
 #### Výroková část (odst. 2) — JÁDRO ROZHODNUTÍ
 
@@ -192,6 +201,11 @@ Na požádání účastníka orgán vydá:
 
 První úkon = vydání opravy (žádné předchozí řízení).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 A 202/2017 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/451037) — 10. 10. 2018
+  > „…zřejmá nesprávnost, kterou je možno napravit právě postupem dle § 70 zákona č. 500/2004 Sb., správní řád, nečiní rozhodnutí nepřezkoumatelným. Pokud je rozhodnutí jako celek logické a jedná se o zcela zřejmé administrativní pochybení, které navíc vyplývá i z odůvodnění napadeného rozhodnutí, pak nejde o rozhodnutí nesrozumitelné. Tím spíše nemůže být takové rozhodnutí považováno za nicotné"
+
 ### § 71 — LHŮTY pro vydání rozhodnutí
 
 <!-- AUTOCITACE:§71 -->
@@ -235,6 +249,11 @@ První úkon = vydání opravy (žádné předchozí řízení).
 - Doba **doručení do ciziny**.
 
 > Max. lhůta v praxi: **60 dnů** + případné dožádání / znalec → reálně 90–120 dnů u složitějších věcí.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Afs 71/2015 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/637355) — 10. 2. 2016
+  > „K výkladu tohoto pojmu „bezodkladně“ užil městský soud jako výchozí interpretační vodítko ustanovení § 71 zákona č. 500/2004 Sb., správní řád (dále jen „správní řád“), podle něhož, pokud nelze rozhodnutí vydat bezodkladně, je správní orgán povinen vydat rozhodnutí nejpozději do 30 dnů od zahájení řízení. Z tohoto ustanovení sice podle soudu jednoznačná délka „bezodkladné“ lhůty k vydání rozhodnutí nevyplývá, městský soud ovšem dovodil, že tato lhůta musí být kratší než…"
 
 #### Vydání rozhodnutí — okamžik (odst. 2)
 
@@ -303,6 +322,15 @@ Pokud se **VŠICHNI** vzdají oznamování usnesení → usnesení se **POUZE po
    - Účastník se vzdal práva odvolat.
    - Odvolání bylo zamítnuto / zrušeno.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 3138/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3138-10_1) — nález, 7. 12. 2011
+  > „…právní moc rozhodnutí není zvrácena jen tím, že při oznamování rozhodnutí byl opomenut účastník, jsou-li splněny dva předpoklady: … Prvý předpoklad je splněn, lze-li postavit najisto, že opomenutý účastník seznal s dostatečnou jistotou a včas obsah vydaného rozhodnutí, především tedy, kdy a kým bylo vydáno, jak jej lze identifikovat, jakým způsobem a v jakém rozsahu mu takové rozhodnutí zasahuje do práv, a měl tedy účinnou možnost se proti němu účinně bránit opravnými prostředky"
+- *NSS* [20 A 12/2016 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/521925) — 10. 4. 2017
+  > „…u institutu nabytí právní moci [ve smyslu ust. § 73 odst. 1 zákona č. 500/2004 Sb., správního řádu (dále jen „správní řád“)] nelze dopředu určit, kdy jeho účinky nastanou, neboť je odvislý od temporálně nejisté budoucí události, tj. jeho oznámení (roz. doručení, srov. § 72 odst. 1 správního řádu) a případného proběhnuvšího odvolacího řízení…"
+- *NSS* [50 A 8/2023 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715861) — 25. 9. 2023
+  > „…jde o pravomocně deklarovanou skutečnost se závazností pro rozhodování jiných orgánů veřejné moci ve smyslu § 73 odst. 2 zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů… Jinak řečeno, jakýkoliv jiný orgán veřejné moci, který bude disponovat napadeným rozhodnutím (ve spojení s prvostupňovým), bude muset ve své rozhodovací činnosti vycházet z toho, že se stal…"
+
 #### Účinky pravomocného rozhodnutí (odst. 2) — ZÁVAZNOST
 
 > *Pravomocné rozhodnutí je závazné pro účastníky a pro všechny správní orgány (...). Pro jiné osoby je pravomocné rozhodnutí závazné v případech stanovených zákonem v rozsahu v něm uvedeném. Pravomocné rozhodnutí o osobním stavu je závazné pro každého. Jestliže je pro práva a povinnosti účastníků určující právo k movité nebo nemovité věci, je pravomocné rozhodnutí závazné i pro právní nástupce účastníků.*
@@ -331,6 +359,13 @@ Nástupnictví: pravomocné rozhodnutí o **právu k movité/nemovité věci** j
 **Hlavní pravidlo:** vykonatelnost = právní moc (+ pozdější den, je-li ve výroku).
 
 **Předběžná vykonatelnost:** pokud odvolání **nemá odkladný účinek** (§ 85 odst. 2 — veřejný zájem, vážná újma účastníkovi, žádost účastníka).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 A 37/2014 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/532737) — 30. 6. 2016
+  > „Ustanovení § 83 odst. 1 zákona č. 200/1990 Sb., o přestupcích, podle něhož musí správní orgán vyhovět žádosti o odložení výkonu rozhodnutí, jestliže účastník podal návrh na přezkoumání rozhodnutí o přestupku soudem, dopadá pouze na exekuční proveditelnost rozhodnutí, nikoliv na záznam bodů do registru řidičů. Záznam bodů spadá mezi tzv. jiné právní účinky rozhodnutí ve smyslu § 74 odst. 3 zákona č. 500/2004 Sb., správního řádu"
+- *ÚS* [III.ÚS 816/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-816-10) — usnesení, 30. 6. 2010
+  > „…podle ustanovení § 74 odst. 2 zákona č. 500/2004 Sb., správní řád, jsou, nestanoví-li zákon jinak, správní rozhodnutí závazná pro účastníky řízení, eventuálně jejich právní nástupce a také pro všechny správní orgány; pro ty však logicky jen v tom rozsahu, pro které je závazná pro účastníky řízení"
 
 #### Rozhodnutí ukládající povinnost (odst. 2)
 
@@ -388,6 +423,11 @@ Pokud orgán doložku **chybně vyznačil** nebo rozhodnutí **pozbude** právn�
 > *(5) Proti usnesení se může odvolat účastník, jemuž se usnesení oznamuje. Odvolání proti usnesení nemá odkladný účinek. Proti usnesení, které se pouze poznamená do spisu, a proti usnesení, o němž to stanoví zákon, se nelze odvolat.*
 
 Rozhodnutí o **procesních otázkách** v rámci řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Azs 165/2025 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769025) — 26. 1. 2026
+  > „…rozšířený senát Nejvyššího správního soud dovodil, že usnesení o nepřijatelnosti žádosti o pobytové oprávnění je rozhodnutím ve smyslu § 65 s. ř. s. Proti takovému rozhodnutí nejsou v systému veřejné správy přípustné žádné opravné prostředky, neboť se jedná o usnesení, které se pouze poznamenává do spisu (§ 76 odst. 5 zákona č. 500/2004 Sb., správní řád). Lze je však napadnout přímo správní žalobou…"
 
 #### Bez předchozího řízení (odst. 2)
 

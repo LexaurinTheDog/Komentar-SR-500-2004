@@ -33,6 +33,11 @@ Definiční ustanovení, které **konstituuje** klasický pojem správního ří
 
 > **Mimo definici § 9 stojí:** úkony interní povahy (instrukce, pověření), evidenční úkony (zápis do rejstříků s konstitutivní povahou se však považuje za rozhodnutí), kontrolní úkony (řídí se kontrolním řádem č. 255/2012 Sb.), úkony civilněprávní (smlouvy o dodávkách).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3069/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3069-10_2) — nález, 10. 5. 2012
+  > „Za kritické "rozhodnutí" ve smyslu § 7 odst. 2 zákona č. 261/2001 Sb. jest mít rozhodnutí vydané v řízení, k jehož vedení je v rámci své věcné příslušnosti (…) povolán správní orgán (…), a to v řízení "podle správního řádu", "jehož účelem je vydání rozhodnutí, jímž se v určité věci zakládají, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo jímž se v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá" (srov. § 9 zákona č. 500/2004 Sb., správní řád). (…) Oproti tomu není přesvědčivého argumentu, aby takové rozhodnutí bylo situováno až do soudně přezkumné fáze řízení, jestliže soudu (oproti správnímu orgánu) věcně ustavovat práva a povinnosti účastníka správního řízení nebo je autoritativně deklarovat – naopak – nepřísluší"
+
 ---
 
 ## Hlava II — Správní orgány
@@ -147,7 +152,7 @@ Klíčové **pravidlo proti shazování odpovědnosti**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — 26. 10. 2010, kat. A
+- *NS* [29 Cdo 1167/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11A43FB5C73F2878C1257A4E006565F9?openDocument) — kat. A, 26. 10. 2010
   > „K zachování lhůty k podání odvolání (§ 83 zákona č. 500/2004 Sb., správního řádu) postačí, je-li poštovní zásilka obsahující odvolání, adresovaná místně a věcně příslušnému správnímu orgánu, podána posledního dne lhůty držiteli poštovní licence nebo zvláští poštovní licence to platí i v případě, kdy odvolání postupuje věcně a místně příslušnému správnímu orgánu jiný (nepříslušný) správní orgán, u kterého bylo odvolání (nesprávně) podáno a kterému povinnost postoupit takové odvolání ukládá právní předpis. Zamítl-li odvolací správní orgán odvolání žalobce pro opožděnost, je žaloba podle části páté občanského soudního řádu přípustná, dospěje-li soud k závěru, že ve skutečnosti šlo o včasné odvolání proti rozhodnutí správního orgánu"
 
 ### § 13 — Dožádání
@@ -216,6 +221,11 @@ Procesní paralela ke **soudnímu dožádání** v civilním řízení (§ 39 OS
 **Výklad:**
 
 Konkretizace zásady **nestrannosti** (§ 7 SŘ) a ústavního principu spravedlivého procesu (čl. 36 odst. 1 Listiny). Jedno z nejčastěji aplikovaných ustanovení SŘ — a zároveň jedno z nejčastěji zneužívaných (účastníci podávají námitky podjatosti taktickyk, aby zdrželi řízení).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 30/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-30-09_1) — usnesení, 2. 4. 2013
+  > „Ustanovení § 14 odst. 1 až 5 správního řádu upravují garanci nestrannosti v rozhodování správního orgánu stanovením postupu vyloučení podjaté úřední osoby ze všech úkonů v řízení, při jejichž provádění by mohla výsledek řízení ovlivnit. Odstavec 6 uvedeného zákonného ustanovení zakotvuje skutečnost, že v případě, je-li takovou úřední osobou vedoucí ústředního správního úřadu, příp. státní tajemník (čili v řízení dle § 152 správního řádu), ve správním řízení není dán postup pro jejich vyloučení"
 
 #### Tři typy poměru, který způsobuje podjatost (odst. 1)
 
@@ -335,6 +345,11 @@ Porušení mlčenlivosti → **kárná odpovědnost** úředníka + případně 
 > *Osobě hluchoslepé bude ustanoven prostředník, který je schopen se s ní dorozumět pomocí komunikačních systémů neslyšících a hluchoslepých osob dle její vlastní volby. Prostředník je ustanovován za stejných podmínek, za jakých je ustanovován tlumočník českého znakového jazyka13). O ustanovení tlumočníka nebo prostředníka vydává správní orgán usnesení, které se oznamuje pouze osobám, jichž se dotýká.*
 
 > *(1) V řízení se jedná a písemnosti se vyhotovují v českém jazyce. Účastníci řízení mohou jednat a písemnosti mohou být předkládány i v jazyce slovenském.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [32 A 61/2015 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/541786) — 13. 11. 2015
+  > „Podle ustanovení § 16 zákona č. 500/2004 Sb., správního řádu, které není pro rozhodování podle § 129 ani § 50a zákona o pobytu cizinců výslovně vyloučeno (srv. § 168 per eliminationem), je zaručeno právo každého, kdo prohlásí, že neovládá jazyk, jímž se vede jednání, na tlumočníka zapsaného v seznamu tlumočníků, kterého si obstará na své náklady"
 
 #### Český jazyk jako jednací
 

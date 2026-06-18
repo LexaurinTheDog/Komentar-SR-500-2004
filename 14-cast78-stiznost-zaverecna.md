@@ -28,6 +28,11 @@
 
 > Stížnost je **nepostupový opravný prostředek** — slouží proti **nevhodnému CHOVÁNÍ úředních osob** nebo proti **POSTUPU** orgánu (na rozdíl od formálního odvolání proti obsahu rozhodnutí).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 298/2020 - 16](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/658016) — 18. 2. 2021
+  > „…stížnost svou povahou a právní úpravou blíží spíše dozorčímu prostředku, resp. je nástrojem, který k němu může vést. Navíc o výsledku šetření a přijatých opatřeních se stěžovatel vyrozumívá, jen pokud o to požádal. Takový postup proto neskýtá dostatečný prostor k poskytnutí nápravy či ochrany před nezákonným zásahem. Jednalo by se totiž spíše o formální než faktický prostředek nápravy a ochrany, jenž nemá dostatečný ochranný a nápravný účel…"
+
 #### Účel a aktivní legitimace (odst. 1)
 
 > *Dotčené osoby mají právo obracet se na správní orgány se stížnostmi proti nevhodnému chování úředních osob nebo proti postupu správního orgánu, neposkytuje-li tento zákon jiný prostředek ochrany.*
@@ -134,6 +139,11 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 > - **zákona o státní sociální podpoře**.
 > - **zákona o vyvlastnění** (specifická úprava).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 4/2014 - 99](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/632735) — 22. 10. 2014
+  > „…§ 4 odst. 2 správního řádu (zásada přiměřeného poučení o právech a povinnostech), který je na základě § 177 odst. 1 správního řádu aplikovatelný i na výzvu k odstranění vad návrhu na konání místního referenda podle § 12 odst. 2 zákona o místním referendu a na požadavky na její obsah…"
+
 #### (2) Subsidiární použití Části IV
 
 > *V případech, kdy správní orgán provádí úkony, na které se nevztahují části druhá a třetí tohoto zákona, postupuje obdobně podle části čtvrté.*
@@ -193,6 +203,13 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 >
 > *(3) Výkon rozhodnutí, který byl zahájen před účinností tohoto zákona, se dokončí podle dosavadních předpisů.*
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 318/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-318-06_1) — nález, 13. 12. 2007
+  > „Podle § 179 zákona č. 500/2004 Sb., správní řád, je na daný případ nutné aplikovat dosavadní právní předpisy, tedy zákon č. 71/1967 Sb., o správním řízení (správní řád). Povinnost vydat správní rozhodnutí je podle tohoto zákona závislá na tom, zda bylo zahájeno správní řízení"
+- *ÚS* [I.ÚS 2904/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2904-07_1) — nález, 1. 9. 2010
+  > „Podle § 179 zákona č. 500/2004 Sb., správní řád, je na daný případ nutné aplikovat dosavadní právní předpisy, tedy zákon č. 71/1967 Sb. Povinnost vydat správní rozhodnutí je dle tohoto zákona závislá na tom, zda bylo zahájeno správní řízení"
+
 #### (1) Nedokončená řízení
 
 > *Řízení, která nebyla pravomocně skončena před účinností tohoto zákona, se dokončí podle dosavadních předpisů. Bylo-li rozhodnutí před účinností tohoto zákona zrušeno a vráceno k novému projednání správnímu orgánu, postupuje se podle dosavadních předpisů.*
@@ -224,6 +241,11 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 > *(1) Tam, kde se podle dosavadních právních předpisů postupuje ve správním řízení tak, že správní orgány vydávají rozhodnutí, aniž tyto předpisy řízení v celém rozsahu upravují, postupují v otázkách, jejichž řešení je nezbytné, podle tohoto zákona včetně části druhé.*
 >
 > *(2) Pro případ, že podle dosavadních právních předpisů postupují správní orgány v řízení, jehož cílem není vydání rozhodnutí, aniž tyto předpisy řízení v celém rozsahu upravují, postupují v otázkách, jejichž řešení je nezbytné a které nelze podle těchto předpisů řešit, podle části čtvrté tohoto zákona.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 46/2009 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/615200) — 29. 4. 2009
+  > „…je třeba aplikovat § 180 odst. 1 zákona č. 500/2004 Sb., správního řádu… V procesních otázkách neupravených výslovně ve služebním zákoně je třeba užít ustanovení o řízení obsažená ve správním řádu…"
 
 #### (1) Pro řízení s rozhodnutím
 

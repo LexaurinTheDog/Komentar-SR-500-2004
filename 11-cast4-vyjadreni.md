@@ -70,6 +70,13 @@ Klíčové ustanovení. Subsidiárně se použijí **VYBRANÁ ustanovení** SŘ:
 >
 > *(3) Pokud správní orgán shledá, že nelze vydat vyjádření nebo osvědčení, provést ověření nebo učinit sdělení, je povinen o tom na požádání písemně uvědomit dotčenou osobu a sdělit důvody, které k tomuto závěru vedly.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 57/2024 - 33](https://vyhledavac.nssoud.cz/DokumentDetail/Index/738552) — 20. 11. 2024
+  > „překlenovací štítek je pouhým osvědčením, vydaným dle § 155 správního řádu. Tento typ aktů veřejné správy nezakládá (respektive neruší či nemění) práva a povinnosti svých adresátů, jako je tomu v případě správních rozhodnutí. Na rozdíl od jim blízkých deklaratorních rozhodnutí není ani prostředkem k řešení sporných skutečností či autoritativnímu odstraňování pochybností. Správní orgány jimi osvědčují existenci nesporných skutečností…"
+- *NSS* [5 A 71/2024 - 60](https://vyhledavac.nssoud.cz/DokumentDetail/Index/740007) — 21. 1. 2025
+  > „Oproti nečinnosti při vydávání rozhodnutí je rozdíl v tom, že ani samotné osvědčení ani sdělení o tom, že ho nelze vydat ve smyslu § 155 odst. 3 zákona č. 500/2004 Sb., správního řádu, nejsou přezkoumatelné soudem. Proto se lze domáhat jedině vydání osvědčení o konkrétním obsahu"
+
 #### Široká příslušnost (odst. 1)
 
 > *Jestliže to nevylučuje povaha vyjádření, osvědčení nebo sdělení, zejména není-li zapotřebí zkoumat skutkový stav nebo čerpat z evidence vedené určitým správním orgánem, může je vydat nebo učinit kterýkoli věcně příslušný správní orgán.*
@@ -112,6 +119,11 @@ Pokud orgán **NEMŮŽE** úkon provést:
 > *(1) Jestliže vyjádření, osvědčení nebo sdělení správního orgánu trpí vadami, které lze opravit, aniž tím bude způsobena újma některé z dotčených osob, správní orgán je opraví usnesením, které se pouze poznamená do spisu.*
 >
 > *(2) Vyjádření, osvědčení nebo sdělení správního orgánu, které je v rozporu s právními předpisy a které nelze opravit podle odstavce 1, zruší usnesením správní orgán, který je vydal nebo učinil, a to s účinky ode dne, kdy bylo zrušované vyjádření nebo osvědčení vydáno anebo sdělení učiněno, nestanoví-li zákon jiný postup; takové usnesení lze vydat po dobu, po kterou trvají účinky vyjádření, osvědčení nebo sdělení. Na tento postup se přiměřeně použijí ustanovení hlavy IX části druhé o přezkumném řízení.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Aps 8/2013 - 85](https://vyhledavac.nssoud.cz/DokumentDetail/Index/631116) — 20. 3. 2014
+  > „Obnovení stavu před zásahem lze dosáhnout tak, že soud přikáže správnímu orgánu, je-li to možné, postupovat ve vztahu k nezákonnému souhlasu podle ust. § 156 odst. 2 zákona č. 500/2004 Sb., ve znění pozdějších předpisů (dále jen „správní řád“)"
 
 ### (1) Opravy „menších" vad
 
@@ -171,6 +183,13 @@ Klasické: oprava chyby v psaní, datu, číselné chybě.
 > *(1) Ustanovení této části se obdobně použijí i v případě, provádí-li správní orgán jiné úkony, které nejsou upraveny v části první, třetí, páté nebo šesté anebo v této části.*
 >
 > *(2) Ustanovení § 156 odst. 2 se přiměřeně použije i na úkony správního orgánu prováděné při postupu podle části druhé, třetí, páté nebo šesté, jejichž zrušení není zvlášť upraveno.*
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 134/2014 - 22](https://vyhledavac.nssoud.cz/DokumentDetail/Index/632131) — 7. 8. 2014
+  > „existuje veřejné subjektivní právo na zřízení datové schránky (§ 5 odst. 3 zákona o elektronických úkonech a autorizované konverzi dokumentů) a že zřízení datové schránky má povahu tzv. jiného úkonu ve smyslu § 158 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Přípustným způsobem ochrany veřejného subjektivního práva na zřízení datové schránky je žaloba proti nezákonnému zásahu, pokynu nebo donucení správního orgánu…"
+- *NSS* [30 A 15/2013 - 56](https://vyhledavac.nssoud.cz/DokumentDetail/Index/552260) — 16. 1. 2014
+  > „Úkon, ať již pozitivní (provedení záznamu) či negativní (neprovedení záznamu), podle § 7 a 8 zákona o zápisech tedy podle všeho má povahu tzv. jiného úkonu podle § 158 odst. 1 zákona č. 500/2004 Sb., správního řádu.“ Provedení či neprovedení záznamu do katastru nemovitostí je třeba považovat za zásah, proti kterému je přípustná žaloba ve správním soudnictví podle § 82 a násl. s.ř.s"
 
 ### (1) Obdobné použití pro neupravené úkony
 
