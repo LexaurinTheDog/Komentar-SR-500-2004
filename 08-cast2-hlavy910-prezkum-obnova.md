@@ -83,6 +83,44 @@ Orgán při rozhodování v přezkumném řízení **šetří práva nabytá v d
 - Mění-li rozhodnutí (§ 97/3) — pokud možno mírněji.
 - Určuje, **od kdy nastávají účinky** rozhodnutí v přezkumném řízení (§ 99) — ex tunc vs. ex nunc.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební úřad vydal pravomocné stavební povolení pro stavbu rodinného domu. Půl roku po nabytí právní moci podá soused (účastník původního územního i stavebního řízení) podnět k přezkumnému řízení s tvrzením, že povolená stavba leží zčásti mimo zastavitelnou plochu vymezenou územním plánem, takže rozhodnutí odporuje § 90 stavebního zákona. Stavebník mezitím koupil sousední parcelu pro příjezd, uzavřel smlouvy s dodavateli a vyhloubil základy. Důkazy: spis stavebního a územního řízení, územní plán platný v době vydání povolení, doklady o investicích stavebníka (kupní smlouva, smlouvy o dílo).
+
+**2. Právní otázka.** Lze pravomocné stavební povolení v rozporu s územním plánem zrušit v přezkumném řízení, nebo brání zrušení ochrana dobré víry stavebníka podle § 94 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 — předmět přezkumu (pravomocná rozhodnutí, jen rozpor s předpisy = legalita, ex officio i z podnětu) a ochrana dobré víry (odst. 4, 5).
+- *Související ustanovení téhož zákona:* § 95 (příslušnost nadřízeného orgánu, pozastavení účinků), § 96 (lhůty), § 97 (rozhodnutí), § 99 (účinky ex tunc/ex nunc), § 2 odst. 3 (ochrana práv nabytých v dobré víře).
+- *Související předpisy:* stavební zákon (soulad s územním plánem).
+- *Judikatura:* NSS 7 Ca 115/2008 — přezkum je dozorčí prostředek ex officio, ne opravný prostředek účastníka; ÚS I.ÚS 550/07 — podnět není opravným prostředkem.
+
+**4. Subsumpce.** Předmět = pravomocné rozhodnutí (splněno). Důvodná pochybnost o souladu s předpisy = rozpor s územním plánem je rozpor s právním předpisem (legalita, ne pouhá věcná nesprávnost) — splněno. Spornou je proporcionalita podle odst. 4: na straně zrušení stojí veřejný zájem na souladu s územním plánem a zájem souseda; proti zrušení stojí dobrá víra stavebníka, který investoval.
+
+**5. Řešení.** Nadřízený orgán zahájí přezkum (ne sám stavební úřad, ledaže by sousedovi plně vyhověl bez újmy stavebníkovi — § 95 odst. 2). Provede test proporcionality. Je-li újma stavebníka ve zjevném nepoměru k újmě souseda/veřejnému zájmu, řízení podle § 94 odst. 4 zastaví i přes zjištěnou nezákonnost. Není-li nepoměr zjevný (závažný zásah do územního plánu), rozhodnutí zruší či změní, přičemž podle § 94 odst. 5 a § 99 šetří dobrou víru volbou účinků.
+
+**6. Varianty.** (a) Kdyby stavebník teprve obdržel povolení a nic neinvestoval, dobrá víra by byla slabá → zrušení. (b) Kdyby šlo o rozhodnutí věcně nevhodné, ale zákonu neodporující (jen estetická námitka), přezkum vůbec nelze — chybí rozpor s předpisy.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že jde o porušení předpisu, tedy nutně zrušit.* Neutralizace: § 94 odst. 4 výslovně umožňuje zastavit řízení i při zjištěné nezákonnosti, převáží-li zjevně dobrá víra; legalita není absolutní.
+- *Námitka souseda, že podnětem zahájil řízení.* Neutralizace: podnět není návrhem (§ 94 odst. 1), orgán jej posoudí ex officio a do 30 dnů sdělí důvody nezahájení (ÚS I.ÚS 550/07).
+- *Slabé místo:* test proporcionality je hodnotící — nutno pečlivě doložit rozsah investic stavebníka i závažnost zásahu do veřejného zájmu; bez důkazů o újmě je závěr napadnutelný.
+
+#### H. Praktický závěr
+
+Přezkum slouží jen k odstranění nezákonnosti pravomocného rozhodnutí, nikoli jeho věcné nevhodnosti, a je vždy poměřován ochranou dobré víry.
+
+**Checklist (advokát / správní orgán):**
+- [ ] Jde o pravomocné (či předběžně vykonatelné) rozhodnutí a netýká se vyloučené kategorie (odst. 2 — souhlas, vklad do KN, osobní stav, § 97, odvolací § 90/1/b)?
+- [ ] Existuje rozpor s právními předpisy (legalita), ne jen věcná nesprávnost?
+- [ ] Proveden test proporcionality podle odst. 4 (újma v dobré víře vs. újma jiného/veřejný zájem)?
+- [ ] Šetřena dobrá víra při volbě formy a účinků (odst. 5, § 99)?
+
+**Typicky rozhodné důkazy / podklady:** spis původního řízení, předpis, jehož porušení se tvrdí (zde územní plán v rozhodné verzi), doklady o investicích a dobré víře účastníka.
+
+---
+
 ### § 95 — Zahájení přezkumného řízení
 
 <!-- AUTOCITACE:§95 -->
@@ -137,6 +175,44 @@ Pokud se přezkoumává **rozhodnutí odvolacího orgánu**, lze **současně** 
 
 Jde-li o rozhodnutí **ústředního správního úřadu** → rozhoduje **ministr / vedoucí jiného ústředního úřadu**. Použije se obdobně § 152/3 (postup před rozkladovou komisí).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad jako odvolací orgán zamítl odvolání a potvrdil rozhodnutí obecního úřadu o pokutě. Účastník podá podnět k přezkumu s tím, že rozhodnutí porušuje zákon. Obecní úřad (prvostupňový) zjistí, že by mohl podnětu plně vyhovět, ale v řízení je další účastník, jemuž by zrušení pokuty způsobilo újmu, a ten nesouhlasí. Důkazy: spis prvostupňového i odvolacího řízení, vyjádření dotčeného účastníka.
+
+**2. Právní otázka.** Smí přezkum provést sám orgán, který rozhodnutí vydal (autoremedurálně podle § 95 odst. 2), nebo musí věc předat nadřízenému orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95 — příslušnost (odst. 1 nadřízený orgán; odst. 2 autoremedurální výjimka; odst. 3 souběžný přezkum rozhodnutí 1. stupně; odst. 5 pozastavení účinků; odst. 6 ústřední úřady → ministr).
+- *Související ustanovení téhož zákona:* § 87 (autoremedura v odvolacím řízení — analogie), § 94 (předmět a dobrá víra), § 96 (lhůty), § 152 odst. 3 (rozkladová komise — obdobně u ústředních úřadů).
+- *Související předpisy:* zvláštní zákon zakládající příslušnost ústředního úřadu.
+- *Judikatura:* NSS 7 Ca 115/2008 — dozorčí prostředek uplatňovaný především nadřízenými orgány.
+
+**4. Subsumpce.** Podnět dal účastník → otevřena možnost odst. 2. Podmínky autoremedury: (1) plné vyhovění podateli — splnitelné; (2) bez újmy jinému účastníku, ledaže všichni dotčení souhlasí — NESPLNĚNO, dotčený účastník nesouhlasí a újma mu hrozí. Proto autoremedura vyloučena.
+
+**5. Řešení.** Obecní úřad nesmí přezkum provést sám; podle § 95 odst. 2 věty druhé předá věc nadřízenému (krajskému) úřadu k provedení přezkumného řízení. Hrozí-li vážná újma, lze usnesením podle § 95 odst. 5 pozastavit vykonatelnost pokuty. Protože se přezkoumává i odvolací rozhodnutí, lze podle odst. 3 přezkoumat současně i rozhodnutí 1. stupně.
+
+**6. Varianty.** (a) Kdyby žádnému jinému účastníku újma nehrozila, mohl by prvostupňový orgán přezkum provést sám. (b) Šlo-li by o rozhodnutí ústředního správního úřadu, rozhodoval by podle odst. 6 ministr/vedoucí úřadu obdobně podle § 152 odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že rychlejší je autoremedura.* Neutralizace: podmínky odst. 2 jsou kumulativní; chybí-li souhlas dotčeného účastníka, je autoremedura nezákonná a rozhodnutí by samo bylo vadné.
+- *Námitka, že pozastavení účinků poškodí veřejný zájem na výkonu.* Neutralizace: § 95 odst. 5 váže pozastavení na hrozbu vážné újmy a je usnesením, tedy reverzibilní a proporcionální.
+- *Slabé místo:* posouzení, zda jinému účastníku „hrozí újma", je prognostické; bez doložení konkrétní újmy hrozí chybné vyhodnocení příslušnosti.
+
+#### H. Praktický závěr
+
+Příslušný je zásadně nadřízený orgán; sám původce rozhodnutí jen výjimečně při plném vyhovění podateli bez újmy ostatním.
+
+**Checklist (správní orgán):**
+- [ ] Určen správně příslušný orgán (nadřízený × autoremedura × ministr u ústředního úřadu)?
+- [ ] U autoremedury ověřeno plné vyhovění podateli a absence újmy jiným (či souhlas všech)?
+- [ ] Zváženo pozastavení účinků podle odst. 5 při hrozbě vážné újmy?
+- [ ] Identifikováni účastníci = účastníci původního řízení nebo jejich nástupci (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** spis původního řízení (1. stupeň i odvolání), vyjádření a souhlasy dotčených účastníků, podklady pro úvahu o vážné újmě.
+
+---
+
 ### § 96 — LHŮTY pro zahájení a vedení přezkumného řízení
 
 <!-- AUTOCITACE:§96 -->
@@ -173,6 +249,44 @@ Obě lhůty **prekluzivní** — uplynutím právo na zahájení zaniká, nelze 
 #### Předběžné opatření (odst. 3)
 
 Přezkumné řízení **týkající se předběžného opatření NELZE** vést poté, co rozhodnutí ve věci nabylo vykonatelnosti / jiných účinků / bylo zrušeno. (Předběžné opatření už pozbylo účinků, přezkum nemá smysl, ledaže by mohl mít význam pro náhradu škody.)
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad vydal 1. 3. rozhodnutí, které nabylo právní moci 20. 3. Nadřízený orgán se o možném rozporu s předpisy dozvěděl z podnětu doručeného 1. 9. (více než 5 měsíců po právní moci). Usnesení o zahájení přezkumu vydal až 5. 11. Mezitím nabyl účinnosti novelizovaný předpis, který by věc upravoval jinak. Důkazy: doklad o právní moci, datum doručení podnětu, spis, znění předpisu k 1. 3.
+
+**2. Právní otázka.** Byly dodrženy prekluzivní lhůty pro zahájení přezkumu (2 měsíce subjektivní, 1 rok objektivní) a podle jakého právního stavu se posuzuje soulad rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 — lhůty (odst. 1: 2 měsíce subj. + 1 rok obj.), posouzení podle stavu v době vydání (odst. 2), předběžné opatření (odst. 3).
+- *Související ustanovení téhož zákona:* § 95 (zahájení), § 97 odst. 2 (15měsíční lhůta pro vydání rozhodnutí), § 89 odst. 2 (bezvýznamné vady — analogie), § 100 (obnova — naopak nové skutečnosti).
+- *Související předpisy:* —
+- *Judikatura:* NSS 2 As 74/2013 — i zkrácený přezkum musí proběhnout ve lhůtách § 96 odst. 1.
+
+**4. Subsumpce.** Subjektivní lhůta 2 měsíce běží od 1. 9. (dozvědění) → konec 1. 11.; usnesení z 5. 11. je opožděné → právo zahájit prekludovalo. Objektivní 1 rok od 20. 3. by jinak byl dodržen. Novelizovaný předpis je irelevantní: soulad se podle odst. 2 posuzuje podle stavu k 1. 3. (době vydání).
+
+**5. Řešení.** Přezkum nelze zahájit — subjektivní prekluzivní lhůta uplynula, prominutí není možné. I kdyby byla zachována, pozdější změna zákona by nebyla důvodem; posuzoval by se stav k datu vydání. Bezvýznamné vady řízení by se podle odst. 2 nezohledňovaly.
+
+**6. Varianty.** (a) Kdyby se orgán o důvodu dozvěděl 15. 10. a vydal usnesení 5. 11., lhůta by byla zachována. (b) Šlo-li by o nové skutečnosti existující v době řízení, ale později zjištěné, nebyl by namístě přezkum, nýbrž obnova podle § 100.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že rozpor s předpisy přetrvává, proto lze zahájit i později.* Neutralizace: lhůty § 96 odst. 1 jsou prekluzivní; jejich marným uplynutím právo na zahájení zaniká bez ohledu na trvající nezákonnost (právní jistota).
+- *Námitka, že dnes by orgán rozhodl jinak (nový zákon).* Neutralizace: odst. 2 výslovně váže posouzení na stav v době vydání; přezkum není nástrojem k aplikaci pozdějšího práva.
+- *Slabé místo:* okamžik „dozvědění se o důvodu" je skutkově sporný; je třeba doložit, kdy se orgán o důvodu skutečně dozvěděl, jinak hrozí chybný výpočet subjektivní lhůty.
+
+#### H. Praktický závěr
+
+Přezkum je časově přísně ohraničen (2 měsíce/1 rok pro zahájení) a hodnotí legalitu výhradně podle stavu v době vydání rozhodnutí.
+
+**Checklist (správní orgán / advokát):**
+- [ ] Zjištěn přesný okamžik dozvědění se o důvodu a datum právní moci?
+- [ ] Dodržena subjektivní (2 měs.) i objektivní (1 rok) prekluzivní lhůta pro zahájení?
+- [ ] Soulad posouzen podle právního stavu a skutkových okolností v době vydání (ne pozdějších)?
+- [ ] Vyloučeny bezvýznamné vady řízení (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o nabytí právní moci, doklad o okamžiku dozvědění se o důvodu, spisový materiál, znění předpisů účinné v době vydání rozhodnutí.
+
+---
 
 ### § 97 — Rozhodnutí v přezkumném řízení
 
@@ -215,6 +329,44 @@ Po **15 měsících** od právní moci původního rozhodnutí **NELZE vydat roz
 
 Závazný právní názor je **VÁZANÝ** pro orgán 1. stupně / odvolací orgán při novém projednání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nadřízený orgán zahájil přezkum rozhodnutí, jímž obecní úřad uložil povinnost. Rozhodnutí nabylo právní moci 1. 2. 2024. V přezkumu se ukáže, že předpis porušen nebyl. V jiné variante orgán dospěje k závěru o porušení, ale meritorní rozhodnutí v 1. stupni přezkumu by vydal až po 1. 5. 2025 (více než 15 měsíců od právní moci). Důkazy: spis, doklad o právní moci, časová osa úkonů.
+
+**2. Právní otázka.** Jak orgán naloží s řízením, (i) zjistí-li, že předpis porušen nebyl, a (ii) uplyne-li 15měsíční lhůta podle § 97 odst. 2 dříve, než stihne vydat rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97 — zastavení při souladu (odst. 1, jen do spisu), 15měsíční absolutní lhůta pro vydání (odst. 2), tři možnosti rozhodnutí + závazný právní názor (odst. 3).
+- *Související ustanovení téhož zákona:* § 96 odst. 1 (lhůty pro zahájení), § 98 (zkrácený přezkum), § 99 (účinky), § 90 odst. 1 písm. b) (kasace s vrácením — analogie závaznosti PN).
+- *Související předpisy:* —
+- *Judikatura:* NSS 2 As 74/2013 — § 97 odst. 2 se neaplikuje na zkrácený přezkum, ten běží v lhůtách § 96 odst. 1.
+
+**4. Subsumpce.** (i) Zjištění souladu s předpisy → orgán řízení usnesením zastaví, usnesení se pouze poznamená do spisu (odst. 1). (ii) 15 měsíců od 1. 2. 2024 končí 1. 5. 2025; rozhodnutí ve věci po této lhůtě vydat nelze → probíhající přezkum se usnesením zastaví (odst. 2).
+
+**5. Řešení.** V první variantě orgán zastaví řízení (poznámka do spisu, bez formálního doručování dle odst. 1). V druhé variantě, je-li jasné, že rozhodnutí ve věci nestihne do 15 měsíců, řízení zastaví — po této lhůtě nastává definitivní právní jistota účastníků. Pokud by stihl rozhodnout včas a porušení potvrdil, podle odst. 3 rozhodnutí zruší, změní, nebo zruší a vrátí se závazným právním názorem.
+
+**6. Varianty.** (a) Vada zjevná ze spisu bez potřeby vysvětlení účastníků → zkrácený přezkum podle § 98, kde se § 97 odst. 2 neuplatní (NSS 2 As 74/2013). (b) Při kasaci s vrácením je orgán 1. stupně vázán právním názorem a nesmí se od něj odchýlit.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že nezákonné rozhodnutí je nutno zrušit i po 15 měsících.* Neutralizace: odst. 2 stanoví absolutní časovou hranici; po jejím uplynutí převáží právní jistota a rozhodnutí ve věci vydat nelze.
+- *Námitka proti pouhému poznamenání zastavení do spisu.* Neutralizace: odst. 1 i 2 to výslovně předpokládají; jde o zjednodušený režim, neboť zastavením se ničí postavení účastníků nemění.
+- *Slabé místo:* závazný právní názor musí být formulován jasně a úplně, jinak orgán 1. stupně neví, jak věc znovu rozhodnout, a hrozí opakovaná kasace.
+
+#### H. Praktický závěr
+
+Přezkum musí vyústit v rozhodnutí do 15 měsíců od právní moci; jinak (i při zjištění souladu) se zastavuje, a kasace zavazuje nižší orgán právním názorem.
+
+**Checklist (správní orgán):**
+- [ ] Zjištěn-li soulad s předpisy → zastavení usnesením, jen poznámka do spisu (odst. 1)?
+- [ ] Hlídána 15měsíční lhůta od právní moci pro vydání rozhodnutí ve věci (odst. 2)?
+- [ ] Zvolena správná forma rozhodnutí (zrušit / změnit / zrušit a vrátit) podle odst. 3?
+- [ ] U kasace formulován jasný a úplný závazný právní názor?
+
+**Typicky rozhodné důkazy / podklady:** spis přezkoumávaného řízení, doklad o právní moci (počátek 15měsíční lhůty), časová evidence úkonů přezkumu.
+
+---
+
 ### § 98 — Zkrácené přezkumné řízení
 
 <!-- AUTOCITACE:§98 -->
@@ -242,6 +394,44 @@ Praktický význam: rychlá náprava jednoduchých vad bez procesního zatěžov
 
 - *NSS* [2 As 74/2013 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/633192) — 9. 12. 2014
   > „Rozhodnutí ve zkráceném přezkumném řízení podle § 98 zákona č. 500/2004 Sb., správního řádu (dále jen „správní řád“), je třeba vydat ve lhůtách stanovených v § 96 odst. 1 správního řádu, tedy v dvouměsíční subjektivní a jednoroční objektivní lhůtě, přičemž se ustanovení § 97 odst. 2 správního řádu na zkrácené přezkumné řízení neaplikuje"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V pravomocném rozhodnutí o uložení pokuty je jako účastník nesprávně označena jiná osoba, než která jednání spáchala, a v odůvodnění je citováno již zrušené ustanovení zákona. Pochybení je patrné přímo ze spisu, není třeba nic dokazovat ani vyslechnout účastníky. Rozhodnutí nabylo právní moci před 4 měsíci. Důkazy: spis (z něj zjevné záměny a chybná citace).
+
+**2. Právní otázka.** Může nadřízený orgán napravit vadu zkráceným přezkumným řízením podle § 98, tedy bez dokazování a vyjádření účastníků, prvním úkonem rovnou rozhodnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98 — zkrácený přezkum (porušení zjevné ze spisu, ostatní podmínky splněny, není třeba vysvětlení účastníků; dokazování se neprovádí; první úkon = rozhodnutí podle § 97 odst. 3).
+- *Související ustanovení téhož zákona:* § 94, § 96 odst. 1 (lhůty platí i pro zkrácený přezkum), § 97 odst. 3 (forma rozhodnutí), § 99 (účinky).
+- *Související předpisy:* —
+- *Judikatura:* NSS 2 As 74/2013 — zkrácený přezkum se musí vejít do lhůt § 96 odst. 1 (2 měs./1 rok), § 97 odst. 2 se neaplikuje.
+
+**4. Subsumpce.** (1) Porušení zjevné ze spisu — chybná identifikace účastníka i citace zrušeného ustanovení jsou patrné bez dokazování → splněno. (2) Ostatní podmínky přezkumu (pravomocné rozhodnutí, v rámci lhůt, není vyloučeno odst. 2 § 94) → splněno. (3) Není třeba vysvětlení účastníků → splněno. Lze tedy postupovat zkráceně.
+
+**5. Řešení.** Orgán provede zkrácený přezkum: neprovádí dokazování, nepředvolává, nevyžaduje vyjádření; prvním úkonem vydá rozhodnutí podle § 97 odst. 3 (zruší/změní/zruší a vrátí). Musí přitom dodržet subjektivní 2měsíční a objektivní 1roční lhůtu § 96 odst. 1 (NSS 2 As 74/2013).
+
+**6. Varianty.** (a) Kdyby zákonnost vyžadovala objasnění skutkového stavu nebo vyjádření účastníků, zkrácený režim nelze a vede se řádný přezkum s dokazováním. (b) Kdyby uplynula objektivní lhůta § 96 odst. 1, přezkum (byť zkrácený) zahájit nelze.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka porušení práva účastníků se vyjádřit.* Neutralizace: § 98 zkrácený režim připouští právě jen tehdy, není-li vysvětlení účastníků zapotřebí; účastník má proti rozhodnutí standardní opravné prostředky.
+- *Námitka, že lze postupovat i bez ohledu na lhůty.* Neutralizace: NSS 2 As 74/2013 jasně podřazuje zkrácený přezkum lhůtám § 96 odst. 1.
+- *Slabé místo:* hranice „zjevnosti ze spisu" je výkladová; není-li vada skutečně evidentní bez dokazování, je zkrácený postup vadný a rozhodnutí napadnutelné.
+
+#### H. Praktický závěr
+
+Zkrácený přezkum je rychlá náprava vad zjevných ze spisu — bez dokazování, prvním úkonem je rozhodnutí, ale v běžných přezkumných lhůtách.
+
+**Checklist (správní orgán):**
+- [ ] Je porušení předpisu skutečně zjevné přímo ze spisového materiálu?
+- [ ] Splněny ostatní podmínky přezkumu a není potřeba vysvětlení účastníků?
+- [ ] Dodrženy lhůty § 96 odst. 1 (2 měsíce / 1 rok)?
+- [ ] Prvním úkonem vydáno rozhodnutí podle § 97 odst. 3 (bez dokazování)?
+
+**Typicky rozhodné důkazy / podklady:** výlučně spisový materiál, z něhož musí porušení vyplývat bez dalšího dokazování.
+
+---
 
 ### § 99 — Účinky rozhodnutí v přezkumném řízení (EX TUNC vs. EX NUNC)
 
@@ -290,6 +480,42 @@ Orgán určí, **odkdy nastávají účinky**. Možnosti:
 > - **Uložení povinnosti zruším** → účastník dostane úlevu zpětně (peníze zpět, smazat záznam).
 > - **Přiznání práva zruším** → účastník ztratí právo až ode dneška (může dále využívat dosud nabyté výhody).
 > - **VÝJIMKA** podvod žadatele → ztráta práva zpětně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V přezkumu se ruší dvě různá pravomocná rozhodnutí: (A) rozhodnutí, jímž byla účastníku uložena pokuta v rozporu s předpisem; (B) rozhodnutí, jímž bylo žadateli přiznáno právo (např. dotace/licence), které je rovněž nezákonné, přičemž žadatel je čerpal v dobré víře. V podvariantě (B') žadatel získal právo na základě nepravdivých údajů, které sám uvedl. Důkazy: spis, doklad o čerpání práva, podklady k posouzení dobré víry a správnosti žadatelových údajů.
+
+**2. Právní otázka.** Odkdy nastávají účinky zrušujícího rozhodnutí v přezkumu — zpětně (ex tunc) od právní moci přezkoumávaného rozhodnutí, nebo do budoucna (ex nunc) od právní moci přezkumného rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 — volba účinků (odst. 1), uložení povinnosti zpravidla ex tunc (odst. 2), přiznání práva zpravidla ex nunc, s výjimkou nesprávných údajů žadatele ex tunc (odst. 3).
+- *Související ustanovení téhož zákona:* § 94 odst. 4 a 5 (ochrana dobré víry, proporcionalita), § 2 odst. 3 (ochrana práv nabytých v dobré víře), § 97 odst. 3 (forma rozhodnutí).
+- *Související předpisy:* —
+- *Judikatura:* NSS 7 Ca 115/2008 — povinnost šetřit práva nabytá v dobré víře (§ 94 odst. 5) jako promítnutí § 2 odst. 3 do přezkumu.
+
+**4. Subsumpce.** (A) Ruší se uložení povinnosti → podle odst. 2 zpravidla ex tunc; účastník dostane úlevu zpětně (pokuta jako by nikdy nebyla). (B) Ruší se přiznání práva → podle odst. 3 zpravidla ex nunc; žadatel ztrácí právo až od právní moci přezkumného rozhodnutí, dosud čerpané výhody mu zůstávají. (B') Právo přiznáno na základě nesprávných/neúplných údajů žadatele → výjimka odst. 3, účinky ex tunc.
+
+**5. Řešení.** Orgán v rozhodnutí výslovně určí počátek účinků s ohledem na obsah přezkoumávaného rozhodnutí. Ve variantě A zvolí ex tunc, v B ex nunc (ochrana dobré víry), v B' ex tunc (žadatel se sám přičinil o nezákonnost). Vždy musí šetřit práva nabytá v dobré víře (§ 94 odst. 5).
+
+**6. Varianty.** (a) I u uložení povinnosti mohou okolnosti odůvodnit jiné řešení než ex tunc (odst. 2 — „neodůvodňují-li okolnosti jiné řešení"). (b) U přiznání práva bez pochybení žadatele, ale s mimořádnými okolnostmi (veřejný zájem), může orgán odůvodnit odklon od ex nunc.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že nezákonné přiznání práva je nutno odstranit zpětně.* Neutralizace: odst. 3 chrání dobrou víru a stanoví ex nunc jako pravidlo; zpětnost je výjimkou jen při pochybení žadatele.
+- *Námitka, že žadatel údaje uvedl neúmyslně.* Neutralizace: odst. 3 váže ex tunc na nesprávnost/neúplnost údajů, nikoli na zavinění; rozhodné je, že nezákonnost vyšla z jeho sféry.
+- *Slabé místo:* určení účinků je úvahou „neodůvodňují-li okolnosti jiné řešení"; nedostatečné odůvodnění volby ex tunc/ex nunc činí rozhodnutí přezkoumatelným soudem zranitelným.
+
+#### H. Praktický závěr
+
+Při rušení povinnosti zpravidla ex tunc (úleva zpětně), při rušení práva zpravidla ex nunc (ochrana dobré víry), výjimkou zpětných účinků jsou nesprávné údaje žadatele.
+
+**Checklist (správní orgán):**
+- [ ] Jde o zrušení/změnu uložené povinnosti (→ zpravidla ex tunc) nebo přiznaného práva (→ zpravidla ex nunc)?
+- [ ] Uvedl žadatel nesprávné/neúplné údaje (→ ex tunc i u přiznaného práva)?
+- [ ] Výslovně určen počátek účinků v rozhodnutí a odůvodněn s ohledem na obsah přezkoumávaného rozhodnutí?
+- [ ] Šetřena práva nabytá v dobré víře (§ 94 odst. 5, § 2 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** spis, doklad o povaze přezkoumávaného rozhodnutí (povinnost × právo), podklady o čerpání práva a dobré víře, podklady o správnosti žadatelových údajů.
 
 ---
 
@@ -386,6 +612,45 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 - **Rozhodnutí o obnově** má odkladný účinek, pokud napadené rozhodnutí dosud nebylo vykonáno (ledaže orgán odkladný účinek **vyloučil** podle § 85/2 nebo už účinky zanikly).
 - **Zamítnutí obnovy** se oznamuje pouze žadateli; ten může podat **odvolání**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník byl pravomocně sankcionován mj. na základě svědecké výpovědi. Rok po právní moci je dotyčný svědek pravomocně odsouzen za křivou výpověď podanou právě v tomto řízení; o tom se účastník dozví z trestního rozsudku. V podvariantě vyšla najevo listina, která existovala již v době řízení, ale účastník o ní nevěděl a nemohl ji předložit. Důkazy: trestní rozsudek o křivé výpovědi, nově nalezená listina, doklady o tom, kdy se účastník o důvodu dozvěděl.
+
+**2. Právní otázka.** Je dán důvod obnovy podle § 100 odst. 1 (nepravdivý důkaz / dříve neznámá skutečnost) a jsou zachovány lhůty pro podání žádosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 100 — důvody obnovy (odst. 1 písm. a, b), lhůty 3 měsíce/3 roky a subsidiarita vůči odvolání (odst. 2), obnova ex officio při veřejném zájmu (odst. 3) a při dosažení rozhodnutí trestným činem (odst. 4), ochrana dobré víry (odst. 5), odkladný účinek (odst. 6).
+- *Související ustanovení téhož zákona:* § 94 odst. 4 a 5 (proporcionalita, dobrá víra), § 82 odst. 4 (koncentrace/nové důkazy v odvolání), § 102 (společná ustanovení o novém řízení).
+- *Související předpisy:* trestní řád/zákoník (odsouzení za křivou výpověď, trestný čin).
+- *Judikatura:* NSS 10 As 76/2014 — „dříve neznámá skutečnost" se posuzuje objektivně (skutečnost, kterou účastník znát nemohl), ne subjektivně.
+
+**4. Subsumpce.** Svědecká výpověď se ukázala nepravdivou (alternativní důvod odst. 1 písm. a) → důvod obnovy. Listina: dříve neznámá, existovala v době řízení, účastník ji nemohl uplatnit → kumulativní podmínky splněny, posuzováno objektivně (NSS 10 As 76/2014). Nepravdivý důkaz/nová listina mohou odůvodnit jiné řešení věci → splněna společná podmínka. Lhůty: 3 měsíce subj. od dozvědění, max. 3 roky obj. od právní moci.
+
+**5. Řešení.** Účastník podá žádost o obnovu u kteréhokoli orgánu, který ve věci rozhodoval, v 3měsíční subjektivní a 3leté objektivní prekluzivní lhůtě; rozhodne orgán posledního stupně. Protože rozhodnutí bylo fakticky dosaženo trestným činem (křivá výpověď), může orgán rozhodnout o obnově i z moci úřední podle odst. 4, přičemž lhůta běží ode dne následujícího po právní moci trestního rozsudku. Lze přiznat odkladný účinek (odst. 6).
+
+**6. Varianty.** (a) Kdyby účastník mohl nový důkaz uplatnit už v odvolání (§ 82 odst. 4), obnova je podle odst. 2 vyloučena (subsidiarita). (b) Kdyby skutečnost vznikla až po řízení (nikoli existovala v jeho době), důvod obnovy podle písm. a) by nebyl dán.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že důkaz mohl být uplatněn dříve.* Neutralizace: rozhodné je objektivní hledisko (NSS 10 As 76/2014) — zda jej účastník znát a uplatnit mohl; nemohl-li, je podmínka splněna.
+- *Námitka opožděnosti žádosti.* Neutralizace: nutno přesně doložit okamžik dozvědění; u rozhodnutí dosaženého trestným činem běží lhůta od právní moci trestního rozsudku (odst. 4).
+- *Slabé místo:* splnění podmínky „může odůvodňovat jiné řešení" je prognóza; je-li zřejmé, že by orgán rozhodl stejně, obnova nemá smysl a žádost lze zamítnout.
+
+#### H. Praktický závěr
+
+Obnova reaguje na nová skutková zjištění (nova reperta, nepravdivé důkazy, zrušený podklad), je vázána lhůtami 3 měsíce/3 roky a je subsidiární vůči odvolání.
+
+**Checklist (advokát / účastník / správní orgán):**
+- [ ] Jde o důvod podle odst. 1 — nová skutečnost/důkaz existující v době řízení a dříve neuplatnitelný, nepravdivý důkaz (a), nebo zrušený/změněný podklad (b)?
+- [ ] Mohly by odůvodnit jiné řešení věci?
+- [ ] Dodrženy lhůty 3 měsíce (subj.) a 3 roky (obj.) a není dána překážka subsidiarity vůči odvolání?
+- [ ] Je dán důvod pro obnovu ex officio (veřejný zájem dle odst. 3, trestný čin dle odst. 4)?
+- [ ] Zvážen odkladný účinek (odst. 6) a šetření dobré víry (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** spis původního řízení, nově zjištěný důkaz/listina, rozsudek prokazující nepravdivost důkazu či trestný čin, doklad o okamžiku dozvědění se o důvodu obnovy.
+
+---
+
 ### § 101 — NOVÉ ROZHODNUTÍ (5 důvodů)
 
 <!-- AUTOCITACE:§101 -->
@@ -436,6 +701,44 @@ Použijí se obdobně § 94/4 a 5 — test proporcionality újmy + ochrana práv
 - Účastník dostal stavební povolení s platností 2 roky; chce prodloužit → nové rozhodnutí (c).
 - Účastník dostal pokutu se lhůtou plnění 15 dnů; požádá o splátkový kalendář → nové rozhodnutí (c).
 - Žadatel byl odmítnut z formálních důvodů; podá novou žádost; orgán shledá důvody pro vyhovění → nové rozhodnutí (b).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavebník dostal pravomocné stavební povolení s omezenou dobou platnosti (např. 2 roky). Před jejím uplynutím požádá o prodloužení doby platnosti. V jiné variantě byl účastník pravomocně sankcionován s 15denní lhůtou k zaplacení a žádá o splátkový kalendář. V třetí variantě chce orgán dobu platnosti zkrátit. Důkazy: původní rozhodnutí, žádost, doklady o důvodech (např. ekonomická situace, vážné důvody změny doby).
+
+**2. Právní otázka.** Lze měnit dobu platnosti/lhůtu plnění pravomocného rozhodnutí novým rozhodnutím podle § 101 písm. c) a za jakých podmínek lze dobu/lhůtu zkrátit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 101 — důvody nového rozhodnutí (písm. a–e), zejména písm. c) (dodatečná změna doby platnosti/účinnosti, lhůty plnění, splátky) s omezením, že zkrátit lze jen, stanoví-li to zákon.
+- *Související ustanovení téhož zákona:* § 41 odst. 6 věta druhá (písm. a), § 102 (společná ustanovení, příslušnost, podklady), § 100 (obnova — odlišný účel).
+- *Související předpisy:* zvláštní zákon (písm. e a podmínka zkrácení doby/lhůty).
+- *Judikatura:* NSS 51 A 92/2023 — nové rozhodnutí je nové posouzení již pravomocně rozhodnuté věci na základě původní žádosti; jeho účelem NENÍ náprava nezákonnosti původního rozhodnutí (od toho slouží žaloba, přezkum, obnova).
+
+**4. Subsumpce.** Prodloužení doby platnosti i povolení splátek spadá pod písm. c) — dodatečné stanovení/změna doby platnosti, resp. lhůty plnění; tyto změny ve prospěch účastníka jsou diskreční. Naopak zkrácení doby platnosti/lhůty plnění je podle písm. c) možné jen tehdy, stanoví-li tuto možnost zákon → ve třetí variantě bez zákonné opory nelze.
+
+**5. Řešení.** V prvních dvou variantách orgán provede nové řízení a vydá nové rozhodnutí podle § 101 písm. c) (prodloužení, splátky). Ve třetí variantě bez výslovné zákonné opory orgán dobu zkrátit nesmí (ochrana před zhoršením postavení účastníka). Nové rozhodnutí není opravným prostředkem — neslouží k nápravě případné nezákonnosti původního rozhodnutí (NSS 51 A 92/2023, 10 A 102/2022).
+
+**6. Varianty.** (a) Žadatel byl odmítnut z formálních důvodů a nyní jsou dány důvody pro vyhovění → nové rozhodnutí podle písm. b). (b) Původní rozhodnutí bylo zrušeno soudem/ÚS → nové rozhodnutí podle písm. d) jako provedení soudního výroku.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že nové rozhodnutí lze využít k nápravě nezákonnosti.* Neutralizace: NSS 51 A 92/2023 a 10 A 102/2022 jednoznačně odlišují § 101 od opravných prostředků; k nápravě nezákonnosti slouží přezkum, obnova či žaloba.
+- *Námitka, že lze dobu/lhůtu zkrátit z vážných důvodů i bez zákona.* Neutralizace: písm. c) výslovně podmiňuje zkrácení existencí zákonné možnosti; jinak by šlo o nepřípustné zhoršení postavení účastníka.
+- *Slabé místo:* hranice mezi „novým posouzením věci" (§ 101) a nepřípustným přezkumem zákonnosti je jemná; špatné podřazení důvodu vede ke zrušení nového rozhodnutí.
+
+#### H. Praktický závěr
+
+Nové rozhodnutí podle § 101 reaguje na změnu okolností (zejm. doba platnosti, lhůty, splátky) či procesní situace, není opravným prostředkem a zkrátit dobu/lhůtu lze jen na základě zákona.
+
+**Checklist (správní orgán / advokát):**
+- [ ] Spadá situace pod některý z důvodů písm. a)–e) (ne nápravu nezákonnosti)?
+- [ ] Jde-li o písm. c) a o zkrácení doby/lhůty — existuje výslovná zákonná opora?
+- [ ] Vychází nové řízení z původní žádosti (jeden celek s původním řízením — NSS 51 A 92/2023)?
+- [ ] Není namísto § 101 namístě přezkum/obnova/žaloba?
+
+**Typicky rozhodné důkazy / podklady:** původní pravomocné rozhodnutí, žádost o nové rozhodnutí, doklady o vážných důvodech změny doby/lhůty, případně rozhodnutí jiného orgánu (písm. d) nebo zvláštní zákon (písm. e, podmínka zkrácení).
+
+---
 
 ### § 102 — Společná ustanovení (obnova + nové rozhodnutí)
 
@@ -511,6 +814,43 @@ Pokud není stanoveno jinak, v novém řízení se postupuje **podle ustanovení
 | § 100 (obnova) | **Ruší** původní; účastníci poučeni; § 99 obdobně |
 | § 101 písm. a) (po prominutí zmeškání § 41/6) | **Ruší** původní; účastníci poučeni; § 99 obdobně |
 | § 101 písm. b)–e) | **BRÁNÍ účinkům** původního (ne zrušuje, ale nahrazuje); orgán určí vliv, pokud není zřejmé |
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bylo pravomocně rozhodnuto o obnově řízení (§ 100). Nyní má proběhnout nové řízení. V mezidobí zemřel jeden z původních účastníků a do věci vstoupil jeho právní nástupce; jiná osoba naopak ztratila dotčenost. Vyvstává otázka, který orgán nové řízení vede, kdo je účastníkem, jaké podklady a právní názory jsou závazné a jaký bude účinek nového rozhodnutí na původní. Důkazy: spis původního i obnoveného řízení, doklady o právním nástupnictví, dřívější rozhodnutí o odvolání.
+
+**2. Právní otázka.** Který orgán je příslušný k novému řízení, podle jakého stavu se posuzuje okruh účastníků a jaký účinek má nové rozhodnutí na rozhodnutí původní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 102 — příslušnost (odst. 1), účastníci podle stavu nového řízení (odst. 2), změna iniciace (odst. 3), zastavení neopodstatněné žádosti (odst. 4), pozastavení účinků (odst. 5), podklady a závazný právní názor (odst. 6), dobrá víra (odst. 7), subsidiarita 1. stupně (odst. 8), účinky nového rozhodnutí (odst. 9).
+- *Související ustanovení téhož zákona:* § 100 (obnova), § 101 (nové rozhodnutí), § 99 (účinky — obdobně dle odst. 9), § 95 odst. 4 a 5 (pozastavení účinků — obdobně).
+- *Související předpisy:* —
+- *Judikatura:* NSS 10 A 102/2022 — žádost o nové rozhodnutí není dalším opravným prostředkem; NSS 51 A 92/2023 — nové řízení tvoří s původním jeden celek.
+
+**4. Subsumpce.** Příslušnost: orgán příslušný k původnímu řízení v 1. stupni (odst. 1), ledaže se důvody obnovy týkaly výlučně řízení před odvolacím orgánem. Účastníci: posuzují se podle stavu v době nového řízení (odst. 2) → zahrnut právní nástupce, vyloučen ten, kdo pozbyl dotčenost. Podklady: lze využít podklady původního rozhodnutí (odst. 6); právní názor odvolacího orgánu je závazný, nestal-li se bezpředmětným změnou stavu.
+
+**5. Řešení.** Nové řízení vede prvostupňový orgán (není-li výjimka odst. 1). Okruh účastníků se aktualizuje k době nového řízení. Orgán šetří práva nabytá v dobré víře (odst. 7) a jinak postupuje podle pravidel pro řízení v 1. stupni (odst. 8). Účinek nového rozhodnutí: u obnovy (§ 100) a u § 101 písm. a) se původní rozhodnutí ruší (poučení účastníků, § 99 obdobně); u § 101 písm. b)–e) nové rozhodnutí brání účinkům původního, přičemž orgán určí vliv, není-li zřejmý (odst. 9).
+
+**6. Varianty.** (a) Týkaly-li se důvody obnovy výlučně řízení před odvolacím orgánem, vede nové řízení odvolací orgán (odst. 1). (b) Neodůvodňuje-li žádost zahájení nového řízení, orgán je usnesením zastaví a oznámí jen žadateli a osobám, vůči nimž učinil úkon (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že okruh účastníků zůstává jako v původním řízení.* Neutralizace: odst. 2 výslovně váže posouzení účastenství na stav v době nového řízení, nikoli na původní stav.
+- *Námitka vázanosti starým právním názorem odvolacího orgánu.* Neutralizace: odst. 6 ji omezuje — názor je závazný, jen pokud se nestal bezpředmětným změnou právního stavu či skutkových okolností.
+- *Slabé místo:* určení účinku nového rozhodnutí u § 101 písm. b)–e) („brání účinkům") je nezřídka nejasné; orgán musí vliv na vykonatelnost výslovně určit, jinak vzniká právní nejistota.
+
+#### H. Praktický závěr
+
+Nové řízení vede zpravidla prvostupňový orgán podle pravidel 1. stupně, účastníci se posuzují k jeho době a účinek na původní rozhodnutí závisí na důvodu (zrušení u obnovy a § 101/a, jinak bránění účinkům).
+
+**Checklist (správní orgán):**
+- [ ] Určen správně příslušný orgán (1. stupeň × odvolací při výlučných důvodech v odvolacím řízení)?
+- [ ] Aktualizován okruh účastníků podle stavu v době nového řízení (vč. právních nástupců)?
+- [ ] Posouzena závaznost právního názoru odvolacího orgánu (nestal-li se bezpředmětným)?
+- [ ] Šetřena práva nabytá v dobré víře (odst. 7)?
+- [ ] Správně určen účinek nového rozhodnutí na původní (zrušení × bránění účinkům, odst. 9)?
+
+**Typicky rozhodné důkazy / podklady:** spis původního i obnoveného/nového řízení, doklady o právním nástupnictví a dotčenosti, dřívější rozhodnutí o odvolání (pro závaznost právního názoru), žádost o nové řízení.
 
 ---
 

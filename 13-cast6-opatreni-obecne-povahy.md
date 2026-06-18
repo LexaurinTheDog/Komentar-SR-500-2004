@@ -48,6 +48,44 @@
 - *NSS* [8 Ao 3/2009 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/617021) — 13. 11. 2009
   > „Ústavní soud se zmíněným nálezem přiklonil k tzv. materiálnímu pojetí institutu opatření obecné povahy a uzavřel, že obecně závazné vyhlášky, jimiž byla vymezena závazná část územního plánu, schválené do účinnosti zákona č. 183/2006 Sb., o územním plánování a stavebním řádu, jsou opatřením obecné povahy ve smyslu § 171 zákona č. 500/2004 Sb., správního řádu, a podléhají tak soudnímu přezkumu v řízení podle § 101a s. ř. s"
 
+### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad obce X chce „rychle" usměrnit pohyb vozidel v centru a vydá formou opatření obecné povahy zákaz vjezdu nákladních vozidel. Žádný zvláštní zákon však pro tento konkrétní typ regulace formu OOP nepředepisuje — úřad ji zvolil sám, protože se mu zdála „praktická". Dopravce D, jemuž zákaz znemožní zásobování provozovny, se chce bránit. Důkazy: text aktu a jeho označení, identifikace zákonného zmocnění (zda zvláštní zákon ukládá vydat OOP), způsob vyhlášení.
+
+**2. Právní otázka.** Je akt, který správní orgán nazval „opatřením obecné povahy", skutečně OOP ve smyslu § 171, jestliže žádný zvláštní zákon vydání OOP pro daný případ neukládá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 171 — OOP je závazný úkon, jenž není předpisem ani rozhodnutím, a vydává se POUZE tam, kde to zvláštní zákon stanoví.
+- *Související ustanovení téhož zákona:* § 172 (procedura návrhu), § 173 (vydání, zákaz odvolání), § 9 a § 67 (rozhodnutí jako konkrétní + individuální akt) pro odlišení.
+- *Související předpisy:* zvláštní zákony zakládající formu OOP (stavební zákon č. 283/2021 Sb., zákon o silničním provozu č. 361/2000 Sb. pro dopravní značení); § 101a a násl. s. ř. s. pro soudní přezkum.
+- *Judikatura:* Pl. ÚS 14/07 — materiální pojetí OOP (kombinace konkrétního předmětu a obecného okruhu adresátů; vedle materiálních znaků i znak formální — zmocnění zvláštním zákonem). NSS 8 Ao 3/2009-46 — i akty formálně vydané jako vyhláška mohou být materiálně OOP a podléhat přezkumu podle § 101a s. ř. s.
+
+**4. Subsumpce.** Materiální znaky (konkrétní předmět — zákaz vjezdu na určené ulici; obecný okruh adresátů — všichni řidiči) jsou naplněny. Sporný je znak formální: zvláštní zákon o silničním provozu sice formu OOP pro stanovení místní úpravy provozu předepisuje, ale jen za stanovené procedury. Pokud by žádný zákon formu OOP neukládal, akt by nebyl OOP podle § 171 — šlo by buď o nezákonný akt, nebo by jej bylo nutno materiálně posoudit jako jiný typ aktu.
+
+**5. Řešení.** Rozhodující je dvojí test: materiální (konkrétní věc + neurčitý okruh adresátů) a formální (zvláštní zákon ukládá vydat OOP). U stanovení dopravního značení zákon o silničním provozu formu OOP zná, akt tedy OOP je; dopravce se brání žalobou podle § 101a s. ř. s. Pokud by zákonné zmocnění chybělo, je namístě tvrdit nezákonnost (orgán nemá pravomoc OOP libovolně vydávat). Procesní krok: podat návrh na zrušení OOP ke krajskému soudu ve lhůtě podle § 101b s. ř. s.
+
+**6. Varianty.** (a) Akt směřuje na jmenovitě určeného dopravce → jde o rozhodnutí, nikoli OOP, a brání se odvoláním. (b) Akt obecně a abstraktně stanoví pravidla pro futuro bez vazby na konkrétní věc → jde svou povahou o právní předpis, nikoli OOP.
+
+### G. Protiargumenty a rizika
+
+- *„Orgán nazval akt OOP, tedy OOP je."* Neutralizace: dle Pl. ÚS 14/07 platí materiální pojetí — rozhodující je obsah, nikoli název; soud akt přeřadí podle skutečné povahy.
+- *„OOP lze vydat kdykoli, je to flexibilní nástroj."* Neutralizace: § 171 váže OOP na výslovné zákonné zmocnění; bez něj orgán pravomoc nemá. Riziko: záměna OOP s vyjádřením (§ 154) nebo s předpisem.
+- Slabé místo: hranice mezi OOP a rozhodnutím u aktů s úzkým, fakticky identifikovatelným okruhem adresátů bývá sporná a vyžaduje individuální posouzení.
+
+### H. Praktický závěr
+
+OOP je hybridní akt (konkrétní předmět, neurčitý okruh adresátů), vydatelný jen na základě výslovného zmocnění zvláštním zákonem; rozhoduje materiální, nikoli formální označení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ukládá zvláštní zákon pro daný případ vydat OOP? (formální znak)
+- [ ] Je předmět konkrétní a okruh adresátů neurčitý? (materiální znaky)
+- [ ] Nejde ve skutečnosti o rozhodnutí (konkrétní adresát) nebo o předpis (abstraktní úprava)?
+- [ ] Není-li zmocnění, je akt nezákonný — zvážit obranu podle § 101a s. ř. s.
+
+**Typicky rozhodné důkazy / podklady:** text a označení aktu, odkaz na zákonné zmocnění, identifikace předmětu a okruhu adresátů, způsob vyhlášení.
+
+---
+
 ## § 172 — NÁVRH OOP (procedura veřejného projednání)
 
 <!-- AUTOCITACE:§172 -->
@@ -135,6 +173,45 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 
 > ⚠ Klíčový rozdíl: připomínka = názor, ke kterému se orgán **musí vyjádřit**, ale **nemusí ho respektovat**. Námitka = **požadavek vlastníka nemovitosti**, o kterém orgán **MUSÍ rozhodnout** samostatně.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Obec pořizuje nový územní plán (OOP podle stavebního zákona). Vlastník pozemku V, jehož parcela má být z dosud zastavitelné plochy převedena na nezastavitelnou (zeleň), zjistí o návrhu z úřední desky. Návrh je rozsáhlý (mapové přílohy), na úřední desce je jen zkrácená informace, úplné znění je na webu. V chce zachovat zastavitelnost. Vedle něj soused S podává prostou připomínku. Důkazy: datum vyvěšení návrhu, text námitky a její odůvodnění, doklad o doručení, rozhodnutí o námitce a jeho odůvodnění.
+
+**2. Právní otázka.** Jaký je rozdíl v procesním postavení vlastníka nemovitosti podávajícího námitku podle § 172 odst. 5 a osoby podávající připomínku podle § 172 odst. 4, a jaké nároky platí na vypořádání námitky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 172 — vyvěšení návrhu (odst. 1), rozsáhlé návrhy (odst. 2), veřejné projednání (odst. 3), připomínky kohokoli (odst. 4), odůvodněné námitky vlastníků v prekluzivní 30denní lhůtě se samostatným rozhodnutím (odst. 5).
+- *Související ustanovení téhož zákona:* § 25 (veřejná vyhláška), § 136 (dotčené orgány), § 173 odst. 1 (rozhodnutí o námitkách jako součást odůvodnění OOP), § 68 odst. 3 ve spojení s § 174 odst. 1 (náležitosti odůvodnění).
+- *Související předpisy:* stavební zákon č. 283/2021 Sb. (územní plán jako OOP, povinné veřejné projednání); § 101a s. ř. s.
+- *Judikatura:* NSS 4 As 246/2022-52 — na odůvodnění rozhodnutí o námitce dle § 172 odst. 5 jsou kladeny stejné nároky jako na typické správní rozhodnutí; musí být seznatelné, proč orgán námitku považuje za lichou, mylnou či vyvrácenou.
+
+**4. Subsumpce.** V je vlastník nemovitosti přímo dotčený výkonem vlastnického práva → je legitimován k námitce podle odst. 5: písemné, odůvodněné, ve 30denní prekluzivní lhůtě od zveřejnění návrhu, kterou nelze prominout. O námitce orgán rozhodne samostatně s vlastním odůvodněním, jež se stane součástí odůvodnění OOP; proti tomuto rozhodnutí není odvolání ani rozklad. S podává jen připomínku (odst. 4): orgán se s ní musí vypořádat v odůvodnění OOP, ale nerozhoduje o ní samostatně.
+
+**5. Řešení.** V musí stihnout 30denní lhůtu (zmeškání nelze prominout) a námitku řádně odůvodnit. Orgán je povinen vydat odůvodněné rozhodnutí o námitce; chybí-li přezkoumatelné důvody, je OOP v této části nezákonné (NSS 4 As 246/2022-52). Procesní krok: po vydání OOP lze brojit žalobou podle § 101a s. ř. s.; soud zruší OOP nebo jeho část mj. pro nedostatečné vypořádání námitek. Riziko: zaměnění připomínky a námitky — připomínka nezakládá nárok na samostatné rozhodnutí.
+
+**6. Varianty.** (a) V podá námitku 35. den → prekluze, orgán k ní nepřihlíží jako k námitce (lze ji nanejvýš posoudit jako připomínku). (b) Vyřízení námitky V by zhoršilo postavení jiného vlastníka jinak než návrh a nikoli zjevně v jeho prospěch → orgán musí předem zjistit stanovisko této osoby (odst. 5 věta čtvrtá).
+
+### G. Protiargumenty a rizika
+
+- *„Orgán se s námitkou vypořádal, postačí stručné odmítnutí."* Neutralizace: dle NSS 4 As 246/2022-52 platí standard odůvodnění jako u správního rozhodnutí; paušální či nepřezkoumatelné vypořádání zakládá nezákonnost.
+- *„Připomínka má stejnou sílu jako námitka."* Neutralizace: jen námitka vlastníka zakládá nárok na samostatné odůvodněné rozhodnutí; připomínka se pouze vypořádá v odůvodnění OOP.
+- Slabé místo: zmeškání 30denní lhůty je neprominutelné — opožděný podatel ztrácí silnější procesní pozici; pečlivě sledovat datum zveřejnění návrhu.
+
+### H. Praktický závěr
+
+Procedura návrhu OOP rozlišuje slabší připomínky (kdokoli, vypořádání v odůvodnění) a silnější odůvodněné námitky vlastníků (30denní prekluzivní lhůta, samostatné přezkoumatelné rozhodnutí).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je podatel vlastník nemovitosti (námitka), nebo jen dotčená osoba (připomínka)?
+- [ ] Je dodržena 30denní prekluzivní lhůta od zveřejnění návrhu?
+- [ ] Je námitka písemná a odůvodněná?
+- [ ] Obsahuje rozhodnutí o námitce vlastní, přezkoumatelné odůvodnění?
+- [ ] Byl dotčen jiný vlastník jinak než návrhem → bylo zjištěno jeho stanovisko?
+
+**Typicky rozhodné důkazy / podklady:** datum a způsob vyvěšení návrhu, text a odůvodnění námitky/připomínky, doklady o lhůtách, rozhodnutí o námitkách a jeho odůvodnění.
+
+---
+
 ## § 173 — Vydání OOP a opravné prostředky
 
 <!-- AUTOCITACE:§173 -->
@@ -189,6 +266,45 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 
 > Praktický příklad: územní plán **stanoví** určitou plochu jako nezastavěné území. Vlastník, který tam přesto staví bez povolení, **neporušuje** přímo územní plán (=OOP) — porušuje stavební zákon. Stavební úřad musí **vydat rozhodnutí o odstranění stavby** vůči konkrétnímu vlastníkovi, a teprve toto rozhodnutí je exekučním titulem.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Krajská hygienická stanice vydá za epidemie mimořádné opatření (OOP podle zákona o ochraně veřejného zdraví) omezující provoz určitých zařízení. Provozovatel P chce opatření napadnout a domnívá se, že musí nejprve podat odvolání. Současně sousední obec přijala územní plán (OOP), který určil pozemek vlastníka W jako nezastavitelný; W tam přesto bez povolení postavil stavbu a úřad vůči němu zahájil postup. Důkazy: text OOP a jeho odůvodnění, datum vyvěšení veřejné vyhlášky, identifikace, zda hrozí vážná újma veřejnému zájmu.
+
+**2. Právní otázka.** Lze proti OOP podat řádný opravný prostředek a od kdy je OOP účinné; a zakládá samo OOP exekuční titul vůči konkrétní osobě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 173 — oznámení veřejnou vyhláškou a účinnost 15. dnem (resp. dnem vyvěšení při vážné újmě veřejnému zájmu) (odst. 1), zákaz opravného prostředku (odst. 2), nutnost individuálního rozhodnutí pro exekuci povinnosti z OOP (odst. 3).
+- *Související ustanovení téhož zákona:* § 25 (veřejná vyhláška), § 172 odst. 1 (obdobně pro oznámení), § 174 odst. 2 (přezkumné řízení), § 68 odst. 3 ve spojení s § 174 odst. 1 (odůvodnění).
+- *Související předpisy:* § 101a a § 101b s. ř. s. (přímý soudní přezkum, 3letá lhůta); zákon o ochraně veřejného zdraví č. 258/2000 Sb.; stavební zákon č. 283/2021 Sb.
+- *Judikatura:* NSS 51 A 11/2025-118 — OOP musí být odůvodněno; přiměřeně se užije § 68 odst. 3, odůvodnění musí obsahovat důvody výroku, podklady a úvahy orgánu, jinak je nepřezkoumatelné.
+
+**4. Subsumpce.** Proti OOP nelze podat odvolání ani rozklad (odst. 2). P se proto nebrání řádným opravným prostředkem, nýbrž přímou žalobou podle § 101a s. ř. s. (ve 3leté lhůtě dle § 101b s. ř. s.), případně dá podnět k přezkumnému řízení (§ 174/2). Účinnost OOP nastává 15. dnem po vyvěšení; u mimořádného opatření hygieny při vážné újmě veřejnému zájmu může nastat již dnem vyvěšení (odst. 1). U W platí: územní plán (OOP) sám není exekučním titulem; teprve rozhodnutí o odstranění stavby vůči jmenovitě určenému W zakládá vykonatelnou povinnost (odst. 3).
+
+**5. Řešení.** P podá návrh na zrušení OOP přímo k soudu — vyčerpání opravných prostředků se nevyžaduje (žádné nejsou). Soud zruší OOP mj. pro nepřezkoumatelné odůvodnění (NSS 51 A 11/2025-118). Vůči W stavební úřad nesmí exekuovat „porušení územního plánu" přímo — musí vydat individuální rozhodnutí prohlašující povinnost a jmenovitě určující povinnou osobu; teprve toto rozhodnutí je exekučním titulem. Riziko: opomenutí 3leté lhůty podle § 101b s. ř. s.
+
+**6. Varianty.** (a) Opatření nehrozí vážnou újmou veřejnému zájmu → účinnost až 15. dnem, nikoli dnem vyvěšení. (b) Zvláštní zákon (krizová opatření) umožní účinnost i bez postupu podle § 172 — pak odpadá fáze námitek a připomínek před vydáním.
+
+### G. Protiargumenty a rizika
+
+- *„Před žalobou je třeba vyčerpat odvolání."* Neutralizace: § 173 odst. 2 odvolání i rozklad vylučuje; OOP je aktem napadnutelným přímo u soudu podle § 101a s. ř. s.
+- *„Územní plán porušila konkrétní osoba, lze rovnou exekuovat."* Neutralizace: odst. 3 vyžaduje individuální rozhodnutí s jmenovitým určením povinné osoby; OOP samo exekučním titulem není.
+- Slabé místo: účinnost dnem vyvěšení je výjimkou vázanou na vážnou újmu veřejnému zájmu — její neodůvodnění činí OOP v tomto bodě napadnutelným.
+
+### H. Praktický závěr
+
+Proti OOP není řádný opravný prostředek; brání se přímou žalobou (§ 101a s. ř. s.) či přezkumem (§ 174/2). OOP nabývá účinnosti zpravidla 15. dnem po vyvěšení a samo o sobě nezakládá exekuční titul.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje OOP řádné, přezkoumatelné odůvodnění (vč. vypořádání námitek)?
+- [ ] Bylo oznámeno veřejnou vyhláškou a vyvěšeno; od kdy běží účinnost?
+- [ ] Je dán důvod účinnosti již dnem vyvěšení (vážná újma veřejnému zájmu)?
+- [ ] Pro vymáhání povinnosti z OOP — existuje individuální rozhodnutí s jmenovitým určením osoby?
+- [ ] Je dodržena 3letá lhůta podle § 101b s. ř. s. pro žalobu?
+
+**Typicky rozhodné důkazy / podklady:** text a odůvodnění OOP, datum vyvěšení veřejné vyhlášky, doklad o naplnění výjimky účinnosti, případné individuální rozhodnutí o povinnosti.
+
+---
+
 ## § 174 — Subsidiární právo a přezkum
 
 <!-- AUTOCITACE:§174 -->
@@ -220,6 +336,43 @@ Pro **rozsáhlé** návrhy (typicky územní plán s mapovými přílohami):
 **Lhůta zahájení:** **1 ROK od ÚČINNOSTI** OOP (NE od právní moci — OOP nemá právní moc v klasickém slova smyslu, je-li **závazný**).
 
 **Účinky:** **EX NUNC** — od právní moci přezkumného rozhodnutí (NE ex tunc jako u rozhodnutí ukládajících povinnost). Chrání právní jistotu — OOP se aplikovalo, jiné akty se na něj odkazovaly.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad zjistí, že územní plán obce (OOP) byl vydán v rozporu s nadřazenou územně plánovací dokumentací. Od účinnosti OOP uplynulo 8 měsíců. Úřad zvažuje, zda lze rozpor řešit přezkumným řízením, případně jaké budou účinky zrušení vůči stavebním povolením, která byla na OOP mezitím vydána. Druhý problém: účastník namítá, že v řízení o OOP nebyl uplatněn institut z části druhé (rozhodnutí o účastenství podle § 27). Důkazy: text OOP a jeho odůvodnění, datum účinnosti, usnesení o zahájení přezkumu.
+
+**2. Právní otázka.** V jaké lhůtě a s jakými časovými účinky lze v přezkumném řízení posoudit soulad OOP s právními předpisy a do jaké míry se na řízení o OOP použijí ustanovení části první a druhé správního řádu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 174 — obdobné užití části první (zásady) a přiměřené užití části druhé (odst. 1); přezkumné řízení do 1 roku od účinnosti OOP s účinky ode dne právní moci přezkumného rozhodnutí (odst. 2).
+- *Související ustanovení téhož zákona:* § 68 odst. 3 (náležitosti odůvodnění užité přiměřeně), § 173 (vydání a účinnost OOP), § 94 a násl. (obecná úprava přezkumného řízení), § 2–8 (zásady činnosti).
+- *Související předpisy:* § 101a a násl. s. ř. s. (soudní přezkum OOP); stavební zákon č. 283/2021 Sb.
+- *Judikatura:* NSS 73 A 3/2023-52 a NSS 51 A 11/2025-118 — z § 68 odst. 3 ve spojení s § 174 odst. 1 plyne, že odůvodnění OOP musí obsahovat důvody výroku, podklady a hodnotící úvahy orgánu; jejich absence způsobuje nepřezkoumatelnost OOP.
+
+**4. Subsumpce.** Usnesení o zahájení přezkumného řízení lze vydat do 1 roku od účinnosti OOP (odst. 2) — 8 měsíců lhůtu splňuje. Účinky přezkumného rozhodnutí jsou ex nunc, nastávají ode dne jeho právní moci, takže již vydaná stavební povolení nejsou automaticky dotčena zpětně (ochrana právní jistoty). Na řízení o OOP se zásady (část první) užijí obdobně, část druhá pouze přiměřeně — instituty bez smyslu pro OOP (např. účastenství § 27, odvolací řízení) se neuplatní; námitka absence rozhodnutí podle § 27 je proto nedůvodná.
+
+**5. Řešení.** Úřad zahájí přezkumné řízení usnesením v roční lhůtě; výsledné rozhodnutí působí do budoucna. Pro odůvodnění OOP platí standard § 68 odst. 3 (NSS 73 A 3/2023-52, 51 A 11/2025-118) — nedostatek důvodů znamená nepřezkoumatelnost a důvod zrušení. Riziko: roční lhůta je objektivní; po jejím uplynutí zbývá jen soudní cesta podle § 101a s. ř. s. (3 roky dle § 101b s. ř. s.). Procesní krok: pečlivě odlišit, která ustanovení části druhé jsou pro OOP přiměřeně použitelná.
+
+**6. Varianty.** (a) Usnesení o zahájení přezkumu by bylo vydáno po více než roce od účinnosti → přezkum je vyloučen, zbývá jen žaloba podle § 101a s. ř. s. (b) OOP postrádá hodnotící úvahy a podklady → je nepřezkoumatelné a bude zrušeno bez ohledu na věcný soulad s předpisy.
+
+### G. Protiargumenty a rizika
+
+- *„Účinky přezkumu jsou zpětné (ex tunc) jako u běžného rozhodnutí."* Neutralizace: odst. 2 výslovně stanoví účinky ode dne právní moci přezkumného rozhodnutí (ex nunc) na ochranu právní jistoty navazujících aktů.
+- *„V řízení o OOP měla být plně užita část druhá."* Neutralizace: odst. 1 stanoví pouze přiměřené užití; instituty nesmyslné pro OOP (účastenství, odvolání) se neaplikují.
+- Slabé místo: roční lhůta pro zahájení přezkumu se počítá od účinnosti, nikoli od právní moci (OOP právní moc v klasickém smyslu nemá) — snadno zmeškatelná.
+
+### H. Praktický závěr
+
+Na řízení o OOP se zásady užijí obdobně a část druhá jen přiměřeně; soulad OOP s předpisy lze přezkoumat do 1 roku od účinnosti s účinky ex nunc.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Běží ještě roční lhůta od účinnosti OOP pro zahájení přezkumného řízení?
+- [ ] Jsou účinky přezkumného rozhodnutí správně chápány jako ex nunc?
+- [ ] Které instituty části druhé jsou pro daný OOP přiměřeně použitelné?
+- [ ] Splňuje odůvodnění OOP standard § 68 odst. 3 (důvody, podklady, úvahy)?
+- [ ] Není po lhůtě — pak zvážit žalobu podle § 101a s. ř. s. (3 roky dle § 101b s. ř. s.)?
+
+**Typicky rozhodné důkazy / podklady:** text a odůvodnění OOP, datum účinnosti, usnesení o zahájení přezkumu, navazující správní akty odkazující na OOP.
 
 ---
 

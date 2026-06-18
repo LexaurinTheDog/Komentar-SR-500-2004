@@ -72,6 +72,42 @@ Doručení elektronickou adresou (e-mail) **jen na žádost účastníka**. Spec
 - Nepotvrdí-li adresát do následujícího pracovního dne → orgán doručí jiným způsobem.
 - **Vrátí-li se zpráva jako nedoručitelná** → další pokus; pokud opět neúspěšný → orgán doručí, jako by účastník elektronickou adresu nesdělil.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební úřad vyhotoví rozhodnutí o odstranění stavby a doručuje je adresátovi, který je podnikající fyzická osoba s aktivní datovou schránkou. Úředník však z pohodlnosti zašle rozhodnutí poštou jako doporučenou zásilku do vlastních rukou; adresát ji nepřevezme a nastane fikce podle § 24. Adresát následně tvrdí, že mu nikdy nebylo řádně doručeno. Důkazy: výpis ze systému datových schránek o existenci a aktivitě DS, doručenka pošty, spisový přehled o způsobu odeslání.
+
+**2. Právní otázka.** Je doručení poštou platné, existuje-li adresátovi zřízená a zpřístupněná datová schránka, do níž bylo možné doručit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 odst. 1 a 2 SŘ — datová schránka je první volbou; poštou lze doručit, jen „není-li možné" doručit do DS.
+- *Související ustanovení téhož zákona:* § 24 (fikce doručení), § 19 odst. 7 (doklad o doručení), § 72 odst. 1 (rozhodnutí do vlastních rukou).
+- *Související předpisy:* zák. č. 300/2008 Sb. o elektronických úkonech (§ 17 — doručování orgánem veřejné moci do DS má přednost).
+- *Judikatura:* NSS opakovaně dovodil, že má-li adresát zpřístupněnou datovou schránku, je orgán povinen doručovat přednostně do ní; doručení jiným způsobem je vadné, ledaže doručit do DS objektivně nelze. Nosný závěr: přednost DS je kogentní.
+
+**4. Subsumpce.** Adresát má zpřístupněnou DS → podmínka „nelze-li doručit do DS" splněna není. Doručení poštou tedy proběhlo v rozporu s kaskádou § 19 odst. 1, 2. Fikce podle § 24 se na vadně zvolený kanál nemůže platně navázat.
+
+**5. Řešení.** Doručení je neúčinné; lhůta pro odvolání nezačala běžet. Orgán musí doručit znovu do DS. Pokud rozhodnutí mezitím „nabylo" právní moci, jde o nicotnost běhu lhůt, kterou lze namítnout i v odvolání po lhůtě či cestou § 41. Praktický krok: ověřit existenci DS v okamžiku odeslání.
+
+**6. Varianty.** (a) Adresát DS nemá → doručení poštou je správné a fikce nastane. (b) DS byla v době odeslání znepřístupněna (zrušena) → poštovní doručení je správné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Adresát se s obsahem fakticky seznámil, vada je bez vlivu." Neutralizace: § 19 odst. 7 věta třetí sice uznává doručení, je-li z postupu účastníka zjevné, že mu bylo doručeno; pokud však účastník nijak nereagoval, fakticita se nepresumuje.
+- *Protiargument:* „Volba kanálu je na uvážení orgánu." Neutralizace: odst. 1 a 2 stanoví závaznou posloupnost, nikoli diskreci; pošta je až subsidiární.
+- *Slabé místo:* spornost okamžiku, kdy byla DS zpřístupněna; nutno doložit výpisem správce ISDS.
+
+#### H. Praktický závěr
+
+Před každým odesláním ověřit, zda adresát má zpřístupněnou DS; teprve při její absenci volit poštu, a to poštovní službu zajišťující doručení do vlastních rukou tam, kde to zákon vyžaduje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má adresát ke dni odeslání zpřístupněnou datovou schránku?
+- [ ] Byl-li zvolen jiný kanál, je doloženo, proč nešlo doručit do DS?
+- [ ] Je u písemností do vlastních rukou (§ 59, § 72) tento režim respektován?
+- [ ] Existuje písemný doklad o doručení s uvedením dne (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS o existenci a stavu DS, doručenka, spisový přehled o způsobu odeslání, případně reakce účastníka prokazující seznámení.
+
 ### § 20 — Doručování fyzickým osobám
 
 <!-- AUTOCITACE:§20 -->
@@ -114,6 +150,42 @@ Pro **do vlastních rukou** lze doručit i osobě **písemně zmocněné s úře
 
 Advokátu lze doručit i **advokátnímu koncipientovi nebo jinému zaměstnanci**. V advokátní kanceláři s více advokáty — i kterémukoliv ze společných advokátů a jejich zaměstnancům. **Notáři, soudnímu exekutorovi a jiným osobám poskytujícím právní pomoc** se použije obdobně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Správní orgán doručuje rozhodnutí fyzické osobě, která je zastoupena advokátem. Zásilku do vlastních rukou na adrese advokátní kanceláře převezme advokátní koncipient a opatří ji svým podpisem. Účastník později namítá, že doručení koncipientovi je neúčinné, neboť šlo o písemnost do vlastních rukou advokáta. Důkazy: doručenka s podpisem přebírajícího, doklad o pracovním poměru koncipienta ke kanceláři.
+
+**2. Právní otázka.** Je doručení písemnosti do vlastních rukou platné, převzal-li ji namísto advokáta jeho koncipient?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 6 SŘ — advokátu lze doručit i prostřednictvím koncipienta nebo jiného zaměstnance, a to i u písemností do vlastních rukou.
+- *Související ustanovení téhož zákona:* § 34 odst. 2 (doručuje se pouze zástupci), § 20 odst. 2 (zmocnění k převzetí), § 21 (na doručování advokátu se užije obdobně).
+- *Související předpisy:* zák. č. 85/1996 Sb. o advokacii (§ 26 — substituce, postavení koncipienta).
+- *Judikatura:* ustálený výklad: převzetí koncipientem či zaměstnancem advokáta je řádným doručením advokátu; běh lhůt se odvíjí od tohoto převzetí.
+
+**4. Subsumpce.** Přebírající je koncipient kanceláře → spadá pod okruh osob oprávněných přijmout i písemnost do vlastních rukou (odst. 6). Doručení je tedy účinné dnem převzetí koncipientem.
+
+**5. Řešení.** Námitka účastníka je nedůvodná; lhůta běží od převzetí koncipientem. Praktický krok: ověřit ze spisu, že přebírající skutečně byl koncipientem/zaměstnancem kanceláře v den doručení.
+
+**6. Varianty.** (a) Písemnost převzala recepční externí poštovní služby, nikoli zaměstnanec kanceláře → neúčinné vůči advokátu. (b) Advokát zastupuje jako společník v.o.s. → převzít může i jiný společník či jeho zaměstnanci (věta třetí).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Do vlastních rukou znamená výlučně do rukou advokáta osobně." Neutralizace: odst. 6 výslovně rozšiřuje okruh přebírajících i na koncipienty a zaměstnance, a to i u zásilek do vlastních rukou.
+- *Protiargument:* „Doručit lze jen na adresu místa podnikání advokáta." Neutralizace: fyzické osobě lze doručit kdekoli zastižena (odst. 1); rozhodný je status přebírajícího, nikoli jen adresa.
+- *Slabé místo:* prokázání zaměstnaneckého/koncipientského vztahu, není-li na doručence čitelně uveden.
+
+#### H. Praktický závěr
+
+Doručuje-li se účastníkovi zastoupenému advokátem, postupuje se podle § 34 (pouze zástupci) a fyzicky lze předat i koncipientovi či zaměstnanci; u běžných FO platí kaskáda adres s možností doručit kdekoli zastižena.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla zvolena správná adresa z kaskády odst. 1 (adresa pro doručování, ISEO, TP, místo podnikání)?
+- [ ] U zástupce-advokáta: je přebírající koncipient/zaměstnanec kanceláře?
+- [ ] U písemnosti do vlastních rukou: má případný zmocněnec k převzetí úředně ověřenou plnou moc (odst. 2)?
+- [ ] U běžné zásilky: byla předána vhodné osobě nebo vložena do schránky podle odst. 3, 4?
+
+**Typicky rozhodné důkazy / podklady:** doručenka s identifikací přebírajícího, doklad o pracovním/koncipientském poměru, plná moc k převzetí, výpis adres z evidence obyvatel.
+
 ### § 21 — Doručování právnickým osobám
 
 <!-- AUTOCITACE:§21 -->
@@ -144,6 +216,42 @@ Adresy:
 
 Tj. PO musí mít na adrese sídla zajištěno přijímání pošty. Pokud tam nikdo není a doručení selže, orgán může doručit **statutárním orgánům** (§ 30 — typicky jednatel s.r.o., předseda představenstva a.s.) na jejich osobní adresy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnosti s ručením omezeným se doručuje poštou na adresu sídla zapsanou v obchodním rejstříku. Zásilka se vrátí jako nedoručená — v sídle (virtuální adresa) se nikdo nezdržuje. Jednatel později žádá o prominutí zmeškání lhůty s tím, že o písemnosti nevěděl. Důkazy: výpis z OR o sídle, doručenka s poznámkou pošty, údaj o aktivitě DS.
+
+**2. Právní otázka.** Může PO úspěšně namítat, že jí nebylo doručeno, protože se na adrese jejího sídla nikdo nezdržuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 odst. 3 SŘ — PO nemůže žádat o prominutí zmeškání s poukazem na to, že se v sídle nikdo nezdržuje; orgán však může doručit osobám podle § 30 na jejich adresu.
+- *Související ustanovení téhož zákona:* § 30 (kdo jedná za PO), § 24 (fikce doručení), § 19 odst. 1 (přednost DS — pro PO povinná).
+- *Související předpisy:* zák. č. 300/2008 Sb. (PO mají DS zřizovanou ze zákona); zák. č. 89/2012 Sb. (sídlo PO).
+- *Judikatura:* PO odpovídá za zajištění přijímání pošty v sídle; vrácení zásilky pro neexistenci adresáta v sídle nezakládá důvod pro prominutí zmeškání.
+
+**4. Subsumpce.** PO se nemůže dovolávat absence osob v sídle (odst. 3). Současně pro PO platí povinná DS (§ 19 odst. 1) → doručení mělo primárně směřovat do DS; teprve poté pošta a doručení statutárům podle § 30.
+
+**5. Řešení.** Žádost o prominutí zmeškání je nedůvodná, byla-li zachována kaskáda (zejm. DS). Pokud orgán doručoval pouze poštou, ač PO měla DS, je třeba zkoumat účinnost doručení z pohledu § 19. Praktický krok: ověřit, zda bylo doručováno do DS.
+
+**6. Varianty.** (a) PO ze zákona DS nemá (např. některé zahraniční PO bez složky v ČR) → § 22 doručování do ciziny. (b) Orgán doručil přímo jednateli na jeho adresu podle odst. 3 → doručení účinné i bez DS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „PO se o písemnosti reálně nedozvěděla, materiálně nebylo doručeno." Neutralizace: odst. 3 přenáší riziko nedostupnosti sídla na PO; faktická nevědomost ji nechrání.
+- *Protiargument:* „Doručení statutárovi na soukromou adresu je nepřípustné." Neutralizace: odst. 3 věta druhá to výslovně umožňuje, nebyl-li v sídle nikdo zastižen.
+- *Slabé místo:* u PO s povinnou DS nelze přeskočit DS a rovnou doručovat poštou; vada by mohla zhojit jen prokázané seznámení.
+
+#### H. Praktický závěr
+
+PO musí zajistit přebírání pošty v sídle a sledovat svou DS; orgán doručuje přednostně do DS, jinak na sídlo a subsidiárně statutárům podle § 30.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo doručeno do DS, kterou PO má povinně zřízenu?
+- [ ] Při poštovním doručení: směřovalo na sídlo (org. složku) podle OR?
+- [ ] Vrátila-li se zásilka, byla zvážena varianta doručení statutárům dle § 30 (odst. 3)?
+- [ ] Je vyloučeno prominutí zmeškání z důvodu „nikdo v sídle"?
+
+**Typicky rozhodné důkazy / podklady:** výpis z OR o sídle a statutárním orgánu, výpis z ISDS, doručenka, doklad o pokusu doručit osobám dle § 30.
+
 ### § 22 — Doručování do ciziny
 
 <!-- AUTOCITACE:§22 -->
@@ -159,6 +267,42 @@ Možnosti:
 - **Příslušný orgán státní správy** pověřený k doručování do ciziny (typicky MZV ČR / ZÚ).
 
 **Pokud se nepodaří** → orgán ustanoví **opatrovníka** podle § 32 odst. 2 písm. d). To je v praxi důležité u řízení o cizincích bez datové schránky.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastníkem řízení o vyvlastnění je osoba s pobytem v zahraničí, bez datové schránky. Orgán zašle rozhodnutí mezinárodní poštovní zásilkou; zásilka se vrátí jako nedoručitelná (adresát na uvedené adrese nezastižen, adresa neúplná). Orgán stojí před otázkou dalšího postupu. Důkazy: doklad o pobytu v cizině, vrácená mezinárodní zásilka, případně potvrzení MZV/ZÚ o neúspěšném doručení.
+
+**2. Právní otázka.** Jaký je správný postup, nepodaří-li se doručit písemnost adresátovi v cizině poštou ani prostřednictvím pověřeného orgánu státní správy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 SŘ — doručení do ciziny poštou nebo orgánem státní správy; při neúspěchu ustanovení opatrovníka podle § 32 odst. 2 písm. d).
+- *Související ustanovení téhož zákona:* § 32 odst. 2 písm. d) a odst. 3 (opatrovník / veřejná vyhláška), § 25 (veřejná vyhláška), § 19 odst. 4 (adresa pro doručování v cizině).
+- *Související předpisy:* mezinárodní smlouvy o právní pomoci, nařízení EU o doručování ve věcech, na něž dopadají; konzulární předpisy.
+- *Judikatura:* ÚS k opatrovníku nepřítomného (II.ÚS 1143/12) — ustanovení opatrovníka musí předcházet šetření a nesmí být formální.
+
+**4. Subsumpce.** Adresát se zdržuje v cizině, doručení poštou selhalo → naplněn důvod § 22 věty druhé. Orgán proto přistoupí k ustanovení opatrovníka podle § 32 odst. 2 písm. d), neboť jde o účastníka, jemuž má být v řízení o vyvlastnění odňato právo (tedy nelze nahradit pouhou veřejnou vyhláškou dle § 32 odst. 3).
+
+**5. Řešení.** Před ustanovením opatrovníka orgán prokazatelně vyčerpá poštovní/úřední cestu a šetří, zda nelze zjistit jinou adresu (§ 19 odst. 4). Teprve poté usnesením ustanoví opatrovníka, který nesmí mít na věci protichůdný zájem. Riziko: formální opatrovník (zaměstnanec úřadu) ohrožuje ústavnost řízení.
+
+**6. Varianty.** (a) Jde o řízení, v němž se účastníkovi neukládá povinnost a neodnímá právo → místo opatrovníka postačí veřejná vyhláška (§ 32 odst. 3). (b) Adresát má v ČR zmocněnce s adresou pro doručování → doručuje se zmocněnci, § 22 se nepoužije.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Opatrovníka lze ustanovit rovnou, bez pokusu o doručení do ciziny." Neutralizace: § 22 stanoví subsidiaritu opatrovníka až po neúspěchu poštovní/úřední cesty; opačný postup je vadou řízení.
+- *Protiargument:* „Postačí veřejná vyhláška vždy." Neutralizace: u účastníka, jemuž se odnímá právo, § 32 odst. 3 vyhlášku nepřipouští — nutný opatrovník.
+- *Slabé místo:* nedostatečné šetření o skutečné adrese v cizině; opatrovník bez reálné aktivity nehájí práva nepřítomného.
+
+#### H. Praktický závěr
+
+Doručování do ciziny je dvoustupňové: nejprve pošta/pověřený orgán, při neúspěchu opatrovník dle § 32 odst. 2 písm. d), s výjimkou méně zatěžujících řízení, kde stačí veřejná vyhláška.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl proveden a doložen pokus doručit poštou / pověřeným orgánem do ciziny?
+- [ ] Bylo šetřeno, zda existuje jiná adresa pro doručování (§ 19 odst. 4)?
+- [ ] Ukládá se účastníkovi povinnost / odnímá právo (pak opatrovník, ne vyhláška)?
+- [ ] Nemá ustanovovaný opatrovník protichůdný zájem?
+
+**Typicky rozhodné důkazy / podklady:** vrácená mezinárodní zásilka, potvrzení MZV/ZÚ o nedoručení, evidence pobytu, usnesení o ustanovení opatrovníka, šetření o adrese.
 
 ### § 23 — Uložení (postup při neúspěšném doručení)
 
@@ -191,6 +335,42 @@ Možnosti:
 (4) **Oznámení o neúspěšném doručení** se vloží do schránky adresáta + výzva k vyzvednutí do **10 dnů**. Po uplynutí 10 dnů se písemnost (je-li to možné) vloží do schránky, jinak vrátí orgánu.
 
 (5) **Písemné poučení** o právních důsledcích podle § 24 odst. 1, 3 a 4 + označení orgánu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Adresát — fyzická osoba bez DS — není zastižen na adrese trvalého pobytu. Doručovatel pošty vloží do schránky oznámení o uložení zásilky a výzvu k vyzvednutí do 10 dnů, avšak do schránky nevloží písemné poučení o právních důsledcích nevyzvednutí. Adresát si zásilku nevyzvedne. Důkazy: doručenka s vyznačením uložení, vzor obálky/oznámení, fotodokumentace schránky.
+
+**2. Právní otázka.** Nastane fikce doručení podle § 24 odst. 1, nebylo-li adresátovi spolu s výzvou doručeno písemné poučení podle § 23 odst. 5?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 4 a 5 SŘ — vložení oznámení s výzvou k vyzvednutí do 10 dnů a současné písemné poučení o důsledcích.
+- *Související ustanovení téhož zákona:* § 24 (fikce doručení po marném uplynutí 10 dnů), § 41 (navrácení v předešlý stav), § 25 (veřejná vyhláška jako alternativa).
+- *Související předpisy:* poštovní podmínky provozovatele poštovních služeb pro doručování do vlastních rukou.
+- *Judikatura:* fikce doručení je vázána na splnění všech zákonných podmínek úložního postupu; absence poučení může bránit nastoupení fikce.
+
+**4. Subsumpce.** Vložena byla výzva, nikoli však poučení (odst. 5). Postup úložení tak nebyl proveden řádně; chybí podmínka, na niž § 24 navazuje fikci. Riziko: fikce doručení nemusí nastat, případně je zpochybnitelná.
+
+**5. Řešení.** Doručení může být shledáno neúčinným pro vadu úložního postupu; lhůty by pak neběžely. Bezpečný postup orgánu: doručit opakovaně s kompletním poučením. Adresát se může bránit námitkou vady doručení, případně žádostí podle § 24 odst. 2 ve spojení s § 41.
+
+**6. Varianty.** (a) Poučení bylo vloženo řádně → fikce po 10 dnech nastane. (b) Adresát prokáže dočasnou nepřítomnost bez vlastního zavinění → § 24 odst. 2 ve spojení s § 41 (určení neplatnosti doručení / okamžiku doručení).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Poučení je formalita, fikce nastává marným uplynutím 10 dnů." Neutralizace: § 23 odst. 5 ukládá poučení jako součást úložního postupu; jeho absence je vadou ovlivňující účinky fikce.
+- *Protiargument:* „Stačí vhození do schránky kdekoli." Neutralizace: oznámení i poučení musí být vloženy do domovní schránky adresáta nebo na jiné vhodné místo, ne k jiné osobě.
+- *Slabé místo:* prokazování, zda poučení bylo skutečně vloženo — doručenka to často nezachycuje; nutné poštovní podmínky a praxe.
+
+#### H. Praktický závěr
+
+Úložní postup je řádný jen při kumulativním splnění: oznámení o uložení + 10denní výzva + písemné poučení o důsledcích; teprve pak může nastat fikce dle § 24.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo vloženo oznámení o neúspěšném doručení a výzva k vyzvednutí do 10 dnů?
+- [ ] Bylo současně vloženo písemné poučení dle § 23 odst. 5 (vč. označení orgánu a adresy)?
+- [ ] Je vyznačen den, od kdy byla písemnost připravena k vyzvednutí?
+- [ ] Po marném uplynutí: byla písemnost vložena do schránky / vrácena orgánu?
+
+**Typicky rozhodné důkazy / podklady:** doručenka s daty uložení a vrácení, vzor obálky/oznámení a poučení, poštovní podmínky, případně tvrzení a doklady o nepřítomnosti adresáta.
 
 ### § 24 — Překážky při doručování (FIKCE DORUČENÍ)
 
@@ -232,6 +412,42 @@ Pokud adresát:
 → doručovatel mu předá poučení o právních důsledcích.
 
 Jestliže ani **přes poučení** odmítne → písemnost se považuje za **doručenou dnem neúspěšného pokusu** (DRUHÁ FIKCE — okamžitá, ne 10denní).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Adresát se po doručení rozhodnutí (uloženého a marně neprevzatého) ozve s tvrzením, že byl v rozhodné době tři týdny hospitalizován v nemocnici a nemohl si zásilku vyzvednout. O hospitalizaci ani o uložení zásilky se nedozvěděl včas. Důkazy: lékařská zpráva o hospitalizaci s daty, doručenka o uložení, datum nastoupení fikce.
+
+**2. Právní otázka.** Lze prolomit fikci doručení podle § 24 odst. 1, prokáže-li adresát, že si pro dočasnou nepřítomnost bez svého zavinění nemohl písemnost vyzvednout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 (fikce posledním dnem 10denní lhůty) a odst. 2 (možnost žádat o určení neplatnosti doručení / okamžiku doručení za podmínek § 41).
+- *Související ustanovení téhož zákona:* § 41 (navrácení v předešlý stav — lhůty 15 dnů od odpadnutí překážky, max. 1 rok), § 23 (úložní postup), § 83 (odvolací lhůta).
+- *Související předpisy:* —
+- *Judikatura:* prominutí účinků fikce vyžaduje vážný důvod a nepřítomnost bez zavinění adresáta; hospitalizace bývá uznávaným důvodem, posuzuje se konkrétně.
+
+**4. Subsumpce.** Hospitalizace = dočasná nepřítomnost a vážný důvod; je-li bez zavinění (neúmyslné, nepředvídatelné), je splněn důvod § 24 odst. 2. Adresát musí podat žádost ve lhůtě § 41.
+
+**5. Řešení.** Adresát podá žádost o určení neplatnosti doručení nebo okamžiku doručení do 15 dnů od odpadnutí překážky (propuštění z nemocnice), nejpozději do 1 roku. Vyhoví-li orgán, fikce se neuplatní a lhůty se posunou. Procesní krok: doložit přesná data hospitalizace a nemožnosti vyzvednutí.
+
+**6. Varianty.** (a) Adresát byl jen na dovolené a předem věděl o doručení → zavinění na jeho straně, žádost neuspěje. (b) Druhá fikce dle odst. 3, 4 (odmítnutí převzetí přes poučení) — okamžitá ke dni neúspěšného pokusu, prolomit ji § 24 odst. 2 nelze stejně snadno, protože nejde o „nemožnost vyzvednout".
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Adresát si měl zajistit přebírání pošty i během nepřítomnosti." Neutralizace: § 24 odst. 2 výslovně chrání dočasnou nepřítomnost bez zavinění; přiměřená opatření nelze požadovat za hranicí možností.
+- *Protiargument:* „Žádost je opožděná." Neutralizace: lhůta běží až od odpadnutí překážky (§ 41), nikoli od nastoupení fikce.
+- *Slabé místo:* unesení důkazního břemene o nemožnosti a absenci zavinění leží na adresátovi; obecné tvrzení nestačí.
+
+#### H. Praktický závěr
+
+Fikce doručení je vyvratitelná: za dočasné nepřítomnosti bez zavinění lze podle § 24 odst. 2 a § 41 žádat o určení neplatnosti doručení nebo okamžiku doručení; odmítnutí převzetí přes poučení však zakládá okamžitou fikci dle odst. 3, 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o fikci dle odst. 1 (uplynutí 10 dnů), nebo dle odst. 3, 4 (odmítnutí)?
+- [ ] Existuje vážný důvod nepřítomnosti bez zavinění adresáta?
+- [ ] Je dodržena 15denní lhůta od odpadnutí překážky a roční limit (§ 41)?
+- [ ] Bylo řádně poučeno (§ 23 odst. 5) — jinak může být fikce vadná?
+
+**Typicky rozhodné důkazy / podklady:** doručenka s daty uložení a fikce, lékařské zprávy / doklady o nepřítomnosti, žádost dle § 24 odst. 2, případně poučení vložené při úložení.
 
 ### § 25 — Doručování VEŘEJNOU VYHLÁŠKOU
 
@@ -276,6 +492,42 @@ Doručuje-li se ve více obvodech obcí, orgán **zašle text obecním úřadům
 
 Týká-li se vyhláška **práv příslušníků národnostních menšin** a v obvodu orgánu je **výbor pro národnostní menšiny**, vyhláška se uveřejní i v jazyce příslušné menšiny.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V územním řízení s velkým počtem účastníků (přes 30) orgán doručuje veřejnou vyhláškou. Vyhlášku vyvěsí na fyzickou úřední desku dne 1. 6., ale na elektronickou úřední desku (dálkový přístup) ji nahraje až 10. 6. Účastník namítá pozdní nastoupení fikce a vadu doručení. Důkazy: potvrzení o vyvěšení s datem, log/screenshot elektronické desky, spisové záznamy o dnech vyvěšení a sejmutí.
+
+**2. Právní otázka.** Kdy nastane fikce doručení veřejnou vyhláškou, byla-li písemnost zveřejněna dálkovým přístupem opožděně oproti vyvěšení na fyzické úřední desce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 2 SŘ — vyvěšení na úřední desce + souběžné zveřejnění dálkovým přístupem; fikce 15. dnem, „byla-li v této lhůtě splněna i povinnost" dálkového zveřejnění.
+- *Související ustanovení téhož zákona:* § 26 (úřední deska a dálkový přístup), § 144 odst. 6 (řízení s velkým počtem účastníků), § 172 (opatření obecné povahy).
+- *Související předpisy:* zák. č. 128/2000 Sb. o obcích (úřední deska).
+- *Judikatura:* ÚS II.ÚS 1704/12 — úřední deska je zákonným prostředkem komunikace; každý nese následky neseznámení s jejím obsahem; současně dálkové zveřejnění je hmotněprávní podmínkou fikce.
+
+**4. Subsumpce.** Fikce 15. dnem nastoupí jen tehdy, byla-li v 15denní lhůtě splněna i povinnost dálkového zveřejnění. Zde dálkové zveřejnění proběhlo až 10. 6.; lhůta se odvíjí tak, aby obě podmínky byly splněny — pozdní dálkové zveřejnění může nastoupení fikce oddálit.
+
+**5. Řešení.** Orgán nese riziko, že fikce nenastala 15. dnem od fyzického vyvěšení, nebylo-li včas zveřejněno dálkově. Bezpečný postup: počítat 15denní lhůtu od splnění obou povinností. Procesní krok: doložit data obou zveřejnění.
+
+**6. Varianty.** (a) Obě zveřejnění proběhla současně 1. 6. → fikce 16. 6. (15. den). (b) Doručuje-li se ve více obcích, rozhodný je den vyvěšení na desce orgánu, který doručuje (odst. 3), nikoli obecních úřadů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozhodné je jen vyvěšení na fyzické desce." Neutralizace: odst. 2 váže fikci výslovně i na splnění povinnosti dálkového zveřejnění v téže lhůtě.
+- *Protiargument:* „Dálkové zveřejnění je jen pořádkové." Neutralizace: judikatura (NS 30 Cdo 2373/2012 obdobně k dálkovému přístupu) přiznává dálkovému zveřejnění hmotněprávní význam.
+- *Slabé místo:* prokazování přesných dat obou zveřejnění; chybějící log elektronické desky oslabuje pozici orgánu.
+
+#### H. Praktický závěr
+
+Doručení veřejnou vyhláškou je účinné jen při souběžném vyvěšení na úřední desce a zveřejnění dálkovým přístupem; 15denní fikce běží od splnění obou povinností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán zákonný důvod doručit vyhláškou (neznámý pobyt, mnoho účastníků, OOP)?
+- [ ] Byla písemnost vyvěšena na úřední desce s vyznačením dne vyvěšení?
+- [ ] Byla současně zveřejněna způsobem umožňujícím dálkový přístup?
+- [ ] Při více obcích: byl text zaslán obecním úřadům a počítá se den vyvěšení desky doručujícího orgánu?
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o vyvěšení a sejmutí, log/screenshot elektronické úřední desky, doklady o rozeslání obecním úřadům, případně překlad pro národnostní menšinu (odst. 4).
+
 ### § 26 — Úřední deska
 
 <!-- AUTOCITACE:§26 -->
@@ -302,6 +554,42 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
   > „Smlouva o převodu zemědělského pozemku ve vlastnictví státu je podle § 39 obč. zák. neplatná, nebyl-li obsah úřední desky o zahájení prodeje tohoto pozemku ve smyslu § 7 odst. 2 zákona č. 95/1999 Sb. zveřejněn příslušným obecním úřadem i způsobem umožňujícím dálkový přístup"
 - *ÚS* [II.ÚS 1704/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1704-12_1) — usnesení, 17. 5. 2012
   > „Protože úřední deska představuje zákonem stanovený prostředek komunikace úřadů (v širokém slova smyslu tohoto pojmu) navenek (srov. § 26 zákona č. 500/2004 Sb., §§ 12, 128 zákona č. 128/2000 Sb. aj.), musí být každý srozuměn s možnými následky a dopady neseznámení se s jejím obsahem"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad menší obce nezvládne technicky zajistit zveřejňování obsahu úřední desky dálkovým přístupem (nemá funkční web). Účastník namítá, že rozhodnutí doručované veřejnou vyhláškou nenabylo účinků, protože dálkové zveřejnění chybělo. Důkazy: stav webu obce, případná veřejnoprávní smlouva s ORP, spisové podklady o zveřejnění.
+
+**2. Právní otázka.** Jak musí správní orgán zajistit dálkový přístup k úřední desce a jaký je důsledek jeho absence pro doručování veřejnou vyhláškou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 SŘ — povinnost zřídit nepřetržitě přístupnou úřední desku a zveřejňovat její obsah i dálkovým přístupem; při nemožnosti uzavřít VPS s ORP (odst. 3, 4).
+- *Související ustanovení téhož zákona:* § 25 odst. 2 (fikce doručení vázaná na dálkové zveřejnění), § 160 (veřejnoprávní smlouva).
+- *Související předpisy:* zák. č. 128/2000 Sb. o obcích (§ 26 — úřední deska obce).
+- *Judikatura:* NS 30 Cdo 2373/2012 — absence dálkového zveřejnění obsahu úřední desky může mít hmotněprávní následky (tam neplatnost smlouvy); ÚS II.ÚS 1704/12 — úřední deska jako zákonný komunikační prostředek.
+
+**4. Subsumpce.** Obec má zákonnou povinnost dálkového zveřejnění (odst. 1). Nezvládne-li ji sama, musí uzavřít VPS s ORP (odst. 3). Bez splnění této povinnosti nemůže nastat fikce dle § 25 odst. 2 → doručení vyhláškou je vadné.
+
+**5. Řešení.** Orgán (resp. obec dle § 160 odst. 1) uzavře VPS s ORP o zveřejňování dálkovým přístupem; nedojde-li k ní, postupuje se dle odst. 4 (zvláštní zákon / rozhodnutí nadřízeného orgánu). Do zajištění dálkového přístupu nelze spolehlivě doručovat veřejnou vyhláškou. Procesní krok: doložit zajištění dálkového přístupu.
+
+**6. Varianty.** (a) Fyzická osoba vykonávající působnost správního orgánu (nepodnikající) → úřední desku zřizovat nemusí (odst. 2), doručuje přes desku obecního úřadu (§ 25 odst. 5). (b) Orgány ÚSC mají jednu společnou úřední desku (odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí fyzická úřední deska, dálkový přístup je nadstandard." Neutralizace: odst. 1 stanoví dálkové zveřejnění jako povinnost, na niž § 25 odst. 2 váže fikci.
+- *Protiargument:* „Za technickou nezpůsobilost obec neodpovídá." Neutralizace: odst. 3 ukládá řešení přes VPS s ORP; nečinnost je porušením povinnosti.
+- *Slabé místo:* prokazování nepřetržité dostupnosti desky; výpadky webu mohou zpochybnit běh fikčních lhůt.
+
+#### H. Praktický závěr
+
+Každý správní orgán musí mít nepřetržitě přístupnou úřední desku a zajistit dálkový přístup k jejímu obsahu (sám, nebo VPS s ORP); bez toho selhává i doručování veřejnou vyhláškou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je úřední deska nepřetržitě veřejně přístupná?
+- [ ] Je obsah desky zveřejňován dálkovým přístupem?
+- [ ] Nezvládá-li orgán dálkový přístup sám — je uzavřena VPS s ORP (§ 160)?
+- [ ] Mají orgány ÚSC jednu společnou desku?
+
+**Typicky rozhodné důkazy / podklady:** stav a logy webu / elektronické desky, veřejnoprávní smlouva s ORP, rozhodnutí nadřízeného orgánu dle odst. 4, doklady o nepřetržité dostupnosti.
 
 ---
 
@@ -349,6 +637,42 @@ Pokud orgán nezvládne dálkový přístup → **VPS s obcí s rozšířenou p�
 - **Existující právo / povinnost** — ne pouhý zájem morální či ekonomický.
 - **Identifikovatelnost** — orgán musí mít možnost dotčenou osobu identifikovat (jinak: doručování veřejnou vyhláškou + opatrovník § 32 odst. 2 písm. e).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V územním řízení o umístění stavby haly se účastenství domáhá vlastník pozemku vzdáleného přes ulici od stavby, který tvrdí, že stavba zhorší výhled a hluk z provozu. Stavebník namítá, že jeho pozemek nesousedí a nemůže být přímo dotčen. Důkazy: katastrální mapa s odstupy, hluková/světelná studie, projektová dokumentace.
+
+**2. Právní otázka.** Je vlastník nesousedního, avšak blízkého pozemku účastníkem podle § 27 odst. 2 (může být rozhodnutím přímo dotčen na svých právech)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1 a 2 SŘ — hlavní a vedlejší účastníci; vedlejší = osoby, které mohou být rozhodnutím přímo dotčeny.
+- *Související ustanovení téhož zákona:* § 28 (sporné účastenství), § 27 odst. 3 (zákonní účastníci), § 32 odst. 2 písm. e) (opatrovník neznámým).
+- *Související předpisy:* stavební zákon (vymezení účastníků územního řízení); zák. č. 114/1992 Sb. (spolky jako účastníci dle § 27 odst. 3).
+- *Judikatura:* NSS 6 As 87/2020-36 — postačuje potencialita bezprostředního dotčení práva; k reálnému zásahu nemusí dojít.
+
+**4. Subsumpce.** Test: bezprostřední (ne hypotetická) dotčenost existujícího práva. Hluk a zastínění mohou bezprostředně zasáhnout vlastnické právo i u nesousedního, ale blízkého pozemku. Postačí potencialita dotčení (NSS) → osoba splňuje znaky § 27 odst. 2.
+
+**5. Řešení.** Orgán přizná účastenství podle odst. 2, vyžaduje-li to test bezprostřední dotčenosti (s oporou ve studiích). Nepřizná-li, vystavuje rozhodnutí riziku zrušení. Procesní krok: opatřit hlukovou/světelnou studii a posoudit reálný dosah vlivů.
+
+**6. Varianty.** (a) Pozemek je tak vzdálen, že vlivy stavby jsou vyloučeny → jen morální/estetický zájem, účastenství nevzniká. (b) Žadatel o povolení = hlavní účastník dle odst. 1, jeho postavení je nesporné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Účastníkem je jen vlastník sousedního pozemku." Neutralizace: rozhodující je bezprostřední dotčenost, nikoli mechanická sousednost; NSS akcentuje potencialitu dotčení.
+- *Protiargument:* „Hrozí nekonečné rozšiřování okruhu účastníků." Neutralizace: test § 27 odst. 2 vylučuje nepřímé, hypotetické a vzdálené zájmy; dotčení musí být přímé a doložitelné.
+- *Slabé místo:* hranice „přímé dotčenosti" je skutkově sporná; chybějící odborné podklady (hluk, zastínění) oslabují posouzení.
+
+#### H. Praktický závěr
+
+Okruh účastníků se vymezuje testem bezprostřední dotčenosti existujících práv; pochybení v jeho stanovení je častou příčinou zrušení rozhodnutí, proto je třeba okruh pečlivě a doložitelně určit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o hlavního účastníka (odst. 1), vedlejšího (odst. 2), nebo zákonného (odst. 3)?
+- [ ] Je dotčení práva bezprostřední a doložitelné (ne pouze ekonomický/morální zájem)?
+- [ ] Lze osobu identifikovat (jinak vyhláška + opatrovník dle § 32)?
+- [ ] Stanoví zvláštní zákon okruh účastníků odchylně?
+
+**Typicky rozhodné důkazy / podklady:** katastrální mapa a odstupy, projektová dokumentace, hluková/světelná/rozptylová studie, znalecké posouzení vlivů, příslušné ustanovení zvláštního zákona.
+
 ### § 28 — Sporné účastenství
 
 <!-- AUTOCITACE:§28 -->
@@ -373,6 +697,42 @@ O sporném účastenství orgán rozhodne **usnesením** — oznamuje se jen tom
 #### Zachování úkonů (odst. 2)
 
 Pokud osoba podá odvolání proti usnesení o nevyhovění a odvolání bude vyhověno → **má 15 dnů od oznámení rozhodnutí o odvolání na úkony**, které jako účastník mohla učinit.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soused, jehož žádost o přiznání postavení účastníka v řízení o povolení provozu zdroje znečištění správní orgán neformálně odmítl bez usnesení, podá námitku, že je účastníkem. Orgán teprve poté vydá usnesení, že účastníkem není; soused se odvolá a odvolací orgán mu vyhoví. Mezitím však uplynula lhůta k vyjádření k podkladům. Důkazy: spis o průběhu řízení, usnesení o neúčastenství, odvolání a rozhodnutí o něm, datace úkonů.
+
+**2. Právní otázka.** Může osoba, jíž bylo až odvolacím rozhodnutím přiznáno postavení účastníka, dodatečně učinit úkon (vyjádření k podkladům), který mezitím zmeškala?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 odst. 1 (v pochybnostech je účastníkem, kdo to tvrdí, do prokázání opaku; usnesení o účastenství) a odst. 2 (15denní lhůta na zmeškaný úkon po vyhovění odvolání).
+- *Související ustanovení téhož zákona:* § 27 (kdo je účastníkem), § 41 odst. 6 (navrácení v předešlý stav — obdobně), § 36 odst. 3 (vyjádření k podkladům).
+- *Související předpisy:* —
+- *Judikatura:* NS 28 Cdo 2044/2015 — u taxativně vymezeného okruhu účastníků (restituce) je aplikace § 27 odst. 2 vyloučena; jinak platí ochrana sporného účastníka.
+
+**4. Subsumpce.** Osoba tvrdila účastenství → do prokázání opaku byla účastníkem (odst. 1). Odvolání proti usnesení o neúčastenství bylo vyhověno → nastupuje odst. 2: zmeškaný úkon lze učinit do 15 dnů od oznámení rozhodnutí o odvolání.
+
+**5. Řešení.** Sousedovi je třeba umožnit dodatečné vyjádření k podkladům do 15 dnů od oznámení odvolacího rozhodnutí; jinak je řízení vůči němu vadné. Procesní krok: zpřístupnit spis a stanovit lhůtu k vyjádření.
+
+**6. Varianty.** (a) Zvláštní zákon vymezuje okruh účastníků taxativně (NS 28 Cdo 2044/2015) → § 27 odst. 2 se nepoužije a sporné účastenství nevzniká. (b) Odvolání proti usnesení o neúčastenství bylo zamítnuto → osoba účastníkem není a úkony jí nepřísluší.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vydání usnesení o neúčastenství zastavuje účast okamžitě." Neutralizace: odst. 1 přiznává postavení účastníka do pravomocného vyřešení sporu; navíc postup nebrání projednání věci, ale chrání úkony dle odst. 2.
+- *Protiargument:* „Zmeškané úkony propadly." Neutralizace: odst. 2 výslovně poskytuje 15denní lhůtu po úspěšném odvolání.
+- *Slabé místo:* běh řízení mezitím pokračuje; rozhodnutí ve věci může být vydáno dříve, než se účastenství vyřeší — riziko vady.
+
+#### H. Praktický závěr
+
+Sporné účastenství orgán řeší usnesením, přičemž do jeho pravomocného vyřešení svědčí domnělému účastníkovi ochrana; po úspěšném odvolání má 15 dnů na zmeškané úkony.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo o sporném účastenství rozhodnuto usnesením (oznámeným dotčené osobě)?
+- [ ] Byli ostatní účastníci o usnesení vyrozuměni?
+- [ ] Po vyhovění odvolání: byla poskytnuta 15denní lhůta na zmeškané úkony?
+- [ ] Nevylučuje zvláštní zákon sporné účastenství (taxativní okruh)?
+
+**Typicky rozhodné důkazy / podklady:** usnesení o (ne)účastenství, odvolání a rozhodnutí o něm, spisová datace úkonů, příslušné ustanovení zvláštního zákona o okruhu účastníků.
 
 ### § 29 — Procesní způsobilost
 
@@ -412,6 +772,42 @@ Klíčové ustanovení transponující čl. 12 Úmluvy o právech dítěte:
 - Vyžaduje-li to zájem dítěte → výslech **bez přítomnosti rodičů** → orgán přibere **jinou vhodnou dospělou osobu**.
 - K názoru orgán **přihlíží** s ohledem na věk a rozumovou vyspělost.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení o úpravě styku, jehož účastníkem je 12leté dítě, správní orgán (OSPOD-relevantní agenda) rozhodne, aniž by zjistil názor dítěte; spokojí se s vyjádřením rodičů. Druhý rodič namítá, že nebyl zjištěn názor dítěte schopného jej formulovat. Důkazy: protokol o jednání, absence záznamu o výslechu dítěte, posouzení rozumové vyspělosti dítěte.
+
+**2. Právní otázka.** Je rozhodnutí vadné, jestliže orgán nezjistil názor nezletilého dítěte, které je schopno své názory formulovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 4 SŘ — orgán postupuje tak, aby byl zjištěn názor dítěte schopného jej formulovat (přímo, přes zástupce nebo OSPOD); přihlíží k němu podle věku a vyspělosti.
+- *Související ustanovení téhož zákona:* § 29 odst. 1–3 (procesní způsobilost, vyjádření osoby bez ní), § 32 (zákonné zastoupení / opatrovník).
+- *Související předpisy:* čl. 12 Úmluvy o právech dítěte; zák. č. 89/2012 Sb. (svéprávnost nezletilých); zák. č. 359/1999 Sb. o sociálně-právní ochraně dětí.
+- *Judikatura:* ústavní a obecná praxe vyžaduje reálné zjištění a zohlednění názoru dítěte; jeho opomenutí je vadou řízení dotýkající se základních práv.
+
+**4. Subsumpce.** Dítě (12 let) je zpravidla schopno formulovat názor → vzniká povinnost orgánu zjistit jej. Orgán tuto povinnost nesplnil (žádný výslech ani zprostředkování přes OSPOD) → procesní pochybení dotýkající se práv dítěte.
+
+**5. Řešení.** Rozhodnutí je zatíženo vadou; v odvolání/přezkumu může být zrušeno. Náprava: zjistit názor dítěte přímo, přes zástupce nebo OSPOD, případně bez přítomnosti rodičů s přibráním vhodné dospělé osoby, a k názoru přihlédnout. Procesní krok: doplnit dokazování o výslech / zprávu.
+
+**6. Varianty.** (a) Dítě je velmi malé a názor formulovat nedokáže → povinnost zjišťovat názor nevzniká. (b) Účastník je omezen ve svéprávnosti v rozsahu daného úkonu → musí jednat zákonný zástupce / opatrovník (odst. 2, § 32).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Postačí vyjádření rodičů jako zákonných zástupců." Neutralizace: odst. 4 zakládá samostatnou povinnost zjistit názor dítěte, kterou stanovisko rodičů nenahrazuje.
+- *Protiargument:* „Zjišťování názoru dítě traumatizuje." Neutralizace: zákon umožňuje šetrné formy (přes OSPOD, bez přítomnosti rodičů, s vhodnou dospělou osobou); jde o způsob, ne o vyloučení povinnosti.
+- *Slabé místo:* posouzení, zda dítě je „schopno formulovat názory", je individuální; chybějící odborné posouzení vyspělosti oslabuje obě strany.
+
+#### H. Praktický závěr
+
+Procesní způsobilost se odvozuje od svéprávnosti; u nezletilých účastníků schopných formulovat názor je zjištění a zohlednění jejich názoru obligatorní, jinak je řízení vadné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má účastník procesní způsobilost v rozsahu daného úkonu (= svéprávnost)?
+- [ ] Je-li omezen / nezletilý: jedná zákonný zástupce nebo opatrovník (§ 32)?
+- [ ] Je-li účastníkem dítě schopné formulovat názor: byl jeho názor zjištěn a zohledněn?
+- [ ] Byla zvolena šetrná forma zjištění (přímo / zástupce / OSPOD)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o výslechu dítěte nebo zpráva OSPOD, posouzení rozumové vyspělosti, doklad o svéprávnosti/omezení, listiny o zákonném zastoupení.
+
 ### § 30 — Úkony právnické osoby a státu
 
 <!-- AUTOCITACE:§30 -->
@@ -443,6 +839,42 @@ Za stát jedná **vedoucí organizační složky státu** (typicky ředitel úř
 
 Za obec/kraj jedná osoba **oprávněná zastupovat ÚSC navenek** podle zákona o obcích / krajích (typicky **starosta / hejtman**), zaměstnanec nebo **pověřený člen zastupitelstva**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Za s.r.o. v řízení o uložení pokuty činí úkony současně jednatel a vedle něj i provozní ředitel, který se prokazuje pouze ústním tvrzením o pověření. Oba podávají rozdílná vyjádření. Orgán neví, čí úkon je za PO platný. Důkazy: výpis z OR o jednateli, organizační řád / pověření ředitele, protokoly o úkonech obou osob.
+
+**2. Právní otázka.** Kdo je oprávněn činit úkony jménem právnické osoby a co platí, činí-li v téže věci úkony více osob současně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1, 2 a 5 SŘ — jménem PO jedná ten, kdo je oprávněn před soudem; v téže věci jen jedna osoba současně; každý musí prokázat své oprávnění.
+- *Související ustanovení téhož zákona:* § 21 odst. 2 (převzetí písemností za PO), § 33 (zmocnění), § 34 (účinky zastoupení).
+- *Související předpisy:* zák. č. 99/1963 Sb. (o.s.ř. — jednání za PO před soudem), zák. č. 89/2012 Sb. (statutární orgán, zastupování PO).
+- *Judikatura:* PO jedná statutárním orgánem nebo osobou pověřenou organizačním řádem; prokázání oprávnění je podmínkou platnosti úkonu.
+
+**4. Subsumpce.** Jednatel je statutárním orgánem → oprávněn jednat (odst. 1). Provozní ředitel musí prokázat pověření (odst. 5); ústní tvrzení nestačí. Současné jednání obou je vyloučeno odst. 2 — za PO může v téže věci jednat jen jedna osoba.
+
+**5. Řešení.** Orgán vyzve PO, aby určila jednu jednající osobu, případně upřednostní statutární orgán (jednatele) a ředitele připustí jen s doloženým pověřením. Procesní krok: vyžádat listinný doklad o oprávnění a sjednotit jednání.
+
+**6. Varianty.** (a) Za stát: jedná vedoucí organizační složky státu nebo jím pověřený zaměstnanec (odst. 3). (b) Za ÚSC: starosta/hejtman, zaměstnanec nebo pověřený člen zastupitelstva (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ředitel fakticky řídí firmu, jeho úkon je platný." Neutralizace: bez doloženého oprávnění (odst. 5) nelze úkon přičíst PO; rozhodný je formální titul k jednání.
+- *Protiargument:* „Oba úkony jsou platné, orgán vybere lepší." Neutralizace: odst. 2 připouští v téže věci jen jednu jednající osobu; konkurující úkony nelze obě uznat.
+- *Slabé místo:* prokazování rozsahu pověření zaměstnance organizačním řádem; nejasné vnitřní předpisy PO komplikují posouzení.
+
+#### H. Praktický závěr
+
+Za PO jedná statutární orgán nebo doložitelně pověřená osoba, vždy jen jedna v téže věci; obdobně za stát vedoucí OSS a za ÚSC starosta/hejtman — každý musí prokázat své oprávnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je jednající osoba statutárním orgánem, nebo doložitelně pověřeným zaměstnancem?
+- [ ] Jedná v téže věci pouze jedna osoba za PO?
+- [ ] U státu/ÚSC: je dán správný subjekt (vedoucí OSS / starosta-hejtman / pověřený)?
+- [ ] Prokázala jednající osoba své oprávnění listinou?
+
+**Typicky rozhodné důkazy / podklady:** výpis z OR, organizační řád a pověření, doklad o funkci vedoucího OSS, usnesení/pověření člena zastupitelstva, protokoly o úkonech.
+
 ### § 31 — Zástupce (definice)
 
 <!-- AUTOCITACE:§31 -->
@@ -461,6 +893,42 @@ Za obec/kraj jedná osoba **oprávněná zastupovat ÚSC navenek** podle zákona
 3. **Smluvní** — zmocněnec (§ 33).
 
 Plus **kolektivní formy**: společný zmocněnec / společný zástupce (§ 35).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení vystupuje za nezletilého účastníka jeden z rodičů jako zákonný zástupce, vedle něj však chce za totéž dítě činit úkony i zmocněnec, kterého dítěti „ustanovil" druhý rodič. Orgán řeší, kdo je platným zástupcem. Důkazy: rodné listy / doklad o rodičovství, plná moc, listina o případném opatrovnictví.
+
+**2. Právní otázka.** Jak se vymezují jednotlivé typy zastoupení účastníka (zákonné, opatrovník, zmocněnec) a jejich vzájemný vztah?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 SŘ — zástupcem je zákonný zástupce, opatrovník nebo zmocněnec; možný i společný zmocněnec/zástupce, neodporují-li si zájmy.
+- *Související ustanovení téhož zákona:* § 32 (zákonné zastoupení a opatrovnictví), § 33 (plná moc), § 34 (účinky), § 35 (společný zmocněnec/zástupce).
+- *Související předpisy:* zák. č. 89/2012 Sb. (§ 858 — rodičovská odpovědnost; opatrovník).
+- *Judikatura:* zastoupení musí vždy sledovat zájem zastoupeného; kolize mezi typy zastoupení se řeší prioritou zákonného zastoupení a vyloučením střetu zájmů.
+
+**4. Subsumpce.** Nezletilého zastupuje zákonný zástupce (rodič) z titulu rodičovské odpovědnosti — jde o zastoupení ze zákona (§ 32 odst. 1). Smluvní zmocněnec předpokládá procesní způsobilost zmocnitele; za nezletilého ho však nemůže ustanovit jeden rodič proti zákonnému zastoupení druhého bez procesního titulu.
+
+**5. Řešení.** Orgán uzná jednání zákonného zástupce; zmocnění je relevantní jen v rozsahu, v němž je zastoupený procesně způsobilý a zmocnění platně udělil. Při kolizi zájmů rodičů zvažuje orgán ustanovení opatrovníka (§ 32). Procesní krok: ověřit tituly zastoupení.
+
+**6. Varianty.** (a) Zletilý procesně způsobilý účastník si zvolí zmocněnce → smluvní zastoupení dle § 33. (b) Více účastníků se shodným zájmem → společný zmocněnec/zástupce dle § 35.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Každý typ zastoupení je rovnocenný a zaměnitelný." Neutralizace: § 31 je rozlišuje podle právního titulu; zákonné zastoupení a opatrovnictví mají odlišný základ než smluvní plná moc.
+- *Protiargument:* „Společný zmocněnec lze vždy." Neutralizace: § 31 jej připouští jen u účastníků, jejichž zájmy si neodporují.
+- *Slabé místo:* posouzení střetu zájmů mezi zastoupenými či mezi rodiči nezletilého; nejasné tituly oslabují platnost úkonů.
+
+#### H. Praktický závěr
+
+§ 31 zakládá tři typy zastoupení (zákonné, opatrovník, zmocněnec) a kolektivní formy; jejich užití se řídí právním titulem a vyloučením střetu zájmů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O jaký typ zastoupení jde (zákonné / opatrovník / zmocněnec)?
+- [ ] Má zastoupený procesní způsobilost potřebnou pro smluvní zmocnění?
+- [ ] Neodporují si zájmy účastníků při společném zmocněnci/zástupci?
+- [ ] Není dán střet zájmů vyžadující jiného zástupce / opatrovníka?
+
+**Typicky rozhodné důkazy / podklady:** doklady o rodičovství / opatrovnictví, plná moc, listiny o procesní způsobilosti, posouzení střetu zájmů.
 
 ### § 32 — Zákonné zastoupení a OPATROVNICTVÍ
 
@@ -560,6 +1028,42 @@ Automaticky:
 
 Orgán **poznamená do spisu** (nebo v pochybnosti usnesením).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník je osobou neznámého pobytu (odstěhoval se neznámo kam, pošta se vrací). V řízení o uložení pokuty mu má být uložena povinnost. Orgán mu jako opatrovníka ustanoví bez bližšího šetření vlastní úřednici, která v řízení nečiní žádné úkony. Účastník se po čase vrátí a namítá vady. Důkazy: spis o pokusech doručit, usnesení o ustanovení opatrovníka, záznam o (ne)činnosti opatrovníka.
+
+**2. Právní otázka.** Byl opatrovník účastníku neznámého pobytu, jemuž má být uložena povinnost, ustanoven v souladu s § 32 a hájil řádně jeho práva?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 2 písm. d) (opatrovník osobám neznámého pobytu / jimž se nedaří doručovat), odst. 3 (výjimka: vyhláška místo opatrovníka jen tam, kde se neukládá povinnost / neodnímá právo), odst. 4 (kdo se ustanoví; vyloučení střetu zájmů), odst. 7 (výměna nedbalého opatrovníka).
+- *Související ustanovení téhož zákona:* § 22 (doručování do ciziny → opatrovník), § 25 (veřejná vyhláška), § 34 (účinky zastoupení).
+- *Související předpisy:* zák. č. 89/2012 Sb. (§ 38 — předběžné prohlášení).
+- *Judikatura:* ÚS II.ÚS 1143/12 — ustanovení opatrovníka nepřítomnému musí předcházet šetření; opatrovník musí reálně hájit zájmy (studium spisu, vyjádření, vedení sporu), ne být formální.
+
+**4. Subsumpce.** Jde o osobu neznámého pobytu, jíž má být uložena povinnost → výjimka odst. 3 (pouhá vyhláška) se neuplatní, opatrovník je nezbytný [písm. d)]. Ustanovení bez předchozího šetření a nečinný opatrovník odporují odst. 4 a požadavkům ÚS → vada řízení dotýkající se základních práv.
+
+**5. Řešení.** Orgán musí nejprve prokazatelně šetřit pobyt (evidence obyvatel, dotazy), zvážit jiná opatření, a opatrovníkem ustanovit osobu bez střetu zájmů, která bude reálně aktivní. Nedbalý opatrovník se nahradí dle odst. 7. Procesní krok: doložit šetření a aktivitu opatrovníka.
+
+**6. Varianty.** (a) Účastníkovi se neukládá povinnost ani neodnímá právo → postačí veřejná vyhláška (odst. 3), opatrovník se neustanovuje. (b) Účastník v předběžném prohlášení určil opatrovníka → ustanoví se tato osoba s jejím souhlasem (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ustanovení vlastního úředníka je běžná praxe." Neutralizace: ÚS II.ÚS 1143/12 vyžaduje reálné hájení zájmů a vyloučení střetu; úředník téhož orgánu jako pasivní opatrovník je rizikový.
+- *Protiargument:* „Stačilo doručovat vyhláškou." Neutralizace: u účastníka, jemuž se ukládá povinnost, odst. 3 vyhlášku místo opatrovníka nepřipouští.
+- *Slabé místo:* prokazování dostatečnosti šetření o pobytu; formální opatrovnictví je samostatným důvodem zrušení.
+
+#### H. Praktický závěr
+
+Opatrovníka podle § 32 lze ustanovit až po šetření a jen tehdy, není-li jiné řešení; u zatěžujících řízení nelze opatrovníka nahradit vyhláškou a opatrovník musí práva opatrovance skutečně hájit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je naplněn některý z důvodů odst. 2 písm. a)–i)?
+- [ ] Ukládá se povinnost / odnímá právo (pak nelze nahradit vyhláškou dle odst. 3)?
+- [ ] Předcházelo ustanovení opatrovníka šetření a zvážení jiných opatření?
+- [ ] Nemá opatrovník střet zájmů a hájí práva reálně (jinak výměna dle odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o šetření pobytu (evidence obyvatel, dotazy), usnesení o ustanovení/výměně opatrovníka, lékařský posudek [písm. g)], předběžné prohlášení, záznam o úkonech opatrovníka.
+
 ### § 33 — Zastoupení na základě plné moci (SMLUVNÍ)
 
 <!-- AUTOCITACE:§33 -->
@@ -612,6 +1116,42 @@ Zmocněnec smí udělit plnou moc dalšímu **jen výslovně-li to plná moc dov
 
 Pokud se zmocněnci nedaří doručovat → orgán postupuje podle § 32 odst. 2 písm. d) — ustanoví **opatrovníka pro doručování** (nebo veřejná vyhláška podle odst. 3). Účastník je o tom vyrozuměn + dostane obsah písemnosti.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový poradce (bez advokátní licence) předloží orgánu generální plnou moc „pro veškerá budoucí řízení" klienta, avšak podpis na ní není úředně ověřen a plná moc nebyla uložena u orgánu před zahájením řízení. Orgán řeší, zda je zmocnění platné a zda poradce může v substituci pověřit kolegu. Důkazy: text plné moci, doklad o ověření podpisu, záznam o uložení plné moci u orgánu.
+
+**2. Právní otázka.** Je generální plná moc pro neurčitý počet budoucích řízení platná bez úředně ověřeného podpisu a smí zmocněnec ustanovit substituta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 odst. 1 (jeden zmocněnec v téže věci; písemně nebo ústně do protokolu), odst. 2 písm. c) (generální plná moc — úředně ověřený podpis + uložení u orgánu), odst. 3 (substituce jen je-li výslovně dovolena), odst. 4 (selhání doručování zmocněnci → § 32).
+- *Související ustanovení téhož zákona:* § 34 (účinky zastoupení), § 20 odst. 2 (plná moc k převzetí).
+- *Související předpisy:* zák. č. 85/1996 Sb. (§ 26 — substituce advokáta ex lege).
+- *Judikatura:* NSS 1 As 60/2017-33 — zastoupení ve správním řízení je fakultativní; účastník je vázán specifiky, která z volby zástupce plynou.
+
+**4. Subsumpce.** Jde o plnou moc dle písm. c) (budoucí neurčitá řízení) → vyžaduje úředně ověřený podpis a uložení u orgánu. Tyto podmínky splněny nejsou → generální zmocnění je vadné. Substituce poradce není dovolena, neobsahuje-li ji výslovně plná moc (poradce není advokát s ex lege substitucí).
+
+**5. Řešení.** Orgán vyzve k odstranění vady (doplnění ověřeného podpisu / uložení), případně bude jednat s účastníkem přímo. Substituta poradce nepřipustí bez výslovného oprávnění. Procesní krok: vyžádat řádnou plnou moc.
+
+**6. Varianty.** (a) Plná moc pro konkrétní řízení (písm. b) → postačí prostá písemná forma nebo do protokolu, ověření netřeba. (b) Zástupcem je advokát → substituce dovolena ex lege (§ 26 zák. o advokacii) i bez výslovné doložky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ve správním řízení může zastupovat kdokoli, formality jsou zbytečné." Neutralizace: byť SŘ nezná zákaz pokoutnictví, generální plná moc dle písm. c) má přísné formální náležitosti (ověření, uložení).
+- *Protiargument:* „Substituce je vždy možná." Neutralizace: odst. 3 ji připouští jen při výslovném dovolení, nestanoví-li zákon jinak (advokát).
+- *Slabé místo:* prokazování okamžiku uložení generální plné moci u orgánu před zahájením řízení; absence záznamu zpochybňuje zmocnění.
+
+#### H. Praktický závěr
+
+V téže věci jedná jediný zmocněnec; běžná plná moc je neformální, generální plná moc pro budoucí řízení vyžaduje ověřený podpis a uložení u orgánu, substituce je možná jen při výslovném dovolení (u advokáta ex lege).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o jednoho zmocněnce v téže věci?
+- [ ] Odpovídá forma plné moci jejímu rozsahu (písm. a–d)?
+- [ ] U generální plné moci (písm. c): je podpis úředně ověřen a plná moc uložena u orgánu?
+- [ ] Je substituce výslovně dovolena (nebo jde o advokáta)?
+
+**Typicky rozhodné důkazy / podklady:** text plné moci, doklad o ověření podpisu, záznam o uložení plné moci u orgánu, protokol o ústním udělení, doklad o advokátním statusu zástupce.
+
 ### § 34 — Účinky zastoupení
 
 <!-- AUTOCITACE:§34 -->
@@ -645,6 +1185,42 @@ V pochybnosti se předpokládá zastoupení **v celém řízení**.
 
 Pokud úkon ve prospěch účastníka učiní **někdo jiný než zástupce** → orgán **MŮŽE uznat** tyto úkony za úkony zástupce, žádá-li o to účastník a nemůže-li vzniknout újma jinému účastníkovi. Usnesením.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník zastoupený advokátem osobně převezme rozhodnutí dne 1. 6.; témuž advokátovi je rozhodnutí doručeno do DS až 8. 6. Orgán počítá odvolací lhůtu od 1. 6. (osobní převzetí účastníkem) a po 15 dnech vyznačí právní moc. Účastník namítá, že lhůta běží až od doručení advokátovi. Důkazy: doručenky obou doručení, plná moc ve spise, datace vyznačení právní moci.
+
+**2. Právní otázka.** Od kterého okamžiku běží lhůta pro odvolání, je-li účastník zastoupen a rozhodnutí bylo doručeno jak jemu osobně, tak jeho zástupci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (úkony zástupce zavazují přímo zastoupeného), odst. 2 (písemnosti se doručují pouze zástupci; doručení zastoupenému nemá účinky pro běh lhůt), odst. 3 (v pochybnostech zastoupení v celém řízení), odst. 4 (uznání úkonů jiné osoby).
+- *Související ustanovení téhož zákona:* § 33 (plná moc), § 83 (odvolací lhůta), § 73 (právní moc).
+- *Související předpisy:* —
+- *Judikatura:* doručení zastoupenému namísto zástupci nezakládá běh lhůt; rozhodný je okamžik doručení zástupci.
+
+**4. Subsumpce.** Účastník je zastoupen → doručuje se pouze zástupci (odst. 2). Doručení účastníkovi osobně (1. 6.) nemá účinky pro běh lhůt; rozhodné je doručení advokátovi (8. 6.). Lhůta tedy běží od 8. 6., nikoli od 1. 6.
+
+**5. Řešení.** Orgán musí počítat odvolací lhůtu od doručení do DS advokáta (8. 6.); dříve vyznačená právní moc je vadná a je nutné ji opravit. Procesní krok: přepočítat lhůtu a opravit doložku právní moci. Výjimka: má-li zastoupený něco vykonat osobně, informuje se i přímo.
+
+**6. Varianty.** (a) Účastník měl být obeslán k osobnímu úkonu (výslech) → doručuje se i jemu přímo (odst. 2 věta první in fine). (b) Úkon ve prospěch účastníka učinila jiná osoba než zástupce → orgán jej může uznat na žádost účastníka, nehrozí-li újma jinému (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Účastník se s rozhodnutím seznámil 1. 6., lhůta běží od té chvíle." Neutralizace: odst. 2 výslovně odpírá doručení zastoupenému účinky pro běh lhůt.
+- *Protiargument:* „Doručení oběma urychluje řízení." Neutralizace: rozhodný okamžik je doručení zástupci; dvojí doručení nemění počátek lhůty.
+- *Slabé místo:* určení, zda šlo o písemnost vyžadující osobní úkon zastoupeného; chybná kvalifikace mění režim doručení.
+
+#### H. Praktický závěr
+
+Je-li účastník zastoupen, doručuje se pouze zástupci a jen toto doručení rozbíhá lhůty; doručení zastoupenému je bez účinků pro běh lhůt, vyjma písemností k osobnímu úkonu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je účastník zastoupen a je plná moc ve spise?
+- [ ] Bylo doručeno zástupci (a od tohoto okamžiku počítána lhůta)?
+- [ ] Nejde o písemnost vyžadující osobní úkon zastoupeného (pak i jemu)?
+- [ ] Je doložka právní moci počítána od doručení zástupci?
+
+**Typicky rozhodné důkazy / podklady:** plná moc, doručenky zástupci i zastoupenému s daty, doložka právní moci, povaha doručované písemnosti (osobní úkon?).
+
 ### § 35 — Společný zmocněnec / společný zástupce
 
 <!-- AUTOCITACE:§35 -->
@@ -674,6 +1250,42 @@ Pokud na výzvu **nezvolí** + hrozí průtahy → orgán **usnesením ustanoví
 #### Vícero zmocněnců (odst. 3)
 
 Lze ustanovit i několik společných zmocněnců, každý pro určitou skupinu účastníků.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení o umístění liniové stavby vystupuje přes 40 vlastníků dotčených pozemků se shodným zájmem (brání se stavbě). Orgán je vyzve, aby si do 30 dnů zvolili společného zmocněnce, a upozorní, že do té doby jim může doručovat uložením u orgánu. Účastníci nereagují a hrozí průtahy. Důkazy: výzva s poučením, doklady o doručení výzvy, seznam účastníků se shodným zájmem.
+
+**2. Právní otázka.** Může orgán ustanovit společného zástupce skupině účastníků se shodným zájmem, nezvolí-li si na výzvu společného zmocněnce, a jak jim do té doby doručovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 (výzva ke zvolení společného zmocněnce), odst. 2 (ustanovení společného zástupce při hrozbě průtahů + doručování uložením u orgánu po upozornění; zánik funkce volbou zmocněnce), odst. 3 (více zmocněnců/zástupců pro skupiny), odst. 4 (přiměřeně § 34).
+- *Související ustanovení téhož zákona:* § 30 odst. 1 (kdo může být ustanoven), § 34 (účinky), § 144 (řízení s velkým počtem účastníků).
+- *Související předpisy:* —
+- *Judikatura:* institut směřuje k hospodárnosti řízení; ustanovení společného zástupce nesmí potlačit divergující zájmy jednotlivců.
+
+**4. Subsumpce.** Účastníci uplatňují shodný zájem a na výzvu nezvolili zmocněnce + hrozí průtahy → orgán může usnesením ustanovit společného zástupce (odst. 2). Do té doby doručuje uložením u orgánu, neboť na to ve výzvě upozornil. Funkce zástupce zanikne, oznámí-li účastníci volbu vlastního zmocněnce.
+
+**5. Řešení.** Orgán ustanoví usnesením společného zástupce z řad účastníků nebo osobu dle § 30 odst. 1, s přihlédnutím k zájmům skupiny. Procesní krok: vydat usnesení a vést doručování přes zástupce; respektovat právo účastníků zvolit si zmocněnce. Při divergenci zájmů zvážit více zástupců (odst. 3).
+
+**6. Varianty.** (a) Účastníci si sami zvolí společného zmocněnce (i bez výzvy) → orgán nebude ustanovovat zástupce (odst. 1). (b) Zájmy ve skupině se rozejdou → lze ustanovit více zástupců, každý pro určitou podskupinu (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ustanovením společného zástupce se účastníkům odnímá vlastní procesní hlas." Neutralizace: funkce zástupce zaniká, jakmile účastníci oznámí volbu vlastního zmocněnce (odst. 2 in fine); jde o odstranitelné, dočasné opatření.
+- *Protiargument:* „Doručování uložením u orgánu je nepřípustné." Neutralizace: odst. 2 je připouští, byli-li na to účastníci ve výzvě upozorněni.
+- *Slabé místo:* posouzení „shodného zájmu" a hrozby průtahů; sloučení účastníků s odlišnými zájmy je vadou.
+
+#### H. Praktický závěr
+
+Při více účastnících se shodným zájmem orgán nejprve vyzve ke zvolení společného zmocněnce; nestane-li se tak a hrozí průtahy, může usnesením ustanovit společného zástupce, do té doby doručuje uložením u orgánu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplatňují účastníci skutečně shodný zájem?
+- [ ] Byla vydána výzva ke zvolení společného zmocněnce s upozorněním na doručování uložením?
+- [ ] Hrozí průtahy odůvodňující ustanovení společného zástupce (usnesením)?
+- [ ] Je zachováno právo účastníků zvolit si vlastního zmocněnce (zánik funkce zástupce)?
+
+**Typicky rozhodné důkazy / podklady:** seznam účastníků a doklad o shodnosti zájmu, výzva s poučením a doklady o jejím doručení, usnesení o ustanovení společného zástupce, oznámení o volbě zmocněnce.
 
 ---
 
@@ -728,6 +1340,42 @@ Speciální režim **u utajovaných informací** uchovávaných odděleně (§ 1
 #### Průkaz totožnosti (odst. 5)
 
 Účastník, zástupce nebo podpůrce **musí předložit průkaz totožnosti** na výzvu úřední osoby (veřejnou listinu s jménem, datem narození, podobou).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Po skončení dokazování orgán vydá rozhodnutí o uložení pokuty, aniž by účastníka před jeho vydáním vyrozuměl o možnosti vyjádřit se k podkladům a stanovil mu lhůtu. Účastník se nevzdal tohoto práva a žádosti nebylo plně vyhověno (jde o sankci). V odvolání namítá porušení § 36 odst. 3. Důkazy: spis bez výzvy dle § 36 odst. 3, protokol o dokazování, datum vydání rozhodnutí.
+
+**2. Právní otázka.** Je rozhodnutí vadné, nebyla-li účastníkovi před jeho vydáním dána možnost vyjádřit se k podkladům rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 odst. 3 SŘ — před vydáním rozhodnutí musí být dána možnost vyjádřit se k podkladům; výjimky (plné vyhovění žadateli, vzdání se práva); zvláštní režim utajovaných podkladů (§ 17 odst. 3).
+- *Související ustanovení téhož zákona:* § 36 odst. 1, 2 (návrhy, stanovisko, informace), § 38 (nahlížení do spisu), § 4 odst. 4 (umožnit uplatnění práv).
+- *Související předpisy:* —
+- *Judikatura:* opomenutí výzvy k vyjádření k podkladům je podstatnou vadou řízení, mohla-li mít vliv na zákonnost rozhodnutí; vede zpravidla k jeho zrušení.
+
+**4. Subsumpce.** Účastník se práva nevzdal a nešlo o plné vyhovění žadateli → orgán měl povinnost umožnit vyjádření k podkladům (odst. 3). Tuto povinnost nesplnil → podstatná procesní vada s potenciálním vlivem na zákonnost.
+
+**5. Řešení.** Odvolací orgán rozhodnutí zruší a vrátí k doplnění; prvostupňový orgán vyrozumí účastníka o shromáždění podkladů a stanoví lhůtu k vyjádření, poté znovu rozhodne. Procesní krok: doložit výzvu a poskytnutí lhůty do spisu.
+
+**6. Varianty.** (a) Žadateli se plně vyhovuje → výzva netřeba (odst. 3). (b) Účastník se práva výslovně vzdal → vada nevzniká. (c) Podklady jsou utajované (§ 17 odst. 3) → účastník, o jehož nároku se rozhoduje, se s nimi seznámí jen v podobě nezmařující utajení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Účastník měl možnost nahlížet do spisu, to stačí." Neutralizace: právo nahlížet (§ 38) nenahrazuje aktivní výzvu k vyjádření k podkladům dle § 36 odst. 3.
+- *Protiargument:* „Vada neměla vliv na výsledek." Neutralizace: u sankčních řízení se vliv na zákonnost presumuje tím spíše, že účastník mohl předložit zprošťující argumentaci.
+- *Slabé místo:* prokázání, zda se účastník práva nevzdal; konkludentní vzdání se nelze dovozovat snadno.
+
+#### H. Praktický závěr
+
+Před vydáním rozhodnutí musí orgán umožnit účastníkovi vyjádřit se k podkladům (vyjma plného vyhovění žadateli či vzdání se práva); opomenutí je podstatnou vadou řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla účastníkům dána možnost vyjádřit se k podkladům před vydáním rozhodnutí?
+- [ ] Platí výjimka (plné vyhovění žadateli / vzdání se práva)?
+- [ ] U utajovaných podkladů: byl zvolen režim dle § 17 odst. 3?
+- [ ] Byla respektována práva podle odst. 1, 2 (návrhy, informace) a odst. 4 (podpůrce)?
+
+**Typicky rozhodné důkazy / podklady:** výzva k vyjádření k podkladům a doklad o jejím doručení, protokol o seznámení, případné vzdání se práva, spisový přehled podkladů, doklad o utajení (§ 17 odst. 3).
 
 ### § 37 — Podání
 
@@ -787,6 +1435,42 @@ Orgán **pomůže** podateli odstranit nedostatky nebo ho **vyzve k odstranění
 
 > Pravidlo § 40 odst. 1 písm. d) SŘ: zachovává lhůtu i podání **odevzdané poštovnímu provozovateli** poslední den lhůty nebo (zhoršené situace) podání u **orgánu vyššího stupně**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan zašle orgánu e-mailem bez elektronického podpisu podání nadepsané „Stížnost", jehož obsahem je však žádost o vydání rozhodnutí ve věci. E-mail dojde poslední den lhůty; do 5 dnů jej pisatel nepotvrdí písemně ani el. podpisem. Orgán podání odloží jako stížnost a nepotvrzené. Důkazy: text e-mailu, časový log doručení, absence následného potvrzení.
+
+**2. Právní otázka.** Jak orgán naloží s podáním učiněným e-mailem bez podpisu, je-li nepřesně nadepsáno a není-li do 5 dnů potvrzeno?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 odst. 1 (materiální posouzení podání podle obsahu), odst. 2 (náležitosti), odst. 3 (pomoc/výzva k odstranění vad), odst. 4 (formy; u nepodpisových technických prostředků nutné potvrzení do 5 dnů), odst. 5 (okamžik = den dojití).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 (poučovací povinnost), § 45 (žádost), § 40 (počítání lhůt).
+- *Související předpisy:* zák. č. 300/2008 Sb. (podání přes DS — bez nutnosti potvrzování).
+- *Judikatura:* materiální posouzení obsahu podání má přednost před jeho označením; vady podání se primárně řeší výzvou, ne odložením.
+
+**4. Subsumpce.** Podle obsahu jde o žádost, nikoli stížnost (odst. 1) → orgán s ním musí zacházet jako se žádostí. E-mail bez podpisu je podání dle odst. 4, jež vyžaduje potvrzení do 5 dnů; nebylo-li potvrzeno, nemá účinky řádného podání. Současně orgán měl pisatele dle odst. 3 vyzvat k odstranění vady (potvrzení).
+
+**5. Řešení.** Orgán nesmí podání odložit pro nesprávné označení; má je posoudit jako žádost a vyzvat k potvrzení/odstranění vad s přiměřenou lhůtou (odst. 3). Procesní krok: vydat výzvu k potvrzení podání a doplnění náležitostí. Riziko: bez výzvy hrozí vada řízení.
+
+**6. Varianty.** (a) Podání učiněno přes DS nebo s kvalifikovaným el. podpisem → potvrzení do 5 dnů netřeba, účinky nastávají dnem dojití. (b) Podání řádně potvrzeno do 5 dnů → zachována i lhůta podle okamžiku původního dojití.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nepodepsaný e-mail je nicotný, k výzvě není důvod." Neutralizace: odst. 4 nepodpisové podání zná a spojuje s ním režim potvrzení; odst. 3 ukládá pomoc s odstraněním vad.
+- *Protiargument:* „Rozhoduje název podání." Neutralizace: odst. 1 stanoví materiální posouzení podle obsahu bez ohledu na označení.
+- *Slabé místo:* běh 5denní lhůty k potvrzení a její provázání s lhůtami hmotněprávními; nejasné, zda výzva byla doručena.
+
+#### H. Praktický závěr
+
+Podání se posuzuje podle skutečného obsahu, vady se řeší výzvou k odstranění, a u nepodpisových elektronických forem je nutné potvrzení do 5 dnů; jinak platí den dojití orgánu jako okamžik podání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo podání posouzeno podle obsahu, nikoli podle označení?
+- [ ] Obsahuje náležitosti dle odst. 2 (kdo, čeho se týká, co navrhuje, identifikace, podpis)?
+- [ ] U nepodpisové formy: bylo do 5 dnů potvrzeno (nebo jde o DS / el. podpis)?
+- [ ] Byla při vadách vydána výzva k jejich odstranění s přiměřenou lhůtou (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** text podání s časovým logem dojití, doklad o formě (DS / el. podpis / e-mail), výzva k odstranění vad a její doručení, případné potvrzení podání do 5 dnů.
+
 ### § 38 — NAHLÍŽENÍ DO SPISU
 
 <!-- AUTOCITACE:§38 -->
@@ -839,6 +1523,42 @@ Usnesením, oznamuje se pouze této osobě (ne ostatním účastníkům).
 - Před nahlédnutím **poučení o povinnosti mlčenlivosti** + sepsání protokolu.
 - Stejnopis protokolu se zašle do 30 dnů **Národnímu bezpečnostnímu úřadu** (NBÚ).
 - Pokud má účastník/zástupce **platné osvědčení** podle zákona o ochraně utajovaných informací → poučení a NBÚ-zasílání se nepoužije.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Novinář (osoba odlišná od účastníka) žádá o nahlédnutí do spisu sankčního řízení s tím, že připravuje článek o veřejné zakázce. Spis obsahuje osobní údaje účastníků a část s obchodním tajemstvím chráněným mlčenlivostí. Orgán řeší, zda a v jakém rozsahu nahlédnutí umožnit. Důkazy: žádost s odůvodněním zájmu, obsah spisu (osobní údaje, chráněné části), posouzení dotčení práv účastníků.
+
+**2. Právní otázka.** Za jakých podmínek lze umožnit nahlédnout do spisu jiné osobě než účastníkovi a jak chránit utajované či mlčenlivostí kryté části?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 odst. 2 (jiné osoby — právní zájem / vážný důvod a neporušení práv účastníků či veřejného zájmu), odst. 5 (odepření usnesením), odst. 6 (vyloučení utajovaných a mlčenlivostí krytých částí; výjimka pro důkazní části + poučení, protokol, NBÚ).
+- *Související ustanovení téhož zákona:* odst. 1 (právo účastníků a zástupců, i po právní moci), odst. 4 (výpisy a kopie), § 17 odst. 3 (oddělené uchovávání), § 36 odst. 3 (seznámení s podklady).
+- *Související předpisy:* GDPR / zák. č. 110/2019 Sb. (ochrana osobních údajů), zák. č. 412/2005 Sb. (ochrana utajovaných informací).
+- *Judikatura:* nahlížení jiných osob je podmíněné a poměřuje se s právy účastníků a veřejným zájmem; odepření musí mít formu usnesení.
+
+**4. Subsumpce.** Novinář není účastník → uplatní se odst. 2: musí prokázat právní zájem nebo vážný důvod a nahlédnutí nesmí porušit práva účastníků. Obecný novinářský zájem nemusí naplnit „právní zájem"; osobní údaje a mlčenlivostí kryté části jsou navíc z nahlížení vyloučeny (odst. 6).
+
+**5. Řešení.** Orgán posoudí tvrzený zájem; umožní-li nahlédnutí, pak jen do částí neporušujících práva účastníků (anonymizace osobních údajů, vyloučení chráněných částí). Odepření (zčásti i zcela) vydá usnesením oznámeným jen žadateli (odst. 5). Procesní krok: odůvodnit poměření zájmů.
+
+**6. Varianty.** (a) Žadatelem je účastník nebo jeho zástupce → právo nahlížet je bezpodmínečné, i po právní moci (odst. 1), vč. výpisů a kopií (odst. 4). (b) Část spisu slouží jako důkaz a obsahuje utajované informace → účastník/zástupce do ní může jen po poučení a sepsání protokolu, s případným zasláním NBÚ (odst. 6).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Veřejný zájem na informování odůvodňuje plný přístup novináře." Neutralizace: odst. 2 vyžaduje konkrétní právní zájem/vážný důvod a zákaz porušení práv účastníků; veřejný zájem může přístup naopak omezit.
+- *Protiargument:* „Odepření lze sdělit neformálně." Neutralizace: odst. 5 vyžaduje usnesení (přezkoumatelné a oznámené žadateli).
+- *Slabé místo:* poměřování práva na informace s ochranou osobních údajů a mlčenlivostí; nedostatečné odůvodnění usnesení je samostatnou vadou.
+
+#### H. Praktický závěr
+
+Účastníci nahlížejí bez podmínek a mají právo na výpisy a kopie; jiné osoby jen při právním zájmu a bez újmy účastníkům, přičemž utajované a mlčenlivostí kryté části jsou vyloučeny a odepření se vydává usnesením.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je žadatel účastníkem/zástupcem (bezpodmínečné právo), nebo jinou osobou (odst. 2)?
+- [ ] Prokázal-li jiný žadatel právní zájem / vážný důvod a neohrozí práva účastníků?
+- [ ] Jsou utajované / mlčenlivostí kryté části vyloučeny (odst. 6), resp. zajištěno poučení a protokol u důkazních částí?
+- [ ] Bylo odepření vydáno usnesením oznámeným jen dotčené osobě (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** žádost s odůvodněním zájmu, posouzení obsahu spisu a dotčení práv, usnesení o (částečném) odepření, protokol o poučení o mlčenlivosti, doklady o anonymizaci.
 
 ---
 

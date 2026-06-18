@@ -49,6 +49,43 @@
 - Stejné podmínky jako určení (přiměřenost, rovnost, neohrožení účelu).
 - Usnesením.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební úřad vyzve žadatele o vydání povolení usnesením podle § 39 odst. 1 k doložení souhlasu vlastníka sousedního pozemku a stanoví lhůtu 8 dnů. Žadatel namítá, že lhůta je nepřiměřeně krátká, protože vlastník je dlouhodobě v zahraničí, a 6. den lhůty podává žádost o její prodloužení. Účastníky jsou žadatel a stavební úřad; právně významnými skutečnostmi jsou obsah a doručení usnesení o určení lhůty, datum podání žádosti o prodloužení a okamžik uplynutí původní lhůty. Bylo by třeba obstarat doručenku usnesení, žádost o prodloužení s datem podání a podklad o nedostupnosti vlastníka.
+
+**2. Právní otázka.** Je správní orgán povinen lhůtu prodloužit, požádá-li o to účastník před jejím uplynutím, a jaké jsou meze úvahy orgánu o přiměřenosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 odst. 1 (určení přiměřené lhůty, jen není-li stanovena zákonem) a odst. 2 (prodloužení na žádost účastníka usnesením).
+- *Související ustanovení téhož zákona:* § 41 (prominutí zmeškání úkonu — náhradní cesta po marném uplynutí lhůty), § 37 odst. 3 (výzva k odstranění vad podání), § 76 (usnesení), § 6 (zásada rychlosti a hospodárnosti).
+- *Související předpisy:* § 79 SŘS (ochrana proti nečinnosti) — okrajově.
+- *Judikatura:* NSS 11 A 20/2021 — přiměřenost lhůty je věcí volného uvážení orgánu limitovaného účelem řízení; na prodloužení není právní nárok, lze je však povolit i z důvodů na straně účastníka. NSS 31 A 60/2023 — lhůta určená podle § 39 odst. 1 je propadná; vyhnout se důsledkům jejího uplynutí lze jen prodloužením (odst. 2, jen na žádost před uplynutím) nebo prominutím podle § 41.
+
+**4. Subsumpce.** Lhůta nebyla stanovena zákonem, šlo tedy o lhůtu orgánovou určenou usnesením — znak „pokud ji nestanoví zákon" je naplněn. Žádost o prodloužení byla podána účastníkem před uplynutím lhůty — formální podmínka odst. 2 splněna. Sporné zůstává, zda 8denní lhůta byla přiměřená a zda nedostupnost vlastníka odůvodňuje prodloužení; to je předmětem úvahy orgánu.
+
+**5. Řešení.** Orgán o žádosti rozhodne usnesením; není povinen vyhovět (není právní nárok), musí však úvahu odůvodnit ve světle přiměřenosti, rovnosti účastníků a neohrožení účelu řízení. Doloží-li žadatel objektivní překážku (nedostupnost vlastníka), je věcný důvod pro prodloužení dán. Praktický krok: podat žádost vždy s předstihem před uplynutím, neboť po uplynutí už prodloužit nelze a zbývá jen prominutí podle § 41. Riziko: marné uplynutí propadné lhůty bez podané žádosti vede ke ztrátě možnosti úkon učinit.
+
+**6. Varianty.** (a) Žadatel podá žádost o prodloužení až po uplynutí lhůty — odst. 2 se neuplatní, orgán se jí nezabývá a zbývá pouze § 41. (b) Lhůta by byla stanovena přímo zákonem (např. 15 dnů dle § 83) — pak ji vůbec nelze podle § 39 odst. 2 prodloužit, lze jen prominout zmeškání úkonu.
+
+#### G. Protiargumenty a rizika
+
+- *„Orgán musí lhůtu prodloužit, je-li důvod."* Nikoli — judikatura NSS 11 A 20/2021 výslovně uvádí, že na prodloužení není právní nárok; jde o uvážení limitované účelem řízení. Neutralizace: argumentovat nikoli nárokem, ale nepřiměřeností původní lhůty a neohrožením účelu řízení.
+- *„Propadlou lhůtu lze obejít novým podáním."* Lhůta je podle NSS 31 A 60/2023 propadná; po jejím uplynutí zbývá pouze prominutí podle § 41 za přísných podmínek. Neutralizace: hlídat lhůtu a žádat o prodloužení včas.
+- Slabé místo: úvaha o přiměřenosti je obtížně přezkoumatelná; chybí-li odůvodnění usnesení, je napadnutelné pro nepřezkoumatelnost.
+
+#### H. Praktický závěr
+
+Lhůtu podle § 39 určuje orgán jen tam, kde ji nestanoví zákon; je orgánová (propadná), prodloužitelná pouze na žádost podanou před uplynutím a usnesením. Zákonné lhůty prodloužit nelze.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda lhůtu nestanoví přímo zákon (pak § 39 neaplikovat).
+- [ ] Nastavit/posoudit lhůtu jako realisticky splnitelnou, neohrožující účel a rovnost účastníků.
+- [ ] Žádost o prodloužení podat a vyřídit PŘED uplynutím lhůty.
+- [ ] Usnesení o určení/prodloužení odůvodnit a oznámit tomu, komu je určeno.
+- [ ] Po marném uplynutí zvážit jedinou náhradní cestu — prominutí dle § 41.
+
+**Typicky rozhodné důkazy / podklady:** usnesení o určení lhůty a jeho doručenka, žádost o prodloužení s datem podání, podklady k objektivní překážce splnění úkonu.
+
 ### § 40 — POČÍTÁNÍ ČASU
 
 <!-- AUTOCITACE:§40 -->
@@ -122,6 +159,43 @@ Lhůta je zachována, je-li **posledního dne lhůty**:
 > *V pochybnostech se lhůta považuje za zachovanou, dokud se neprokáže opak.*
 
 Důležitá záruka pro účastníka — **důkazní břemeno** je na orgánu, který tvrdí, že lhůta zachována nebyla.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastníkovi je doručeno rozhodnutí v úterý 5. května 2026. Patnáctidenní odvolací lhůta (§ 83) počíná běžet ve středu 6. května a její 15. den (20. května) připadne na sobotu. Účastník proto odevzdá odvolání adresované prvostupňovému orgánu na poště v pondělí 25. května (nejbližší pracovní den po posunu) a uschová podací lístek. Orgán odvolání zamítne jako opožděné. Účastníky jsou odvolatel a správní orgán; právně významné je datum doručení, charakter dnů konce lhůty a okamžik odevzdání zásilky poště. Důkazy: doručenka rozhodnutí, kalendář svátků (z. č. 245/2000 Sb.), podací lístek/otisk poštovního razítka.
+
+**2. Právní otázka.** Byla odvolací lhůta zachována, odevzdal-li účastník zásilku poště v den, na nějž se konec lhůty posunul z důvodu víkendu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 odst. 1 písm. a) (den nula se nepočítá), písm. c) (posun víkendu/svátku na pracovní den), písm. d) (zachování lhůty otiskem poštovního razítka), odst. 2 (domněnka zachování v pochybnostech).
+- *Související ustanovení téhož zákona:* § 83 (15denní odvolací lhůta), § 37 (podání), § 41 (prominutí zmeškání), § 39 (lhůty určené orgánem).
+- *Související předpisy:* z. č. 245/2000 Sb. (státní svátky a ostatní svátky); § 57 o. s. ř. (analogický režim posunu).
+- *Judikatura:* NS 29 Cdo 1167/2009 — k zachování lhůty stačí odevzdání poštovní zásilky adresované příslušnému orgánu poslednímu dne lhůty držiteli poštovní licence. ÚS II.ÚS 33/13 a IV.ÚS 2026/14 — připadne-li poslední den na sobotu/neděli/svátek, posouvá se na nejbližší příští pracovní den i pro hmotněprávní lhůty.
+
+**4. Subsumpce.** Den doručení (5. 5.) se podle písm. a) nepočítá; lhůta běží od 6. 5. Patnáctým dnem je 20. 5. (sobota), takže podle písm. c) se konec posouvá na nejbližší pracovní den. Odevzdání zásilky poště v tento posunutý den naplňuje znak zachování lhůty podle písm. d). Sporné může být pouze správné určení nejbližšího pracovního dne (zda mezi tím nebyl svátek).
+
+**5. Řešení.** Lhůta byla zachována; zamítnutí pro opožděnost je nesprávné. Rozhoduje otisk poštovního razítka, nikoli den doručení orgánu. Praktický krok: vždy uschovat podací lístek; v pochybnostech těží účastník z domněnky zachování (odst. 2) — důkazní břemeno opaku nese orgán. Riziko: nesprávné započtení dne nula nebo přehlédnutí svátku vede k chybnému výpočtu konce lhůty.
+
+**6. Varianty.** (a) Šlo by o lhůtu určenou podle hodin — pak se den nula i posun víkendu neuplatní a lhůta tiká nepřetržitě. (b) Účastník by zásilku adresoval nepříslušnému orgánu — podle NS 29 Cdo 1167/2009 zůstává lhůta zachována jen tehdy, má-li tento orgán zákonnou povinnost podání postoupit; jinak rozhoduje až den dojití příslušnému orgánu.
+
+#### G. Protiargumenty a rizika
+
+- *„Rozhoduje den, kdy odvolání došlo úřadu."* Pro poštovní podání to neplatí — podle písm. d) a NS 29 Cdo 1167/2009 stačí odevzdání zásilky poště poslední den lhůty. Neutralizace: doložit otisk poštovního razítka/podací lístek.
+- *„Víkendový posun platí jen pro procesní lhůty."* Podle ÚS II.ÚS 33/13 a IV.ÚS 2026/14 platí zásadně i pro lhůty hmotněprávní. Neutralizace: odkázat na obě nálezová rozhodnutí.
+- Slabé místo: posun se neuplatní u lhůt podle hodin a nemusí platit, stanoví-li zvláštní zákon výslovně jinak; vždy ověřit speciální úpravu.
+
+#### H. Praktický závěr
+
+Počítání času stojí na čtyřech pravidlech: den události se nepočítá, lhůty v týdnech/měsících/letech končí stejně označeným dnem, víkend/svátek posouvá konec na pracovní den (vyjma lhůt v hodinách) a lhůta je zachována otiskem poštovního razítka. V pochybnostech platí domněnka zachování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit den rozhodné skutečnosti a nezapočítat jej (den nula).
+- [ ] U měsíčních/letních lhůt najít stejně označený den (v kratším měsíci poslední den).
+- [ ] Ověřit, zda konec nepřipadá na sobotu/neděli/svátek dle z. č. 245/2000 Sb., a případně posunout.
+- [ ] Uschovat podací lístek / otisk poštovního razítka jako důkaz včasnosti.
+- [ ] V pochybnostech uplatnit domněnku zachování (důkazní břemeno opaku nese orgán).
+
+**Typicky rozhodné důkazy / podklady:** doručenka rozhodnutí, podací lístek a otisk poštovního razítka, kalendář svátků, případně doklad o vážných důvodech pro podání u orgánu vyššího stupně.
 
 ### § 41 — NAVRÁCENÍ V PŘEDEŠLÝ STAV (prominutí zmeškání úkonu)
 
@@ -206,6 +280,44 @@ Usnesení **oznamuje pouze podateli** (ne ostatním účastníkům — pro ně �
 - Podmínka: **hrozící vážná újma** podateli.
 - Bez ohledu na § 45 odst. 4 (právo zúžit nebo vzít zpět žádost před vydáním rozhodnutí 1. stupně).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník zmešká 15denní lhůtu k odvolání proti rozhodnutí, protože byl v poslední den lhůty náhle hospitalizován po infarktu a nemohl si zajistit zastoupení. Po propuštění z nemocnice 10. den poté podá žádost o prominutí zmeškání úkonu, k níž připojí samotné odvolání a lékařskou zprávu o akutní hospitalizaci. Mezitím však již rozhodnutí nabylo právní moci a třetí osoba začala v dobré víře jednat na jeho základě. Účastníky jsou podatel (odvolatel), správní orgán a nabyvatel práv v dobré víře; rozhodné je datum odpadnutí překážky, datum podání žádosti, přiložení zmeškaného úkonu a povaha závažného důvodu. Důkazy: lékařská zpráva, doručenka, žádost s přiloženým odvoláním.
+
+**2. Právní otázka.** Jsou splněny podmínky pro prominutí zmeškání odvolací lhůty podle § 41, a brání prominutí ochrana práv třetí osoby nabytých v dobré víře?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 odst. 2 (subjektivní lhůta 15 dnů od odpadnutí překážky + nutnost spojit zmeškaný úkon + objektivní prekluzivní lhůta 1 roku), odst. 4 (závažné důvody bez zavinění), odst. 5 (negativní limit — převaha újmy na právech dobré víry / veřejném zájmu), odst. 6 (rozhodnutí usnesením), odst. 7 (oznámení neprominutí jen podateli).
+- *Související ustanovení téhož zákona:* § 40 (počítání lhůty), § 83 (odvolací lhůta), § 73 (právní moc), § 2 odst. 3 a ochrana dobré víry, § 71 (vydání rozhodnutí — pro odst. 8).
+- *Související předpisy:* analogicky § 60 o. s. ř. (prominutí zmeškání lhůty v civilním procesu).
+- *Judikatura:* NSS 2 As 6/2024 — závažné důvody musí být objektivní povahy a posuzují se podle okolností případu; život ohrožující změny zdravotního stavu jimi být mohou, běžné respirační obtíže či pouhá hrozba hospitalizace nikoli. NSS 6 As 206/2021 — postup podle § 41 odst. 8 zpravidla nemá místo tam, kde k úpravě podání dochází na výzvu orgánu.
+
+**4. Subsumpce.** Akutní hospitalizace po infarktu je závažný objektivní důvod nastalý bez zavinění (odst. 4) — na rozdíl od „respiračních obtíží" odmítnutých NSS. Žádost byla podána do 15 dnů od odpadnutí překážky a byl k ní přiložen zmeškaný úkon (odst. 2) — formální podmínky splněny, roční prekluze nepřekročena. Sporný je negativní limit podle odst. 5: ochrana práv třetí osoby nabytých v dobré víře může převážit újmu hrozící podateli.
+
+**5. Řešení.** Závažný důvod i včasnost žádosti jsou dány, avšak orgán musí poměřit újmu podatele a újmu hrozící z dotčení dobré víry třetí osoby. Převáží-li ochrana dobré víry (odst. 5), orgán zmeškání nepromine přesto, že materiální podmínky odst. 4 jsou splněny; usnesení o neprominutí oznámí pouze podateli (odst. 7). Promine-li, doplní řízení (odst. 6) a otevře odvolací řízení. Praktický krok: vždy připojit zmeškaný úkon a doložit objektivní povahu překážky. Riziko: opomenutí přiložit úkon — orgán se žádostí vůbec nezabývá.
+
+**6. Varianty.** (a) Třetí osoba dosud na základě rozhodnutí nejednala — odpadá limit odst. 5 a prominutí je pravděpodobné. (b) Důvodem zmeškání by byly „běžné respirační obtíže" nebo pouhá hrozba hospitalizace — podle NSS 2 As 6/2024 nejde o závažný důvod a prominutí by neobstálo.
+
+#### G. Protiargumenty a rizika
+
+- *„Stačí závažný důvod a prominutí musí být uděleno."* Nikoli — odst. 5 umožňuje neprominout, převáží-li újma z dotčení dobré víry či veřejného zájmu. Neutralizace: argumentovat, že třetí osoba dosud práv nenabyla nebo na nich nejednala.
+- *„Hospitalizace vždy odůvodní prominutí."* NSS 2 As 6/2024 rozlišuje — jen život ohrožující změny zdravotního stavu, nikoli běžné obtíže či pouhá hrozba hospitalizace. Neutralizace: doložit akutní a objektivní povahu stavu lékařskou zprávou.
+- Slabé místo: chybí-li k žádosti přiložený zmeškaný úkon (odst. 2), orgán ji vůbec neprojedná; rovněž marné uplynutí roční prekluzivní lhůty je nezhojitelné.
+
+#### H. Praktický závěr
+
+Prominutí zmeškání úkonu (navrácení v předešlý stav) vyžaduje kumulativně závažný objektivní důvod bez zavinění, žádost do 15 dnů od odpadnutí překážky se současně přiloženým zmeškaným úkonem a dodržení objektivní prekluzivní lhůty 1 roku. Ani při splnění těchto podmínek se nepromíjí, převáží-li ochrana dobré víry nebo veřejného zájmu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat den odpadnutí překážky a podat žádost do 15 dnů.
+- [ ] PŘILOŽIT k žádosti samotný zmeškaný úkon (jinak se orgán nezabývá).
+- [ ] Ověřit dodržení objektivní prekluzivní lhůty 1 roku.
+- [ ] Doložit závažný objektivní důvod bez zavinění (lékařská zpráva apod.).
+- [ ] Posoudit negativní limit odst. 5 (ochrana dobré víry / veřejný zájem).
+- [ ] U změny/zpětvzetí podání (odst. 8) ověřit, že rozhodnutí dosud nebylo vydáno (§ 71).
+
+**Typicky rozhodné důkazy / podklady:** lékařská zpráva / doklad o objektivní překážce, doručenka rozhodnutí a výpočet lhůty, žádost s přiloženým zmeškaným úkonem, podklady o případném nabytí práv třetí osobou v dobré víře.
+
 ---
 
 ## Hlava V — Postup před zahájením řízení
@@ -257,6 +369,43 @@ Pokud orgán **vůči podateli** současně postupuje podle:
 - **§ 47 odst. 1** — uvědomění o probíhajícím řízení.
 
 (Tj. v případě, kdy je podatel zároveň účastníkem budoucího řízení.)
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan podá obecnímu úřadu podnět, aby z moci úřední zahájil řízení o odstranění nepovolené stavby souseda, a výslovně požádá o sdělení, jak bylo s podnětem naloženo. Úřad do 30 dnů nereaguje; po dvou měsících občan namítá nečinnost a domáhá se účastenství v řízení. Účastníky/aktéry jsou podatel podnětu (neúčastník), správní orgán a vlastník stavby; rozhodné je datum obdržení podnětu, existence výslovné žádosti o sdělení a běh 30denní lhůty. Důkazy: kopie podnětu se žádostí o sdělení, doklad o doručení úřadu, evidence podnětu.
+
+**2. Právní otázka.** Jaké povinnosti vznikají orgánu z podnětu podle § 42, stává se podatel účastníkem případného řízení a jakou ochranu má, zůstane-li orgán nečinný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 (povinnost přijmout podnět, na žádost sdělit do 30 dnů výsledek; výjimka při postupu dle § 46 odst. 1 nebo § 47 odst. 1).
+- *Související ustanovení téhož zákona:* § 27 odst. 2 (účastenství dotčených osob), § 46 odst. 1 (zahájení z moci úřední), § 47 odst. 1 (uvědomění o řízení), § 94 (přezkumné řízení z podnětu), § 175 (stížnost), § 80 (opatření proti nečinnosti).
+- *Související předpisy:* § 79 SŘS (žaloba na ochranu proti nečinnosti).
+- *Judikatura:* NSS 9 Afs 37/2011 — podnět je oprávněn podat kdokoli; nepožádá-li podatel o sdělení podle § 42, je jeho role podáním podnětu zásadně vyčerpána.
+
+**4. Subsumpce.** Podání je svým obsahem podnětem k zahájení řízení z moci úřední, nikoli žádostí; podatel není dotčen ve vlastních právech (§ 27 odst. 2), tedy není účastníkem případného řízení. Protože však výslovně požádal o sdělení, vznikla orgánu povinnost informovat ho do 30 dnů o výsledku (zahájení / neshledání důvodů / postoupení). Tato povinnost nebyla splněna.
+
+**5. Řešení.** Orgán měl ve 30denní lhůtě sdělit, jak s podnětem naložil; nesplnění této povinnosti je pochybením, nezakládá však podateli postavení účastníka. Sdělení podle § 42 není rozhodnutím a nelze proti němu podat opravný prostředek. Podatel se může bránit stížností podle § 175 nebo dalším podnětem; žalobu na nečinnost (§ 79 SŘS) lze úspěšně podat jen tehdy, jde-li o řízení o jeho vlastních právech — což zde není. Praktický krok: do podnětu vždy výslovně zařadit žádost o sdělení.
+
+**6. Varianty.** (a) Podatel je sám dotčen ve svých právech (např. spoluvlastník dotčeného pozemku) — pak je účastníkem podle § 27 odst. 2 a má plnou procesní ochranu včetně žaloby na nečinnost. (b) Orgán vůči podateli současně postupuje podle § 46 odst. 1 (zahájí řízení) — pak se samostatné sdělení podle § 42 nezasílá.
+
+#### G. Protiargumenty a rizika
+
+- *„Podatel podnětu má právo na zahájení řízení a na účastenství."* Nikoli — podle NSS 9 Afs 37/2011 a § 27 odst. 2 je podatel zásadně neúčastníkem; má jen právo na sdělení, požádá-li o ně. Neutralizace: odlišit podnět (§ 42) od žádosti (§ 44).
+- *„Proti neshledání důvodů lze podat odvolání."* Sdělení podle § 42 není rozhodnutím; opravný prostředek nepřipadá v úvahu. Neutralizace: využít stížnost dle § 175 nebo nový podnět.
+- Slabé místo: ochrana proti nečinnosti je u prostého podatele omezená; reálně účinná je jen tehdy, je-li podatel zároveň dotčen ve vlastních právech.
+
+#### H. Praktický závěr
+
+Orgán musí podnět přijmout, posoudit a — požádá-li o to podatel — do 30 dnů sdělit výsledek (zahájení / neshledání důvodů / postoupení). Podatel podnětu není účastníkem řízení a sdělení podle § 42 není přezkoumatelným rozhodnutím.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do podnětu výslovně zařadit žádost o sdělení podle § 42.
+- [ ] Orgán: podnět zaevidovat, posoudit a dodržet 30denní lhůtu sdělení.
+- [ ] Ověřit, zda podatel není sám dotčen ve svých právech (§ 27 odst. 2) — to mění jeho postavení.
+- [ ] Nezasílat sdělení, postupuje-li orgán vůči podateli dle § 46 odst. 1 / § 47 odst. 1.
+- [ ] Při nesouhlasu volit stížnost (§ 175) nebo nový podnět, nikoli opravný prostředek.
+
+**Typicky rozhodné důkazy / podklady:** kopie podnětu se žádostí o sdělení, doklad o doručení orgánu a evidenci podnětu, případné sdělení orgánu a doklad o vlastní dotčenosti podatele.
 
 ### § 43 — Odložení věci
 
@@ -310,6 +459,43 @@ Pokud orgán **vůči podateli** současně postupuje podle:
 #### Cesta opravných prostředků
 
 Proti usnesení o odložení lze podat **odvolání** (jde o usnesení správního orgánu — § 81). Účinky odvolání: odkladný (§ 85 odst. 1).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Osoba zašle stavebnímu úřadu nepodepsané podání, v němž si „stěžuje" na hluk z provozovny souseda a žádá, aby s tím úřad „něco udělal"; z podání nelze zjistit, kdo je odesílatel, ani co konkrétně požaduje. V jiné variantě zašle žadatel úřadu řádně podepsanou žádost o určení, že je vlastníkem movité věci, kterou mu zadržuje bývalý partner. Aktéry jsou podatel, případně osoba, které se věc týká, a správní orgán; rozhodné je, zda jde o žádost ve smyslu § 44, zda lze zjistit původce a zda je k věci příslušný vůbec nějaký správní orgán. Důkazy: samotné podání, obálka/doručovací údaje.
+
+**2. Právní otázka.** Má orgán věc odložit usnesením podle § 43 odst. 1, nebo postupovat jinak (odstranění vad dle § 37 odst. 3, případně postoupení dle § 12)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 odst. 1 písm. a) (úkon zjevně není žádostí nebo nelze zjistit původce), písm. b) (k vyřízení není věcně příslušný žádný správní orgán), odst. 2 (oznámení usnesení osobě, které se týká, a podateli).
+- *Související ustanovení téhož zákona:* § 44 (zahájení řízení o žádosti), § 37 odst. 3 (odstranění vad podání — odlišit od odložení), § 12 (postoupení pro nepříslušnost jiného orgánu), § 42 (podnět), § 81 a § 85 odst. 1 (odvolání a odkladný účinek).
+- *Související předpisy:* o. s. ř. — věc soukromoprávní povahy patří civilnímu soudu.
+- *Judikatura:* NSS 11 Ad 13/2021 — odložení věci dle § 43 odst. 1 přichází v úvahu pouze tehdy, když řízení o žádosti není vůbec zahájeno.
+
+**4. Subsumpce.** V první variantě je podání anonymní a zjevně není žádostí o vydání rozhodnutí — naplněn důvod písm. a); řízení proto nebylo vůbec zahájeno (NSS 11 Ad 13/2021), takže odložení, nikoli odstraňování vad, je namístě. Ve druhé variantě jde o spor o vlastnictví movité věci, k jehož řešení není příslušný žádný správní orgán, nýbrž civilní soud — naplněn důvod písm. b); nejde o postoupení podle § 12, protože věc nespadá pod žádný správní orgán.
+
+**5. Řešení.** V obou variantách orgán věc odloží usnesením a oznámí je podateli, popřípadě i osobě, které se týká (odst. 2). Klíčové je odlišit odložení (definitivní procesní rozhodnutí) od výzvy k odstranění vad podání podle § 37 odst. 3 (vady jsou odstranitelné) a od postoupení podle § 12 (jiný příslušný orgán existuje). Proti usnesení o odložení je přípustné odvolání s odkladným účinkem. Riziko: záměna odložení s odmítnutím pro vady vede k procesní vadě.
+
+**6. Varianty.** (a) Anonymní podání by bylo řádně podepsanou žádostí jen s odstranitelnou vadou (chybějící příloha) — pak nikoli odložení, ale výzva podle § 37 odst. 3. (b) Věc by spadala pod správní řízení, ale u jiného úřadu — pak nikoli odložení podle písm. b), nýbrž postoupení podle § 12.
+
+#### G. Protiargumenty a rizika
+
+- *„Vadné podání se vždy odloží."* Nikoli — odstranitelné vady se řeší výzvou podle § 37 odst. 3; odložení je namístě jen u podání, které zjevně není žádostí nebo u něhož nelze zjistit původce. Neutralizace: rozlišit odstranitelnost vady.
+- *„Nepříslušnost vede k odložení."* Jen tehdy, není-li příslušný žádný správní orgán; je-li příslušný jiný orgán, věc se postupuje dle § 12. Neutralizace: ověřit, zda věc vůbec spadá do správního řízení.
+- Slabé místo: hranice mezi „zjevně není žádost" a vadnou žádostí je výkladově citlivá; nesprávná volba postupu zakládá důvod ke zrušení usnesení v odvolání.
+
+#### H. Praktický závěr
+
+Odložení věci podle § 43 nastupuje jen tam, kde řízení o žádosti vůbec nebylo zahájeno — jde-li o úkon zjevně nežádostní či anonymní (písm. a) nebo o věc mimo působnost jakéhokoli správního orgánu (písm. b). Vydává se usnesením s odvoláním a je třeba je odlišit od odstranění vad (§ 37 odst. 3) i od postoupení (§ 12).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda podání je vůbec žádostí ve smyslu § 44 a zda lze zjistit původce.
+- [ ] Ověřit, zda je k věci příslušný alespoň některý správní orgán (jinak písm. b).
+- [ ] Odlišit odložení od výzvy k odstranění vad (§ 37 odst. 3) a od postoupení (§ 12).
+- [ ] Vydat usnesení a oznámit je podateli, popř. i osobě, které se věc týká (odst. 2).
+- [ ] Poučit o odvolání s odkladným účinkem (§ 81, § 85 odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** samotné podání a jeho obálka/doručovací údaje, posouzení obsahu (žádost vs. stížnost/podnět/anonym), právní rozbor působnosti správních orgánů k dané věci.
 
 ---
 
