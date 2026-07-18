@@ -113,70 +113,6 @@ Nečinnost se řeší primárně žádostí nadřízenému po marném uplynutí 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2fa2bd559f1ebad9c175 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 80
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Nevydá-li správní orgán rozhodnutí ve věci v zákonné lhůtě, nadřízený správní orgán učiní z moci úřední opatření proti nečinnosti, jakmile se o tom dozví.
->
-> (2) Opatření proti nečinnosti učiní nadřízený správní orgán i tehdy, nezahájí-li příslušný správní orgán řízení ve lhůtě 30 dnů ode dne, kdy se dozvěděl o skutečnostech odůvodňujících zahájení řízení z moci úřední.
->
-> (3) Opatření proti nečinnosti může nadřízený správní orgán učinit i v případě, kdy je z okolností zjevné, že věcně a místně příslušný správní orgán nedodrží lhůtu stanovenou pro vydání rozhodnutí o žádosti nebo zahájit řízení z moci úřední anebo v řízení řádně pokračovat. Po uplynutí lhůt pro vydání rozhodnutí může žádost o uplatnění opatření proti nečinnosti podat účastník.
->
-> (4) Nadřízený správní orgán může
->
-> - a) přikázat nečinnému správnímu orgánu, aby ve stanovené lhůtě učinil potřebná opatření ke zjednání nápravy nebo vydal rozhodnutí,
->
-> - b) usnesením převzít věc a rozhodnout namísto nečinného správního orgánu,
->
-> - c) usnesením pověřit jiný správní orgán ve svém správním obvodu vedením řízení, nebo
->
-> - d) usnesením přiměřeně prodloužit zákonnou lhůtu pro vydání rozhodnutí, lze-li důvodně předpokládat, že správní orgán v prodloužené lhůtě vydá rozhodnutí ve věci, a je-li takový postup pro účastníky výhodnější; přitom přihlíží ke lhůtám uvedeným v § 71 odst. 3.
->
-> (5) Postup uvedený v odstavci 4 písm. b) a c) nelze použít vůči orgánům územních samosprávných celků při výkonu samostatné působnosti.
->
-> (6) Usnesení podle odstavce 4 se oznamuje správním orgánům uvedeným v odstavci 4 písm. b) až d) a účastníkům uvedeným v § 27 odst. 1; ostatní účastníci se o něm vyrozumí veřejnou vyhláškou. Usnesení nadřízený správní orgán vydá i v případě, že žádosti účastníka podle odstavce 3 věty druhé nevyhoví; toto usnesení se oznamuje pouze tomuto účastníkovi; proti tomuto usnesení se nelze odvolat.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 71, § 27
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2fa2bd559f1ebad9c175 -->
-
 ## Hlava VIII — Odvolací řízení (§§ 81–93)
 
 > **Odvolání** je **řádný devolutivní opravný prostředek** — rozhoduje o něm **nadřízený orgán** (devolutivnost) a má **odkladný účinek** (suspenzivnost, § 85/1). Stojí proti **mimořádným** opravným prostředkům (přezkum § 94, obnova § 100), které lze podat až po nabytí právní moci.
@@ -255,58 +191,6 @@ Odvolání je přípustné vždy, nevyloučí-li je zákon; vzdání se i zpětv
 **Typicky rozhodné důkazy / podklady:** doklad o oznámení rozhodnutí, protokol o vzdání se / zpětvzetí, podané odvolání s datem, doklady o okruhu účastníků.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c0306b31ce6a58591daf generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 81
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Účastník může proti rozhodnutí podat odvolání, pokud zákon nestanoví jinak.
->
-> (2) Právo podat odvolání nepřísluší účastníkovi, který se po oznámení rozhodnutí tohoto práva písemně nebo ústně do protokolu vzdal.
->
-> (3) Jestliže odvolatel vzal podané odvolání zpět, nemůže je podat znovu.
->
-> (4) Statutární orgán právnické osoby má právo podat odvolání proti rozhodnutí, jímž má být omezena způsobilost právnické osoby samostatně jednat před správním orgánem, i když je toto rozhodnutí předběžně vykonatelné.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c0306b31ce6a58591daf -->
 
 ### § 82 — Náležitosti odvolání
 
@@ -401,58 +285,6 @@ Odvolání musí napadat výrok (ne jen odůvodnění), vymezit rozsah a důvody
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=57ad0bf523e42a5383cc generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 82
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Odvoláním lze napadnout výrokovou část rozhodnutí, jednotlivý výrok nebo jeho vedlejší ustanovení. Odvolání jen proti odůvodnění rozhodnutí je nepřípustné.
->
-> (2) Odvolání musí mít náležitosti uvedené v § 37 odst. 2 a musí obsahovat údaje o tom, proti kterému rozhodnutí směřuje, v jakém rozsahu ho napadá a v čem je spatřován rozpor s právními předpisy nebo nesprávnost rozhodnutí nebo řízení, jež mu předcházelo. Není-li v odvolání uvedeno, v jakém rozsahu odvolatel rozhodnutí napadá, platí, že se domáhá zrušení celého rozhodnutí. Odvolání se podává s potřebným počtem stejnopisů tak, aby jeden stejnopis zůstal správnímu orgánu a aby každý účastník dostal jeden stejnopis. Nepodá-li účastník potřebný počet stejnopisů, vyhotoví je správní orgán na náklady účastníka.
->
-> (3) Pokud odvolání směřuje jen proti některému výroku rozhodnutí nebo proti vedlejšímu ustanovení výroku, které netvoří nedílný celek s ostatními, a pokud tím nemůže být způsobena újma některému z účastníků, nabývá zbytek výrokové části právní moci, umožňuje-li to povaha věci.
->
-> (4) K novým skutečnostem a k návrhům na provedení nových důkazů, uvedeným v odvolání nebo v průběhu odvolacího řízení, se přihlédne jen tehdy, jde-li o takové skutečnosti nebo důkazy, které účastník nemohl uplatnit dříve. Namítá-li účastník, že mu nebylo umožněno učinit v řízení v prvním stupni určitý úkon, musí být tento úkon učiněn spolu s odvoláním.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 37
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=57ad0bf523e42a5383cc -->
-
 ### § 83 — ODVOLACÍ LHŮTA
 
 <!-- AUTOCITACE:§83 -->
@@ -525,54 +357,6 @@ Standardní lhůta je 15 dnů od oznámení; vadné nebo chybějící poučení 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí s poučením, doklad o oznámení (datum), podací lístek / doklad o podání odvolání, případné opravné usnesení podle § 70.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=465ed2134edbe5369c00 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 83
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Odvolací lhůta činí 15 dnů ode dne oznámení rozhodnutí, pokud zvláštní zákon nestanoví jinak. Odvolání lze podat teprve poté, co bylo rozhodnutí vydáno. Bylo-li odvolání podáno před oznámením rozhodnutí odvolateli, platí, že bylo podáno v první den odvolací lhůty.
->
-> (2) V případě chybějícího, neúplného nebo nesprávného poučení podle § 68 odst. 5 lze odvolání podat do 15 dnů ode dne oznámení opravného usnesení podle [[#§ 70|§ 70]] věty první, bylo-li vydáno, nejpozději však do 90 dnů ode dne oznámení rozhodnutí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 68, § 70
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=465ed2134edbe5369c00 -->
 
 ### § 84 — Odvolací lhůta při neoznámení rozhodnutí
 
@@ -654,56 +438,6 @@ Opomenutý účastník má 30 dnů od zjištění (max. 1 rok od oznámení osta
 **Typicky rozhodné důkazy / podklady:** doklad o dni zjištění rozhodnutí, doklady o oznámení ostatním účastníkům, evidence okruhu účastníků, podklady o dobré víře nabyvatelů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=043454123d0c4068a718 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 84 — Odvolací lhůta při neoznámení rozhodnutí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Osoba, která byla účastníkem, ale rozhodnutí jí nebylo správním orgánem oznámeno, může podat odvolání do 30 dnů ode dne, kdy se o vydání rozhodnutí a řešení otázky, jež byla předmětem rozhodování, dozvěděla, nejpozději však do 1 roku ode dne, kdy bylo rozhodnutí oznámeno poslednímu z účastníků, kterým ho správní orgán byl oznámil; zmeškání úkonu nelze prominout. Ustanovení tohoto odstavce neplatí pro účastníky uvedené v § 27 odst. 1.
->
-> (2) Neoznámení rozhodnutí se nemůže dovolávat ten, kdo se s ním prokazatelně seznámil. Na takového účastníka se hledí, jako by mu správní orgán doručil rozhodnutí s chybějícím poučením podle § 83 odst. 2.
->
-> (3) Při vedení řízení po podání odvolání podle odstavce 1 je třeba zvlášť dbát oprávněných zájmů účastníků, kteří byli v dobré víře. Odkladný účinek odvolání lze z vážných důvodů vyloučit (§ 85 odst. 2) i dodatečně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 27, § 83, § 85
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=043454123d0c4068a718 -->
 
 ### § 85 — Účinky odvolání (ODKLADNÝ ÚČINEK)
 
@@ -793,64 +527,6 @@ Odvolání má zpravidla odkladný účinek; jeho vyloučení je výjimkou, mus�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=116cb1bef6ea8d632287 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 85
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Nestanoví-li zákon jinak, má včas podané a přípustné odvolání odkladný účinek. V důsledku odkladného účinku odvolání nenastává právní moc, vykonatelnost, ani jiné právní účinky rozhodnutí.
->
-> (2) Správní orgán může odkladný účinek odvolání vyloučit,
->
-> - a) jestliže to naléhavě vyžaduje veřejný zájem,
->
-> - b) hrozí-li vážná újma některému z účastníků, nebo
->
-> - c) požádá-li o to účastník; to neplatí, pokud by tím vznikla újma jiným účastníkům nebo to není ve veřejném zájmu.
->
-> (3) Z důvodu ochrany práv nabytých v dobré víře, oprávněných zájmů účastníků nebo veřejného zájmu lze vyloučit odkladný účinek odvolání, jehož zmeškání správní orgán promíjí.
->
-> (4) Vyloučení odkladného účinku odvolání musí být odůvodněno. Výrok o vyloučení odkladného účinku odvolání je součástí rozhodnutí ve věci; proti tomuto výroku se nelze odvolat.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=116cb1bef6ea8d632287 -->
-
 ### § 86 — Postup orgánu 1. stupně po podání odvolání
 
 <!-- AUTOCITACE:§86 -->
@@ -932,56 +608,6 @@ Odvolání se podává u orgánu 1. stupně; ten vyrozumí ostatní účastníky
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=21874c415adfac11ff6b generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 86
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Odvolání se podává u správního orgánu, který napadené rozhodnutí vydal.
->
-> (2) Správní orgán, který napadené rozhodnutí vydal, zašle stejnopis podaného odvolání všem účastníkům, kteří se mohli proti rozhodnutí odvolat, a vyzve je, aby se k němu v přiměřené lhůtě, která nesmí být kratší než 5 dnů, vyjádřili. Podle okolností dále doplní řízení. Ustanovení tohoto odstavce se nepoužije, bylo-li odvolání podáno opožděně nebo bylo-li nepřípustné.
->
-> (3) Ustanovení § 82 odst. 4 věty první platí pro vyjádření účastníků k podanému odvolání obdobně. Vyjádření účastníků k podanému odvolání jsou součástí spisu. K vyjádřením podaným po lhůtě se nemusí přihlížet.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 82
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=21874c415adfac11ff6b -->
-
 ### § 87 — AUTOREMEDURA
 
 <!-- AUTOCITACE:§87 -->
@@ -1043,52 +669,6 @@ Autoremedura umožní orgánu 1. stupně rychle opravit zjevnou chybu, jen vyhov
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí, odvolání s vymezením vady, podklad pro správné rozhodnutí, doklady o okruhu účastníků (újma/souhlas).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=04e6d484d91bf839f53f generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 87
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Správní orgán, který napadené rozhodnutí vydal, je může zrušit nebo změnit, pokud tím plně vyhoví odvolání a jestliže tím nemůže být způsobena újma žádnému z účastníků, ledaže s tím všichni, kterých se to týká, vyslovili souhlas. Proti tomuto rozhodnutí lze podat odvolání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=04e6d484d91bf839f53f -->
 
 ### § 88 — Předání spisu odvolacímu orgánu
 
@@ -1156,54 +736,6 @@ Neproběhne-li autoremedura, předá orgán 1. stupně spis se stanoviskem do 30
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=3d000567371351116011 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 88 — Předání spisu odvolacímu správnímu orgánu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Neshledá-li správní orgán, který napadené rozhodnutí vydal, podmínky pro postup podle [[#§ 87|§ 87]], předá spis se svým stanoviskem odvolacímu správnímu orgánu do 30 dnů ode dne doručení odvolání. Jestliže byl odvoláním napaden jen některý výrok rozhodnutí podle § 82 odst. 3 a lze-li příslušnou část spisu oddělit, předá správní orgán pouze tu část spisu, která se týká otázky, o níž bylo rozhodnuto v napadeném výroku rozhodnutí. V případě nepřípustného nebo opožděného odvolání předá spis odvolacímu správnímu orgánu do 10 dnů; ve stanovisku se omezí na uvedení důvodů rozhodných pro posouzení opožděnosti nebo nepřípustnosti odvolání.
->
-> (2) Pokud před předáním spisu odvolacímu správnímu orgánu nastal některý z důvodů zastavení řízení uvedený v § 66 odst. 1 písm. a), e), f) nebo g) nebo v § 66 odst. 2, správní orgán, který napadené rozhodnutí vydal, řízení zastaví, ledaže by rozhodnutí o odvolání mohlo mít význam pro náhradu škody.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 87, § 82, § 66
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3d000567371351116011 -->
-
 ### § 89 — Postup odvolacího orgánu (rozsah přezkumu)
 
 <!-- AUTOCITACE:§89 -->
@@ -1270,54 +802,6 @@ Odvolací orgán přezkoumává legalitu z úřední povinnosti, věcnou správn
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí, odvolání s vymezením rozsahu a důvodů, kompletní spis prvostupňového řízení, doklady o tvrzených vadách řízení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=73d8993570a171dcde5f generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 89
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Nestanoví-li zákon jinak, je odvolacím správním orgánem nejblíže nadřízený správní orgán.
->
-> (2) Odvolací správní orgán přezkoumává soulad napadeného rozhodnutí a řízení, které vydání rozhodnutí předcházelo, s právními předpisy. Správnost napadeného rozhodnutí přezkoumává jen v rozsahu námitek uvedených v odvolání, jinak jen tehdy, vyžaduje-li to veřejný zájem. K vadám řízení, o nichž nelze mít důvodně za to, že mohly mít vliv na soulad napadeného rozhodnutí s právními předpisy, popřípadě na jeho správnost, se nepřihlíží; tímto ustanovením není dotčeno právo na náhradu škody způsobené nesprávným úředním postupem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=73d8993570a171dcde5f -->
 
 ### § 90 — Rozhodnutí odvolacího orgánu (5 možností)
 
@@ -1437,68 +921,6 @@ Odvolací orgán může zrušit a zastavit, zrušit a vrátit se závazným náz
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=06f38583a761d9970557 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 90 — Rozhodnutí odvolacího správního orgánu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Jestliže odvolací správní orgán dojde k závěru, že napadené rozhodnutí je v rozporu s právními předpisy nebo že je nesprávné,
->
-> - a) napadené rozhodnutí nebo jeho část zruší a řízení zastaví,
->
-> - b) napadené rozhodnutí nebo jeho část zruší a věc vrátí k novému projednání správnímu orgánu, který rozhodnutí vydal; v odůvodnění tohoto rozhodnutí vysloví odvolací správní orgán právní názor, jímž je správní orgán, který napadené rozhodnutí vydal, při novém projednání věci vázán; proti novému rozhodnutí lze podat odvolání, anebo
->
-> - c) napadené rozhodnutí nebo jeho část změní; změnu nelze provést, pokud by tím některému z účastníků, jemuž je ukládána povinnost, hrozila újma z důvodu ztráty možnosti odvolat se; podle § 36 odst. 3 se postupuje, pouze pokud jde o podklady rozhodnutí nově pořízené odvolacím správním orgánem; je-li to zapotřebí k odstranění vad odůvodnění, změní odvolací správní orgán rozhodnutí v části odůvodnění; odvolací správní orgán nemůže svým rozhodnutím změnit rozhodnutí orgánu územního samosprávného celku vydané v samostatné působnosti.
->
-> (2) Podle odstavce 1 písm. a) postupuje odvolací správní orgán též tehdy, jde-li o odvolání proti rozhodnutí o předběžném opatření a nabylo-li již rozhodnutí ve věci právní moci, ledaže by rozhodnutí o tomto odvolání mohlo mít význam pro náhradu škody.
->
-> (3) Odvolací správní orgán nemůže změnit napadené rozhodnutí v neprospěch odvolatele, ledaže odvolání podal také jiný účastník, jehož zájmy nejsou shodné, anebo je napadené rozhodnutí v rozporu s právními předpisy nebo jiným veřejným zájmem.
->
-> (4) Jestliže odvolací správní orgán zjistí, že nastala skutečnost, která odůvodňuje zastavení řízení, bez dalšího zruší napadené rozhodnutí a řízení zastaví, ledaže jiné rozhodnutí o odvolání může mít význam pro náhradu škody nebo pro právní nástupce účastníků.
->
-> (5) Neshledá-li odvolací správní orgán důvod pro postup podle odstavců 1 až 4, odvolání zamítne a napadené rozhodnutí potvrdí. Jestliže odvolací správní orgán změní nebo zruší napadené rozhodnutí jen zčásti, ve zbytku je potvrdí.
->
-> (6) Rozhodnutí v odvolacím řízení vydá odvolací správní orgán ve lhůtách stanovených v [[#§ 71|§ 71]]. Lhůta počíná běžet dnem předání spisu odvolacímu správnímu orgánu k rozhodnutí ([[#§ 88|§ 88]]).
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 36, § 71, § 88
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=06f38583a761d9970557 -->
-
 ### § 91 — Právní moc + zpětvzetí + vzdání práva
 
 <!-- AUTOCITACE:§91 -->
@@ -1574,58 +996,6 @@ Proti odvolacímu rozhodnutí už není odvolání; vzali-li všichni odvolatel�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=705a1ee2050689d4da41 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 91
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Proti rozhodnutí odvolacího správního orgánu se nelze dále odvolat. Rozhodnutí odvolacího správního orgánu je v právní moci, jestliže bylo oznámeno všem odvolatelům a účastníkům uvedeným v § 27 odst. 1.
->
-> (2) Pokud je napadené rozhodnutí předběžně vykonatelné, platí pro účinky jeho zrušení ustanovení [[#§ 99|§ 99]] obdobně.
->
-> (3) Pokud odvolatel vzal podané odvolání zpět, řízení o odvolání je zastaveno dnem zpětvzetí odvolání. Pokud všichni odvolatelé vzali podané odvolání zpět, odvolací řízení je zastaveno dnem zpětvzetí odvolání posledního z odvolatelů. Dnem následujícím po zastavení řízení nabývá napadené rozhodnutí právní moci. O skutečnosti, že řízení bylo zastaveno, správní orgán vydá usnesení, které se pouze poznamená do spisu a vyrozumí se o něm odvolatelé, jakož i jiní účastníci, pokud byli o podaném odvolání uvědoměni podle § 86 odst. 2. Odvolání lze vzít zpět nejpozději do vydání rozhodnutí odvolacího správního orgánu.
->
-> (4) Je-li v řízení více účastníků a všichni se vzdali práva podat odvolání, nabývá rozhodnutí právní moci dnem následujícím po dni, kdy tak učinil poslední z nich.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 27, § 99, § 86
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=705a1ee2050689d4da41 -->
-
 ### § 92 — Opožděné / nepřípustné odvolání
 
 <!-- AUTOCITACE:§92 -->
@@ -1692,54 +1062,6 @@ Opožděné/nepřípustné odvolání se zamítá, ale konvertuje na podnět k p
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=956a96dfd40e03599fcc generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 92
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Opožděné nebo nepřípustné odvolání odvolací správní orgán zamítne. Jestliže rozhodnutí již nabylo právní moci, následně zkoumá, zda nejsou dány předpoklady pro přezkoumání rozhodnutí v přezkumném řízení, pro obnovu řízení nebo pro vydání nového rozhodnutí. Shledá-li předpoklady pro zahájení přezkumného řízení, pro obnovu řízení nebo pro vydání nového rozhodnutí, posuzuje se opožděné nebo nepřípustné odvolání jako podnět k přezkumnému řízení nebo žádost o obnovu řízení nebo žádost o vydání nového rozhodnutí.
->
-> (2) Dojde-li odvolací správní orgán k závěru, že odvolání bylo podáno včas a že je přípustné, vrátí věc správnímu orgánu, který rozhodl v prvním stupni.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=956a96dfd40e03599fcc -->
-
 ### § 93 — Subsidiární použití ostatních ustanovení
 
 <!-- AUTOCITACE:§93 -->
@@ -1790,54 +1112,6 @@ Pro odvolací řízení platí subsidiárně obecná ustanovení Hlav I–IV, VI
 **Typicky rozhodné důkazy / podklady:** spis odvolacího řízení, identifikace dotčeného obecného ustanovení, doklady o struktuře nadřízenosti orgánů (§ 178).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e70a162f73416e14716f generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 93
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Jestliže v této hlavě není stanoveno jinak, pro řízení o odvolání se obdobně použijí ustanovení hlav I až IV, VI a VII této části.
->
-> (2) Kde se v hlavách I až VII této části hovoří o nadřízeném správním orgánu, rozumí se tím při postupu podle této hlavy správní orgán nejblíže nadřízený odvolacímu správnímu orgánu; jinak platí ustanovení [[#§ 178|§ 178]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 178
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e70a162f73416e14716f -->
 
 ## Synoptická tabulka — nečinnost a odvolání
 

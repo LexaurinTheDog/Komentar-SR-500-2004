@@ -86,52 +86,6 @@ OOP je hybridní akt (konkrétní předmět, neurčitý okruh adresátů), vydat
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=172e4da7e9b6c2312eb0 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 171
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> Podle této části postupují správní orgány v případech, kdy jim zvláštní zákon ukládá vydat závazné opatření obecné povahy, které není právním předpisem ani rozhodnutím.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=172e4da7e9b6c2312eb0 -->
-
 ## § 172 — NÁVRH OOP (procedura veřejného projednání)
 
 <!-- AUTOCITACE:§172 -->
@@ -258,60 +212,6 @@ Procedura návrhu OOP rozlišuje slabší připomínky (kdokoli, vypořádání 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c3a097b94685ee08f1f6 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 172
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> (1) Návrh opatření obecné povahy s odůvodněním správní orgán po projednání s dotčenými orgány uvedenými v [[#§ 136|§ 136]] doručí veřejnou vyhláškou podle [[#§ 25|§ 25]], kterou vyvěsí na své úřední desce a na úředních deskách obecních úřadů v obcích, jejichž správních obvodů se má opatření obecné povahy týkat, a vyzve dotčené osoby, aby k návrhu opatření podávaly připomínky nebo námitky. V případě potřeby se návrh zveřejní i jiným způsobem, v místě obvyklým. Návrh opatření obecné povahy musí být zveřejněn nejméně po dobu 15 dnů.
->
-> (2) Není-li vzhledem k rozsahu návrhu možno zveřejnit jej na úřední desce v úplném znění, musí být na úřední desce uvedeno, o jaké opatření obecné povahy jde, čích zájmů se přímo dotýká a kde a v jaké lhůtě se lze s návrhem seznámit. Úplné znění návrhu včetně odůvodnění však musí být i v takovém případě zveřejněno způsobem umožňujícím dálkový přístup.
->
-> (3) Řízení o návrhu opatření obecné povahy je písemné, pokud zákon nestanoví nebo správní orgán neurčí, že se koná veřejné projednání návrhu. Dobu a místo konání veřejného projednání správní orgán oznámí na úřední desce nejméně 15 dnů předem; oznámení zveřejní též na úředních deskách obecních úřadů v obcích, jejichž správních obvodů se má opatření obecné povahy týkat. Hrozí-li nebezpečí z prodlení, je možné tuto dobu zkrátit; nestanoví-li zákon jinak, musí zkrácená doba činit nejméně 5 dní.
->
-> (4) K návrhu opatření obecné povahy může kdokoli, jehož práva, povinnosti nebo zájmy mohou být opatřením obecné povahy přímo dotčeny, uplatnit u správního orgánu písemné připomínky nebo na veřejném projednání ústní připomínky. Správní orgán je povinen se připomínkami zabývat jako podkladem pro opatření obecné povahy a vypořádat se s nimi v jeho odůvodnění.
->
-> (5) Vlastníci nemovitostí, jejichž práva, povinnosti nebo zájmy související s výkonem vlastnického práva mohou být opatřením obecné povahy přímo dotčeny, nebo, určí-li tak správní orgán, i jiné osoby, jejichž oprávněné zájmy mohou být opatřením obecné povahy přímo dotčeny, mohou podat proti návrhu opatření obecné povahy písemné odůvodněné námitky ke správnímu orgánu ve lhůtě 30 dnů ode dne jeho zveřejnění. Zmeškání úkonu nelze prominout. O námitkách rozhoduje správní orgán, který opatření obecné povahy vydává. Jestliže by vyřízení námitky vedlo k řešení, které přímo ovlivní oprávněné zájmy některé osoby jiným způsobem než návrh opatření obecné povahy, a není-li změna zjevně též v její prospěch, zjistí správní orgán její stanovisko. Rozhodnutí o námitkách, které musí obsahovat vlastní odůvodnění, se uvede jako součást odůvodnění opatření obecné povahy (§ 173 odst. 1). Proti rozhodnutí se nelze odvolat ani podat rozklad. Změna nebo zrušení pravomocného rozhodnutí o námitkách může být důvodem změny opatření obecné povahy.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 136, § 25, § 173
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c3a097b94685ee08f1f6 -->
-
 ## § 173 — Vydání OOP a opravné prostředky
 
 <!-- AUTOCITACE:§173 -->
@@ -405,56 +305,6 @@ Proti OOP není řádný opravný prostředek; brání se přímou žalobou (§ 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=75b1ebc0f200f3e08f4b generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 173
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> (1) Opatření obecné povahy, které musí obsahovat odůvodnění, správní orgán oznámí veřejnou vyhláškou; opatření obecné povahy zveřejní též na úředních deskách obecních úřadů v obcích, jejichž správních obvodů se opatření obecné povahy týká. Ustanovení § 172 odst. 1 platí obdobně. Opatření obecné povahy nabývá účinnosti patnáctým dnem po dni vyvěšení veřejné vyhlášky. Hrozí-li vážná újma veřejnému zájmu, může opatření obecné povahy nabýt účinnosti již dnem vyvěšení; stanoví-li tak zvláštní zákon, může se tak stát před postupem podle [[#§ 172|§ 172]]. Do opatření obecné povahy a jeho odůvodnění může každý nahlédnout u správního orgánu, který opatření obecné povahy vydal.
->
-> (2) Proti opatření obecné povahy nelze podat opravný prostředek.
->
-> (3) Povinnost, která je stanovena zákonem a jejíž rozsah je v mezích zákona určen opatřením obecné povahy, lze exekučně vymáhat jedině tehdy, jestliže bylo vydáno rozhodnutí, které existenci této povinnosti prohlásilo a v němž byla osoba, jež tuto povinnost má, jmenovitě uvedena.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 172
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=75b1ebc0f200f3e08f4b -->
-
 ## § 174 — Subsidiární právo a přezkum
 
 <!-- AUTOCITACE:§174 -->
@@ -525,54 +375,6 @@ Na řízení o OOP se zásady užijí obdobně a část druhá jen přiměřeně
 **Typicky rozhodné důkazy / podklady:** text a odůvodnění OOP, datum účinnosti, usnesení o zahájení přezkumu, navazující správní akty odkazující na OOP.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=3b90cc6e1024a462348c generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 174
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> (1) Pro řízení podle této části platí obdobně ustanovení části první a přiměřeně ustanovení části druhé.
->
-> (2) Soulad opatření obecné povahy s právními předpisy lze posoudit v přezkumném řízení. Usnesení o zahájení přezkumného řízení lze vydat do 1 roku od účinnosti opatření. Účinky rozhodnutí v přezkumném řízení nastávají ode dne jeho právní moci.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3b90cc6e1024a462348c -->
 
 ## Synoptická tabulka — Část VI (OOP)
 

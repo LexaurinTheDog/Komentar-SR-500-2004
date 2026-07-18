@@ -93,56 +93,6 @@ Ne každý úkon úřadu zasahující do práv je rozhodnutím dle § 67. Rozhod
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=8a5353e8751d8efa1041 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 67 — Obsah a forma rozhodnutí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Rozhodnutím správní orgán v určité věci zakládá, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá, nebo v zákonem stanovených případech rozhoduje o procesních otázkách.
->
-> (2) Rozhodnutí se vyhotovuje v písemné formě. Rozhodnutí se písemně nevyhotovuje, stanoví-li tak zákon; výroková část takového rozhodnutí, podstatné části jeho odůvodnění a poučení o opravném prostředku se pouze vyhlásí a do spisu se učiní záznam, který obsahuje výrokovou část, odůvodnění, datum vydání, číslo jednací, datum vyhotovení, otisk úředního razítka, jméno, příjmení, funkci nebo služební číslo a podpis oprávněné úřední osoby.
->
-> (3) Ústně vyhlášené rozhodnutí správní orgán potvrdí písemně, pokud účastník písemné potvrzení požaduje. Písemné potvrzení obsahuje pouze výrokovou část rozhodnutí (§ 68 odst. 2) a další náležitosti uvedené v [[#§ 69|§ 69]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 68, § 69
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8a5353e8751d8efa1041 -->
-
 ### § 68 — NÁLEŽITOSTI ROZHODNUTÍ (klíčové ustanovení)
 
 <!-- AUTOCITACE:§68 -->
@@ -265,62 +215,6 @@ Pokud odvolání **nemá odkladný účinek** (§ 85 odst. 2) — **musí to bý
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c876481470d004d55439 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 68
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Rozhodnutí obsahuje výrokovou část, odůvodnění a poučení účastníků.
->
-> (2) Ve výrokové části se uvede řešení otázky, která je předmětem řízení, právní ustanovení, podle nichž bylo rozhodováno, a označení účastníků podle § 27 odst. 1. Účastníci, kteří jsou fyzickými osobami, se označují údaji umožňujícími jejich identifikaci (§ 18 odst. 2); účastníci, kteří jsou právnickými osobami, se označují názvem a sídlem. Ve výrokové části se uvede lhůta ke splnění ukládané povinnosti, popřípadě též jiné údaje potřebné k jejímu řádnému splnění a výrok o vyloučení odkladného účinku odvolání (§ 85 odst. 2). Výroková část rozhodnutí může obsahovat jeden nebo více výroků; výrok může obsahovat vedlejší ustanovení.
->
-> (3) V odůvodnění se uvedou důvody výroku nebo výroků rozhodnutí, podklady pro jeho vydání, úvahy, kterými se správní orgán řídil při jejich hodnocení a při výkladu právních předpisů, a informace o tom, jak se správní orgán vypořádal s návrhy a námitkami účastníků a s jejich vyjádřením k podkladům rozhodnutí. V případě, že podkladem rozhodnutí jsou písemnosti a záznamy, které jsou za podmínek v § 17 odst. 3 uchovávány odděleně mimo spis, v odůvodnění rozhodnutí se na tyto podklady odkáže takovým způsobem, aby nebyl zmařen účel jejich utajení; není-li to možné, uvedou se v odůvodnění rozhodnutí pouze v obecné rovině skutečnosti, které z těchto podkladů vyplývají.
->
-> (4) Odůvodnění rozhodnutí není třeba, jestliže správní orgán prvního stupně všem účastníkům v plném rozsahu vyhoví.
->
-> (5) V poučení se uvede, zda je možné proti rozhodnutí podat odvolání, v jaké lhůtě je možno tak učinit, od kterého dne se tato lhůta počítá, který správní orgán o odvolání rozhoduje a u kterého správního orgánu se odvolání podává.
->
-> (6) Pokud odvolání nemá odkladný účinek, musí být tato skutečnost v poučení uvedena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 27, § 18, § 85, § 17
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c876481470d004d55439 -->
-
 ### § 69 — Vyhotovení rozhodnutí
 
 <!-- AUTOCITACE:§69 -->
@@ -400,58 +294,6 @@ Na požádání účastníka orgán vydá:
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c97244d682a1886c940f generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 69
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) V písemném vyhotovení rozhodnutí se uvede označení „rozhodnutí“ nebo jiné označení stanovené zákonem. Písemné vyhotovení rozhodnutí dále musí obsahovat označení správního orgánu, který rozhodnutí vydal, číslo jednací, datum vyhotovení, otisk úředního razítka, jméno, příjmení, funkci nebo služební číslo a podpis oprávněné úřední osoby. Podpis oprávněné úřední osoby je na stejnopisu možno nahradit doložkou „vlastní rukou“ nebo zkratkou „v. r.“ u příjmení oprávněné úřední osoby a doložkou „Za správnost vyhotovení:“ s uvedením jména, příjmení a podpisu úřední osoby, která odpovídá za písemné vyhotovení rozhodnutí.
->
-> (2) V písemném vyhotovení rozhodnutí se uvedou jména a příjmení všech účastníků.
->
-> (3) Pokud se má rozhodnutí doručit elektronicky, vyhotoví úřední osoba, která za písemné vyhotovení rozhodnutí odpovídá, jeho elektronickou verzi.
->
-> (4) Na požádání účastníka správní orgán vydá stejnopis písemného vyhotovení rozhodnutí. Na požádání účastníka lze též vydat pouze stejnopis výroku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c97244d682a1886c940f -->
-
 ### § 70 — OPRAVY ZŘEJMÝCH NESPRÁVNOSTÍ
 
 <!-- AUTOCITACE:§70 -->
@@ -519,52 +361,6 @@ První úkon = vydání opravy (žádné předchozí řízení).
 **Typicky rozhodné důkazy / podklady:** opravované rozhodnutí, správní spis (výpočet, sazba, podklady k identifikaci), předchozí úkony, žádost účastníka o opravu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2b69d6494c70cddfa989 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 70
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Opravu zřejmých nesprávností v písemném vyhotovení rozhodnutí na požádání účastníka nebo z moci úřední usnesením provede správní orgán, který rozhodnutí vydal. Týká-li se oprava výroku rozhodnutí, vydá o tom správní orgán opravné rozhodnutí. Prvním úkonem správního orgánu ve věci opravy je vydání tohoto rozhodnutí. Právo podat odvolání proti opravnému usnesení anebo opravnému rozhodnutí má pouze účastník, který jím může být přímo dotčen.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2b69d6494c70cddfa989 -->
 
 ### § 71 — LHŮTY pro vydání rozhodnutí
 
@@ -669,72 +465,6 @@ Lhůty § 71 chrání zásadu rychlosti. Klíčový je okamžik vydání = vypra
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=4a7680803d9d00f39445 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 71 — Lhůty pro vydání rozhodnutí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Správní orgán je povinen vydat rozhodnutí bez zbytečného odkladu.
->
-> (2) Vydáním rozhodnutí se rozumí
->
-> - a) předání stejnopisu písemného vyhotovení rozhodnutí k doručení podle [[#§ 19|§ 19]], popřípadě jiný úkon k jeho doručení, provádí-li je správní orgán sám; na písemnosti nebo poštovní zásilce se tato skutečnost vyznačí slovy: „Vypraveno dne:“,
->
-> - b) ústní vyhlášení, pokud má účinky oznámení (§ 72 odst. 1),
->
-> - c) vyvěšení veřejné vyhlášky, je-li doručováno podle [[#§ 25|§ 25]],
->
-> - d) poznamenání usnesení do spisu v případě, že se pouze poznamenává do spisu, nebo
->
-> - e) odeslání stejnopisu písemného vyhotovení rozhodnutí do datové schránky kontaktního místa veřejné správy k postupu podle § 19 odst. 3; na písemnosti se tato skutečnost vyznačí slovy: „Vypraveno dne:“.
->
-> (3) Pokud nelze rozhodnutí vydat bezodkladně, je správní orgán povinen vydat rozhodnutí nejpozději do 30 dnů od zahájení řízení, k nimž se připočítává doba
->
-> - a) až 30 dnů, jestliže je zapotřebí nařídit ústní jednání nebo místní šetření, je-li třeba někoho předvolat, někoho nechat předvést nebo doručovat veřejnou vyhláškou osobám, jimž se prokazatelně nedaří doručovat, nebo jde-li o zvlášť složitý případ,
->
-> - b) nutná k provedení dožádání podle § 13 odst. 3, ke zpracování znaleckého posudku nebo k doručení písemnosti do ciziny.
->
-> (4) Nedodržení lhůt se nemůže dovolávat ten účastník, který je způsobil.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 19, § 72, § 25, § 13
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4a7680803d9d00f39445 -->
-
 ### § 72 — OZNAMOVÁNÍ rozhodnutí
 
 <!-- AUTOCITACE:§72 -->
@@ -806,56 +536,6 @@ Oznámení je podmínkou právní moci (§ 73). Ústní vyhlášení má účink
 **Typicky rozhodné důkazy / podklady:** protokol o ústním jednání, záznam do spisu (§ 67/2), doklady o vzdání se nároku/práva, doručenky, spis.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b3866942cd550bc6ad33 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 72 — Oznamování rozhodnutí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Rozhodnutí se účastníkům oznamuje doručením stejnopisu písemného vyhotovení do vlastních rukou nebo ústním vyhlášením. Nestanoví-li zákon jinak, má ústní vyhlášení účinky oznámení pouze v případě, že se účastník současně vzdá nároku na doručení písemného vyhotovení rozhodnutí. Tato skutečnost se poznamená do spisu.
->
-> (2) Pokud se všichni účastníci vzdají nároku na doručení písemného vyhotovení rozhodnutí, učiní se místo písemného vyhotovení rozhodnutí pouze záznam do spisu podle § 67 odst. 2 věty druhé.
->
-> (3) Účastník se může vzdát práva na oznamování všech rozhodnutí vydaných v řízení, s výjimkou rozhodnutí, jímž se řízení končí, a rozhodnutí, jímž se mu v průběhu řízení ukládá povinnost, a práva na vyrozumívání o usneseních poznamenaných do spisu. Pokud se všichni účastníci vzdali práva na oznamování všech usnesení v řízení, usnesení se pouze poznamená do spisu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 67
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b3866942cd550bc6ad33 -->
 
 ### § 73 — PRÁVNÍ MOC (klíčový institut)
 
@@ -935,54 +615,6 @@ Právní moc (§ 73) je formální (neodvolatelnost) i materiální (závaznost)
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=12a8a67121925a26b3cb generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 73
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Nestanoví-li tento zákon jinak, je v právní moci rozhodnutí, které bylo oznámeno a proti kterému nelze podat odvolání.
->
-> (2) Pravomocné rozhodnutí je závazné pro účastníky a pro všechny správní orgány; ustanovení § 76 odst. 3 věty poslední tím není dotčeno. Pro jiné osoby je pravomocné rozhodnutí závazné v případech stanovených zákonem v rozsahu v něm uvedeném. Pravomocné rozhodnutí o osobním stavu je závazné pro každého. Jestliže je pro práva a povinnosti účastníků určující právo k movité nebo nemovité věci,28) je pravomocné rozhodnutí závazné i pro právní nástupce účastníků.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 76
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=12a8a67121925a26b3cb -->
-
 ### § 74 — VYKONATELNOST
 
 <!-- AUTOCITACE:§74 -->
@@ -1056,56 +688,6 @@ Vykonatelnost (§ 74) vzniká právní mocí, nebo pozdějším dnem uvedeným v
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a52f3f6969e9d5417f30 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 74
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Rozhodnutí je vykonatelné nabytím právní moci nebo pozdějším dnem, který je v jeho výrokové části uveden. Rozhodnutí je předběžně vykonatelné, pokud odvolání nemá odkladný účinek.
->
-> (2) Rozhodnutí ukládající povinnost k plnění je vykonatelné, je-li v právní moci a jestliže uplynula lhůta ke splnění povinnosti. Rozhodnutí ukládající povinnost k plnění je předběžně vykonatelné, pokud odvolání nemá odkladný účinek, a byla-li stanovena lhůta ke splnění povinnosti, jejím uplynutím.
->
-> (3) Ustanovení o vykonatelnosti platí obdobně i pro jiné právní účinky rozhodnutí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a52f3f6969e9d5417f30 -->
-
 ### § 75 — DOLOŽKA právní moci / vykonatelnosti
 
 <!-- AUTOCITACE:§75 -->
@@ -1172,56 +754,6 @@ Doložka (§ 75) osvědčuje právní moc/vykonatelnost, ale nezakládá je — 
 **Typicky rozhodné důkazy / podklady:** stejnopis s doložkou, originál ve spisu, doručenky, doklad o (ne)podání odvolání, seznam osob, jimž byla doložka vyznačena, veřejná vyhláška.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=8a92e5aed82b598444be generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 75 — Doložka právní moci nebo vykonatelnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Správní orgán, který rozhodl v posledním stupni, vyznačí na písemném vyhotovení rozhodnutí, které zůstává součástí spisu, právní moc nebo vykonatelnost rozhodnutí. Zároveň vyznačí den vyhlášení tohoto rozhodnutí nebo den, kdy byla písemnost předána k doručení.
->
-> (2) Na požádání účastníka opatří správní orgán prvního stupně doložkou právní moci nebo vykonatelnosti stejnopis rozhodnutí, který byl účastníkovi doručen. Na požádání účastníka se vyhotoví stejnopis výroku spolu s vyznačením doložky právní moci nebo vykonatelnosti.
->
-> (3) Jestliže dojde k chybnému vyznačení nebo pozbude-li rozhodnutí právní moci nebo vykonatelnosti, správní orgán to sdělí těm osobám, jimž údaje uvedené v odstavci 1 vyznačil, a učiní o tom oznámení veřejnou vyhláškou.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8a92e5aed82b598444be -->
 
 ### § 76 — USNESENÍ
 
@@ -1302,60 +834,6 @@ Usnesení (§ 76) je rozhodnutí o procesní otázce. Klíčové je rozlišit re
 **Typicky rozhodné důkazy / podklady:** usnesení a záznam o jeho poznamenání do spisu, doklad o vyrozumění účastníka, zákonný základ režimu usnesení, spis, případné nové usnesení (změna).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=89a7dac3304a63232c35 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 76 — Usnesení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) V případech stanovených zákonem rozhoduje správní orgán usnesením.
->
-> (2) Usnesení podle § 11 odst. 2, § 13 odst. 4, § 28 odst. 1, § 29 odst. 1, § 38 odst. 5 a § 80 odst. 4 písm. b) a c) lze vydat bez předchozího řízení, jestliže obdobné usnesení bylo týmž správním orgánem podle ustálené rozhodovací praxe vydáno v téže nebo jiné věci za obdobných skutkových okolností. Účinky takového usnesení nastávají jeho vydáním.
->
-> (3) Usnesení se oznamuje podle [[#§ 72|§ 72]], nestanoví-li zákon, že se pouze poznamená do spisu. Usnesení, které se oznamuje podle [[#§ 72|§ 72]], nabývá právní moci, bylo-li oznámeno a nelze-li proti němu podat odvolání. O usnesení, které se pouze poznamená do spisu, se účastníci vhodným způsobem vyrozumí; takové usnesení nabývá právní moci poznamenáním do spisu. Usnesení, které se pouze poznamená do spisu, může správní orgán v průběhu řízení změnit novým usnesením; nové usnesení se pouze poznamená do spisu.
->
-> (4) Usnesení, která se týkají příslušnosti správních orgánů, se oznamují též všem správním orgánům, kterých se dotýkají.
->
-> (5) Proti usnesení se může odvolat účastník, jemuž se usnesení oznamuje. Odvolání proti usnesení nemá odkladný účinek. Proti usnesení, které se pouze poznamená do spisu, a proti usnesení, o němž to stanoví zákon, se nelze odvolat.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 11, § 13, § 28, § 29, § 38, § 80, § 72
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=89a7dac3304a63232c35 -->
 
 ## Díl 7 — NICOTNOST rozhodnutí (§ 77)
 

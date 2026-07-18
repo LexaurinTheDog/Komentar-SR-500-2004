@@ -97,52 +97,6 @@ Aplikace § 154 v praxi: vždy ověřit, zda úkon spadá pod část IV a zda se
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5a7c149df0fa6bc35542 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 154
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> Jestliže správní orgán vydává vyjádření, osvědčení, provádí ověření nebo činí sdělení, která se týkají dotčených osob, postupuje podle ustanovení této části, podle ustanovení části první, obdobně podle těchto ustanovení části druhé: § 10 až § 16, § 19 až § 26, § 29 až § 31, § 33 až § 35, [[#§ 37|§ 37]], [[#§ 40|§ 40]], [[#§ 62|§ 62]], [[#§ 63|§ 63]], a obdobně podle těchto ustanovení části třetí: [[#§ 134|§ 134]], [[#§ 137|§ 137]] a § 142 odst. 1 a [[#§ 2|2]]; přiměřeně použije i další ustanovení tohoto zákona, pokud jsou přitom potřebná.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 10, § 16, § 19, § 26, § 29, § 31, § 33, § 35, § 37, § 40, § 62, § 63, § 134, § 137, § 142, § 2
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5a7c149df0fa6bc35542 -->
-
 ## § 155 — Příslušnost a postup
 
 <!-- AUTOCITACE:§155 -->
@@ -233,56 +187,6 @@ Aplikace § 155: nevyžaduje-li úkon zkoumání skutkového stavu ani evidenci 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=97d229d709422c2f3a08 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 155
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> (1) Jestliže to nevylučuje povaha vyjádření, osvědčení nebo sdělení, zejména není-li zapotřebí zkoumat skutkový stav nebo čerpat z evidence vedené určitým správním orgánem, může je vydat nebo učinit kterýkoli věcně příslušný správní orgán.
->
-> (2) Je-li správní orgán požádán o vydání osvědčení nebo ověření a jsou-li splněny předpoklady k provedení požadovaného úkonu, správní orgán tento úkon bez dalšího provede.
->
-> (3) Pokud správní orgán shledá, že nelze vydat vyjádření nebo osvědčení, provést ověření nebo učinit sdělení, je povinen o tom na požádání písemně uvědomit dotčenou osobu a sdělit důvody, které k tomuto závěru vedly.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=97d229d709422c2f3a08 -->
-
 ## § 156 — Opravy a ZRUŠENÍ vadného úkonu
 
 <!-- AUTOCITACE:§156 -->
@@ -365,54 +269,6 @@ Aplikace § 156: opravitelné vady bez újmy → usnesení pouze do spisu (odst.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=d3f5f3837b7069adcde3 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 156
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> (1) Jestliže vyjádření, osvědčení nebo sdělení správního orgánu trpí vadami, které lze opravit, aniž tím bude způsobena újma některé z dotčených osob, správní orgán je opraví usnesením, které se pouze poznamená do spisu.
->
-> (2) Vyjádření, osvědčení nebo sdělení správního orgánu, které je v rozporu s právními předpisy a které nelze opravit podle odstavce 1, zruší usnesením správní orgán, který je vydal nebo učinil, a to s účinky ode dne, kdy bylo zrušované vyjádření nebo osvědčení vydáno anebo sdělení učiněno, nestanoví-li zákon jiný postup; takové usnesení lze vydat po dobu, po kterou trvají účinky vyjádření, osvědčení nebo sdělení. Na tento postup se přiměřeně použijí ustanovení hlavy IX části druhé o přezkumném řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d3f5f3837b7069adcde3 -->
-
 ## § 157 — Záměna úkonu (sanační institut)
 
 <!-- AUTOCITACE:§157 -->
@@ -472,52 +328,6 @@ Aplikace § 157: lze sanovat formálně chybně označený úkon (či nicotné r
 **Typicky rozhodné důkazy / podklady:** vadný úkon a jeho obsah, doklad o věcné příslušnosti orgánu k oběma úkonům, posouzení dopadu na práva dotčených osob, usnesení o záměně.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=de2a9856b4edcf745272 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 157
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> Nebude-li tím způsobena újma žádné z dotčených osob, může správní orgán usnesením prohlásit, že vyjádření, osvědčení nebo sdělení anebo nicotné rozhodnutí, které má náležitosti jiného úkonu, je tím úkonem, jehož náležitosti splňuje, pokud byl příslušný oba předmětné úkony vydat nebo uskutečnit.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=de2a9856b4edcf745272 -->
 
 ## § 158 — Subsidiarita pro JINÉ úkony
 
@@ -592,54 +402,6 @@ Aplikace § 158: každý úkon orgánu mimo standardní formy spadá pod část 
 **Typicky rozhodné důkazy / podklady:** žádost o úkon, doklad o jeho (ne)provedení, sektorový předpis upravující daný úkon, relevantní judikatura kvalifikující úkon jako „jiný úkon"/zásah.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=36895db1a4815c2f43d7 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-### Revizní doplnění k § 158
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-#### Znění ustanovení
-
-> (1) Ustanovení této části se obdobně použijí i v případě, provádí-li správní orgán jiné úkony, které nejsou upraveny v části první, třetí, páté nebo šesté anebo v této části.
->
-> (2) Ustanovení § 156 odst. 2 se přiměřeně použije i na úkony správního orgánu prováděné při postupu podle části druhé, třetí, páté nebo šesté, jejichž zrušení není zvlášť upraveno.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 156
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=36895db1a4815c2f43d7 -->
 
 ## Synoptická tabulka — Část IV
 

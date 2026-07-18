@@ -103,56 +103,6 @@ Před každým úkonem orgánu ověř, zda jde o výkon veřejné správy (funk�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=4ed46f941bed9551fd03 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 1
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Tento zákon upravuje postup orgánů moci výkonné, orgánů územních samosprávných celků1) a jiných orgánů, právnických a fyzických osob, pokud vykonávají působnost v oblasti veřejné správy (dále jen „správní orgán“).
->
-> (2) Tento zákon nebo jeho jednotlivá ustanovení se použijí, nestanoví-li zvláštní zákon jiný postup.
->
-> (3) Tento zákon se nevztahuje na právní jednání prováděná správními orgány a na vztahy mezi orgány téhož územního samosprávného celku při výkonu samostatné působnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4ed46f941bed9551fd03 -->
-
 ## Hlava II — Základní zásady činnosti správních orgánů (§§ 2–8)
 
 > Devět zásad rozdělených do 7 paragrafů. Vyšel z článku 36 odst. 1 Listiny („**každý se může domáhat svého práva u nezávislého a nestranného soudu, ve stanovených případech u jiného orgánu**") a z principu právního státu (čl. 1 odst. 1 Ústavy). Zásady mají **přímou aplikační hodnotu** — nelze je ignorovat ani v jediném řízení a porušení každé z nich je důvodem pro odvolací zrušení rozhodnutí (§ 89 odst. 2: „přezkoumává soulad … se zákony a ostatními právními předpisy").
@@ -256,58 +206,6 @@ Zásady § 2 jsou interpretační páteří; jejich porušení se namítá vždy
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=b00989bbba07f9b3e859 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 2
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Správní orgán postupuje v souladu se zákony a ostatními právními předpisy, jakož i mezinárodními smlouvami, které jsou součástí právního řádu (dále jen „právní předpisy“). Kde se v tomto zákoně mluví o zákoně, rozumí se tím též mezinárodní smlouva, která je součástí právního řádu.
->
-> (2) Správní orgán uplatňuje svou pravomoc pouze k těm účelům, k nimž mu byla zákonem nebo na základě zákona svěřena, a v rozsahu, v jakém mu byla svěřena.
->
-> (3) Správní orgán šetří práva nabytá v dobré víře, jakož i oprávněné zájmy osob, jichž se činnost správního orgánu v jednotlivém případě dotýká (dále jen „dotčené osoby“), a může zasahovat do těchto práv jen za podmínek stanovených zákonem a v nezbytném rozsahu.
->
-> (4) Správní orgán dbá, aby přijaté řešení bylo v souladu s veřejným zájmem a aby odpovídalo okolnostem daného případu, jakož i na to, aby při rozhodování skutkově shodných nebo podobných případů nevznikaly nedůvodné rozdíly.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b00989bbba07f9b3e859 -->
-
 ### § 3 — Zásada MATERIÁLNÍ PRAVDY (zjištění skutkového stavu)
 
 <!-- AUTOCITACE:§3 -->
@@ -366,52 +264,6 @@ Orgán z úřední povinnosti zjišťuje skutkový stav v nezbytném rozsahu a m
 **Typicky rozhodné důkazy / podklady:** podkladové listiny a protokoly, návrhy důkazů účastníků, odůvodnění hodnocení důkazů, evidence a měření z úřední činnosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=a9e8263b2388d1a02d90 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 3
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Nevyplývá-li ze zákona něco jiného, postupuje správní orgán tak, aby byl zjištěn stav věci, o němž nejsou důvodné pochybnosti, a to v rozsahu, který je nezbytný pro soulad jeho úkonu s požadavky uvedenými v [[#§ 2|§ 2]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a9e8263b2388d1a02d90 -->
 
 ### § 4 — Zásada SLUŽBY VEŘEJNOSTI + POUČOVACÍ POVINNOSTI
 
@@ -511,58 +363,6 @@ Rozsah poučení odstupňuj podle závažnosti úkonu a poměrů osoby; absence 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=e3ba0930b8c9d25770d3 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 4
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Veřejná správa je službou veřejnosti. Každý, kdo plní úkoly vyplývající z působnosti správního orgánu, má povinnost se k dotčeným osobám chovat zdvořile a podle možností jim vycházet vstříc.
->
-> (2) Správní orgán v souvislosti se svým úkonem poskytne dotčené osobě přiměřené poučení o jejích právech a povinnostech, je-li to vzhledem k povaze úkonu a osobním poměrům dotčené osoby potřebné.
->
-> (3) Správní orgán s dostatečným předstihem uvědomí dotčené osoby o úkonu, který učiní, je-li to potřebné k hájení jejich práv a neohrozí-li to účel úkonu.
->
-> (4) Správní orgán umožní dotčeným osobám uplatňovat jejich práva a oprávněné zájmy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e3ba0930b8c9d25770d3 -->
-
 ### § 5 — Zásada SMÍRNÉHO ŘEŠENÍ ROZPORŮ
 
 <!-- AUTOCITACE:§5 -->
@@ -626,52 +426,6 @@ Tam, kde to povaha věci dovoluje (disponibilní předmět, bez převažujícíh
 **Typicky rozhodné důkazy / podklady:** protokol z ústního jednání, návrhy a vyjádření stran ke smíru, podklady o povaze předmětu řízení, případný návrh veřejnoprávní smlouvy.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b910b9c83cb359404e2e generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 5
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Pokud to povaha projednávané věci umožňuje, pokusí se správní orgán o smírné odstranění rozporů, které brání řádnému projednání a rozhodnutí dané věci.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b910b9c83cb359404e2e -->
 
 ### § 6 — Zásada RYCHLOSTI + HOSPODÁRNOSTI
 
@@ -755,54 +509,6 @@ Orgán vyřizuje věci bez průtahů a zatěžuje osoby minimálně — podklady
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=88e727f94068e9a15725 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 6
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Správní orgán vyřizuje věci bez zbytečných průtahů. Nečiní-li správní orgán úkony v zákonem stanovené lhůtě nebo ve lhůtě přiměřené, není-li zákonná lhůta stanovena, použije se ke zjednání nápravy ustanovení o ochraně před nečinností ([[#§ 80|§ 80]]).
->
-> (2) Správní orgán postupuje tak, aby nikomu nevznikaly zbytečné náklady, a dotčené osoby co možná nejméně zatěžuje. Správní orgán opatřuje podklady přednostně s využitím úřední evidence, do níž má přístup. Podklady od dotčené osoby vyžaduje jen tehdy, stanoví-li tak právní předpis.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 80
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=88e727f94068e9a15725 -->
-
 ### § 7 — Zásada ROVNOSTI účastníků a NESTRANNOSTI
 
 <!-- AUTOCITACE:§7 -->
@@ -873,54 +579,6 @@ Orgán zajišťuje rovné procesní postavení a nestrannost a aktivně vyrovná
 **Typicky rozhodné důkazy / podklady:** správní spis, doklady o jazykové bariéře / pobytu / procesní způsobilosti, protokoly o úkonech (přítomnost tlumočníka, opatrovníka), doručenky.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4cf033ac3125111e3216 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 7
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Dotčené osoby mají při uplatňování svých procesních práv rovné postavení. Správní orgán postupuje vůči dotčeným osobám nestranně a vyžaduje od všech dotčených osob plnění jejich procesních povinností rovnou měrou.
->
-> (2) Tam, kde by rovnost dotčených osob mohla být ohrožena, správní orgán učiní opatření potřebná k jejímu zajištění.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4cf033ac3125111e3216 -->
 
 ### § 8 — Zásada SOULADU postupů (vzájemné koordinace) + DOBRÉ SPRÁVY
 
@@ -1000,54 +658,6 @@ Souběžné postupy týkající se týchž práv/povinností je třeba koordinov
 **Typicky rozhodné důkazy / podklady:** spisy všech souběžných postupů, závazná stanoviska dotčených orgánů, doklad o upozornění účastníkem, podklady prokazující vzájemný rozpor postupů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=20150c0062d768b3e370 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 8
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Správní orgány dbají vzájemného souladu všech postupů, které probíhají současně a souvisejí s týmiž právy nebo povinnostmi dotčené osoby. Na to, že současně probíhá více takových postupů u různých správních orgánů nebo u jiných orgánů veřejné moci, je dotčená osoba povinna správní orgány bezodkladně upozornit.
->
-> (2) Správní orgány vzájemně spolupracují v zájmu dobré správy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=20150c0062d768b3e370 -->
 
 ## Synoptická tabulka — 9 zásad v § 2–8
 

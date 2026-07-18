@@ -137,64 +137,6 @@ Stížnost § 175 je subsidiární, neformální nástroj občanské kontroly pr
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=e4c5ff0c3e331629447c generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 175 — Stížnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Dotčené osoby mají právo obracet se na správní orgány se stížnostmi proti nevhodnému chování úředních osob nebo proti postupu správního orgánu, neposkytuje-li tento zákon jiný prostředek ochrany.
->
-> (2) Podání stížnosti nesmí být stěžovateli na újmu; odpovědnost za trestný čin nebo správní delikt není tímto ustanovením dotčena.
->
-> (3) Stížnost lze podat písemně nebo ústně; je-li podána ústně stížnost, kterou nelze ihned vyřídit, sepíše o ní správní orgán písemný záznam.
->
-> (4) Stížnost se podává u toho správního orgánu, který vede řízení. Tento správní orgán je povinen prošetřit skutečnosti ve stížnosti uvedené. Považuje-li to za vhodné, vyslechne stěžovatele, osoby, proti nimž stížnost směřuje, popřípadě další osoby, které mohou přispět k objasnění věci.
->
-> (5) Stížnost musí být vyřízena do 60 dnů ode dne jejího doručení správnímu orgánu příslušnému k jejímu vyřízení. O vyřízení stížnosti musí být stěžovatel v této lhůtě vyrozuměn. Stanovenou lhůtu lze překročit jen tehdy, nelze-li v jejím průběhu zajistit podklady potřebné pro vyřízení stížnosti.
->
-> (6) Byla-li stížnost shledána důvodnou nebo částečně důvodnou, je správní orgán povinen bezodkladně učinit nezbytná opatření k nápravě. O výsledku šetření a opatřeních přijatých k nápravě se učiní záznam do spisu; stěžovatel bude vyrozuměn jen tehdy, jestliže o to požádal.
->
-> (7) Má-li stěžovatel za to, že stížnost, kterou podal u příslušného správního orgánu, nebyla řádně vyřízena, může požádat nadřízený správní orgán, aby přešetřil způsob vyřízení stížnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e4c5ff0c3e331629447c -->
-
 ### § 176 — Zmocnění k vyhlášce
 
 <!-- AUTOCITACE:§176 -->
@@ -248,52 +190,6 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 **Typicky rozhodné důkazy / podklady:** předvolání, doklady o jízdném a dalších hotových výdajích, potvrzení zaměstnavatele o ušlém výdělku, aktuální text vyhlášky č. 520/2005 Sb.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=a548f969224e5fb91047 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 176
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Ministerstvo vnitra vydá právní předpis k provedení § 79 odst. 4 a [[#§ 5|5.]]
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 79, § 5
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a548f969224e5fb91047 -->
 
 ### § 177 — UNIVERZÁLNÍ použití zásad činnosti
 
@@ -364,54 +260,6 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 **Typicky rozhodné důkazy / podklady:** text zvláštního zákona a jeho ustanovení o zásadách, napadený úkon (výzva, sdělení), doklad o doručení, srovnání s požadavky § 2–8 SŘ.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=1e08f42d274b5ded3274 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 177
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Základní zásady činnosti správních orgánů uvedené v § 2 až 8 se použijí při výkonu veřejné správy i v případech, kdy zvláštní zákon stanoví, že se správní řád nepoužije, ale sám úpravu odpovídající těmto zásadám neobsahuje.
->
-> (2) V případech, kdy správní orgán provádí úkony, na které se nevztahují části druhá a třetí tohoto zákona, postupuje obdobně podle části čtvrté.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1e08f42d274b5ded3274 -->
 
 ### § 178 — Kdo je NADŘÍZENÝ orgán
 
@@ -485,54 +333,6 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 **Typicky rozhodné důkazy / podklady:** identifikace orgánu a druhu jeho působnosti, kompetenční zákon, zvláštní zákon upravující věc, spis k posouzení odvolací/dozorové příslušnosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=db4c99d74c3775f6b4cf generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 178
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Nadřízeným správním orgánem je ten správní orgán, o kterém to stanoví zvláštní zákon. Neurčuje-li jej zvláštní zákon, je jím správní orgán, který podle zákona rozhoduje o odvolání, popřípadě vykonává dozor.
->
-> (2) Nelze-li nadřízený správní orgán určit podle odstavce 1, určí se podle tohoto odstavce. Nadřízeným správním orgánem orgánu obce se rozumí krajský úřad. Nadřízeným správním orgánem orgánu kraje se rozumí v řízení vedeném v samostatné působnosti Ministerstvo vnitra, v řízení vedeném v přenesené působnosti věcně příslušný ústřední správní úřad, popřípadě ústřední správní úřad, jehož obor působnosti je rozhodované věci nejbližší. Nadřízeným správním orgánem jiné veřejnoprávní korporace se rozumí správní orgán pověřený výkonem dozoru a nadřízeným správním orgánem právnické nebo fyzické osoby pověřené výkonem veřejné správy se rozumí orgán, který podle zvláštního zákona rozhoduje o odvolání; není-li takový orgán stanoven, je tímto orgánem orgán, který tyto osoby výkonem veřejné správy na základě zákona pověřil. Nadřízeným správním orgánem ústředního správního úřadu se rozumí ministr, nebo vedoucí jiného ústředního správního úřadu. Nadřízeným správním orgánem ministra nebo vedoucího jiného ústředního správního úřadu se rozumí vedoucí příslušného ústředního správního úřadu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=db4c99d74c3775f6b4cf -->
 
 ## Hlava II — Přechodná a závěrečná ustanovení (§§ 179–183)
 
@@ -613,56 +413,6 @@ Tato vyhláška je dnes č. **520/2005 Sb.**, o rozsahu hotových výdajů a uš
 
 **Typicky rozhodné důkazy / podklady:** spis s datem zahájení řízení, doklad o (ne)nabytí právní moci k 31. 12. 2005, případné zrušující rozhodnutí, doklad o zahájení výkonu rozhodnutí.
 
-
-<!-- LEGAL-REVISION:BEGIN id=8601ae7097c635d7746a generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 179
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Řízení, která nebyla pravomocně skončena před účinností tohoto zákona, se dokončí podle dosavadních předpisů. Bylo-li rozhodnutí před účinností tohoto zákona zrušeno a vráceno k novému projednání správnímu orgánu, postupuje se podle dosavadních předpisů.
->
-> (2) Bylo-li řízení pravomocně skončeno před účinností tohoto zákona, postupuje se při přezkumném řízení, obnově řízení nebo vydávání nového rozhodnutí podle tohoto zákona, včetně lhůt, v nichž lze takové řízení zahájit.
->
-> (3) Výkon rozhodnutí, který byl zahájen před účinností tohoto zákona, se dokončí podle dosavadních předpisů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8601ae7097c635d7746a -->
-
 ### § 180 — Aplikace SŘ tam, kde starší předpisy nepokrývají
 
 <!-- AUTOCITACE:§180 -->
@@ -726,54 +476,6 @@ Pokud orgán **nevydává rozhodnutí**, ale úkony jsou jen částečně uprave
 
 **Typicky rozhodné důkazy / podklady:** text zvláštního předpisu a jeho procesní ustanovení, identifikace konkrétní mezery, spis dokládající sporný procesní úkon.
 
-
-<!-- LEGAL-REVISION:BEGIN id=a8abb73f90410d307472 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 180
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Tam, kde se podle dosavadních právních předpisů postupuje ve správním řízení tak, že správní orgány vydávají rozhodnutí, aniž tyto předpisy řízení v celém rozsahu upravují, postupují v otázkách, jejichž řešení je nezbytné, podle tohoto zákona včetně části druhé.
->
-> (2) Pro případ, že podle dosavadních právních předpisů postupují správní orgány v řízení, jehož cílem není vydání rozhodnutí, aniž tyto předpisy řízení v celém rozsahu upravují, postupují v otázkách, jejichž řešení je nezbytné a které nelze podle těchto předpisů řešit, podle části čtvrté tohoto zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a8abb73f90410d307472 -->
-
 ### § 181 — Obrácená klasifikace usnesení
 
 <!-- AUTOCITACE:§181 -->
@@ -823,52 +525,6 @@ Pokud **dosavadní předpisy** říkají "vydat rozhodnutí" ve věci, která je
 - [ ] Nezaměňovat dílčí procesní otázky (usnesení) s rozhodováním ve věci samé (rozhodnutí).
 
 **Typicky rozhodné důkazy / podklady:** text dosavadního předpisu (pojem „rozhodnutí"), srovnání s katalogem usnesení v SŘ, vydaný úkon a jeho poučení o opravných prostředcích.
-
-
-<!-- LEGAL-REVISION:BEGIN id=7092bd37f25d607d4831 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 181
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Stanoví-li dosavadní právní předpisy, že se v případech, v nichž správní orgány rozhodují podle tohoto zákona usnesením, vydává rozhodnutí, vydávají správní orgány usnesení podle tohoto zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7092bd37f25d607d4831 -->
 
 ### § 182 — Nicotnost + VPS (retroaktivita)
 
@@ -930,54 +586,6 @@ Institut **NICOTNOSTI § 77** se použije jen pro úkony **OD 1. 1. 2006**. Star
 
 **Typicky rozhodné důkazy / podklady:** datum vydání napadeného úkonu, text a datum uzavření VPS, doklad o vzniku konkrétního nároku, dosavadní předpisy upravující vady a vznik smluv.
 
-
-<!-- LEGAL-REVISION:BEGIN id=fff17e6bafe0887f7335 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 182
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> (1) Ustanovení tohoto zákona o nicotnosti se použijí jen pro úkony správních orgánů učiněné po účinnosti tohoto zákona.
->
-> (2) Ustanoveními tohoto zákona se řídí i veřejnoprávní smlouvy vzniklé přede dnem nabytí účinnosti tohoto zákona; vznik těchto smluv, jakož i nároky z nich vzniklé přede dnem nabytí účinnosti tohoto zákona se však posuzují podle dosavadních právních předpisů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fff17e6bafe0887f7335 -->
-
 ### § 183 — Zrušení starého správního řádu
 
 <!-- AUTOCITACE:§183 -->
@@ -1036,52 +644,6 @@ Starý SŘ platil **40 let** (1. 1. 1968 – 31. 12. 2005) a byl výrazně **str
 **Typicky rozhodné důkazy / podklady:** datum zahájení řízení, posouzení aplikovatelnosti § 179, text platného SŘ č. 500/2004 Sb.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=74a51bb5265b9eb1faef generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 183
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Zrušuje se [[zákon č. 71/1967 Sb., o správním řízení|zákon č. 71/1967 Sb., o správním řízení]] ([[správní řád|správní řád]]).
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- zákon č. 71/1967 Sb. (výslovně uvedeno v místním znění)
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=74a51bb5265b9eb1faef -->
 
 ## Část osmá — Účinnost (§ 184)
 
@@ -1143,52 +705,6 @@ Starý SŘ platil **40 let** (1. 1. 1968 – 31. 12. 2005) a byl výrazně **str
 **Typicky rozhodné důkazy / podklady:** datum úkonu vůči 1. 1. 2006, text § 184, navazující přechodná ustanovení § 179 a § 182.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=67f7064b5d4ef26e6e38 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
-#### Revizní doplnění k § 184
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
-
-##### Znění ustanovení
-
-> Tento zákon nabývá účinnosti dnem 1. ledna 2006.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=67f7064b5d4ef26e6e38 -->
 
 ## Synoptická tabulka — Část VII–VIII
 
