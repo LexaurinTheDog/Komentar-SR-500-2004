@@ -106,6 +106,58 @@ Každou „smlouvu" obce či orgánu posuzuj podle obsahu, ne podle názvu; rozp
 
 **Typicky rozhodné důkazy / podklady:** text listiny, zápisy z jednání orgánů, podklady o povaze jednotlivých závazků (veřejnoprávní × majetkové), případně souhlasy nadřízeného orgánu či třetích osob.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6487fde7e2a6f4a74efa generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 159
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Veřejnoprávní smlouva je dvoustranný nebo vícestranný úkon, který zakládá, mění nebo ruší práva a povinnosti v oblasti veřejného práva.
+>
+> (2) Veřejnoprávní smlouva nesmí být v rozporu s právními předpisy, nesmí je obcházet a musí být v souladu s veřejným zájmem.
+>
+> (3) Uzavření veřejnoprávní smlouvy, jejíž stranou je správní orgán, nesmí snižovat důvěryhodnost veřejné správy, musí být účelné a správní orgán musí mít při jejím uzavírání za cíl plnění úkolů veřejné správy.
+>
+> (4) Veřejnoprávní smlouva se vždy posuzuje podle svého skutečného obsahu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6487fde7e2a6f4a74efa -->
+
 ## § 160 — KOORDINAČNÍ VPS (mezi orgány)
 
 <!-- AUTOCITACE:§160 -->
@@ -196,6 +248,62 @@ U každé koordinační VPS rozliš, zda jejím předmětem je výkon státní s
 
 **Typicky rozhodné důkazy / podklady:** text VPS, rozhodnutí/souhlas nadřízeného orgánu a doklad o jeho právní moci, zákonný podklad přenosu, doklad o zveřejnění na úřední desce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=1582d47660f9958c2ef0 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 160
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Stát, veřejnoprávní korporace, jiné právnické osoby zřízené zákonem a právnické a fyzické osoby, pokud vykonávají zákonem nebo na základě zákona svěřenou působnost v oblasti veřejné správy, mohou za účelem plnění svých úkolů vzájemně uzavírat veřejnoprávní smlouvy.
+>
+> (2) Jednání za stát upravují zvláštní zákony.41)
+>
+> (3) Správní orgány, které jsou organizačními složkami státu, mohou ve vzájemných vztazích nebo ve vztazích s jinými orgány veřejné moci, popřípadě s jinými organizačními složkami státu použít ustanovení této části obdobně.
+>
+> (4) Spory z dohod uzavřených podle odstavce 3 řeší správní orgán nejblíže společně nadřízený správním orgánům, jež jsou smluvními stranami. Není-li takového správního orgánu, řeší spor v dohodě ústřední správní úřady nadřízené těmto správním orgánům.
+>
+> (5) Veřejnoprávní smlouvy, jejichž předmětem je výkon státní správy, mohou osoby uvedené v odstavci 1 vzájemně uzavírat, jen stanoví-li tak zvláštní zákon a jen se souhlasem nadřízeného správního orgánu; ten posuzuje veřejnoprávní smlouvu a její obsah z hlediska souladu s právními předpisy a veřejným zájmem.
+>
+> (6) Územní samosprávné celky mohou vzájemně uzavírat veřejnoprávní smlouvy týkající se plnění úkolů vyplývajících z jejich samostatné působnosti při výkonu veřejné moci, jen stanoví-li tak zvláštní zákon.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1582d47660f9958c2ef0 -->
+
 ## § 161 — SUBORDINAČNÍ VPS (orgán + soukromá osoba MÍSTO rozhodnutí)
 
 <!-- AUTOCITACE:§161 -->
@@ -267,6 +375,54 @@ Subordinační VPS je nástroj „rozhodnutí dohodou" — použitelný jen tam,
 
 **Typicky rozhodné důkazy / podklady:** text VPS, zákonný podklad (zvláštní zákon), souhlasy vedlejších účastníků, usnesení o zastavení případného řízení, doklady o (ne)plnění podmínek.
 
+
+<!-- LEGAL-REVISION:BEGIN id=63443e36330b1bdc9ce8 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 161
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Stanoví-li tak zvláštní zákon, může správní orgán uzavřít veřejnoprávní smlouvu s osobou, která by byla účastníkem podle § 27 odst. 1, kdyby probíhalo řízení podle části druhé, a to i namísto vydání rozhodnutí. Podmínkou účinnosti veřejnoprávní smlouvy je souhlas ostatních osob, které by byly účastníky podle § 27 odst. 2 nebo [[#§ 3|3.]] Správní orgán přitom postupuje podle ustanovení o souhlasu třetích osob ([[#§ 168|§ 168]]).
+>
+> (2) Veřejnoprávní smlouvu lze uzavřít i po zahájení řízení podle části druhé. Poté, co veřejnoprávní smlouva byla uzavřena, správní orgán usnesením řízení zastaví.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 3, § 168
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=63443e36330b1bdc9ce8 -->
+
 ## § 162 — VPS MEZI ÚČASTNÍKY (vícestranná dohoda navzájem)
 
 <!-- AUTOCITACE:§162 -->
@@ -332,6 +488,54 @@ VPS podle § 162 je dohoda samotných účastníků o jejich vzájemných práve
 - [ ] Posoudil orgán soulad VPS s předpisy a veřejným zájmem?
 
 **Typicky rozhodné důkazy / podklady:** text VPS, doklad o souhlasu nebo přistoupení orgánu, podklady o předmětu (převod × výkon), případně podklad rozhodnutí, jehož se VPS týká.
+
+
+<!-- LEGAL-REVISION:BEGIN id=02dabf537fe0eb5fe06d generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 162
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Ti, kdo by byli účastníky podle § 27 odst. 1, kdyby probíhalo řízení podle části druhé, popřípadě ti, kdož účastníky takového řízení jsou, mohou uzavřít veřejnoprávní smlouvu týkající se převodu nebo způsobu výkonu jejich práv nebo povinností, nevylučuje-li to povaha věci nebo nestanoví-li zvláštní zákon jinak. K uzavření takové veřejnoprávní smlouvy je třeba souhlasu správního orgánu; ten posuzuje veřejnoprávní smlouvu a její obsah z hlediska souladu s právními předpisy a veřejným zájmem.
+>
+> (2) Pokud k veřejnoprávní smlouvě mezi účastníky přistoupí i správní orgán, pak platí, že k uzavření veřejnoprávní smlouvy udělil souhlas.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02dabf537fe0eb5fe06d -->
 
 ## § 163 — Návrh VPS (uzavírání)
 
@@ -414,6 +618,64 @@ Návrh VPS je závazný od dojití adresátovi; jednostranně jej lze vzít zpě
 
 **Typicky rozhodné důkazy / podklady:** návrh smlouvy s lhůtou, doručenky/doklady o dojití návrhu, zrušení a přijetí, případná výzva zájemcům podle § 146 odst. 2.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9073da0c16ca32946feb generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 163
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Projev vůle učiněný v písemné formě, směřující k uzavření veřejnoprávní smlouvy, který je určen jedné nebo více určitým osobám, je návrhem na uzavření veřejnoprávní smlouvy (dále jen „návrh smlouvy“), jestliže je dostatečně určitý a vyplývá z něj vůle toho, kdo návrh činí (dále jen „navrhovatel smlouvy“), být jím v případě jeho přijetí vázán.
+>
+> (2) Návrh smlouvy působí od doby, kdy dojde osobě, které je určen. Návrh smlouvy může navrhovatel smlouvy zrušit, dojde-li projev o zrušení osobě, které je určen, dříve nebo alespoň současně s návrhem smlouvy; to platí, i když je návrh smlouvy neodvolatelný.
+>
+> (3) Návrh smlouvy zaniká
+>
+> - a) uplynutím lhůty, která v něm byla pro přijetí určena, pokud v ní návrh smlouvy nebyl přijat,
+>
+> - b) pokud nebyla určena lhůta pro přijetí, uplynutím přiměřené doby s přihlédnutím k povaze navrhované veřejnoprávní smlouvy a k rychlosti prostředků, které navrhovatel smlouvy použil pro zaslání návrhu smlouvy, nebo
+>
+> - c) okamžikem, kdy projev o odmítnutí návrhu smlouvy dojde navrhovateli smlouvy.
+>
+> (4) Zájemci mohou být k předložení návrhu smlouvy nebo k přijetí návrhu smlouvy vyzváni způsobem uvedeným v § 146 odst. 2. Ustanovení části třetí o řízení formou výběru platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 146
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9073da0c16ca32946feb -->
+
 ## § 164 — Uzavření VPS
 
 <!-- AUTOCITACE:§164 -->
@@ -487,6 +749,58 @@ VPS musí mít písemnou formu s podpisy všech stran na téže listině. Vyžad
 - [ ] Byla VPS zveřejněna na úřední desce orgánu, který souhlas dal?
 
 **Typicky rozhodné důkazy / podklady:** listina VPS s podpisy, rozhodnutí o souhlasu a doklad o jeho právní moci, doklad o zveřejnění na úřední desce, případně doklad o překladu pro menšiny.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d5d7ee9b2a20100eba89 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 164
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Veřejnoprávní smlouva musí být uzavřena písemně a projevy vůle všech smluvních stran musí být na téže listině.
+>
+> (2) Jsou-li smluvní strany přítomny současně, je veřejnoprávní smlouva uzavřena okamžikem připojení podpisu poslední smluvní strany. Nejsou-li smluvní strany přítomny současně, je veřejnoprávní smlouva uzavřena okamžikem, kdy návrh veřejnoprávní smlouvy opatřený podpisy ostatních osob, jimž byl určen, dojde navrhovateli smlouvy.
+>
+> (3) Jestliže zákon stanoví, že k uzavření veřejnoprávní smlouvy je třeba souhlasu správního orgánu, je veřejnoprávní smlouva uzavřena dnem, kdy tento souhlas nabude právní moci. Správní orgán, který dal souhlas k uzavření veřejnoprávní smlouvy, zveřejní veřejnoprávní smlouvu na své úřední desce.
+>
+> (4) Vyžaduje-li správní orgán překlad veřejnoprávní smlouvy týkající se záležitosti národnostních menšin a vyhotovené v jazyce příslušníků národnostní menšiny, náklady na překlad uhradí při splnění podmínek § 16 odst. 4 správní orgán.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d5d7ee9b2a20100eba89 -->
 
 ## § 165 — PŘEZKUM souladu VPS s předpisy
 
@@ -582,6 +896,64 @@ Soulad VPS s předpisy se přezkoumává především z moci úřední, bez váz
 
 **Typicky rozhodné důkazy / podklady:** text VPS, doklad o (ne)udělení souhlasu nadřízeného orgánu, doklad o okamžiku dozvědění, přehled úkonů učiněných vůči třetím osobám.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f00eebf414a5ba3d4106 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 165
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Soulad veřejnoprávní smlouvy s právními předpisy lze přezkoumat z moci úřední. Strana veřejnoprávní smlouvy, která není správním orgánem, může dát podnět k provedení přezkumného řízení do 30 dnů ode dne, kdy se o důvodu zahájení přezkumného řízení dozvěděla.
+>
+> (2) Veřejnoprávní smlouvu, která byla uzavřena v rozporu s právními předpisy, správní orgán zruší.
+>
+> (3) Jestliže jsou v rozporu s právními předpisy jen některá ustanovení veřejnoprávní smlouvy, zruší se jen tato ustanovení, pokud z povahy veřejnoprávní smlouvy nebo z jejího obsahu anebo z okolností, za nichž byla uzavřena, nevyplývá, že je nelze oddělit od ostatních.
+>
+> (4) Zrušení veřejnoprávních smluv uzavřených podle [[#§ 160|§ 160]] nebo [[#§ 161|§ 161]] anebo zrušení jejich ustanovení se nedotýká úkonů učiněných vůči třetím osobám smluvní stranou při výkonu působnosti převzaté od jiné smluvní strany na základě této veřejnoprávní smlouvy. Po právní moci nebo předběžné vykonatelnosti rozhodnutí vydaného podle odstavce 2 nebo [[#§ 3|3]] přechází působnost v těchto věcech na správní orgány, které byly příslušné tyto úkony činit před uzavřením zrušené veřejnoprávní smlouvy, popřípadě na správní orgány, na něž příslušnost mezitím přešla v důsledku změny okolností rozhodných pro její určení. To platí obdobně i v případě zrušení souhlasu k uzavření veřejnoprávní smlouvy podle [[#§ 160|§ 160]].
+>
+> (5) U veřejnoprávních smluv uzavřených podle [[#§ 160|§ 160]] nebo [[#§ 161|§ 161]] je k přezkoumání souladu veřejnoprávní smlouvy s právními předpisy příslušný správní orgán oprávněný řešit spor z veřejnoprávní smlouvy (§ 169 odst. 1) a u veřejnoprávních smluv podle [[#§ 162|§ 162]] správní orgán nadřízený správnímu orgánu, jehož souhlasu je třeba k uzavření veřejnoprávní smlouvy.
+>
+> (6) Účastníky řízení podle odstavců 1 až 5 jsou smluvní strany a u veřejnoprávních smluv podle [[#§ 162|§ 162]] též správní orgán, jehož souhlasu je třeba k uzavření veřejnoprávní smlouvy.
+>
+> (7) Není-li v odstavcích 1 až 6 stanoveno jinak, platí pro přezkoumání souladu veřejnoprávní smlouvy s právními předpisy obdobně ustanovení o přezkumném řízení s tím, že správní orgán není vázán lhůtami uvedenými v § 96 odst. 1 a § 97 odst. 2; při určení účinků rozhodnutí se přiměřeně použije ustanovení [[#§ 99|§ 99]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 160, § 161, § 3, § 169, § 162, § 96, § 97, § 99
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f00eebf414a5ba3d4106 -->
+
 ## § 166 — Změna a výpověď VPS
 
 <!-- AUTOCITACE:§166 -->
@@ -645,6 +1017,54 @@ VPS se mění jen písemnou dohodou stran (se stejnými souhlasy jako při uzav�
 - [ ] Bylo provedeno zveřejnění změny obdobně podle § 164 odst. 3?
 
 **Typicky rozhodné důkazy / podklady:** text VPS (ujednání o výpovědi a lhůtě), písemná výpověď/dohoda, doklady o souhlasech a zveřejnění, podklady k případné změně poměrů.
+
+
+<!-- LEGAL-REVISION:BEGIN id=77fd06921458440bba22 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 166
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Změnit obsah veřejnoprávní smlouvy lze jen písemnou dohodou smluvních stran; bylo-li k uzavření smlouvy třeba souhlasu správního orgánu nebo třetí osoby, je tohoto souhlasu třeba i k uzavření této dohody; ustanovení § 164 odst. 3 platí obdobně.
+>
+> (2) Veřejnoprávní smlouvu lze vypovědět jen písemnou formou a jen tehdy, jestliže to bylo ve veřejnoprávní smlouvě smluvními stranami dohodnuto a jestliže byla dohodnuta výpovědní lhůta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 164
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77fd06921458440bba22 -->
 
 ## § 167 — Zrušení VPS (návrh smluvní strany)
 
@@ -724,6 +1144,66 @@ Smluvní strana může navrhnout zrušení VPS jen z taxativních důvodů § 16
 
 **Typicky rozhodné důkazy / podklady:** text VPS, písemný návrh na zrušení a souhlasy/nesouhlasy stran, podklady prokazující důvod (změna poměrů, rozpor s předpisy, nově najevo vyšlé skutečnosti), případný souhlas orgánu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0d3c212c82ddcb1e2d8 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 167
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Smluvní strana může podat písemný návrh na zrušení veřejnoprávní smlouvy
+>
+> - a) bylo-li to ve veřejnoprávní smlouvě dohodnuto,
+>
+> - b) změní-li se podstatně poměry, které byly rozhodující pro stanovení obsahu veřejnoprávní smlouvy, a plnění této smlouvy nelze na smluvní straně z tohoto důvodu spravedlivě požadovat,
+>
+> - c) jestliže se veřejnoprávní smlouva dostala do rozporu s právními předpisy,
+>
+> - d) z důvodu ochrany veřejného zájmu, nebo
+>
+> - e) jestliže vyšly najevo skutečnosti, které existovaly v době uzavírání veřejnoprávní smlouvy a nebyly smluvní straně bez jejího zavinění známy, pokud tato strana prokáže, že by s jejich znalostí veřejnoprávní smlouvu neuzavřela.
+>
+> (2) Podá-li smluvní strana ze zákonem stanovených důvodů návrh na zrušení veřejnoprávní smlouvy a ostatní strany s ním vysloví souhlas, veřejnoprávní smlouva zaniká dnem, kdy písemný souhlas poslední ze smluvních stran došel smluvní straně, která návrh podala. Pokud bylo k uzavření veřejnoprávní smlouvy třeba souhlasu správního orgánu, vyžaduje se jeho souhlas i ke zrušení veřejnoprávní smlouvy.
+>
+> (3) Pokud některá ze stran se zrušením veřejnoprávní smlouvy nesouhlasí, může o zrušení veřejnoprávní smlouvy na žádost smluvní strany, která podala návrh podle odstavce 1, rozhodnout správní orgán příslušný podle § 169 odst. 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 169
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0d3c212c82ddcb1e2d8 -->
+
 ## § 168 — Souhlas třetích osob
 
 <!-- AUTOCITACE:§168 -->
@@ -784,6 +1264,52 @@ Dotýká-li se VPS (mimo § 160) přímo práv třetí osoby, nabývá účinnos
 - [ ] Bylo zabráněno realizaci VPS před nabytím účinnosti?
 
 **Typicky rozhodné důkazy / podklady:** text VPS, identifikace dotčené třetí osoby a jejích práv, písemný souhlas (nebo jeho absence), podklady shromážděné při přípravě VPS, případné rozhodnutí vydané namísto VPS.
+
+
+<!-- LEGAL-REVISION:BEGIN id=8c40cd55ab4d87b13e2e generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 168
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> Veřejnoprávní smlouva, nejde-li o veřejnoprávní smlouvu podle [[#§ 160|§ 160]], která se přímo dotýká práv nebo povinností třetí osoby, nabývá účinnosti teprve v okamžiku, kdy s ní tato osoba vysloví písemný souhlas. Není-li tento souhlas získán, může správní orgán místo uzavření veřejnoprávní smlouvy vydat rozhodnutí ve správním řízení, v němž využije podkladů získaných při přípravě veřejnoprávní smlouvy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 160
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c40cd55ab4d87b13e2e -->
 
 ## § 169 — SPORY z VPS (kdo rozhoduje)
 
@@ -864,6 +1390,64 @@ Spory z VPS řeší podle jejího typu příslušný správní orgán (MV / kraj
 
 **Typicky rozhodné důkazy / podklady:** text VPS, vymezení nárokovaného plnění, identifikace typu VPS a postavení stran, případná předchozí komunikace stran o sporu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=edb466e74e77256b030d generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 169
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> (1) Spory z veřejnoprávní smlouvy rozhoduje
+>
+> - a) Ministerstvo vnitra, jde-li o veřejnoprávní smlouvu podle [[#§ 160|§ 160]] a je-li alespoň jednou ze smluvních stran kraj nebo jsou smluvními stranami obce s rozšířenou působností; Ministerstvo vnitra věc projedná s věcně příslušným ministerstvem nebo jiným věcně příslušným ústředním správním úřadem,
+>
+> - b) příslušný krajský úřad, jde-li o veřejnoprávní smlouvu podle [[#§ 160|§ 160]] a jsou-li smluvními stranami obce, které nejsou obcemi s rozšířenou působností, nepřevezme-li věc Ministerstvo vnitra,
+>
+> - c) správní orgán, který je společně nadřízený smluvním stranám, jde-li o jinou veřejnoprávní smlouvu podle [[#§ 160|§ 160]]; není-li takového správního orgánu, řeší spor v dohodě ústřední správní úřady nadřízené správním orgánům, které jsou nadřízeny smluvním stranám,
+>
+> - d) správní orgán nadřízený správnímu orgánu, který je stranou veřejnoprávní smlouvy, jde-li o veřejnoprávní smlouvu podle [[#§ 161|§ 161]], nebo
+>
+> - e) správní orgán, který k jejímu uzavření udělil souhlas, jde-li o veřejnoprávní smlouvu podle [[#§ 162|§ 162]].
+>
+> (2) Proti rozhodnutí vydanému podle odstavce 1 nelze podat odvolání ani rozklad.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 160, § 161, § 162
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edb466e74e77256b030d -->
+
 ## § 170 — Subsidiární právo
 
 <!-- AUTOCITACE:§170 -->
@@ -925,6 +1509,52 @@ Na VPS se použije Část I SŘ obdobně, Část II přiměřeně a OZ jen přim
 **Typicky rozhodné důkazy / podklady:** text VPS, vymezení uplatňovaného institutu, podklady k případnému důvodu zrušení podle § 167, podklady k přezkumu souladu podle § 165.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d9909ebb19ffb294a46d generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+### Revizní doplnění k § 170
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+#### Znění ustanovení
+
+> Při postupu podle této části se obdobně použijí ustanovení části první a přiměřeně ustanovení části druhé tohoto zákona; nevylučuje-li to povaha a účel veřejnoprávních smluv, použijí se přiměřeně ustanovení [[občanského zákoníku|občanského zákoníku]], s výjimkou ustanovení o neplatnosti právních jednání a relativní neúčinnosti, ustanovení o odstoupení od smlouvy a odstupném, ustanovení o změně v osobě dlužníka nebo věřitele, nejde-li o právní nástupnictví, ustanovení o postoupení smlouvy a o poukázce a ustanovení o započtení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9909ebb19ffb294a46d -->
 
 ## Synoptická tabulka — Část V
 

@@ -77,6 +77,52 @@ Před volbou opravného prostředku a soudní cesty je nutné kvalifikovat povah
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a115d4a3ff7eefc52683 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> Správní řízení je postup správního orgánu, jehož účelem je vydání rozhodnutí, jímž se v určité věci zakládají, mění nebo ruší práva anebo povinnosti jmenovitě určené osoby nebo jímž se v určité věci prohlašuje, že taková osoba práva nebo povinnosti má anebo nemá.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a115d4a3ff7eefc52683 -->
+
 ## Hlava II — Správní orgány
 
 ### Díl 1 — Příslušnost správních orgánů (§§ 10–13)
@@ -139,6 +185,52 @@ Věcná příslušnost se neodvozuje ze SŘ, nýbrž vždy z konkrétního zvlá
 **Typicky rozhodné důkazy / podklady:** text rozhodnutí, zmocňovací ustanovení zvláštního zákona, kompetenční úprava, organizační řád orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a6ff897ffcb68f3b2dfc generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 10 — Věcná příslušnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> Správní orgány jsou věcně příslušné jednat a rozhodovat ve věcech, které jim byly svěřeny zákonem nebo na základě zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6ff897ffcb68f3b2dfc -->
 
 ### § 11 — Místní příslušnost (5 kritérií)
 
@@ -237,6 +329,64 @@ Místní příslušnost se určuje kaskádově — první použitelné kritériu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3e4f331ee5e4e1cf1564 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 11 — Místní příslušnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Místní příslušnost správního orgánu je určena
+>
+> - a) v řízeních týkajících se činnosti účastníka řízení ([[#§ 27|§ 27]]) místem činnosti,
+>
+> - b) v řízeních týkajících se nemovitosti místem, kde se nemovitost nachází,
+>
+> - c) v ostatních řízeních týkajících se podnikatelské činnosti účastníka řízení, který je fyzickou osobou, místem podnikání,2)
+>
+> - d) v ostatních řízeních týkajících se fyzické osoby místem jejího trvalého pobytu,3) popřípadě místem pobytu na území České republiky podle druhu pobytu cizince4) (dále jen „místo trvalého pobytu“); nemá-li fyzická osoba místo trvalého pobytu na území České republiky, je místní příslušnost určena posledním známým místem jejího pobytu na území České republiky,
+>
+> - e) v ostatních řízeních týkajících se právnické osoby místem jejího sídla nebo místem sídla její organizační složky;5) u zahraniční právnické osoby je místní příslušnost správního orgánu určena sídlem její organizační složky zřízené v České republice; po zrušení organizační složky je místní příslušnost určena posledním sídlem této organizační složky na území České republiky.
+>
+> (2) Je-li místně příslušných více správních orgánů a nedohodnou-li se jinak, provede řízení ten z nich, u něhož jako prvního byla podána žádost nebo který z moci úřední učinil úkon jako první. V ostatních případech nebo nelze-li podmínky místní příslušnosti určit, určí místní příslušnost usnesením nejblíže společně nadřízený správní orgán. Není-li takového orgánu, určí místní příslušnost usnesením ústřední správní úřad,6) do jehož působnosti rozhodovaná věc náleží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e4f331ee5e4e1cf1564 -->
+
 ### § 12 — Postoupení pro nepříslušnost
 
 <!-- AUTOCITACE:§12 -->
@@ -305,6 +455,52 @@ Včasné podání u nepříslušného orgánu s postupní povinností zachováv�
 **Typicky rozhodné důkazy / podklady:** podací razítko/doklad o dni podání, postupní usnesení (poznámka ve spise), doklad o uvědomění podatele, doklad o dni doručení příslušnému orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2085bc781f643a225f99 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 12 — Postoupení pro nepříslušnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> Dojde-li podání ([[#§ 37|§ 37]]) správnímu orgánu, který není věcně nebo místně příslušný, bezodkladně je usnesením postoupí příslušnému správnímu orgánu a současně o tom uvědomí toho, kdo podání učinil (dále jen „podatel“). Má-li správní orgán, jemuž bylo podání postoupeno, za to, že není věcně nebo místně příslušný, může je usnesením postoupit dalšímu správnímu orgánu nebo vrátit jen se souhlasem svého nadřízeného správního orgánu. Usnesení vydaná podle tohoto ustanovení se pouze poznamenají do spisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2085bc781f643a225f99 -->
 
 ### § 13 — Dožádání
 
@@ -376,6 +572,62 @@ Dožádání řeší úkony, jež by orgán provedl jen s obtížemi či neúče
 **Typicky rozhodné důkazy / podklady:** usnesení o dožádání, protokol o provedeném úkonu (§ 18), doklady o neúčelnosti vlastního provedení, případné usnesení o odmítnutí se souhlasem nadřízeného.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=409eea6e791f20e9c92e generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Příslušný správní orgán může usnesením dožádat podřízený nebo nadřízený správní orgán anebo jiný věcně příslušný správní orgán (dále jen „dožádaný správní orgán“) o provedení úkonu, který by sám mohl provést jen s obtížemi nebo s neúčelnými náklady anebo který by nemohl provést vůbec. Toto usnesení se doručuje pouze dožádanému správnímu orgánu a nelze se proti němu odvolat.
+>
+> (2) Dožádaný správní orgán provede dožádaný úkon, jakož i úkony, které zajišťují účel dožádání.
+>
+> (3) Dožádaný správní orgán provede úkon bez zbytečného odkladu. Pokud nelze provést úkon bezodkladně, provede ho dožádaný správní orgán ve lhůtě 30 dnů ode dne doručení dožádání. V případě, že dožádaný správní orgán nemůže lhůtu dodržet, může jemu nadřízený správní orgán na jeho návrh lhůtu prodloužit o dobu nezbytně nutnou.
+>
+> (4) Pokud by dožádání bylo v rozporu s právními předpisy, dožádaný správní orgán usnesením, které se pouze poznamená do spisu, odmítne úkon provést a vyrozumí o tom dožadující správní orgán. Dožádaný správní orgán, který není ve vztahu podřízenosti k orgánu dožadujícímu, může odmítnout provedení úkonu též proto, že by jeho provedení vážně ohrozilo plnění jeho vlastních úkolů, nebo proto, že provedení dožádání by vyžadovalo vynaložení neúměrných nákladů. Provedení dožádání lze odmítnout jen s předchozím souhlasem nadřízeného správního orgánu.
+>
+> (5) Dožádaný správní orgán má oprávnění podle § 136 odst. 4.
+>
+> (6) Dožádání do ciziny upravují zvláštní právní předpisy.7)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 136
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=409eea6e791f20e9c92e -->
 
 ### Díl 2 — Vyloučení úřední osoby z projednávání a rozhodování věci (§ 14)
 
@@ -502,6 +754,66 @@ Rozhoduje objektivní poměr úřední osoby k věci, účastníkům či zástup
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=202bc670998a682b6b0c generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Každá osoba bezprostředně se podílející na výkonu pravomoci správního orgánu (dále jen „úřední osoba“), o níž lze důvodně předpokládat, že má s ohledem na svůj poměr k věci, k účastníkům řízení nebo jejich zástupcům takový zájem na výsledku řízení, pro nějž lze pochybovat o její nepodjatosti, je vyloučena ze všech úkonů v řízení, při jejichž provádění by mohla výsledek řízení ovlivnit.
+>
+> (2) Úřední osoba není vyloučena podle odstavce 1, pokud je pochybnost o její nepodjatosti vyvolána jejím služebním poměrem nebo pracovněprávním nebo jiným obdobným vztahem ke státu nebo k územnímu samosprávnému celku.
+>
+> (3) Účastník řízení může namítat podjatost úřední osoby, jakmile se o ní dozví. K námitce se nepřihlédne, pokud účastník řízení o důvodu vyloučení prokazatelně věděl, ale bez zbytečného odkladu námitku neuplatnil. O námitce rozhodne bezodkladně usnesením služebně nadřízený úřední osoby nebo ten, kdo má obdobné postavení (dále jen „představený“).
+>
+> (4) Úřední osoba, která se dozví o okolnostech nasvědčujících, že je vyloučena, je povinna o nich bezodkladně uvědomit svého představeného. Do doby, než představený posoudí, zda je úřední osoba vyloučena, a provede potřebné úkony, může tato osoba provádět jen takové úkony, které nesnesou odkladu.
+>
+> (5) Představený úřední osoby, která je vyloučena, za ni bezodkladně určí jinou úřední osobu, která není k vyloučenému ve vztahu podřízenosti. Usnesení o tom se pouze poznamená do spisu. Nelze-li určit nikoho jiného, bezodkladně o tom uvědomí nadřízený správní orgán a spolu s tím mu předá spis. Nadřízený správní orgán postupuje podle § 131 odst. 4.
+>
+> (6) Vyloučena je též ta úřední osoba, která se účastnila řízení v téže věci na jiném stupni. Důvodem vyloučení není účast na úkonech před zahájením řízení nebo na výkonu kontroly prováděné podle zvláštního zákona.
+>
+> (7) Ustanovení předchozích odstavců se nepoužijí pro vedoucí ústředních správních úřadů.
+>
+> (8) Ustanovení odstavců 1 až 5 se obdobně užijí pro znalce a tlumočníky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=202bc670998a682b6b0c -->
+
 ### Díl 3 — Vedení řízení a úkony správních orgánů (§§ 15–18)
 
 ### § 15 — Vedení řízení (úkony, oprávněné úřední osoby, mlčenlivost)
@@ -585,6 +897,58 @@ Porušení mlčenlivosti → **kárná odpovědnost** úředníka + případně 
 **Typicky rozhodné důkazy / podklady:** spis a jeho soupis, protokol o ústním jednání (§ 18), záznam o oprávněné úřední osobě, doklad o zproštění mlčenlivosti či souhlasu dotčené osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ecd9e231b6c9cb845fdb generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 15 — Vedení řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Jednotlivé úkony v řízení se činí písemně, pokud zákon nestanoví jinak nebo pokud to nevylučuje povaha věci. Jednotlivé sdělení v průběhu řízení lze vůči přítomnému účastníku řízení učinit ústně, pokud ten na písemné formě netrvá. Obsah úkonů prováděných jinou než písemnou formou se poznamená do spisu, nestanoví-li zákon jinak.
+>
+> (2) Úkony správního orgánu v řízení provádějí úřední osoby oprávněné k tomu podle vnitřních předpisů správního orgánu nebo pověřené vedoucím správního orgánu (dále jen „oprávněné úřední osoby“).
+>
+> (3) Oprávněné úřední osoby jsou povinny zachovávat mlčenlivost o skutečnostech, o kterých se dozvěděly v souvislosti s řízením a které v zájmu zajištění řádného výkonu veřejné správy nebo v zájmu jiných osob vyžadují, aby zůstaly utajeny, nestanoví-li zákon jinak. Této povinnosti jsou oprávněné úřední osoby zproštěny jen z důvodů stanovených zvláštním zákonem nebo vysloví-li souhlas osoba, jíž se předmětná skutečnost dotýká. Ustanovení zvláštních zákonů o zproštění povinnosti mlčenlivosti tím nejsou dotčena.
+>
+> (4) O tom, kdo je v dané věci oprávněnou úřední osobou, se provede záznam do spisu a správní orgán o tom účastníka řízení na požádání informuje. Oprávněná úřední osoba na požádání účastníka řízení sdělí své jméno, příjmení, služební nebo obdobné označení a ve kterém organizačním útvaru správního orgánu je zařazena.9)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ecd9e231b6c9cb845fdb -->
 
 ### § 16 — Jednací jazyk
 
@@ -677,6 +1041,62 @@ V řízení se jedná česky (slovenština bez překladu). Cizinci náleží tlu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c62996cbe4f9e77af7eb generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 16 — Jednací jazyk
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) V řízení se jedná a písemnosti se vyhotovují v českém jazyce. Účastníci řízení mohou jednat a písemnosti mohou být předkládány i v jazyce slovenském.
+>
+> (2) Písemnosti vyhotovené v cizím jazyce musí účastník řízení předložit v originálním znění a současně v úředně ověřeném překladu do jazyka českého, pokud správní orgán nesdělí účastníkovi řízení, že takový překlad nevyžaduje. Takové prohlášení může správní orgán učinit na své úřední desce i pro neurčitý počet řízení v budoucnu.
+>
+> (3) Každý, kdo prohlásí, že neovládá jazyk, jímž se vede jednání, má právo na tlumočníka10) zapsaného v seznamu tlumočníků, kterého si obstará na své náklady. V řízení o žádosti si žadatel, který není občanem České republiky, obstará tlumočníka na své náklady sám, nestanoví-li zákon jinak.11)
+>
+> (4) Občan České republiky příslušející k národnostní menšině, která tradičně a dlouhodobě žije na území České republiky,12) má před správním orgánem právo činit podání a jednat v jazyce své národnostní menšiny. Nemá-li správní orgán úřední osobu znalou jazyka národnostní menšiny, obstará si tento občan tlumočníka zapsaného v seznamu tlumočníků. Náklady tlumočení a náklady na pořízení překladu v tomto případě nese správní orgán.
+>
+> (5) Neslyšícím uživatelům českého znakového jazyka správní orgán ustanoví tlumočníka českého znakového jazyka podle zvláštního zákona13). Neslyšící osobě preferující český jazyk ustanoví prostředníka, který je schopen se s ní dorozumět pomocí komunikačních systémů vycházejících z českého jazyka dle její vlastní volby.
+>
+> Osobě hluchoslepé bude ustanoven prostředník, který je schopen se s ní dorozumět pomocí komunikačních systémů neslyšících a hluchoslepých osob dle její vlastní volby. Prostředník je ustanovován za stejných podmínek, za jakých je ustanovován tlumočník českého znakového jazyka13). O ustanovení tlumočníka nebo prostředníka vydává správní orgán usnesení, které se oznamuje pouze osobám, jichž se dotýká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c62996cbe4f9e77af7eb -->
+
 ### § 17 — Spis
 
 <!-- AUTOCITACE:§17 -->
@@ -748,6 +1168,58 @@ V každé věci se vede spis se spisovou značkou a soupisem všech součástí 
 **Typicky rozhodné důkazy / podklady:** spis a jeho soupis se spisovou značkou, doklad o oddělené evidenci utajovaných informací, podklady o jejich původu (Policie ČR, zpravodajské služby), záznam o použití oddělené části jako důkazu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d1924a48f3cbc644599d generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 17 — Spis
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) V každé věci se zakládá spis. Každý spis musí být označen spisovou značkou. Spis tvoří zejména podání, protokoly, záznamy, písemná vyhotovení rozhodnutí a další písemnosti, které se vztahují k dané věci. Přílohou, která je součástí spisu, jsou zejména důkazní prostředky, obrazové a zvukové záznamy a záznamy na elektronických médiích. Spis musí obsahovat soupis všech svých součástí, včetně příloh, s určením data, kdy byly do spisu vloženy.
+>
+> (2) Zasílají-li se dožádané spisy v poštovní zásilce, musí odesílající správní orgán zvolit takovou poštovní službu, která zahrnuje stvrzení podání a dodání poštovní zásilky.
+>
+> (3) Z důvodu ochrany utajovaných informací a z důvodu ochrany jiných informací, na něž se vztahuje zákonem uložená nebo uznaná povinnost mlčenlivosti, se v případech stanovených zákonem část písemností nebo záznamů uchovává odděleně mimo spis. Odděleně mimo spis se uchovávají písemnosti nebo záznamy obsahující utajované informace, které byly správnímu orgánu poskytnuty Policií České republiky nebo zpravodajskými službami. Na písemnosti nebo záznamy uchovávané odděleně mimo spis se ustanovení tohoto nebo jiného zákona o nahlížení do spisu nepoužijí.
+>
+> (4) Nevykonává-li příslušný správní orgán spisovou službu, předá spis po právní moci rozhodnutí správnímu orgánu, který pro něj spisovou službu vykonává.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d1924a48f3cbc644599d -->
 
 ### § 18 — Protokol
 
@@ -843,6 +1315,62 @@ O ústních úkonech se povinně sepisuje protokol s předepsaným obsahem; zvuk
 **Typicky rozhodné důkazy / podklady:** protokol o úkonu, případný zvukový/obrazový záznam, záznam o odepření podpisu a o námitkách, usnesení o opravě poznamenané do spisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=24a880351371f28da75a generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 18 — Protokol
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) O ústním jednání ([[#§ 49|§ 49]]) a o ústním podání, výslechu svědka, výslechu znalce, provedení důkazu listinou a ohledání, pokud jsou prováděny mimo ústní jednání, jakož i o jiných úkonech souvisejících s řízením v dané věci, při nichž dochází ke styku s účastníky řízení, se sepisuje protokol. Kromě protokolu lze též pořídit obrazový nebo zvukový záznam.
+>
+> (2) Protokol obsahuje zejména místo, čas a označení úkonů, které jsou předmětem zápisu, údaje umožňující identifikaci přítomných osob, vylíčení průběhu předmětných úkonů, označení správního orgánu a jméno, příjmení a funkci nebo služební číslo oprávněné úřední osoby, která úkony provedla. Údaji umožňujícími identifikaci fyzické osoby se rozumějí jméno, příjmení, datum narození a místo trvalého pobytu, popřípadě jiný údaj podle zvláštního zákona.
+>
+> (3) Protokol podepisuje oprávněná úřední osoba, popřípadě osoba, která byla pověřena sepsáním protokolu, a dále všechny osoby, které se jednání nebo provedení úkonu zúčastnily. Odepření podpisu, důvody odepření a námitky proti obsahu protokolu se v protokolu zaznamenají.
+>
+> (4) Jiné osoby, jichž se obsah protokolu přímo dotýká, mohou bezprostředně po seznámení s protokolem podat stížnost ([[#§ 175|§ 175]]) proti jeho obsahu.
+>
+> (5) Opravy zřejmých nesprávností, kterými jsou zejména chyby v psaní a počtech, v protokolu provádí oprávněná úřední osoba, která je stvrdí svým podpisem. Každá oprava musí být provedena tak, aby původní zápis zůstal čitelný. Může-li mít oprava právní význam, účastníci řízení se o ní vyrozumí.
+>
+> (6) V případě jiných oprav, než které jsou uvedeny v odstavci 5, se o provedení opravy rozhodne usnesením, které se pouze poznamená do spisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49, § 175
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=24a880351371f28da75a -->
 
 ## Synoptická tabulka — příslušnost a vedení řízení
 

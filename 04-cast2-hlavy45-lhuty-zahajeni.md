@@ -86,6 +86,54 @@ Lhůtu podle § 39 určuje orgán jen tam, kde ji nestanoví zákon; je orgánov
 
 **Typicky rozhodné důkazy / podklady:** usnesení o určení lhůty a jeho doručenka, žádost o prodloužení s datem podání, podklady k objektivní překážce splnění úkonu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=cb89b1809f65de80e0f2 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 39 — Určení lhůty k provedení úkonu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Správní orgán účastníkovi určí přiměřenou lhůtu k provedení úkonu, pokud ji nestanoví zákon a je-li toho zapotřebí. Určením lhůty nesmí být ohrožen účel řízení ani porušena rovnost účastníků. Usnesení o určení lhůty se oznamuje pouze tomu, komu je určena, popřípadě i tomu, jehož se jinak přímo dotýká.
+>
+> (2) Lhůtu určenou správním orgánem může na žádost účastníka správní orgán za podmínek stanovených v odstavci 1 usnesením přiměřeně prodloužit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb89b1809f65de80e0f2 -->
+
 ### § 40 — POČÍTÁNÍ ČASU
 
 <!-- AUTOCITACE:§40 -->
@@ -196,6 +244,62 @@ Počítání času stojí na čtyřech pravidlech: den události se nepočítá,
 - [ ] V pochybnostech uplatnit domněnku zachování (důkazní břemeno opaku nese orgán).
 
 **Typicky rozhodné důkazy / podklady:** doručenka rozhodnutí, podací lístek a otisk poštovního razítka, kalendář svátků, případně doklad o vážných důvodech pro podání u orgánu vyššího stupně.
+
+
+<!-- LEGAL-REVISION:BEGIN id=da025d4a90216979106f generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 40 — Počítání času
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Pokud je provedení určitého úkonu v řízení vázáno na lhůtu,
+>
+> - a) nezapočítává se do běhu lhůty den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin; v pochybnostech se za počátek lhůty považuje den následující po dni, o němž je jisto, že skutečnost rozhodující pro počátek běhu lhůty již nastala,
+>
+> - b) končí lhůty určené podle týdnů, měsíců nebo let uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty; není-li v měsíci takový den, končí lhůta posledním dnem měsíce,
+>
+> - c) připadne-li konec lhůty na sobotu, neděli nebo svátek,25) je posledním dnem lhůty nejbližší příští pracovní den; to neplatí, jde-li o lhůtu určenou podle hodin,
+>
+> - d) je lhůta zachována, je-li posledního dne lhůty učiněno podání u věcně a místně příslušného správního orgánu anebo je-li v tento den podána poštovní zásilka adresovaná tomuto správnímu orgánu, která obsahuje podání, držiteli poštovní licence nebo zvláštní poštovní licence anebo osobě, která má obdobné postavení v jiném státě; nemůže-li účastník z vážných důvodů učinit podání u věcně a místně příslušného správního orgánu, je lhůta zachována, jestliže je posledního dne lhůty učiněno podání u správního orgánu vyššího stupně; tento správní orgán podání bezodkladně postoupí věcně a místně příslušnému správnímu orgánu.
+>
+> (2) V pochybnostech se lhůta považuje za zachovanou, dokud se neprokáže opak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=da025d4a90216979106f -->
 
 ### § 41 — NAVRÁCENÍ V PŘEDEŠLÝ STAV (prominutí zmeškání úkonu)
 
@@ -320,6 +424,66 @@ Prominutí zmeškání úkonu (navrácení v předešlý stav) vyžaduje kumulat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c80a38473b08ca0ce272 generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 41 — Navrácení v předešlý stav
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Navrácením v předešlý stav se rozumí prominutí zmeškání úkonu, který je třeba provést nejpozději při ústním jednání nebo v určité lhůtě, nebo povolení zpětvzetí nebo změny obsahu podání, kterou by jinak nebylo možno učinit.
+>
+> (2) Požádat o prominutí zmeškání úkonu účastník může do 15 dnů ode dne, kdy pominula překážka, která podateli bránila úkon učinit. S požádáním je třeba spojit zmeškaný úkon, jinak se jím správní orgán nezabývá. Zmeškání úkonu nelze prominout, jestliže ode dne, kdy měl být úkon učiněn, uplynul jeden rok.
+>
+> (3) Správní orgán může požádání o prominutí zmeškání úkonu přiznat odkladný účinek, pokud podateli hrozí vážná újma a nevznikne-li přiznáním odkladného účinku újma způsobená dotčením práv nabytých v dobré víře nebo dotčením veřejného zájmu převyšující újmu hrozící podateli.
+>
+> (4) Správní orgán promine zmeškání úkonu, prokáže-li podatel, že překážkou byly závažné důvody, které nastaly bez jeho zavinění.
+>
+> (5) Správní orgán zmeškání úkonu nepromine, je-li zjevné, že by újma, která by byla způsobena dotčením práv nabytých v dobré víře nebo dotčením veřejného zájmu, převýšila újmu hrozící podateli.
+>
+> (6) O prominutí zmeškání úkonu rozhoduje usnesením správní orgán, který v době požádání o prominutí zmeškání úkonu vede řízení. V případě, že správní orgán promine zmeškaný úkon, doplní řízení ve smyslu úkonu, jehož zmeškání bylo prominuto.
+>
+> (7) Usnesení, kterým správní orgán zmeškání úkonu nepromine, se oznamuje pouze podateli.
+>
+> (8) Požádat o povolení změny obsahu podání účastník může pouze do vydání rozhodnutí ([[#§ 71|§ 71]]). Správní orgán může povolit zpětvzetí nebo změnu obsahu podání jen v případě, že podateli hrozí vážná újma; tím není dotčeno ustanovení § 45 odst. 4. Ustanovení odstavců 2 až 4, [[#§ 6|6]] a [[#§ 7|7]] platí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 45, § 6, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c80a38473b08ca0ce272 -->
+
 ## Hlava V — Postup před zahájením řízení
 
 ### § 42 — Přijímání podnětů k zahájení řízení
@@ -406,6 +570,52 @@ Orgán musí podnět přijmout, posoudit a — požádá-li o to podatel — do 
 - [ ] Při nesouhlasu volit stížnost (§ 175) nebo nový podnět, nikoli opravný prostředek.
 
 **Typicky rozhodné důkazy / podklady:** kopie podnětu se žádostí o sdělení, doklad o doručení orgánu a evidenci podnětu, případné sdělení orgánu a doklad o vlastní dotčenosti podatele.
+
+
+<!-- LEGAL-REVISION:BEGIN id=510682793040a057d77a generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 42 — Přijímání podnětů k zahájení řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> Správní orgán je povinen přijímat podněty, aby bylo zahájeno řízení z moci úřední. Pokud o to ten, kdo podal podnět, požádá, je správní orgán povinen sdělit mu ve lhůtě 30 dnů ode dne, kdy podnět obdržel, že řízení zahájil, nebo že neshledal důvody k zahájení řízení z moci úřední, popřípadě že podnět postoupil příslušnému správnímu orgánu. Sdělení správní orgán nezasílá, postupuje-li vůči tomu, kdo podal podnět, podle § 46 odst. 1 nebo § 47 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46, § 47
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=510682793040a057d77a -->
 
 ### § 43 — Odložení věci
 
@@ -498,6 +708,58 @@ Odložení věci podle § 43 nastupuje jen tam, kde řízení o žádosti vůbec
 **Typicky rozhodné důkazy / podklady:** samotné podání a jeho obálka/doručovací údaje, posouzení obsahu (žádost vs. stížnost/podnět/anonym), právní rozbor působnosti správních orgánů k dané věci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=87ee0d496f235de70cde generator=2026-07-17.4 source_sha256=b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc -->
+#### Revizní doplnění k § 43 — Odložení věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/500-2004 Zákon správní řád.md`; identifikátor verze: `SB-2004-00500_2025-07-01`; SHA-256: `b4fddf26f7e5a03381c90260d002ad84dc6f0ea3c7789d4fc6a607f6378974dc`.
+
+##### Znění ustanovení
+
+> (1) Řízení o žádosti ([[#§ 44|§ 44]]) není zahájeno a správní orgán věc usnesením odloží v případě, že
+>
+> - a) vůči němu byl učiněn úkon, který zjevně není žádostí, nebo z něj nelze zjistit, kdo jej učinil, nebo
+>
+> - b) bylo učiněno podání, k jehož vyřízení není věcně příslušný žádný správní orgán.
+>
+> (2) Usnesení o odložení věci se vždy oznamuje osobě, které se týká, je-li známa, a podateli.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 44
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87ee0d496f235de70cde -->
 
 ## Synoptická tabulka — lhůty a postup před zahájením
 
